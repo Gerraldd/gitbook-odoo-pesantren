@@ -5,10 +5,7 @@
 ## Pengenalan Sistem
 
 * [Gambaran Umum](pengenalan-sistem/gambaran-umum.md)
-
-***
-
-* [Tampilan Sistem (UI/UX)](tampilan-sistem-ui-ux.md)
+* [Tampilan Sistem (UI/UX)](pengenalan-sistem/tampilan-sistem-ui-ux.md)
 
 ## Setup & Konfigurasi
 
@@ -54,7 +51,9 @@
 ## Utility & Penanganan Khusus
 
 * [Import & Export Data](utility-and-penanganan-khusus/import-and-export-data.md)
-* [Reset Password](utility-and-penanganan-khusus/reset-password.md)
+* [Reset Password](utility-and-penanganan-khusus/reset-password/README.md)
+  * [Kirim Email Reset Password](utility-and-penanganan-khusus/reset-password/kirim-email-reset-password.md)
+  * [Reset Password Manual](utility-and-penanganan-khusus/reset-password/reset-password-manual.md)
 * [Pendaftaran Kartu Santri](utility-and-penanganan-khusus/pendaftaran-kartu-santri.md)
 * [Akun Santri](utility-and-penanganan-khusus/akun-santri/README.md)
   * [Pencairan Saldo](utility-and-penanganan-khusus/akun-santri/pencairan-saldo.md)

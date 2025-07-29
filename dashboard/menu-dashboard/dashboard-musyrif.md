@@ -6,7 +6,7 @@ icon: user-tie
 
 <figure><img src="../../.gitbook/assets/screencapture-localhost-8069-odoo-action-682-2025-07-14-11_22_41.png" alt=""><figcaption></figcaption></figure>
 
-**Halaman Dasbor Musyrif** merupakan tampilan utama yang pertama kali terlihat setelah musyrif berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai santri secara real-time. Pada bagian atas dasbor, terdapat sejumlah _card_ informasi utama yang memberikan gambaran singkat terkait kondisi dan aktivitas santri. Setiap _card_ dapat diklik untuk menampilkan informasi lebih detail. Berikut adalah jenis informasi yang ditampilkan pada masing-masing _card_ di dasbor:
+**Halaman Dashboard Musyrif** merupakan tampilan utama yang pertama kali terlihat setelah musyrif berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai santri secara real-time. Pada bagian atas dasbor, terdapat sejumlah _card_ informasi utama yang memberikan gambaran singkat terkait kondisi dan aktivitas santri. Setiap _card_ dapat diklik untuk menampilkan informasi lebih detail. Berikut adalah jenis informasi yang ditampilkan pada masing-masing _card_ di dasbor:
 
 | Card                  | Fungsi                                                                                                   | Informasi Detail                                                                                                                                             |
 | --------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

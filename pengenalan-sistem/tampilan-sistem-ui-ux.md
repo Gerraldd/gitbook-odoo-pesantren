@@ -65,11 +65,11 @@ Setelah calon santri berhasil menyelesaikan proses pengisian formulir, sistem ak
 
 Tampilan **dasbor** memberikan ringkasan visual mengenai kumpulan informasi dalam suatu periode waktu tertentu. Informasi ditampilkan secara informatif dan interaktif dengan menggunakan berbagai komponen seperti card, chart dengan berbagai tipe seperti pie, bar, dan line, dan ada tabel list data.&#x20;
 
-<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 Dalam dasbor terdapat fitur umum yang punya fungsi masing-masing, yaitu:
 
-<table><thead><tr><th>Fitur/Tombol</th><th valign="middle">Fungsi</th></tr></thead><tbody><tr><td><div><figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div></td><td valign="middle">Filter data dengan periode yang bisa dikustomisasi sendiri</td></tr><tr><td><div><figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure></div></td><td valign="middle">Filter data dengan periode yang bisa dipilih melalui berbagai pilihan waktu</td></tr><tr><td><div><figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure></div></td><td valign="middle">Merefresh data di dasbor secara otomatis setiap 10 detik</td></tr><tr><td><div><figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure></div></td><td valign="middle">Menampilkan grafik secara full screen</td></tr></tbody></table>
+<table><thead><tr><th>Fitur/Tombol</th><th valign="middle">Fungsi</th></tr></thead><tbody><tr><td><div><figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure></div></td><td valign="middle">Filter data dengan periode yang bisa dikustomisasi sendiri</td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure></div></td><td valign="middle">Filter data dengan periode yang bisa dipilih melalui berbagai pilihan waktu</td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure></div></td><td valign="middle">Merefresh data di dasbor secara otomatis setiap 10 detik</td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure></div></td><td valign="middle">Menampilkan grafik secara full screen</td></tr></tbody></table>
 
 ### 2. Tampilan Modul
 
@@ -79,17 +79,17 @@ Modul pada Aplikasi Odoo Pesantren memiliki berbagai jenis tampilan yaitu:
 
 Tampilan **kanban** adalah tampilan visual berbasis kartu yang digunakan untuk mengelola dan mengorganisir data secara ringkas dan intuitif, biasanya disusun dalam kolom atau baris untuk memudahkan pemantauan status atau kategori data.
 
-<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. List&#x20;
 
 Tampilan **list** adalah tampilan yang berisi suatu daftar data yang sudah dibuat pada modul tertentu.
 
-<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 #### 3. Form
 
 Tampilan **form** biasanya digunakan untuk menampilkan detail dari satu record (entri data) secara lengkap dan terstruktur.
 
-<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 

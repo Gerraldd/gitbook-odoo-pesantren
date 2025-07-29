@@ -6,7 +6,7 @@ icon: screen-users
 
 <figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
-Halaman **Dasbor Kesantrian** merupakan tampilan utama yang muncul setelah pengguna (dalam hal ini admin atau divisi kesantrian) berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting terkait santri dan kegiatan kesantrian secara real-time.
+Halaman **Dashboard Kesantrian** merupakan tampilan utama yang muncul setelah pengguna (dalam hal ini admin atau divisi kesantrian) berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting terkait santri dan kegiatan kesantrian secara real-time.
 
 Pada bagian atas dasbor, terdapat sejumlah **card informasi utama** yang memberikan gambaran singkat mengenai kondisi pengguna dan pengelola di pesantren. Setiap card menyajikan data statistik berdasarkan periode yang ditentukan.
 

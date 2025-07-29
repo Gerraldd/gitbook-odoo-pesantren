@@ -6,7 +6,7 @@ icon: people-pants
 
 <figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
-Halaman **Dasbor Santri** merupakan tampilan utama yang pertama kali terlihat setelah admin atau pihak terkait berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai saldo dan transaksi santri secara real-time. Berikut adalah penjelasan detail mengenai komponen-komponen yang ada pada dasbor:
+Halaman **Dashboard Santri** merupakan tampilan utama yang pertama kali terlihat setelah admin atau pihak terkait berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai saldo dan transaksi santri secara real-time. Berikut adalah penjelasan detail mengenai komponen-komponen yang ada pada dasbor:
 
 Pada bagian atas dasbor, terdapat sejumlah card informasi utama yang memberikan gambaran singkat terkait saldo dan aktivitas transaksi santri. Setiap card dapat diklik untuk menampilkan informasi lebih detail.
 
