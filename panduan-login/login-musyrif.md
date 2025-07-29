@@ -8,7 +8,7 @@ Video \[]
 
 ## Login Musyrif
 
-Berikut adalah langkah-langkah untuk login menggunakan akun musyrif yang telah terdaftar pada Aplikasi Odoo Pesantren :
+Berikut adalah langkah-langkah untuk login menggunakan akun musyrif yang telah terdaftar pada Aplikasi Odoo Pesantren:&#x20;
 
 1. Buka browser Anda, lalu akses situs [aplikasi.dqi.ac.id](https://aplikasi.dqi.ac.id/).
 2. Pada halaman login, Anda bisa masukkan **email** Anda pada kolom yang tersedia.

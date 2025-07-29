@@ -1,0 +1,33 @@
+---
+icon: address-card
+---
+
+# Pengaturan PSB
+
+Video \[]
+
+## Pengaturan Pendaftaran Santri Baru
+
+Berikut adalah langkah-langkah cara mengkonfigurasi beberapa pengaturan pendaftaran santri baru.
+
+1.  **Buka Modul PSB**, lalu klik menu **Pengaturan** dan pilih submenu **Pengaturan PSB**.
+
+    <figure><img src="../../.gitbook/assets/images-24.png" alt=""><figcaption></figcaption></figure>
+
+
+2.  Pada halaman konfigurasi, lakukan pengisian atau perubahan inputan berikut sesuai kebutuhan:
+
+    * **Tanggal Mulai Seleksi** → tentukan kapan seleksi pendaftaran dimulai.
+    * **Tanggal Akhir Seleksi** → tentukan kapan seleksi pendaftaran berakhir.
+    * **Tanggal Pengumuman Hasil Seleksi** → isi jadwal resmi pengumuman hasil seleksi santri.
+    * **Tampilkan Halaman Pendaftaran** → aktifkan agar halaman pendaftaran online dapat diakses calon santri.
+    * **Tampilkan Halaman Pengumuman** → aktifkan agar halaman pengumuman hasil seleksi ditampilkan secara publik.
+    * **Bank yang Digunakan** → pilih salah satu bank resmi (BSI, BRI, BNI, BCA, Mandiri, atau CIMB Niaga).
+    * **Rekening Pembayaran** → isi nomor rekening pembayaran resmi yang digunakan pesantren.
+
+    <figure><img src="../../.gitbook/assets/images-25.png" alt=""><figcaption></figcaption></figure>
+
+
+3.  Setelah semua inputan disesuaikan, klik tombol **Simpan** untuk menyimpan perubahan pada konfigurasi yang telah diatur.
+
+    <figure><img src="../../.gitbook/assets/images-26.png" alt=""><figcaption></figcaption></figure>

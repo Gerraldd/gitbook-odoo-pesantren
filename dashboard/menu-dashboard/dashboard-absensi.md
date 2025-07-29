@@ -4,7 +4,7 @@ icon: calendar-circle-user
 
 # Dashboard Absensi
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard Absensi** merupakan tampilan utama yang pertama kali terlihat setelah admin atau pengelola HRD berhasil login ke sistem Odoo Pesantren. Dashboard ini menyajikan informasi penting terkait status kehadiran, lembur, dan persetujuan jam kerja karyawan secara real-time. Berikut rincian informasi yang ditampilkan:
 

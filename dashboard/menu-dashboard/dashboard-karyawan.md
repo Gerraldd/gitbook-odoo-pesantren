@@ -4,7 +4,7 @@ icon: user-helmet-safety
 
 # Dashboard Karyawan
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard Karyawan** merupakan tampilan utama yang pertama kali terlihat setelah admin atau pengelola berhasil login ke sistem Odoo Pesantren. Di halaman ini, disajikan ringkasan informasi penting terkait data karyawan, departemen, dan jabatan kerja secara real-time. Berikut adalah rincian informasi yang ditampilkan pada dashboard:
 

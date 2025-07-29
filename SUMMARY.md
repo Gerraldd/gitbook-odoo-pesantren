@@ -9,7 +9,35 @@
 
 ## Setup & Konfigurasi
 
-* [Untitled](setup-and-konfigurasi/untitled.md)
+* [Alur Setup Sistem](setup-and-konfigurasi/alur-setup-sistem/README.md)
+  * [Login Admin](setup-and-konfigurasi/alur-setup-sistem/login-admin.md)
+  * [Struktur Organisasi](setup-and-konfigurasi/alur-setup-sistem/struktur-organisasi.md)
+  * [Tahun Ajaran](setup-and-konfigurasi/alur-setup-sistem/tahun-ajaran.md)
+  * [Jenjang Pendidikan](setup-and-konfigurasi/alur-setup-sistem/jenjang-pendidikan.md)
+  * [Pengaturan PSB](setup-and-konfigurasi/alur-setup-sistem/pengaturan-psb.md)
+  * [Jurusan & Kelas](setup-and-konfigurasi/alur-setup-sistem/jurusan-and-kelas.md)
+  * [Asrama Kamar](setup-and-konfigurasi/alur-setup-sistem/asrama-kamar.md)
+  * [Akuntansi](setup-and-konfigurasi/alur-setup-sistem/akuntansi/README.md)
+    * [Bagan Akun](setup-and-konfigurasi/alur-setup-sistem/akuntansi/bagan-akun.md)
+    * [Jurnal Akuntansi](setup-and-konfigurasi/alur-setup-sistem/akuntansi/jurnal-akuntansi.md)
+  * [Metode Pembayaran POS](setup-and-konfigurasi/alur-setup-sistem/metode-pembayaran-pos.md)
+  * [SMTP Gmail](setup-and-konfigurasi/alur-setup-sistem/smtp-gmail.md)
+* [Role & Hak Akses Pengguna](setup-and-konfigurasi/role-and-hak-akses-pengguna/README.md)
+  * [Administrator](setup-and-konfigurasi/role-and-hak-akses-pengguna/administrator/README.md)
+    * [Panduan Role](setup-and-konfigurasi/role-and-hak-akses-pengguna/administrator/panduan-role.md)
+    * [Hak Akses](setup-and-konfigurasi/role-and-hak-akses-pengguna/administrator/hak-akses.md)
+  * [Guru](setup-and-konfigurasi/role-and-hak-akses-pengguna/guru/README.md)
+    * [Panduan Role](setup-and-konfigurasi/role-and-hak-akses-pengguna/guru/panduan-role.md)
+    * [Hak Akses](setup-and-konfigurasi/role-and-hak-akses-pengguna/guru/hak-akses.md)
+  * [Musyrif](setup-and-konfigurasi/role-and-hak-akses-pengguna/musyrif/README.md)
+    * [Panduan Role](setup-and-konfigurasi/role-and-hak-akses-pengguna/musyrif/panduan-role.md)
+    * [Hak Akses](setup-and-konfigurasi/role-and-hak-akses-pengguna/musyrif/hak-akses.md)
+  * [Petugas Keamanan](setup-and-konfigurasi/role-and-hak-akses-pengguna/petugas-keamanan/README.md)
+    * [Panduan Role](setup-and-konfigurasi/role-and-hak-akses-pengguna/petugas-keamanan/panduan-role.md)
+    * [Hak Akses](setup-and-konfigurasi/role-and-hak-akses-pengguna/petugas-keamanan/hak-akses.md)
+  * [Orang Tua](setup-and-konfigurasi/role-and-hak-akses-pengguna/orang-tua/README.md)
+    * [Panduan Role](setup-and-konfigurasi/role-and-hak-akses-pengguna/orang-tua/panduan-role.md)
+    * [Hak Akses](setup-and-konfigurasi/role-and-hak-akses-pengguna/orang-tua/hak-akses.md)
 
 ## Master Data
 
@@ -64,7 +92,6 @@
 
 ## Panduan Login
 
-* [Login Admin](panduan-login/login-admin.md)
 * [Login Musyrif](panduan-login/login-musyrif.md)
 * [Login Petugas Keamanan](panduan-login/login-petugas-keamanan.md)
 * [Login Guru](panduan-login/login-guru.md)
