@@ -2,9 +2,9 @@
 icon: family-pants
 ---
 
-# Dasbor Orang Tua
+# Dashboard Orang Tua
 
-<figure><img src="../.gitbook/assets/screencapture-localhost-8069-odoo-action-683-2025-07-14-08_23_14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screencapture-localhost-8069-odoo-action-683-2025-07-14-08_23_14.png" alt=""><figcaption></figcaption></figure>
 
 **Halaman Dasbor Orang Tua** merupakan tampilan utama yang pertama kali terlihat setelah orang tua berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai anak (santri) secara real-time. Pada bagian atas dasbor, terdapat sejumlah _card_ informasi utama yang memberikan gambaran singkat terkait kondisi dan aktivitas santri. Setiap _card_ dapat diklik untuk menampilkan informasi lebih detail. Berikut adalah jenis informasi yang ditampilkan pada masing-masing _card_ di dasbor:
 
