@@ -25,7 +25,6 @@
   * [Point of Sale](setup-and-konfigurasi/alur-setup-sistem/point-of-sale/README.md)
     * [Sesi Point of Sale](setup-and-konfigurasi/alur-setup-sistem/point-of-sale/sesi-point-of-sale.md)
     * [Metode Pembayaran POS](setup-and-konfigurasi/alur-setup-sistem/point-of-sale/metode-pembayaran-pos.md)
-  * [SMTP Gmail](setup-and-konfigurasi/alur-setup-sistem/smtp-gmail.md)
 * [Role & Hak Akses Pengguna](setup-and-konfigurasi/role-and-hak-akses-pengguna/README.md)
   * [Administrator](setup-and-konfigurasi/role-and-hak-akses-pengguna/administrator.md)
   * [Guru](setup-and-konfigurasi/role-and-hak-akses-pengguna/guru.md)
@@ -35,11 +34,22 @@
 
 ## Master Data
 
-* [Page 1](master-data/page-1.md)
+* [Data Musyrif](master-data/data-musyrif.md)
+* [Data Petugas Keamanan](master-data/data-petugas-keamanan.md)
+* [Data Guru & Guru Al-Qur'an](master-data/data-guru-and-guru-al-quran.md)
+* [Data Santri](master-data/data-santri.md)
+* [Data Orang Tua](master-data/data-orang-tua.md)
 
 ## Transaksi
 
-* [Page 2](transaksi/page-2.md)
+* [Modul Kesantrian](transaksi/modul-kesantrian/README.md)
+  * [Pendaftaran Kartu Santri](transaksi/modul-kesantrian/pendaftaran-kartu-santri.md)
+  * [Akun Santri](transaksi/modul-kesantrian/akun-santri/README.md)
+    * [Pencairan Saldo](transaksi/modul-kesantrian/akun-santri/pencairan-saldo.md)
+    * [Penonaktifan Akun](transaksi/modul-kesantrian/akun-santri/penonaktifan-akun.md)
+    * [Pemblokiran Akun](transaksi/modul-kesantrian/akun-santri/pemblokiran-akun.md)
+    * [Pengaktifan Akun](transaksi/modul-kesantrian/akun-santri/pengaktifan-akun.md)
+    * [Pembukaan Akun](transaksi/modul-kesantrian/akun-santri/pembukaan-akun.md)
 
 ## Data & Riwayat
 
@@ -76,13 +86,7 @@
 * [Reset Password](utility-and-penanganan-khusus/reset-password/README.md)
   * [Kirim Email Reset Password](utility-and-penanganan-khusus/reset-password/kirim-email-reset-password.md)
   * [Reset Password Manual](utility-and-penanganan-khusus/reset-password/reset-password-manual.md)
-* [Pendaftaran Kartu Santri](utility-and-penanganan-khusus/pendaftaran-kartu-santri.md)
-* [Akun Santri](utility-and-penanganan-khusus/akun-santri/README.md)
-  * [Pencairan Saldo](utility-and-penanganan-khusus/akun-santri/pencairan-saldo.md)
-  * [Penonaktifan Akun](utility-and-penanganan-khusus/akun-santri/penonaktifan-akun.md)
-  * [Pemblokiran Akun](utility-and-penanganan-khusus/akun-santri/pemblokiran-akun.md)
-  * [Pengaktifan Akun](utility-and-penanganan-khusus/akun-santri/pengaktifan-akun.md)
-  * [Pembukaan Akun](utility-and-penanganan-khusus/akun-santri/pembukaan-akun.md)
+* [SMTP Gmail](utility-and-penanganan-khusus/smtp-gmail.md)
 
 ## Panduan Login
 
