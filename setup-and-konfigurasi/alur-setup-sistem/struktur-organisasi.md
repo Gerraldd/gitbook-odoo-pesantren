@@ -1,2 +1,6 @@
+---
+icon: sitemap
+---
+
 # Struktur Organisasi
 

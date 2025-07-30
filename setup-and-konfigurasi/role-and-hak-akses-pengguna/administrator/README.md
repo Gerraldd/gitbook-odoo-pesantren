@@ -1,6 +1,0 @@
----
-icon: user-crown
----
-
-# Administrator
-

@@ -1,2 +1,0 @@
-# Metode Pembayaran POS
-

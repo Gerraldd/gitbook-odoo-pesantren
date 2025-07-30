@@ -12,7 +12,7 @@ Berikut adalah langkah-langkah cara melakukan reset password via kirim email dar
 
 1.  Pastikan kamu login dengan akun yang memiliki hak akses sebagai admin.
 
-    <figure><img src="../../.gitbook/assets/Screenshot 2025-07-29 153841.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/administrator.png" alt=""><figcaption></figcaption></figure>
 2.  Buka Menu: Pengaturan > User & Perusahaan > Pengguna.
 
     <figure><img src="../../.gitbook/assets/images-11.jpg" alt=""><figcaption></figcaption></figure>
