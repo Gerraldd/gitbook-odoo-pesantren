@@ -50,9 +50,14 @@ Berikut adalah langkah-langkah untuk menambahkan data produk pada Odoo Pesantren
     <figure><img src="../../.gitbook/assets/images-216.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Setelah semua field diisi dengan benar, klik icon Simpan di sebelah kanan icon Gear agar data produk tersimpan.
+5.  Pindah ke **Tab Pembelian**, kemudian tambahkan **Pemasok** yang akan menyediakan produk tersebut.
 
-    <figure><img src="../../.gitbook/assets/images-217.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-267 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-6. Data Produk berhasil disimpan dan dapat digunakan pada transaksi POS, pembelian, maupun laporan stok.
+6.  Setelah semua field diisi dengan benar, klik icon Simpan di sebelah kanan icon Gear agar data produk tersimpan.
+
+    <figure><img src="../../.gitbook/assets/images-268.png" alt=""><figcaption></figcaption></figure>
+
+
+7. Data Produk berhasil disimpan dan dapat digunakan pada transaksi POS, pembelian, maupun laporan stok.

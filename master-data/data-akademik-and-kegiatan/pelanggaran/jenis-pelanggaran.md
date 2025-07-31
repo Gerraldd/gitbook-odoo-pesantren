@@ -26,15 +26,15 @@ Berikut adalah langkah-langkah untuk menambahkan jenis pelanggaran.
 
 3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * Jenis pelanggaran (isi dengan jenis pelanggaran yang akan di tambahkan)
+    * **Jenis pelanggaran** (isi dengan jenis pelanggaran yang akan di tambahkan)
     * Aktifkan checkbox "Aktif" jika jenis pelanggaran tersebut masih berlaku di pesantren.
-    * Keterangan (opsional, bisa isi dengan informasi tambahan/detail dari jenis pelanggaran tersebut").
-    * Tab data pelanggaran di bagian bawah tidak perlu diisi. Karena akan terisi otomatis apabila ada data pelanggaran yang termasuk kedalam jenis pelanggaran tersebut.
+    * **Keterangan** (opsional, bisa isi dengan informasi tambahan/detail dari jenis pelanggaran tersebut").
+    * **Tab Data Pelanggaran** di bagian bawah tidak perlu diisi. Karena akan terisi otomatis apabila ada data pelanggaran yang termasuk kedalam jenis pelanggaran tersebut.
 
     <figure><img src="../../../.gitbook/assets/images-171.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan diisi dengan benar, klik icon Simpan di sebelah kanan icon Gear agar data jenis pelanggaran tersimpan di sistem.
+4.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data jenis pelanggaran tersimpan di sistem.
 
     <figure><img src="../../../.gitbook/assets/images-172.png" alt=""><figcaption></figcaption></figure>
 

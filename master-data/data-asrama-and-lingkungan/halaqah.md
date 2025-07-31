@@ -29,7 +29,7 @@ Berikut adalah langkah-langkah untuk menambahkan halaqah pada Odoo Pesantren.
     * **Nama Halaqah** (isi dengan nama atau kode kelompok halaqah, seperti Halaqah A1).
     * **Penanggung Jawab** (isi dengan ustadz/musyrif yang menjadi penanggung jawab halaqah)
     * **Tahun Ajaran** (isi dengan tahun ajaran halaqah ini aktif)
-    * Jumlah siswa akan terisi otomatis berdasarkan santri yang masuk halaqah ini.
+    * **Jumlah Siswa** akan terisi otomatis berdasarkan santri yang masuk halaqah ini.
     * **Keterangan** (opsional, bisa diisi dengan informasi tambahan)
     * **Tab Santri** (isi dengan data santri yang sudah tersimpan).
 

@@ -37,7 +37,7 @@ Pertama-tama, buat departemen yang akan menjadi unit organisasi utama. Berikut l
     <figure><img src="../../.gitbook/assets/images-91.PNG" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan selesai diisi, klik icon **Simpan** di sebelah kanan icon Gear agar departemen tersimpan di sistem.
+4.  Setelah semua inputan selesai diisi, klik icon **Simpan** di sebelah kanan icon **Gear** agar departemen tersimpan di sistem.
 
     <figure><img src="../../.gitbook/assets/images-92.png" alt=""><figcaption></figcaption></figure>
 
