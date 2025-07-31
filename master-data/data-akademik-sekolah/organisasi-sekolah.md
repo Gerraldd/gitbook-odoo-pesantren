@@ -1,2 +1,0 @@
-# Organisasi Sekolah
-

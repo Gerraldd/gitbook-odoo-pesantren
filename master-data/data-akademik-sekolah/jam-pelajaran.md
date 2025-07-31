@@ -1,2 +1,6 @@
+---
+icon: clock
+---
+
 # Jam Pelajaran
 

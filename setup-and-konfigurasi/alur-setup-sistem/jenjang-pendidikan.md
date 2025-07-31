@@ -26,7 +26,7 @@ Berikut adalah langkah-langkah cara membuat jenjang pendidikan baru.
     * **Jenjang** → kategori singkat, misalnya SD/MI, SMP/MTs, SMA/MA.
     * **Biaya Pendidikan** → total biaya yang berlaku untuk jenjang tersebut.
     * **Keterangan (Opsional)** → catatan tambahan jika diperlukan.
-    * **Tab Rincian Biaya** → menampilkan tabel dengan kolom: Nama Biaya, Gambar Biaya, Alumni DQI, dan Pindahan SD.
+    * **Tab Rincian Biaya** → untuk menambahkan biaya rincian per jenjang pendidikan.
 
     <figure><img src="../../.gitbook/assets/images-22.png" alt=""><figcaption></figcaption></figure>
 

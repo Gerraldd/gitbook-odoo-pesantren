@@ -63,7 +63,7 @@
   * [Kategori Produk](master-data/data-keuangan-and-produk/kategori-produk.md)
   * [Kategori Produk POS](master-data/data-keuangan-and-produk/kategori-produk-pos.md)
   * [Data Produk](master-data/data-keuangan-and-produk/data-produk.md)
-  * [Komponen & Biaya Pendidikan](master-data/data-keuangan-and-produk/komponen-and-biaya-pendidikan.md)
+  * [Komponen Biaya](master-data/data-keuangan-and-produk/komponen-biaya.md)
   * [Data Pemasok](master-data/data-keuangan-and-produk/data-pemasok.md)
 * [Data Referensi Umum](master-data/data-referensi-umum/README.md)
   * [Keterangan Izin](master-data/data-referensi-umum/keterangan-izin.md)
@@ -74,7 +74,7 @@
   * [Pekerjaan](master-data/data-referensi-umum/pekerjaan.md)
 * [Data Akademik Sekolah](master-data/data-akademik-sekolah/README.md)
   * [Ruang Kelas](master-data/data-akademik-sekolah/ruang-kelas.md)
-  * [Organisasi Sekolah](master-data/data-akademik-sekolah/organisasi-sekolah.md)
+  * [Organisasi Siswa](master-data/data-akademik-sekolah/organisasi-siswa.md)
   * [Jurusan](master-data/data-akademik-sekolah/jurusan.md)
   * [Mata Pelajaran](master-data/data-akademik-sekolah/mata-pelajaran.md)
   * [Jam Pelajaran](master-data/data-akademik-sekolah/jam-pelajaran.md)
@@ -131,13 +131,6 @@
   * [Reset Password Manual](utility-and-penanganan-khusus/reset-password/reset-password-manual.md)
 * [SMTP Gmail](utility-and-penanganan-khusus/smtp-gmail.md)
 
-## Panduan Login
-
-* [Login Musyrif](panduan-login/login-musyrif.md)
-* [Login Petugas Keamanan](panduan-login/login-petugas-keamanan.md)
-* [Login Guru](panduan-login/login-guru.md)
-* [Login Orang Tua](panduan-login/login-orang-tua.md)
-
 ## Backup
 
 * [Santri](backup/santri/README.md)
@@ -165,3 +158,7 @@
     * [Kepesantrenan](backup/guru/penggunaan-modul-guru/kepesantrenan.md)
     * [Aktivitas](backup/guru/penggunaan-modul-guru/aktivitas.md)
     * [Pengaturan](backup/guru/penggunaan-modul-guru/pengaturan.md)
+* [Login Musyrif](backup/login-musyrif.md)
+* [Login Petugas Keamanan](backup/login-petugas-keamanan.md)
+* [Login Guru](backup/login-guru.md)
+* [Login Orang Tua](backup/login-orang-tua.md)

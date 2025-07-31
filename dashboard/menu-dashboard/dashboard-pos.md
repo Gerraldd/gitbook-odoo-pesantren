@@ -4,7 +4,7 @@ icon: cash-register
 
 # Dashboard POS
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard POS** merupakan tampilan utama yang pertama kali terlihat setelah administrator berhasil login ke sistem Odoo Pesantren. Di halaman ini, disajikan ringkasan informasi penting terkait penjualan dan aktivitas transaksi secara real-time. Berikut adalah rincian informasi yang ditampilkan pada dashboard:
 

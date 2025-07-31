@@ -1,2 +1,6 @@
+---
+icon: books
+---
+
 # Mata Pelajaran
 

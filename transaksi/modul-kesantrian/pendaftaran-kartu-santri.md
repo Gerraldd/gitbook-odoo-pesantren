@@ -12,12 +12,12 @@ Fitur **Pendaftaran Kartu Santri** pada aplikasi Odoo Pesantren digunakan untuk 
 
 1.  Buka modul "Santri" dan buka menu "Pendaftaran Kartu".
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 2.  Masukkan nama santri pada bagian "Santri". Jika akan dilakukan pembuatan kartu, maka field "Kartu Santri Lama" tidak akan terisi.
 
-    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  Isi kolom “Kartu Santri Baru” meliputi nomor kartu, PIN dan konfirmasi PIN.
