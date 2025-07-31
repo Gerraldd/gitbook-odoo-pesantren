@@ -2,7 +2,7 @@
 icon: user-tie-hair
 ---
 
-# Data Musyrif
+# Musyrif
 
 Video \[]
 
@@ -16,12 +16,12 @@ Berikut adalah langkah-langkah untuk menambahkan musyrif pada Odoo Pesantren.
 
 1.  Buka **modul Kesantrian**, lalu klik menu **Kesantrian** dan pilih submenu **Musyrif**.
 
-    <figure><img src="../.gitbook/assets/images-103.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-103.png" alt=""><figcaption></figcaption></figure>
 
 
 2.  Klik tombol **“Baru”** untuk membuat data musyrif baru.
 
-    <figure><img src="../.gitbook/assets/images-104.PNG" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-104.PNG" alt=""><figcaption></figcaption></figure>
 
 
 3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
@@ -34,14 +34,14 @@ Berikut adalah langkah-langkah untuk menambahkan musyrif pada Odoo Pesantren.
     * **Departemen, Jabatan Kerja, dan Manajer**
     * **Tanggal Lahir**
 
-    <figure><img src="../.gitbook/assets/images-106.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-106.png" alt=""><figcaption></figcaption></figure>
 
 
 4.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data musyrif tersimpan di sistem.
 
-    <figure><img src="../.gitbook/assets/images-107.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-107.png" alt=""><figcaption></figcaption></figure>
 
 
 5.  Data musyrif berhasil disimpan dan dapat digunakan untuk mengelola santri, absensi, mutaba’ah, serta aktivitas kesantrian lainnya.
 
-    <figure><img src="../.gitbook/assets/images-108.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-108.png" alt=""><figcaption></figcaption></figure>

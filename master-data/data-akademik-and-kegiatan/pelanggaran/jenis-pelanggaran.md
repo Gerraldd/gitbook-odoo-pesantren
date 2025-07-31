@@ -1,0 +1,6 @@
+---
+icon: list
+---
+
+# Jenis Pelanggaran
+
