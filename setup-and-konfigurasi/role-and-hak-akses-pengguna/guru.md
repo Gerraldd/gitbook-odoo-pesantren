@@ -20,11 +20,6 @@ Pengguna dengan role guru memiliki hak akses terhadap penggunaan modul:
 4. Absensi, digunakan untuk mencatat kehadiran guru.
 5. Cuti, digunakan untuk mengajukan, mengelola, dan menyetujui cuti bagi guru atau karyawan pesantren.
 
-## Login Guru
+## Kapan Role ini Digunakan?
 
-Berikut adalah langkah-langkah untuk login menggunakan akun guru yang telah terdaftar pada Aplikasi Odoo Pesantren:
-
-1. Buka browser Anda, lalu akses situs [aplikasi.dqi.ac.id](https://aplikasi.dqi.ac.id/).
-2. Pada halaman login, Anda bisa masukkan email Anda yang sudah diberi hak akses guru oleh administrator.
-3. Masukkan password Anda dengan benar.
-4. Klik tombol “Login” untuk masuk ke akun guru.
+Role Guru digunakan dalam proses pembelajaran santri, baik akademik maupun diniyyah. Peran ini dipakai ketika guru mencatat absensi kelas, mengisi nilai, menilai hafalan tahfidz atau tahsin, serta memantau perkembangan akademik santri sesuai jadwal yang ada.

@@ -1,0 +1,6 @@
+---
+icon: trash
+---
+
+# Pembuangan Barang
+

@@ -20,11 +20,6 @@ Pengguna dengan role petugas keamanan  memiliki hak akses terhadap penggunaan mo
 4. Absensi, digunakan untuk mencatat kehadiran petugas keamanan.
 5. Cuti, untuk mengajukan dan mengelola cuti bagi petugas keamanan.
 
-## Login Petugas Keamanan
+## Kapan Role ini Digunakan?
 
-Berikut adalah langkah-langkah untuk login menggunakan akun guru yang telah terdaftar pada Aplikasi Odoo Pesantren:
-
-1. Buka browser Anda, lalu akses situs [aplikasi.dqi.ac.id](https://aplikasi.dqi.ac.id/).
-2. Pada halaman login, Anda bisa masukkan **email** Anda yang sudah diberi hak akses petugas keamanan oleh administrator.
-3. Masukkan **password** Anda dengan benar.
-4. Klik tombol **“Login”** untuk masuk ke akun petugas keamanan.
+Role Petugas Keamanan digunakan saat melakukan kontrol keluar-masuk santri di lingkungan pesantren. Peran ini aktif ketika santri mengajukan izin, melakukan konfirmasi keberangkatan, atau saat kembali ke pesantren sehingga semua aktivitas tercatat secara resmi.

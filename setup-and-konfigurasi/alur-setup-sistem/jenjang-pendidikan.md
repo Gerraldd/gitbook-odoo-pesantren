@@ -10,7 +10,7 @@ Video \[]
 
 Berikut adalah langkah-langkah cara membuat jenjang pendidikan baru.
 
-1.  **Buka Modul PSB**, lalu klik menu **Pengaturan** dan pilih submenu **Jenjang Pendidikan**.
+1.  Buka **Modul PSB**, lalu klik menu **Pengaturan** dan pilih submenu **Jenjang Pendidikan**.
 
     <figure><img src="../../.gitbook/assets/images-20.png" alt=""><figcaption></figcaption></figure>
 

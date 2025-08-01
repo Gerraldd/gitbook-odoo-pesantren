@@ -31,22 +31,11 @@ Role ini diberikan jika:
 1. Pengguna bertanggung jawab penuh atas sistem (pemilik/pengelola sistem).
 2. Pengguna merupakan tim IT yang mengelola akses dan pengaturan.
 
-## Login Administrator
-
-Berikut adalah langkah-langkah untuk login menggunakan akun administrator yang telah terdaftar pada Aplikasi Odoo Pesantren:&#x20;
-
-1. Buka browser Anda, lalu akses situs [aplikasi.dqi.ac.id.](https://aplikasi.dqi.ac.id/)
-2. Pada halaman login, Anda bisa masukkan email admin pada kolom yang tersedia.
-3. Masukkan password admin dengan benar.
-4. Klik tombol **“Login”** untuk masuk ke akun administrator.
-
-
-
 ## Cara memberikan role Administrator
 
 Berikut adalah langkah-langkah untuk memberikan role Administrator:
 
-1.  Masuk ke Odoo sebagai Administrator.
+1.  Masuk ke Odoo sebagai Administrator, Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
 
     <figure><img src="../../.gitbook/assets/administrator.png" alt=""><figcaption></figcaption></figure>
 
@@ -76,7 +65,7 @@ Berikut adalah langkah-langkah untuk memberikan role Administrator:
 
 Berikut adalah langkah-langkah untuk memberikan role tertentu kepada user.
 
-1.  Masuk ke Odoo sebagai Administrator.
+1.  Masuk ke Odoo sebagai Administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
 
     <figure><img src="../../.gitbook/assets/administrator.png" alt=""><figcaption></figcaption></figure>
 

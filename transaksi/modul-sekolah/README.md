@@ -1,0 +1,6 @@
+---
+icon: school
+---
+
+# Modul Sekolah
+

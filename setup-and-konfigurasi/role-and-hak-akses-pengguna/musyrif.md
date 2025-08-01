@@ -20,11 +20,6 @@ Pengguna dengan role musyrif  memiliki hak akses terhadap penggunaan modul:
 4. Absensi, digunakan untuk mencatat kehadiran musyrif.
 5. Cuti, untuk mengajukan serta mengelola cuti musyrif sendiri bila diperlukan.
 
-## Login Musyrif
+## Kapan Role ini Digunakan?
 
-Berikut adalah langkah-langkah untuk login menggunakan akun musyrif yang telah terdaftar pada Aplikasi Odoo Pesantren:
-
-1. Buka browser Anda, lalu akses situs [aplikasi.dqi.ac.id](https://aplikasi.dqi.ac.id/).
-2. Pada halaman login, Anda bisa masukkan email Anda yang sudah diberi hak akses musyrif oleh administrator.
-3. Masukkan password Anda dengan benar.
-4. Klik tombol **“Login”** untuk masuk ke akun musyrif.
+Role Guru digunakan dalam proses pembelajaran santri, baik akademik maupun diniyyah. Peran ini dipakai ketika guru mencatat absensi kelas, mengisi nilai, menilai hafalan tahfidz atau tahsin, serta memantau perkembangan akademik santri sesuai jadwal yang ada.

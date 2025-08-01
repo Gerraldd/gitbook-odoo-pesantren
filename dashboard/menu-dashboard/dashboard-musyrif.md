@@ -4,7 +4,7 @@ icon: user-tie
 
 # Dashboard Musyrif
 
-<figure><img src="../../.gitbook/assets/screencapture-localhost-8069-odoo-action-682-2025-07-14-11_22_41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/images-310 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Halaman Dashboard Musyrif** merupakan tampilan utama yang pertama kali terlihat setelah musyrif berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai santri secara real-time. Pada bagian atas dasbor, terdapat sejumlah _card_ informasi utama yang memberikan gambaran singkat terkait kondisi dan aktivitas santri. Setiap _card_ dapat diklik untuk menampilkan informasi lebih detail. Berikut adalah jenis informasi yang ditampilkan pada masing-masing _card_ di dasbor:
 
@@ -22,4 +22,9 @@ Pada bagian tengah halaman, terdapat chart dan tabel list data yang bersebelahan
 | Chart Perizinan Santri | Menampilkan jumlah total siswa yang terkait dengan status perizinan dalam bentuk donut chart. | Menampilkan list santri yang mengajukan perijinan beserta informasi lengkapnya. |
 | Tabel List Data        | Berfungsi untuk menampilkan daftar pengajuan izin terbaru oleh santri.                        | Menampilkan detail pengajuan izin santri.                                       |
 
-Pada bagian bawah halaman, terdapat komponen berbentuk area chart dengan judul **"Uang Saku Santri"** yang berfungsi untuk menampilkan perbandingan antara jumlah **uang masuk** dan **uang keluar** santri dalam rentang waktu tertentu. Grafik ini memvisualisasikan data secara dinamis menggunakan garis dan area berwarna hijau untuk uang masuk dan merah untuk uang keluar sehingga memudahkan pengguna dalam memantau tren transaksi harian serta menganalisis keseimbangan keuangan santri secara menyeluruh.
+Pada bagian bawah halaman, terdapat komponen berbentuk area chart dengan judul **"Uang Saku Santri"** dan **"Tingkat Pelanggaran Yang Sering Dilanggar"**.
+
+| Komponen                                                  | Fungsi                                                                                                                              |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Grafik Line - Uang Saku Santri                            | yang berfungsi untuk menampilkan perbandingan antara jumlah **uang masuk** dan **uang keluar** santri dalam rentang waktu tertentu. |
+| Grafik Batang - Tingkat Pelanggaran Yang Sering Dilanggar | Menampilkan kategori pelanggaran yang paling sering dilakukan santri (Ringan/Sedang/Berat).                                         |

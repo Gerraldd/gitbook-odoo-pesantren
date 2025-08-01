@@ -1,0 +1,6 @@
+---
+icon: receipt
+---
+
+# Penerimaan Barang
+

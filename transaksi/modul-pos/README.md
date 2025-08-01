@@ -1,0 +1,6 @@
+---
+icon: shop
+---
+
+# Modul POS
+

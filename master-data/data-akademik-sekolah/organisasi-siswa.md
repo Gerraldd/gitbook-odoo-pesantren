@@ -27,7 +27,7 @@ Berikut adalah langkah-langkah untuk menambahkan data organisasi siswa pada Odoo
 3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * **Nama Organisasi** (misalnya: OSIS SMA).
-    * **Struktur Organisasi**, tambahkan santri yang sudah tersimpan pada data santri beserta posisinya di dalam organisasi.
+    * **Struktur**, tambahkan santri yang sudah tersimpan pada data santri beserta posisinya di dalam organisasi.
 
     <figure><img src="../../.gitbook/assets/images-262.png" alt=""><figcaption></figcaption></figure>
 
