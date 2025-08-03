@@ -10,7 +10,7 @@ Video \[]
 
 Menu **Jam Pelajaran** digunakan untuk mengatur waktu pelajaran dalam satu hari, termasuk jam ke berapa, waktu mulai, dan waktu selesai. Data ini menjadi acuan dalam penyusunan jadwal pelajaran agar kegiatan belajar mengajar berjalan teratur.
 
-### Langkah-Langkah Menambahkan Data Jam Pelajaran
+### Menambahkan Data Jam Pelajaran
 
 Berikut adalah langkah-langkah untuk menambahkan data jam pelajara pada Odoo Pesantren.
 

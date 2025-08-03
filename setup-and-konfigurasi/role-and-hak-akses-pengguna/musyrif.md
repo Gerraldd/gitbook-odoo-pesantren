@@ -16,9 +16,6 @@ Pengguna dengan role musyrif  memiliki hak akses terhadap penggunaan modul:
 
 1. Diskusi, digunakan untuk komunikasi internal antar pengguna dalam sistem Odoo.
 2. Musyrif, modul utama musyrif untuk mengontrol, memantau, dan mencatat aktivitas keseharian santri di asrama.
-3. Kalender, menampilkan jadwal kegiatan atau agenda yang berkaitan dengan musyrif maupun santri.
-4. Absensi, digunakan untuk mencatat kehadiran musyrif.
-5. Cuti, untuk mengajukan serta mengelola cuti musyrif sendiri bila diperlukan.
 
 ## Kapan Role ini Digunakan?
 

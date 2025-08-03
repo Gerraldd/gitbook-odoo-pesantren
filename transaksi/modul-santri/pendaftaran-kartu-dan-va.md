@@ -6,11 +6,11 @@ icon: id-card
 
 Video \[]
 
-## Pendaftaran Kartu Santri
+## Pendaftaran Kartu Santri dan Virtual Account
 
-Fitur **Pendaftaran Kartu Santri** pada aplikasi Odoo Pesantren digunakan untuk mendaftarkan atau mengganti kartu identitas elektronik yang dimiliki santri. Kartu ini digunakan untuk berbagai keperluan, seperti absensi, akses ke ruang atau fasilitas tertentu, aktivitas pembayaran dan kehadiran, dan otentikasi PIN santri. Fitur ini juga mendukung penggantian kartu lama ke kartu baru, disertai validasi PIN untuk keamanan.&#x20;
+**Pendaftaran Kartu Santri** dan **pembuatan Akun VA (Virtual Account)** merupakan tahapan penting agar santri dapat menggunakan fitur transaksi keuangan di Odoo Pesantren. Dengan kartu santri, identitas santri akan terekam di sistem, sedangkan akun VA digunakan untuk menyimpan, mengelola, dan memantau saldo santri secara digital.
 
-### Langkah-Langkah Mendaftarkan Kartu Santri
+### Mendaftarkan Kartu Santri
 
 Berikut adalah langkah-langkah untuk pendaftaran atau penggantian Kartu Santri:
 
@@ -20,7 +20,7 @@ Berikut adalah langkah-langkah untuk pendaftaran atau penggantian Kartu Santri:
     <figure><img src="../../.gitbook/assets/images-311.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Masukkan nama santri pada bagian **Santri**. Jika akan dilakukan pembuatan kartu, maka field **Kartu Santri Lama** tidak akan terisi.
+3.  Pada tampilan form pop up pendaftaran kartu, masukkan nama santri pada bagian **Santri**. Jika akan dilakukan pembuatan kartu, maka field **Kartu Santri Lama** tidak akan terisi.
 
     <figure><img src="../../.gitbook/assets/images-312.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,8 +34,9 @@ Berikut adalah langkah-langkah untuk pendaftaran atau penggantian Kartu Santri:
 6.  Sistem akan menampilkan notifikasi bahwa registrasi kartu santri berhasil.
 
     <figure><img src="../../.gitbook/assets/images-314.png" alt=""><figcaption></figcaption></figure>
+7. Setelah berhasil didaftarkan, santri dapat menggunakan kartu ini untuk berbagai transaksi seperti **pengisian saldo, pembayaran POS**.
 
-### Langkah-Langkah Membuat VA (Virtual Account) Santri
+### Membuat VA (Virtual Account) Santri
 
 Berikut adalah langkah-langkah membuat VA (Virtual Account) untuk Santri pada Odoo Pesantren.
 

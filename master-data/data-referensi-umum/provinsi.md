@@ -8,9 +8,9 @@ Video \[]
 
 ## Master Data - Provinsi
 
-**Menu Provinsi** digunakan untuk menyimpan daftar provinsi di Indonesia yang sudah tersedia secara lengkap di sistem. Data ini biasanya digunakan sebagai referensi saat mengisi alamat santri, orang tua, guru, maupun karyawan agar seragam dan konsisten.
+**Data Provinsi** adalah data referensi wilayah administratif tingkat pertama yang digunakan untuk melengkapi informasi alamat santri, orang tua, maupun pihak lain di Odoo Pesantren. Data provinsi sudah lengkap tersedia di dalam sistem.
 
-### Langkah-Langkah Melihat/Menambahkan Provinsi
+### Melihat/Menambahkan Provinsi
 
 Berikut adalah langkah-langkah untuk menambahkan provinsi pada Odoo Pesantren.
 

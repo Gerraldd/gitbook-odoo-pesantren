@@ -10,7 +10,7 @@ Video \[]
 
 Menu **Pembagian Ekskul** digunakan untuk mengatur distribusi santri ke dalam kegiatan ekstrakurikuler yang sudah didefinisikan. Melalui menu ini, admin atau pengelola dapat menentukan santri mana saja yang mengikuti jenis ekskul tertentu beserta penanggung jawabnya.
 
-### Langkah-Langkah Melakukan Pembagian Ekskul
+### Melakukan Pembagian Ekskul
 
 Berikut adalah langkah-langkah untuk melakukan pembagian ekskul pada Odoo Pesantren.
 

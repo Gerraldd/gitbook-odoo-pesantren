@@ -8,9 +8,9 @@ Video \[]
 
 ## Master Data - Kecamatan
 
-Menu **Kecamatan** digunakan untuk menyimpan daftar kecamatan yang digunakan pada data alamat santri, orang tua, maupun guru.
+**Data Kecamatan** adalah data referensi wilayah administratif yang digunakan untuk melengkapi informasi alamat santri, orang tua, maupun pihak lain di Odoo Pesantren. Data kecamatan biasanya sudah tersedia secara lengkap dalam sistem.
 
-### Langkah-Langkah Melihat/Menambahkan Data Kecamatan
+### Melihat/Menambahkan Data Kecamatan
 
 Berikut adalah langkah-langkah untuk melihat/mengakses data kecatama pada Odoo Pesantren.
 

@@ -4,3 +4,48 @@ icon: medal
 
 # Prestasi Santri
 
+Video \[]
+
+## Prestasi Santri
+
+**Pencatatan Prestasi Santri** adalah fitur pada modul **Musyrif** yang digunakan untuk mencatat capaian prestasi yang diperoleh santri, baik akademik maupun non-akademik. Data prestasi ini membantu pesantren dalam memantau perkembangan, potensi, serta penghargaan yang diterima santri di berbagai tingkat kompetisi.
+
+### Mencatat Prestasi Santri
+
+Berikut langkah-langkah untuk mencatat prestasi santri pada Odoo Pesantren sebagai **musyrif**.
+
+1. Login menggunakan akun musyrif. Jika Anda belum memahami cara login sebagai musyrif, silakan lihat panduan [**Login Musyrif** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-musyrif.md).
+2.  Buka modul **Musyrif**, lalu klik menu **Aktivitas** dan pilih submenu **Prestasi Santri**.
+
+    <figure><img src="../../../.gitbook/assets/images-391.png" alt=""><figcaption></figcaption></figure>
+
+
+3.  Klik tombol **“Baru”** untuk membuat catatan prestasi baru.
+
+    <figure><img src="../../../.gitbook/assets/images-392.png" alt=""><figcaption></figcaption></figure>
+
+
+4.  Akan tampil halaman form Prestasi Santri. Pada form ini, musyrif yang sedang login memilih **nama santri** yang prestasinya akan dicatat.
+
+    <figure><img src="../../../.gitbook/assets/images-393.png" alt=""><figcaption></figcaption></figure>
+
+
+5.  Pilih **jenis prestasi** yang diperoleh santri sesuai dengan data jenis prestasi yang sudah dikonfigurasi.
+
+    <figure><img src="../../../.gitbook/assets/images-394.png" alt=""><figcaption></figcaption></figure>
+
+
+6.  Isi inputan lainnya seperti:
+
+    * **Tanggal Prestasi** (misalnya: 20 Juli 2025)
+    * **Tingkat Prestasi** (Nasional/Lokal/Internasional)
+    * **Juara** (misalnya: Juara 1)
+    * **Keterangan** (opsional, untuk menambahkan detail tambahan)
+    * **Bukti Foto Prestasi** (upload dokumentasi prestasi jika ada)
+
+    Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon **Gear** agar data prestasi santri tersimpan di sistem.
+
+    <figure><img src="../../../.gitbook/assets/images-395.png" alt=""><figcaption></figcaption></figure>
+
+
+7. Data prestasi santri berhasil disimpan dan dapat digunakan untuk penilaian perkembangan santri di pesantren.

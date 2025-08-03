@@ -10,7 +10,7 @@ Video \[]
 
 Fitur ini digunakan oleh administrator untuk mengelola proses pendaftaran santri baru yang diajukan melalui website PSB Odoo Pesantren. Administrator dapat memverifikasi data calon santri, memantau status pendaftaran, melakukan seleksi, hingga menentukan hasil akhir diterima atau ditolak.
 
-### Langkah-Langkah Mengelola Pendaftaran Santri
+### Mengelola Pendaftaran Santri
 
 Berikut adalah langkah-langkah untuk mengelola pendaftaran santri yang telah terdata di sisitem pada Odoo Pesantren.
 

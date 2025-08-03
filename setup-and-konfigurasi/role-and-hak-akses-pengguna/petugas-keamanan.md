@@ -16,9 +16,6 @@ Pengguna dengan role petugas keamanan  memiliki hak akses terhadap penggunaan mo
 
 1. Diskusi, digunakan untuk komunikasi internal antar pengguna dalam sistem Odoo.
 2. Keamanan, modul utama petugas keamanan untuk mengelola perizinan santri, memantau keluar-masuk santri, serta konfirmasi izin.
-3. Kalender, menampilkan jadwal kegiatan atau agenda yang berkaitan dengan keamanan pesantren.
-4. Absensi, digunakan untuk mencatat kehadiran petugas keamanan.
-5. Cuti, untuk mengajukan dan mengelola cuti bagi petugas keamanan.
 
 ## Kapan Role ini Digunakan?
 

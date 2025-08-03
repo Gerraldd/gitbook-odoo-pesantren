@@ -10,7 +10,7 @@ Video \[]
 
 Menu **Ruang Kelas** digunakan untuk mencatat dan mengelola data kelas yang ada di pesantren. Dengan adanya data ruang kelas, admin atau pengelola sekolah dapat menetapkan wali kelas, jurusan, jumlah santri dalam kelas tersebut, serta mengaitkannya langsung dengan data santri yang sudah terdaftar.
 
-### Langkah-Langkah Menambahkan Data Ruang Kelas
+### Menambahkan Data Ruang Kelas
 
 Berikut adalah langkah-langkah untuk menambahkan data ruang kelas pada Odoo Pesantren.
 

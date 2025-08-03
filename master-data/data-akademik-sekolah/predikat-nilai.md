@@ -10,7 +10,7 @@ Video \[]
 
 Menu **Predikat Nilai** digunakan untuk menentukan standar penilaian santri baik pada aspek akademik maupun ekstrakurikuler. Melalui menu ini, sistem dapat mengkategorikan nilai ke dalam predikat tertentu (A, B, C, D, E) sesuai dengan rentang nilai minimum dan maksimum yang sudah ditentukan.
 
-### Langkah-Langkah Menambahkan Predikat Nilai
+### Menambahkan Predikat Nilai
 
 Berikut adalah langkah-langkah untuk menambahkan predikat nilai pada Odoo Pesantren.
 

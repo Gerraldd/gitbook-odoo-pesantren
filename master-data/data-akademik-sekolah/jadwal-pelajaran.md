@@ -10,7 +10,7 @@ Video \[]
 
 Menu **Jadwal Pelajaran** digunakan untuk menyusun dan mengatur waktu belajar santri sesuai tahun ajaran, kelas, semester, mata pelajaran, dan guru yang mengajar. Data ini menjadi acuan utama dalam kegiatan belajar mengajar agar jadwal berjalan tertib dan terstruktur.
 
-### Langkah-Langkah Mengatur Jadwal Pelajaran
+### Mengatur Jadwal Pelajaran
 
 Berikut adalah langkah-langkah untuk mengatur jadwal pelajaran pada Odoo Pesantren.
 

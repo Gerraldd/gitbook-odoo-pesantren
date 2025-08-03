@@ -8,9 +8,9 @@ Video \[]
 
 ## Master Data - Keterangan Izin
 
-Keterangan Izin digunakan untuk mendefinisikan alasan atau keperluan santri dalam melakukan pengajuan izin, seperti sakit, keluar kota, urusan keluarga, lomba, libur, maupun keterangan lainnya. Data ini menjadi acuan agar pengajuan izin santri dapat dikelompokkan dan dipantau sesuai dengan jenis keterangannya.
+**Keterangan Izin** digunakan untuk mendefinisikan alasan atau keperluan santri dalam melakukan pengajuan izin, seperti sakit, keluar kota, urusan keluarga, lomba, libur, maupun keterangan lainnya. Data ini menjadi acuan agar pengajuan izin santri dapat dikelompokkan dan dipantau sesuai dengan jenis keterangannya.
 
-### Langkah-Langkah Menambahkan Keterangan Izin
+### Menambahkan Keterangan Izin
 
 Berikut adalah langkah-langkah untuk menambahkan keterangan izin pada Odoo Pesantren.
 

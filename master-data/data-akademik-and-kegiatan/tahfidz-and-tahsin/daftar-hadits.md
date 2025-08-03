@@ -33,7 +33,7 @@ Hadits pada Odoo Pesantren digunakan untuk menyimpan koleksi hadits yang menjadi
     <figure><img src="../../../.gitbook/assets/images-143.jpg" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon Gear agar hadits tersimpan di sistem.
+4.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar hadits tersimpan di sistem.
 
     <figure><img src="../../../.gitbook/assets/images-144.jpg" alt=""><figcaption></figcaption></figure>
 

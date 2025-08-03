@@ -10,7 +10,7 @@ Video \[]
 
 Menu **Jenis Ekskul** digunakan untuk mendefinisikan jenis-jenis kegiatan ekstrakurikuler yang tersedia di pesantren, baik yang bersifat wajib maupun pilihan. Data ini akan menjadi acuan utama dalam pengelolaan aktivitas ekstrakurikuler santri sesuai tingkat kelas masing-masing.
 
-### Langkah-Langkah Menambahkan Data Jenis Ekskul
+### Menambahkan Data Jenis Ekskul
 
 Berikut adalah langkah-langkah untuk menambahkan data jenis ekskul pada Odoo Pesantren.
 

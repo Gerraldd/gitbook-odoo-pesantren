@@ -8,9 +8,9 @@ Video \[]
 
 ## Master Data - Pekerjaan
 
+**Data Pekerjaan** adalah data referensi yang digunakan untuk melengkapi informasi latar belakang orang tua atau wali santri pada Odoo Pesantren. Data ini membantu sistem dalam pencatatan detail profil orang tua maupun wali.
 
-
-### Langkah-Langkah Menambahkan Data Pekerjaan
+### Melihat/Menambahkan Data Pekerjaan
 
 Berikut adalah langkah-langkah untuk menambahkna data pekerjaan pada Odoo Pesantren.
 

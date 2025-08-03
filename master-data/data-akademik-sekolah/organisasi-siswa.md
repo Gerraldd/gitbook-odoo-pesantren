@@ -10,7 +10,7 @@ Video \[]
 
 Menu **Organisasi Siswa** digunakan untuk mencatat data organisasi yang ada di pesantren, seperti OSIS, Rohis, Pramuka, atau organisasi lain. Fitur ini juga memungkinkan menambahkan struktur organisasi dengan menentukan santri yang menjadi anggota beserta jabatannya.
 
-### Langkah-Langkah Menambahkan Data Organisasi Siswa
+### Menambahkan Data Organisasi Siswa
 
 Berikut adalah langkah-langkah untuk menambahkan data organisasi siswa pada Odoo Pesantren.
 

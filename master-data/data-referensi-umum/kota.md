@@ -8,9 +8,9 @@ Video \[]
 
 ## Master Data - Kota
 
-Menu **Kota** berfungsi untuk menampilkan daftar seluruh kota/kabupaten yang ada di Indonesia. Data ini sudah tersedia otomatis dalam sistem dan dipakai untuk melengkapi detail alamat santri maupun orang tua.
+**Data Kota** adalah data referensi wilayah administratif yang digunakan untuk melengkapi informasi alamat santri, orang tua, maupun pihak lain di Odoo Pesantren. Data kota biasanya sudah tersedia secara lengkap di dalam sistem.
 
-### Langkah-Langkah Melihat/Menambahkan Data Kota
+### Melihat/Menambahkan Data Kota
 
 Berikut adalah langkah-langkah untuk melihat/mengakses data kota pada Odoo Pesantren.
 

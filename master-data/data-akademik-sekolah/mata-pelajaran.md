@@ -10,7 +10,7 @@ Video \[]
 
 Menu **Mata Pelajaran** digunakan untuk mencatat daftar pelajaran yang diajarkan di pesantren sesuai jenjang pendidikan dan kelas, baik pelajaran umum, diniyyah, tahfidz, maupun ekstrakurikuler. Data ini menjadi dasar dalam penyusunan jadwal pelajaran, penilaian, serta administrasi akademik.
 
-### Langkah-Langkah Menambahkan Data Mata Pelajaran
+### Menambahkan Data Mata Pelajaran
 
 Berikut adalah langkah-langkah untuk menambahknan data mata pelajaran pada Odoo Pesantren.
 
