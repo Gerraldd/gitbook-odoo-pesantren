@@ -161,7 +161,35 @@
 
 ## Data & Riwayat
 
-* [Page 3](data-and-riwayat/page-3.md)
+* [Riwayat Pendaftaran](data-and-riwayat/riwayat-pendaftaran.md)
+* [Riwayat Absensi](data-and-riwayat/riwayat-absensi/README.md)
+  * [Absensi Santri](data-and-riwayat/riwayat-absensi/absensi-santri.md)
+  * [Absensi Ekskul](data-and-riwayat/riwayat-absensi/absensi-ekskul.md)
+  * [Absensi Tahfidz](data-and-riwayat/riwayat-absensi/absensi-tahfidz.md)
+  * [Absensi Tahsin](data-and-riwayat/riwayat-absensi/absensi-tahsin.md)
+* [Riwayat Kepesantrenan](data-and-riwayat/riwayat-kepesantrenan/README.md)
+  * [Tahfidz Al-Qur'an](data-and-riwayat/riwayat-kepesantrenan/tahfidz-al-quran.md)
+  * [Tahsin Al-Qur'an](data-and-riwayat/riwayat-kepesantrenan/tahsin-al-quran.md)
+* [Riwayat Aktivitas Santri](data-and-riwayat/riwayat-aktivitas-santri/README.md)
+  * [Pelanggaran](data-and-riwayat/riwayat-aktivitas-santri/pelanggaran.md)
+  * [Perizinan Santri](data-and-riwayat/riwayat-aktivitas-santri/perizinan-santri.md)
+  * [Kesehatan Santri](data-and-riwayat/riwayat-aktivitas-santri/kesehatan-santri.md)
+  * [Prestasi Santri](data-and-riwayat/riwayat-aktivitas-santri/prestasi-santri.md)
+  * [Mutaba'ah Harian](data-and-riwayat/riwayat-aktivitas-santri/mutabaah-harian.md)
+* [Riwayat Keuangan](data-and-riwayat/riwayat-keuangan/README.md)
+  * [Tagihan Santri](data-and-riwayat/riwayat-keuangan/tagihan-santri.md)
+  * [Tagihan Pemasok](data-and-riwayat/riwayat-keuangan/tagihan-pemasok.md)
+  * [Pembayaran Santri](data-and-riwayat/riwayat-keuangan/pembayaran-santri.md)
+* [Riwayat Transaksi Dompet](data-and-riwayat/riwayat-transaksi-dompet.md)
+* [Riwayat Operasi Stok Persediaan](data-and-riwayat/riwayat-operasi-stok-persediaan/README.md)
+  * [Penerimaan](data-and-riwayat/riwayat-operasi-stok-persediaan/penerimaan.md)
+  * [Pengiriman](data-and-riwayat/riwayat-operasi-stok-persediaan/pengiriman.md)
+  * [Internal](data-and-riwayat/riwayat-operasi-stok-persediaan/internal.md)
+  * [Pembuangan](data-and-riwayat/riwayat-operasi-stok-persediaan/pembuangan.md)
+* [Riwayat Point of Sale](data-and-riwayat/riwayat-point-of-sale/README.md)
+  * [Pesanan](data-and-riwayat/riwayat-point-of-sale/pesanan.md)
+  * [Sesi POS](data-and-riwayat/riwayat-point-of-sale/sesi-pos.md)
+  * [Pembayaran](data-and-riwayat/riwayat-point-of-sale/pembayaran.md)
 
 ## Laporan
 

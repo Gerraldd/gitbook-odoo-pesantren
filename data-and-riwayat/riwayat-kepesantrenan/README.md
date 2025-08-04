@@ -1,0 +1,6 @@
+---
+icon: mosque
+---
+
+# Riwayat Kepesantrenan
+
