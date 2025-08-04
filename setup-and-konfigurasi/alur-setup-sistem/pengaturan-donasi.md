@@ -8,9 +8,9 @@ Video \[]
 
 ## Konfigurasi Pengaturan Donasi
 
-Menu **Pengaturan Donasi** digunakan untuk menambahkan dan mengelola jenis donasi yang ada di Odoo Pesantren, seperti donasi pembangunan, beasiswa, atau kegiatan sosial lainnya. Administrator dapat menentukan detail donasi mulai dari rekening bank, target donasi, hingga periode kegiatan.
+**Pengaturan Donasi** digunakan untuk menambahkan dan mengelola jenis donasi yang ada di Odoo Pesantren, seperti donasi pembangunan, beasiswa, atau kegiatan sosial lainnya. Administrator dapat menentukan detail donasi mulai dari rekening bank, target donasi, hingga periode kegiatan.
 
-### Langkah-Langkah Mengkonfigurasi Pengaturan Donasi
+### Mengkonfigurasi Pengaturan Donasi
 
 Berikut adalah langkah-langkah untuk mengkonfigurasi pengaturan donasi pada Odoo Pesantren.
 

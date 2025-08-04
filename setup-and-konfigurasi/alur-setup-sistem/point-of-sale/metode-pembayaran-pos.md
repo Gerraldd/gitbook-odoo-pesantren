@@ -30,14 +30,10 @@ Metode Pembayaran POS adalah konfigurasi di modul **Point of Sale** yang digunak
     * **Akun Piutang** → misalnya _Piutang Usaha_.
     * **Akun Perantara** → misalnya _Piutang Usaha POS_.
 
-    <figure><img src="../../../.gitbook/assets/images-64.png" alt=""><figcaption></figcaption></figure>
-
-
+    <figure><img src="../../../.gitbook/assets/images-548.png" alt=""><figcaption></figcaption></figure>
 4.  Klik ikon **Simpan** di sebelah kanan ikon **Gear** agar metode pembayaran tersimpan di sistem.
 
-    <figure><img src="../../../.gitbook/assets/images-65.png" alt=""><figcaption></figcaption></figure>
-
-
+    <figure><img src="../../../.gitbook/assets/images-549.png" alt=""><figcaption></figcaption></figure>
 5.  Selanjutnya, buka kembali menu **Pengaturan** dan pilih submenu **POS** untuk konfigurasi lanjut.
 
     <figure><img src="../../../.gitbook/assets/images-66 (1).png" alt=""><figcaption></figcaption></figure>
