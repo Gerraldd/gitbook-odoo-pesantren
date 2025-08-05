@@ -44,6 +44,6 @@ Berikut adalah langkah-langkah untuk melakukan pencatatan pelanggaran santri pad
     <figure><img src="../../../.gitbook/assets/images-385.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Catatan pelanggaran santri berhasil tersimpan dan siap ditindaklanjuti oleh pihak terkait, seperti ustadz atau kepala asrama.
+6.  Catatan pelanggaran santri berhasil tersimpan dan siap ditindaklanjuti oleh pihak terkait, seperti ustadz atau pihak yang berwenang.
 
     <figure><img src="../../../.gitbook/assets/images-386.png" alt=""><figcaption></figcaption></figure>
