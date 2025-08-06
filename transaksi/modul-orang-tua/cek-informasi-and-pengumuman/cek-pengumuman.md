@@ -1,6 +1,0 @@
----
-icon: bullhorn
----
-
-# Cek Pengumuman
-
