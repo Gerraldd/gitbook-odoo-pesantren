@@ -34,7 +34,7 @@ Berikut adalah langkah-langkah untuk melihat riwayat absensi tahsin pada Odoo Pe
 6. Untuk melihat detail absensi, klik salah satu data absensi dari daftar.
 7.  Akan tampil halaman form absensi yang berisi informasi detail dari absensi tersebut. Pada **Tab Daftar Halaqah**, Anda dapat melihat daftar santri yang mengikuti kegiatan tahsin Al-Qur’an beserta status kehadirannya.
 
-    <figure><img src="../../.gitbook/assets/images-631.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-631 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 8. Dengan langkah ini, administrator dapat memantau riwayat absensi tahsin santri secara lengkap berdasarkan halaqah maupun per santri.
