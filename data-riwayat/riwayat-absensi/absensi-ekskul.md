@@ -15,7 +15,7 @@ Data **Riwayat Absensi Ekskul** merupakan kumpulan catatan kehadiran santri dala
 Berikut adalah langkah-langkah untuk melihat data riwayat absensi ekskul pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Sekolah**, lalu pilih menu **Absensi** dan klik submenu **Absensi Ekskul**.
+2.  Buka modul **Sekolah**, lalu klik menu **Absensi** kemudian pilih submenu **Absensi Ekskul**.
 
     <figure><img src="../../.gitbook/assets/images-621 (1).png" alt=""><figcaption></figcaption></figure>
 

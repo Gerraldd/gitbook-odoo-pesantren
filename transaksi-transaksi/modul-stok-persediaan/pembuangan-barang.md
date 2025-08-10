@@ -1,5 +1,5 @@
 ---
-icon: trash
+icon: trash-can
 ---
 
 # Pembuangan Barang

@@ -15,7 +15,7 @@ Data **Riwayat Absensi Tahsin** merupakan kumpulan catatan kehadiran santri dala
 Berikut adalah langkah-langkah untuk melihat riwayat absensi tahsin pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Kesantrian**, lalu pilih menu **Kepesantrenan** dan klik submenu **Absensi Tahsin**.
+2.  Buka modul **Kesantrian**, lalu klik menu **Kepesantrenan** kemudian pilih submenu **Absensi Tahsin**.
 
     <figure><img src="../../.gitbook/assets/images-627.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ Berikut adalah langkah-langkah untuk melihat riwayat absensi tahsin pada Odoo Pe
 6. Untuk melihat detail absensi, klik salah satu data absensi dari daftar.
 7.  Akan tampil halaman form absensi yang berisi informasi detail dari absensi tersebut. Pada **Tab Daftar Halaqah**, Anda dapat melihat daftar santri yang mengikuti kegiatan tahsin Al-Qur’an beserta status kehadirannya.
 
-    <figure><img src="../../.gitbook/assets/images-631 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-631 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 8. Dengan langkah ini, administrator dapat memantau riwayat absensi tahsin santri secara lengkap berdasarkan halaqah maupun per santri.

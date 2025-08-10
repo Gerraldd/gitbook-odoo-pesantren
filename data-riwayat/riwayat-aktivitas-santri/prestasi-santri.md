@@ -15,7 +15,7 @@ Video
 Berikut adalah langkah-langkah untuk melihat data riwayat prestasi santri pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Kesantrian**, kemudian pilih menu **Aktivitas**, dan klik submenu **Prestasi Santri**.
+2.  Buka modul **Kesantrian**, lalu klik menu **Aktivitas** kemudian pilih submenu **Prestasi Santri**.
 
     <figure><img src="../../.gitbook/assets/images-639 (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -15,19 +15,19 @@ Video \[]
 Berikut adalah langkah-langkah untuk melihat riwayat pelanggaran santri pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Kesantrian**, lalu klik menu **Aktivitas** dan pilih submenu **Pelanggaran**.
+2.  Buka modul **Kesantrian**, lalu klik menu **Aktivitas** kemudian submenu **Pelanggaran**.
 
     <figure><img src="../../.gitbook/assets/images-630.png" alt=""><figcaption></figcaption></figure>
 
 
 3.  Pada halaman ini, Anda akan melihat daftar seluruh pelanggaran santri yang telah dicatat. Setiap entri menampilkan informasi penting seperti nama santri,  kelas santri, jenis pelanggaran, kategori pelanggaran, jumlah poin pelanggaran, tindakan/hukuman, dan status pelanggaran.
 
-    <figure><img src="../../.gitbook/assets/images-631.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-631 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4.  Klik **toggle dropdown pencarian**, kemudian gunakan fitur **Filter** untuk menyaring data berdasarkan nama santri, tanggal pelanggaran, kategori, atau kriteria lainnya.
 
-    <figure><img src="../../.gitbook/assets/images-632 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-632.png" alt=""><figcaption></figcaption></figure>
 
 
 5. Setelah filter diaktifkan, sistem akan secara otomatis menampilkan data pelanggaran yang sesuai dengan kriteria pencarian.

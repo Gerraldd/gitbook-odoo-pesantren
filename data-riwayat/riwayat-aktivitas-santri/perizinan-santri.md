@@ -15,26 +15,22 @@ Video \[]
 Berikut adalah langkah-langkah untuk melihat data riwayat perizinan santri pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Kesantrian**, lalu pilih menu **Aktivitas**, dan klik submenu **Perizinan Santri**.
+2.  Buka modul **Kesantrian**, lalu klik menu **Aktivitas** kemudian pilih submenu **Perizinan Santri**.
 
     <figure><img src="../../.gitbook/assets/images-633 (3).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  Anda akan melihat daftar semua data pengajuan izin santri yang pernah dicatat. Setiap entri menampilkan informasi berikut yaitu, nomor referensi, tanggal izin, nama santri, kamar santri, nama halaqah, musyrif pembina, keperluan izin, lama izin, status izin (Draft, Diperiksa, Diterima, Ditolak, Santri Izin, Kembali), dan nama penjemput.
 
-    <figure><img src="../../.gitbook/assets/images-634 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-634 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik **toggle dropdown pencarian** (ikon filter) untuk memunculkan fitur pencarian lanjutan.
+4. Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya filter **NON SPP, SPP, Tagihan Belum Lunas dan Sudah Lunas** serta filter kelompok yaitu **per nama santri, komponen biaya, periode tagihan, dan ruang kelas.**
+5.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya filter **Tanggal Izin Hari Ini, Lama Izin Lebih Dari 3 Hari, Status Perizinan (Draf, Diperiksa, Diterima, Ditolak, Santri Ijin, dan Kembali)** serta filter **Kelompok** seperti per **Status Ijin**.
 
     <figure><img src="../../.gitbook/assets/images-635.png" alt=""><figcaption></figcaption></figure>
 
 
-5. Gunakan filter yang tersedia, seperti:
-   * **Tanggal izin hari ini**
-   * **Lama izin lebih dari 3 hari**
-   * **Status perizinan**: Draft, Diperiksa, Diterima, Ditolak, dll.
-   * **Kelompok filter** seperti per status izin atau nama musyrif.
 6.  Setelah filter diaktifkan, sistem akan secara otomatis menampilkan data yang sesuai dengan kriteria pencarian.
 
     <figure><img src="../../.gitbook/assets/images-636 (1).png" alt=""><figcaption></figcaption></figure>

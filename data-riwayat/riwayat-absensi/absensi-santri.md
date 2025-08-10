@@ -15,7 +15,7 @@ Data **Riwayat Absensi Santri** merupakan kumpulan catatan absensi berdasarkan k
 Berikut adalah langkah-langkah untuk melihat data riwayat absensi santri pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Sekolah**, lalu pilih menu **Absensi** dan submenu **Absensi Santri**.
+2.  Buka modul **Sekolah**, lalu klik menu **Absensi** kemudian pilih submenu **Absensi Santri**.
 
     <figure><img src="../../.gitbook/assets/images-617.png" alt=""><figcaption></figcaption></figure>
 
@@ -28,8 +28,6 @@ Berikut adalah langkah-langkah untuk melihat data riwayat absensi santri pada Od
 4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya dengan memilih absensi pada beberapa hari terakhir atau filter kelompok seperti perkelas, mapel, guru, dan tanggal.
 
     <figure><img src="../../.gitbook/assets/images-619.png" alt=""><figcaption></figcaption></figure>
-
-
 5.  Setelah filter diaktifkan, sistem akan otomatis menampilkan daftar riwayat absensi yang sesuai dengan filter tersebut.
 
     <figure><img src="../../.gitbook/assets/images-620.png" alt=""><figcaption></figcaption></figure>

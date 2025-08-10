@@ -15,9 +15,9 @@ Video \[]
 Berikut adalah langkah-langkah untuk melihat riwayat tahfidz al-qur'an pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Kesantrian**, lalu klik menu **Kepesantrenan** dan pilih submenu **Tahfidz Al-Qur’an**.
+2.  Buka modul **Kesantrian**, lalu klik menu **Kepesantrenan** kemudian pilih submenu **Tahfidz Al-Qur’an**.
 
-    <figure><img src="../../.gitbook/assets/images-629 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-629 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  Di halaman ini Anda akan melihat daftar semua kegiatan tahfidz santri. Setiap entri menampilkan informasi seperti: nama halaqah, nama santri, sesi tahfidz, guru/ustadz pembimbing, tanggal hafalan, nama surah, ayat awal–akhir, jumlah baris, nilai, dan status hafalan.
@@ -27,7 +27,7 @@ Berikut adalah langkah-langkah untuk melihat riwayat tahfidz al-qur'an pada Odoo
 
 4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk menyesuaikan data, misalnya filter berdasarkan tanggal hari ini.
 
-    <figure><img src="../../.gitbook/assets/images-631 (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-631.png" alt=""><figcaption></figcaption></figure>
 
 
 5. Setelah filter diaktifkan, sistem akan otomatis menampilkan data riwayat tahfidz sesuai dengan kriteria filter yang dipilih.

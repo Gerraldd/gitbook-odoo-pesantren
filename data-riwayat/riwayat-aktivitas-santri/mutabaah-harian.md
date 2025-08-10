@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melihat riwayat mutaba'ah harian santri pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Kesantrian**, lalu pilih menu **Kepesantrenan**, kemudian klik submenu **Mutaba'ah Harian**.
+2.  Buka modul **Kesantrian**, lalu klik menu **Kepesantrenan** kemudian pilih submenu **Mutaba'ah Harian**.
 
     <figure><img src="../../.gitbook/assets/images-645.png" alt=""><figcaption></figcaption></figure>
 

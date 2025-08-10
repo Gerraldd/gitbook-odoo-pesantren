@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melihat data riwayat pendaftaran pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../panduan-login/login-admin.md).
-2.  Buka modul **PSB**, lalu pilih menu **Pendaftaran**.&#x20;
+2.  Buka modul **PSB**, lalu klik menu **Pendaftaran**.&#x20;
 
     <figure><img src="../.gitbook/assets/images-608.png" alt=""><figcaption></figcaption></figure>
 

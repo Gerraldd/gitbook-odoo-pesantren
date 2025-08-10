@@ -1,5 +1,5 @@
 ---
-icon: receipt
+icon: hand-holding-box
 ---
 
 # Penerimaan Barang

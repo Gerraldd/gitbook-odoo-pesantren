@@ -15,9 +15,9 @@ Video \[]
 Berikut adalah langkah-langkah untuk melihat data riwayat tahsin al-qur'an pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Kesantrian**, lalu klik menu **Kepesantrenan** dan pilih submenu **Tahsin Al-Qur’an**.
+2.  Buka modul **Kesantrian**, lalu klik menu **Kepesantrenan** kemudian pilih submenu **Tahsin Al-Qur’an**.
 
-    <figure><img src="../../.gitbook/assets/images-632.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-632 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  Pada halaman ini, Anda akan melihat daftar seluruh kegiatan tahsin yang telah dicatat. Setiap entri menampilkan informasi seperti nama halaqah, nama santri, sesi tahsin, guru/ustadz pembimbing, tanggal tahsin, jilid dan halaman yang dibaca, dan status pelaksanaan.
