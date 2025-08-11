@@ -25,7 +25,7 @@ Sesi POS adalah konfigurasi pada modul **Point of Sale** yang digunakan untuk me
 3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * **Nama POS** → misalnya _Toko NYC_.
-    * **Login dengan Karyawan** → aktifkan agar karyawan bisa login ke sesi POS.
+    * **Log in dengan Karyawan** → aktifkan agar karyawan bisa login ke sesi POS.
 
     <figure><img src="../../../.gitbook/assets/images-68.png" alt=""><figcaption></figcaption></figure>
 

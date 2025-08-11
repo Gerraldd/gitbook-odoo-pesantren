@@ -17,27 +17,27 @@ Berikut adalah langkah-langkah untuk melihat riwayat sesi POS pada Odoo Pesantre
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
 2.  Buka modul **POS**, lalu klik menu **Pesanan** kemudian pilih submenu **Sesi**.
 
-    <figure><img src="../../.gitbook/assets/images-684 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-684 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  Halaman ini akan menampilkan daftar seluruh Sesi POS. Setiap entri menampilkan informasi **ID Sesi POS, POS, Dibuka oleh (Kasir), Tanggal Pembukaan, Tanggal Penutupan, Saldo Awal POS, Saldo Akhir POS, Saldo Penutupan, dan Status Sesi POS**.
 
-    <figure><img src="../../.gitbook/assets/images-685 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-685 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4.  Gunakan tombol **Toggle Dropdown Pencarian** untuk menampilkan opsi penyaringan. Anda dapat menyaring data berdasarkan **Sesi Saya (karyawan yang sedang login), Status POS (dalam proses), dan Tanggal Pembukaan**, serta mengelompokkan data berdasarkan **Kasir, POS, Status Sesi POS, Tanggal Pembukaan, dan Tanggal Penutupan**.
 
-    <figure><img src="../../.gitbook/assets/images-686 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-686 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 5.  Setelah penyaringan diterapkan, daftar Sesi POS akan diperbarui secara otomatis sesuai kriteria yang dipilih.
 
-    <figure><img src="../../.gitbook/assets/images-687 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-687 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 6.  Ubah tampilan daftar menjadi **Kanban View** dengan mengklik ikon **Kanban** di sebelah ikon daftar jika diinginkan.
 
-    <figure><img src="../../.gitbook/assets/images-688 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-688 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 7. Untuk melihat detail sebuah sesi POS, klik salah satu entri pada daftar.
@@ -50,4 +50,4 @@ Berikut adalah langkah-langkah untuk melihat riwayat sesi POS pada Odoo Pesantre
     * **Saldo Awal dan Saldo Akhir**: Data keuangan awal dan akhir sesi.
     * **Saldo Penutupan**: Perhitungan akhir setelah proses tutup sesi dilakukan.
 
-    <figure><img src="../../.gitbook/assets/images-689.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-689 (1).png" alt=""><figcaption></figcaption></figure>

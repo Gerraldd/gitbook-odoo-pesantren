@@ -1,2 +1,6 @@
-# Page 4
+---
+icon: shop
+---
+
+# Laporan Point of Sale
 

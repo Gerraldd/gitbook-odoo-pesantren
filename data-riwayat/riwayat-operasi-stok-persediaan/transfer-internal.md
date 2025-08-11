@@ -39,14 +39,14 @@ Berikut adalah langkah-langkah untuk melihat data riwayat transfer internal bara
 7. Untuk melihat detail suatu transfer internal, klik salah satu entri pada daftar.
 8.  Anda akan diarahkan ke halaman formulir yang menampilkan informasi lengkap terkait penerimaan barang tersebut, yang terdiri dari beberapa tab, yaitu **Tab Operasi, Tab Informasi Tambahan, dan Tab Catatan**, Pada **Tab Operasi /**&#x48;alaman detail transfer internal menampilkan informasi yang terbagi dalam beberapa tab. Pada **Tab Operasi** akan menampilkan daftar produk yang dipindahkan beserta jumlah dan lokasi asal/tujuan.
 
-    <figure><img src="../../.gitbook/assets/images-676.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-676 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 9.  Pada **Tab Informasi Tambahan** akan berisi detail tambahan seperti penanggung jawab operasi, tipe operasi, dan perusahaan yang terlibat.
 
-    <figure><img src="../../.gitbook/assets/images-677.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-677 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 10. Pada **Tab Catatan** akan menyediakan catatan atau instruksi khusus terkait transfer internal barang.
 
-    <figure><img src="../../.gitbook/assets/images-678.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-678 (1).png" alt=""><figcaption></figcaption></figure>

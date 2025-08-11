@@ -1,0 +1,6 @@
+---
+icon: book
+---
+
+# Jurnal Umum
+
