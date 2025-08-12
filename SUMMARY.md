@@ -239,7 +239,7 @@
     * [Jurnal Audit](laporan-laporan/laporan-penagihan/laporan-audit/jurnal-audit.md)
 * [Laporan Pembelian](laporan-laporan/laporan-pembelian.md)
 * [Laporan Stok Persediaan](laporan-laporan/laporan-stok-persediaan/README.md)
-  * [Stok](laporan-laporan/laporan-stok-persediaan/stok.md)
+  * [Stok Persediaan](laporan-laporan/laporan-stok-persediaan/stok-persediaan.md)
   * [Lokasi](laporan-laporan/laporan-stok-persediaan/lokasi.md)
   * [Sejarah Pergerakan](laporan-laporan/laporan-stok-persediaan/sejarah-pergerakan.md)
   * [Analisis Pergerakan](laporan-laporan/laporan-stok-persediaan/analisis-pergerakan.md)

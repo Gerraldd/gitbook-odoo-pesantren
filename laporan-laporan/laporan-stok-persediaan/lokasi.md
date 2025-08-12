@@ -1,2 +1,6 @@
+---
+icon: warehouse-full
+---
+
 # Lokasi
 

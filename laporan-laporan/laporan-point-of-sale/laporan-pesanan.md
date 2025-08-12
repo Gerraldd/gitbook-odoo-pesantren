@@ -30,8 +30,7 @@ Berikut adalah langkah-langkah untuk melihat laporan pesanan pada Odoo Pesantren
     <figure><img src="../../.gitbook/assets/images-678.png" alt=""><figcaption></figcaption></figure>
 
 
-5.
-6. Untuk mengubah jenis grafik:
+5. Untuk mengubah jenis grafik:
    *   Klik ikon **Grafik Garis (Line Chart)** untuk mengubah tampilan dari grafik batang menjadi grafik garis. Urutan data tetap dapat diatur Ascending atau Descending.
 
        <figure><img src="../../.gitbook/assets/images-679.png" alt=""><figcaption></figcaption></figure>
@@ -42,19 +41,19 @@ Berikut adalah langkah-langkah untuk melihat laporan pesanan pada Odoo Pesantren
        <figure><img src="../../.gitbook/assets/images-680.png" alt=""><figcaption></figcaption></figure>
 
 
-7. Klik pada salah satu elemen pada grafik (batang, garis, atau pie) untuk melihat detail pesanan yang direpresentasikan oleh elemen tersebut.
-8.  Halaman ini akan menampilan **daftar data pesanan**. Setiap kolom menampilkan **Tanggal Order, Produk, Kategori Produk, Kasir, Total Harga, dan Status Pesanan**.
+6. Klik pada salah satu elemen pada grafik (batang, garis, atau pie) untuk melihat detail pesanan yang direpresentasikan oleh elemen tersebut.
+7.  Halaman ini akan menampilan **daftar data pesanan**. Setiap kolom menampilkan **Tanggal Order, Produk, Kategori Produk, Kasir, Total Harga, dan Status Pesanan**.
 
     <figure><img src="../../.gitbook/assets/images-681.png" alt=""><figcaption></figcaption></figure>
 
 
-9.  Gunakan **toggle pencarian** untuk melakukan penyaringan (filter) data, misalnya: **Telah Difakturkan, Belum Difakturkan, Tanggal Order**, atau **Kelompok** berdasarkan **Pelanggan, Karyawan/Kasir, POS, Produk, Kategori Produk, Metode Pembayaran**, dan lainnya.
+8.  Gunakan **toggle pencarian** untuk melakukan penyaringan (filter) data, misalnya: **Telah Difakturkan, Belum Difakturkan, Tanggal Order**, atau **Kelompok** berdasarkan **Pelanggan, Karyawan/Kasir, POS, Produk, Kategori Produk, Metode Pembayaran**, dan lainnya.
 
     <figure><img src="../../.gitbook/assets/images-682.png" alt=""><figcaption></figcaption></figure>
 
 
-10. Setelah filter diterapkan, data yang ditampilkan akan menyesuaikan dengan kriteria filter tersebut.
-11. Klik pada salah satu baris data pesanan untuk membuka halaman detail pesanan.
-12. Halaman detail pesanan akan menampilkan informasi lengkap, termasuk **Tanggal Order, Pelanggan, Produk, Total Harga, POS, Sesi POS, Metode Pembayaran, Kasir**, dan informasi tambahan lainnya.
+9. Setelah filter diterapkan, data yang ditampilkan akan menyesuaikan dengan kriteria filter tersebut.
+10. Klik pada salah satu baris data pesanan untuk membuka halaman detail pesanan.
+11. Halaman detail pesanan akan menampilkan informasi lengkap, termasuk **Tanggal Order, Pelanggan, Produk, Total Harga, POS, Sesi POS, Metode Pembayaran, Kasir**, dan informasi tambahan lainnya.
 
     <figure><img src="../../.gitbook/assets/images-683.png" alt=""><figcaption></figcaption></figure>
