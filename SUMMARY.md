@@ -217,6 +217,13 @@
   * [Laporan Pesanan](laporan-laporan/laporan-point-of-sale/laporan-pesanan.md)
   * [Detail Penjualan](laporan-laporan/laporan-point-of-sale/detail-penjualan.md)
   * [Laporan Sesi](laporan-laporan/laporan-point-of-sale/laporan-sesi.md)
+* [Laporan Pembelian](laporan-laporan/laporan-pembelian.md)
+* [Laporan Stok Persediaan](laporan-laporan/laporan-stok-persediaan/README.md)
+  * [Stok Persediaan](laporan-laporan/laporan-stok-persediaan/stok-persediaan.md)
+  * [Lokasi](laporan-laporan/laporan-stok-persediaan/lokasi.md)
+  * [Sejarah Pergerakan](laporan-laporan/laporan-stok-persediaan/sejarah-pergerakan.md)
+  * [Analisis Pergerakan](laporan-laporan/laporan-stok-persediaan/analisis-pergerakan.md)
+  * [Penilaian](laporan-laporan/laporan-stok-persediaan/penilaian.md)
 * [Laporan Penagihan](laporan-laporan/laporan-penagihan/README.md)
   * [Laba & Rugi](laporan-laporan/laporan-penagihan/laba-and-rugi.md)
   * [Neraca](laporan-laporan/laporan-penagihan/neraca.md)
@@ -237,13 +244,6 @@
     * [Neraca Saldo](laporan-laporan/laporan-penagihan/laporan-audit/neraca-saldo.md)
     * [Laporan Pajak](laporan-laporan/laporan-penagihan/laporan-audit/laporan-pajak.md)
     * [Jurnal Audit](laporan-laporan/laporan-penagihan/laporan-audit/jurnal-audit.md)
-* [Laporan Pembelian](laporan-laporan/laporan-pembelian.md)
-* [Laporan Stok Persediaan](laporan-laporan/laporan-stok-persediaan/README.md)
-  * [Stok Persediaan](laporan-laporan/laporan-stok-persediaan/stok-persediaan.md)
-  * [Lokasi](laporan-laporan/laporan-stok-persediaan/lokasi.md)
-  * [Sejarah Pergerakan](laporan-laporan/laporan-stok-persediaan/sejarah-pergerakan.md)
-  * [Analisis Pergerakan](laporan-laporan/laporan-stok-persediaan/analisis-pergerakan.md)
-  * [Penilaian](laporan-laporan/laporan-stok-persediaan/penilaian.md)
 
 ## Dashboard
 
