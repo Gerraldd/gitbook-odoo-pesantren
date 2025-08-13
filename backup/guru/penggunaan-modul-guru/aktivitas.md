@@ -1,6 +1,0 @@
----
-icon: wave-pulse
----
-
-# Aktivitas
-

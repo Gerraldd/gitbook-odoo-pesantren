@@ -1,6 +1,0 @@
----
-icon: id-badge
----
-
-# Musyrif
-
