@@ -10,7 +10,7 @@ Video \[]
 
 Berikut adalah langkah-langkah membuat asrama dan kamar santri.
 
-1.  **Buka Modul Kesantrian**, lalu klik menu **Pengaturan** dan pilih submenu **Aset Pesantren**.
+1.  **Buka Modul Kesantrian**, lalu klik menu **Pengaturan** kemudian pilih submenu **Aset Pesantren**.
 
     <figure><img src="../../.gitbook/assets/images-35.png" alt=""><figcaption></figcaption></figure>
 

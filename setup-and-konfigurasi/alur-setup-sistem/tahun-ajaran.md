@@ -10,11 +10,11 @@ Video \[]
 
 **Tahun Ajaran** pada Odoo Pesantren digunakan sebagai acuan periode kegiatan belajar mengajar. Dengan adanya data Tahun Ajaran, sistem dapat mengatur jadwal akademik, periode tagihan, serta termin pembayaran sesuai dengan waktu yang berlaku di pesantren.
 
-### Langkah-Langkah Membuat Tahun Ajaran Baru
+### Membuat Tahun Ajaran Baru
 
 Berikut adalah langkah-langkah cara membuat tahun ajaran baru pada Odoo Pesantren.
 
-1.  **Buka Modul Sekolah**, lalu klik menu **Pengaturan** dan pilih submenu **Tahun Ajaran**.
+1.  **Buka Modul Sekolah**, lalu klik menu **Pengaturan** kemudian pilih submenu **Tahun Ajaran**.
 
     <figure><img src="../../.gitbook/assets/images-14.png" alt=""><figcaption></figcaption></figure>
 
@@ -56,7 +56,7 @@ Berikut adalah langkah-langkah cara membuat tahun ajaran baru pada Odoo Pesantre
 
 Agar tahun ajaran yang sudah dibuat dapat digunakan secara aktif di seluruh modul yang berhubungan dengan akademik dan keuangan, perlu dilakukan konfigurasi pada induk perusahaan di Odoo Pesantren.
 
-### Langkah-Langkah Mengaktifkan Tahun Ajaran
+### Mengaktifkan Tahun Ajaran
 
 Berikut adalah langkah-langkah untuk mengaktifkan tahun ajaran di induk perusahaan yang dipakai pada Odoo Pesantren.
 

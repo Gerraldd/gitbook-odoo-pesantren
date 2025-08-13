@@ -10,7 +10,7 @@ Video \[]
 
 Pada bagian pemasok, pengguna dapat menambahkan informasi pemasok yang berhubungan dengan kegiatan usaha. Data ini penting untuk mengelola hubungan dengan pemasok barang maupun jasa, serta digunakan dalam transaksi pembelian dan pengelolaan stok.
 
-### Langkah-Langkah Menambahkan Data Pemasok
+### Menambahkan Data Pemasok
 
 Berikut adalah langkah-langkah untuk menambahkan data pemasok pada Odoo Pesantren.
 

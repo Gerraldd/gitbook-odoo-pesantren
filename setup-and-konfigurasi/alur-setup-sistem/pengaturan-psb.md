@@ -8,9 +8,13 @@ Video \[]
 
 ## Pengaturan Pendaftaran Santri Baru
 
-Berikut adalah langkah-langkah cara mengkonfigurasi beberapa pengaturan pendaftaran santri baru.
 
-1.  **Buka Modul PSB**, lalu klik menu **Pengaturan** dan pilih submenu **Pengaturan PSB**.
+
+### Mengkonfigurasi Pengaturan Pendaftaran Santri Baru
+
+Berikut adalah langkah-langkah cara mengkonfigurasi beberapa pengaturan pendaftaran santri baru pada Odoo Pesantren.
+
+1.  **Buka Modul PSB**, lalu klik menu **Pengaturan** kemudian pilih submenu **Pengaturan PSB**.
 
     <figure><img src="../../.gitbook/assets/images-24.png" alt=""><figcaption></figcaption></figure>
 

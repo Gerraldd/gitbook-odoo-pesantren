@@ -8,13 +8,13 @@ Video \[]
 
 ## Master Data - Orang Tua
 
-Orang Tua merupakan data utama yang berfungsi untuk menghubungkan santri dengan wali mereka dalam sistem Odoo Pesantren. Dengan menambahkan data orang tua, pihak pesantren dapat mengelola informasi identitas orang tua serta mengaitkannya dengan anak (santri) yang bersangkutan.
+**Orang Tua** merupakan data utama yang berfungsi untuk menghubungkan santri dengan wali mereka dalam sistem Odoo Pesantren. Dengan menambahkan data orang tua, pihak pesantren dapat mengelola informasi identitas orang tua serta mengaitkannya dengan anak (santri) yang bersangkutan.
 
-### Langkah-Langkah Menambahkan Orang Tua
+### Menambahkan Orang Tua
 
 Berikut adalah langkah-langkah untuk menambahkan data orang tua pada Odoo Pesantren:
 
-1.  Buka modul **Kesantrian**, lalu klik menu **Kesantrian** dan pilih submenu **Orang Tua**.
+1.  Buka modul **Kesantrian**, lalu klik menu **Kesantrian** kemudian pilih submenu **Orang Tua**.
 
     <figure><img src="../../.gitbook/assets/images-128.png" alt=""><figcaption></figcaption></figure>
 
@@ -47,7 +47,7 @@ Berikut adalah langkah-langkah untuk menambahkan data orang tua pada Odoo Pesant
 
     <figure><img src="../../.gitbook/assets/images-132.png" alt=""><figcaption></figcaption></figure>
 
-### Langkah-Langkah Mengaitkan Data Orang Tua ke Santri
+### Mengaitkan Data Orang Tua ke Santri
 
 Berikut adalah langkah-langkah untuk mengaitkan data orang tua ke Santri pada Odoo Pesantren:
 

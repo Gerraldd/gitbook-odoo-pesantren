@@ -10,7 +10,7 @@ Video \[]
 
 Jenis Prestasi adalah data master yang digunakan untuk mendefinisikan kategori prestasi yang dapat diraih oleh santri, baik dalam bidang akademik, non-akademik, maupun lomba tertentu. Data ini akan digunakan sebagai acuan saat mencatat prestasi santri di sistem.
 
-### Langkah-Langkah Menambahkan Jenis Prestasi
+### Menambahkan Jenis Prestasi
 
 Berikut adalah langkah-langkah untuk menambahkan jenis prestasi pada Odoo Pesantren.
 

@@ -14,7 +14,7 @@ Video \[]
 
 Berikut adalah langkah-langkah untuk mengkonfigurasi gudang pada Odoo Pesantren.
 
-1.  Buka modul **Stok Persediaan**, lalu klik menu **Konfigurasi** dan pilih submenu **Gudang**.
+1.  Buka modul **Stok Persediaan**, lalu klik menu **Konfigurasi** kemudian pilih submenu **Gudang**.
 
     <figure><img src="../../../.gitbook/assets/images-505.png" alt=""><figcaption></figcaption></figure>
 

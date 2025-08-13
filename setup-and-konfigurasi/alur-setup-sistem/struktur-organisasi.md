@@ -10,7 +10,7 @@ Video \[]
 
 Struktur Organisasi pada Odoo Pesantren digunakan untuk membangun hierarki kerja di pesantren, mulai dari **Departemen**, **Jabatan Kerja**, hingga hubungan antara karyawan dengan manajernya. Dengan konfigurasi ini, pengguna dapat melihat secara visual **bagan organisasi** sehingga jelas siapa bertanggung jawab kepada siapa.
 
-### Alur Konfigurasi Struktur Organisasi
+### Alur Konfigurasi Struktur Organisasi dalam Divisi Perusahaan
 
 Alur pembuatan struktur organisasi dimulai dari **membuat departemen**, kemudian dilanjutkan dengan **konfigurasi jabatan kerja**, setelah itu **mengaitkan jabatan pada karyawan**, dan terakhir **melihat bagan organisasi**.
 
@@ -47,7 +47,7 @@ Pertama-tama, buat departemen yang akan menjadi unit organisasi utama. Berikut l
 
 Setelah departemen dibuat, langkah berikutnya adalah membuat jabatan kerja di dalam departemen tersebut. Berikut langkah-langkahnya:
 
-1.  Pada modul yang sama, klik menu **Konfigurasi** lalu pilih submenu **Jabatan Kerja**.
+1.  Pada modul yang sama, klik menu **Konfigurasi** kemudian pilih submenu **Jabatan Kerja**.
 
     <figure><img src="../../.gitbook/assets/images-101.png" alt=""><figcaption></figcaption></figure>
 

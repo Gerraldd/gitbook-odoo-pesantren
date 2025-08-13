@@ -10,7 +10,7 @@ Video \[]
 
 Sesi Tahfidz pada Odoo Pesantren digunakan untuk mengatur pembagian waktu atau sesi kegiatan tahfidz Al-Qur’an bagi santri. Dengan adanya sesi, proses penjadwalan hafalan menjadi lebih terstruktur dan mudah dipantau.
 
-### Langkah-Langkah Menambahkan Sesi Tahfidz
+### Menambahkan Sesi Tahfidz
 
 Berikut adalah langkah-langkah untuk menambahkan data Sesi Tahfidz pada Odoo Pesantren:
 

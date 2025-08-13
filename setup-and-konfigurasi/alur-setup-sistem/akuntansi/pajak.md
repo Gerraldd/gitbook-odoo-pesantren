@@ -10,11 +10,11 @@ Video \[]
 
 Pajak adalah konfigurasi pada modul **Penagihan** yang digunakan untuk mendefinisikan tarif dan jenis pajak yang berlaku pada transaksi penjualan maupun pembelian di pesantren, misalnya PPN. Pajak ini nantinya akan otomatis ditarik ketika membuat faktur pelanggan atau tagihan pemasok.
 
-### Langkah-langkah membuat pajak baru
+### Menambahkan Pajak Baru
 
 Berikut adalah langkah-langkah untuk membuat pajak baru misalnya pajak penjualan dan pajak pembelian.
 
-1.  Buka **Modul Penagihan**, lalu klik menu **Pengaturan** dan pilih submenu **Pajak**.
+1.  Buka **Modul Penagihan**, lalu klik menu **Pengaturan** kemudian pilih submenu **Pajak**.
 
     <figure><img src="../../../.gitbook/assets/images-54.png" alt=""><figcaption></figcaption></figure>
 

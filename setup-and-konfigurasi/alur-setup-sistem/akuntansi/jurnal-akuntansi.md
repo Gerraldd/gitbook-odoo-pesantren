@@ -12,11 +12,11 @@ Jurnal adalah wadah pencatatan transaksi keuangan di Odoo yang berfungsi untuk m
 
 Dalam Odoo Pesantren, jurnal digunakan untuk mencatat transaksi seperti penerimaan pembayaran dari orang tua, pembayaran tagihan ke pemasok, transaksi kas dan bank, hingga pengelolaan dompet santri.
 
-### Langkah-langkah Konfigurasi Jurnal Akuntansi
+### Mengkonfigurasi Jurnal Akuntansi
 
 Berikut adalah langkah-langkah cara mengkonfiugrasi jurnal akuntansi agar dapat mencatat transaksi dengan baik.
 
-1.  Buka **Modul Penagihan**, lalu klik menu **Konfigurasi** dan pilih submenu **Jurnal-jurnal.**
+1.  Buka **Modul Penagihan**, lalu klik menu **Konfigurasi** kemudian pilih submenu **Jurnal-jurnal.**
 
     <figure><img src="../../../.gitbook/assets/images-44.png" alt=""><figcaption></figcaption></figure>
 

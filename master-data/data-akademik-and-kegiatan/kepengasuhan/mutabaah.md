@@ -10,7 +10,7 @@ Video \[]
 
 Mutaba’ah berfungsi untuk mendata jenis-jenis kegiatan yang harus dilakukan santri dalam keseharian mereka, seperti ibadah, kedisiplinan, kebersihan, dan kegiatan lain yang ditentukan oleh pesantren. Data ini menjadi acuan saat pencatatan mutaba’ah harian santri.
 
-### Langkah-Langkah Menambahkan Mutaba'ah
+### Menambahkan Mutaba'ah
 
 Berikut adalah langkah-langkah untuk menambahkan mutaba'ah pada Odoo Pesantren.
 

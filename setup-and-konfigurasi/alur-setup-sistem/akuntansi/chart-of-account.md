@@ -10,11 +10,11 @@ Video \[]
 
 Chart of Account (COA) adalah daftar akun-akun yang digunakan untuk mencatat transaksi keuangan pesantren, seperti kas, bank, piutang, pendapatan, dan beban.
 
-### Langkah-langkah Konfigurasi Chart of Account
+### Mengkonfigurasi Chart of Account
 
 Berikut langkah-langkah cara mengkonfiurasi chart of account di Odoo Pesantren.
 
-1.  Buka **Modul Penagihan**, lalu klik menu **Konfigurasi** dan pilih submenu **Bagan Akun/Chart of Account**.
+1.  Buka **Modul Penagihan**, lalu klik menu **Konfigurasi** kemudian pilih submenu **Bagan Akun/Chart of Account**.
 
     <figure><img src="../../../.gitbook/assets/images-40.png" alt=""><figcaption></figcaption></figure>
 

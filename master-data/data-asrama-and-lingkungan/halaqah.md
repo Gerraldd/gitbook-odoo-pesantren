@@ -10,7 +10,7 @@ Video \[]
 
 Data Halaqah pada Odoo Pesantren digunakan untuk mendata kelompok-kelompok belajar Al-Qur’an yang terdiri dari beberapa santri di bawah bimbingan seorang ustadz atau musyrif.
 
-### Langkah-Langkah Menambahkan Halaqah
+### Menambahkan Pembagian Halaqah
 
 Berikut adalah langkah-langkah untuk menambahkan halaqah pada Odoo Pesantren.
 

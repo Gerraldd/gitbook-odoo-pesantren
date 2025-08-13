@@ -10,7 +10,7 @@ Video \[]
 
 Produk adalah barang atau jasa yang dijual atau dikelola dalam sistem Odoo Pesantren. Data produk digunakan untuk transaksi penjualan, pembelian, serta pencatatan stok. Produk bisa berupa barang fisik, layanan, maupun produk kombinasi (combo). Pengelolaan data ini sangat penting untuk operasional koperasi, kantin, percetakan, dan unit usaha pesantren lainnya.
 
-### Langkah-Langkah Menambahkan Produk
+### Menambahkan Produk
 
 Berikut adalah langkah-langkah untuk menambahkan data produk pada Odoo Pesantren
 

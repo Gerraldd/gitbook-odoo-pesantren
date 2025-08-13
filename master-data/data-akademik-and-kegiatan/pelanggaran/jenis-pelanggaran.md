@@ -10,7 +10,7 @@ Video \[]
 
 Data Jenis Pelanggaran pada Odoo Pesantren digunakan untuk menyimpan daftar jenis pelanggaran yang dilakukan santri yang nantinya akan memuat informasi data pelanggaran yang masuk ke dalam jenis pelanggaran tersebut.
 
-### Langkah-Langkah Menambahkan Jenis Pelanggaran
+### Menambahkan Jenis Pelanggaran
 
 Berikut adalah langkah-langkah untuk menambahkan jenis pelanggaran.
 

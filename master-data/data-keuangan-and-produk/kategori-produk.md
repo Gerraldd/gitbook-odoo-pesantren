@@ -10,7 +10,7 @@ Video \[]
 
 Kategori Produk berfungsi untuk mengelompokkan berbagai jenis produk yang digunakan atau dijual dalam lingkungan pesantren. Pengelompokan ini penting untuk memudahkan pengelolaan inventaris, penjualan, pembelian, maupun distribusi produk kepada santri atau unit lain.
 
-### Langkah-Langkah Menambahkan Kategori Produk
+### Menambahkan Kategori Produk
 
 Berikut adalah langkah-langkah untuk menambahkan kategori produk pada Odoo Pesantren.
 

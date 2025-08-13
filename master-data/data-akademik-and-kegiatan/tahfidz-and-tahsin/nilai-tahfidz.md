@@ -10,7 +10,7 @@ Video \[]
 
 Data Nilai Tahfidz pada Odoo Pesantren digunakan untuk menyimpan referensi kategori penilaian kemampuan hafalan Al-Qur’an santri. Data ini berfungsi sebagai standar evaluasi dalam program tahfidz, baik untuk ujian, pelaporan, maupun penentuan kelulusan. Setiap entri berisi nama nilai (seperti Mumtaz, Jayyid Jiddan, dsb) dan status kelulusan. Jika diperlukan, pengguna dapat menyesuaikan atau menambahkan nilai baru sesuai kebutuhan lembaga.
 
-### Langkah-Langkah Menambahkan Nilai Tahfidz
+### Menambahkan Nilai Tahfidz
 
 Berikut adalah langkah-langkah untuk menambakan nilai tahfidz pada Odoo Pesanntren.
 

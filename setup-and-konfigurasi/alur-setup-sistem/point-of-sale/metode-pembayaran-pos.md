@@ -12,7 +12,7 @@ Metode Pembayaran POS adalah konfigurasi di modul **Point of Sale** yang digunak
 
 ### Langkah-langkah konfigurasi metode pembayaran POS
 
-1.  Buka **Modul POS**, lalu klik menu **Pengaturan** dan pilih submenu **Metode-Metode Pembayaran**.
+1.  Buka **Modul POS**, lalu klik menu **Pengaturan** kemudian pilih submenu **Metode-Metode Pembayaran**.
 
     <figure><img src="../../../.gitbook/assets/images-62.png" alt=""><figcaption></figcaption></figure>
 

@@ -6,13 +6,13 @@ icon: book-quran
 
 ## Master Data - Al-Qur'an
 
-Data Al‑Qur’an pada Odoo Pesantren sudah tersedia secara lengkap mulai dari Surah Al‑Fatihah hingga An‑Nas beserta rincian ayatnya. Field ayat pada menu ini bersifat **readonly** sehingga tidak dapat diubah, namun sistem tetap menyediakan tombol “Baru” jika ingin menambahkan surah baru secara manual (meski biasanya tidak diperlukan).
+**Data Al‑Qur’an** pada Odoo Pesantren sudah tersedia secara lengkap mulai dari Surah Al‑Fatihah hingga An‑Nas beserta rincian ayatnya. Field ayat pada menu ini bersifat **readonly** sehingga tidak dapat diubah, namun sistem tetap menyediakan tombol “Baru” jika ingin menambahkan surah baru secara manual (meski biasanya tidak diperlukan).
 
-### Langkah-Langkah Melihat/Mengakses Al-Qur'an
+### Melihat/Mengakses Al-Qur'an
 
 Berikut adalah langkah-langkah untuk melihat/mengakses data Al-Qur'an pada Odoo Pesantren.
 
-1.  Buka modul **Kesantrian**, lalu klik menu **Pengaturan** dan pilih submenu **Al-Qur'an**.
+1.  Buka modul **Kesantrian**, lalu klik menu **Pengaturan** kemudian pilih submenu **Al-Qur'an**.
 
     <figure><img src="../../../.gitbook/assets/images-138.png" alt=""><figcaption></figcaption></figure>
 

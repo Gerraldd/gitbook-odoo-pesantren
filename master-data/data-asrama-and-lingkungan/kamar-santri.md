@@ -10,7 +10,7 @@ Video \[]
 
 Kamar Santri merupakan data master yang digunakan untuk mengatur dan mencatat pembagian santri ke dalam kamar atau asrama, lengkap dengan musyrif/pembina yang bertanggung jawab.
 
-### Langkah-Langkah Menambah dan Membagikan Kamar Santri
+### Menambahkan Pembagian Kamar Santri
 
 Berikut adalah langkah-langkah untuk menambah dan membagikan kamar santri pada Odoo Pesantren.
 

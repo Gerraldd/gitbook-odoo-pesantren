@@ -12,7 +12,7 @@ Sesi POS adalah konfigurasi pada modul **Point of Sale** yang digunakan untuk me
 
 ### Langkah-langkah membuat sesi POS
 
-1.  Buka **Modul POS**, lalu klik menu **Pengaturan** dan pilih submenu **POS**.
+1.  Buka **Modul POS**, lalu klik menu **Pengaturan** kemudian pilih submenu **POS**.
 
     <figure><img src="../../../.gitbook/assets/images-66.png" alt=""><figcaption></figcaption></figure>
 

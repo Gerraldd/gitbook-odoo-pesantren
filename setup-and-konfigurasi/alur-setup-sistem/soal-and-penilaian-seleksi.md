@@ -12,7 +12,7 @@ Konfigurasi soal dan penilaian seleksi pada Odoo Pesantren digunakan untuk menga
 
 Berikut adalah langkah-langkah cara mengkonfigurasi soal & penilaian soal untuk pendaftaran santri baru.
 
-1.  Buka **modul PSB**, lalu klik menu **Pengaturan** dan pilih submenu **Penilaian Seleksi**.
+1.  Buka **modul PSB**, lalu klik menu **Pengaturan** kemudian pilih submenu **Penilaian Seleksi**.
 
     <figure><img src="../../.gitbook/assets/images-294.png" alt=""><figcaption></figcaption></figure>
 

@@ -10,7 +10,7 @@ Video \[]
 
 Data Pelanggaran pada Odoo Pesantren digunakan untuk menyimpan daftar pelanggaran yang mungkin dilakukan oleh santri dalam kehidupan sehari-hari di lingkungan pesantren. Data ini berfungsi sebagai referensi tetap yang digunakan saat mengisi laporan pelanggaran santri oleh musyrif, guru, atau petugas disiplin. Pelanggaran yang dicatat dapat berupa pelanggaran ringan, sedang, maupun berat, sesuai dengan peraturan pesantren yang berlaku.
 
-### Langkah-Langkah Menambahkan Data Pelanggaran
+### Menambahkan Data Pelanggaran
 
 Berikut adalah langkah-langkah untuk menambahkan data pelanggaran pada Odoo Pesantren.
 

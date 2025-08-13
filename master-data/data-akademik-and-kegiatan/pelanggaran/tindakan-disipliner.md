@@ -10,7 +10,7 @@ Video \[]
 
 Data Tindakan Disipliner pada Odoo Pesantren digunakan untuk mencatat jenis-jenis penanganan atau sanksi yang diberikan kepada santri setelah melakukan pelanggaran tertentu. Data ini bersifat referensial dan dipakai dalam proses pelaporan serta eksekusi sanksi. Dengan data ini, sistem dapat menyesuaikan jenis tindakan yang diberikan sesuai tingkat pelanggaran dan kebijakan pesantren.
 
-### Langkah-Langkah Menambahkan Tindakan Disipliner
+### Menambahkan Tindakan Disipliner
 
 Berikut adalah langkah-langkah untuk menambahkan tindakan disipliner pada Odoo Pesantren.
 

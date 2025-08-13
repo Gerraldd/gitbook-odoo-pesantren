@@ -14,7 +14,7 @@ Video \[]
 
 Berikut adalah langkah-langkah untuk mengkonfigurasi pengaturan donasi pada Odoo Pesantren.
 
-1.  Buka modul **Keuangan**, lalu klik menu **Donasi** dan pilih submenu **Pengaturan Donasi**.
+1.  Buka modul **Keuangan**, lalu klik menu **Donasi** kemudian pilih submenu **Pengaturan Donasi**.
 
     <figure><img src="../../.gitbook/assets/images-306.png" alt=""><figcaption></figcaption></figure>
 

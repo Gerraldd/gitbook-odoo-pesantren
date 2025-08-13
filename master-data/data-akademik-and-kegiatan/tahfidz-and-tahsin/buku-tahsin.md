@@ -10,7 +10,7 @@ Video \[]
 
 Data Buku Tahsin pada Odoo Pesantren digunakan untuk menyimpan daftar referensi buku atau modul pembelajaran tahsin yang digunakan dalam proses pengajaran baca tulis Al-Qur’an. Data ini mendukung proses pembelajaran bagi para santri.
 
-### Langkah-Langkah Menambahkan Data Buku Tahsin
+### Menambahkan Data Buku Tahsin
 
 Berikut adalah langkah-langkah untuk menambahkan data buku tahsin pada Odoo Pesantren.
 

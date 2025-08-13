@@ -10,7 +10,7 @@ Video \[]
 
 Kategori Produk POS digunakan untuk mengelompokkan produk khusus di Point of Sale (POS). Dengan adanya kategori ini, produk dapat ditampilkan lebih rapi saat transaksi penjualan dilakukan di kasir POS.
 
-### Langkah-Langkah Menambahkan Kategori Produk POS
+### Menambahkan Kategori Produk POS
 
 Berikut adalah langkah-langkah untuk menambahkan kategori produk POS pada Odoo Pesantren.
 

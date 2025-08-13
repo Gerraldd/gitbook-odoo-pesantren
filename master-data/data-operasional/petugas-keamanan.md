@@ -8,13 +8,13 @@ Video \[]
 
 ## Master Data - Petugas Keamanan
 
-Petugas Keamanan adalah karyawan yang bertugas menjaga keamanan, mengawasi izin keluar/masuk santri, serta mendukung ketertiban lingkungan pesantren. Data Petugas Keamanan perlu dicatat di sistem agar dapat dikelola dan dimonitor dengan baik.
+**Petugas Keamanan** adalah karyawan yang bertugas menjaga keamanan, mengawasi izin keluar/masuk santri, serta mendukung ketertiban lingkungan pesantren. Data Petugas Keamanan perlu dicatat di sistem agar dapat dikelola dan dimonitor dengan baik.
 
-### Langkah-Langkah Menambahkan Petugas Keamanan
+### Menambahkan Petugas Keamanan
 
 Berikut adalah langkah-langkah untuk menambahkan data Petugas Keamanan pada Odoo Pesantren:
 
-1.  Buka **modul Karyawan**, lalu klik menu **Karyawan** dan pilih submenu **Karyawan**.
+1.  Buka **modul Karyawan**, lalu klik menu **Karyawan** kemudian pilih submenu **Karyawan**.
 
     <figure><img src="../../.gitbook/assets/images-118.png" alt=""><figcaption></figcaption></figure>
 

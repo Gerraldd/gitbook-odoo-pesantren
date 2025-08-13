@@ -10,7 +10,7 @@ Video \[]
 
 Data Sesi Mutabaah pada Odoo Pesantren digunakan untuk mencatat aktivitas pemantauan harian (mutabaah yaumiyah) santri yang mencakup waktu dimulai hingga selesai dan keterangan sesinya.
 
-### Langkah-Langkah Menambahkan Sesi Mutaba'ah
+### Menambahkan Sesi Mutaba'ah
 
 Berikut adalah langkah-langkah untuk menambahkan sesi mutaba'ah pada Odoo Pesantren.
 

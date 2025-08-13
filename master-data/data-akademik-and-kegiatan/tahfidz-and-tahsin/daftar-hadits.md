@@ -10,7 +10,7 @@ Video \[]
 
 Hadits pada Odoo Pesantren digunakan untuk menyimpan koleksi hadits yang menjadi referensi pembelajaran dan hafalan santri. Fitur ini memungkinkan pengguna untuk menambahkan hadits baru lengkap dengan teks arab, terjemahan, dan sumbernya.
 
-### Langkah-Langkah Menambahkan Daftar Hadits
+### Menambahkan Daftar Hadits
 
 1.  Buka modul **Kesantrian**, lalu klik menu **Pengaturan** dan pilih submenu **Daftar Hadits**.
 

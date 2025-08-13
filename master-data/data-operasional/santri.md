@@ -8,13 +8,13 @@ Video \[]
 
 ## Master Data - Santri
 
-Santri merupakan salah satu data utama yang harus dikelola dalam sistem Odoo Pesantren. Dengan menginput data santri, pihak pesantren dapat mengatur berbagai informasi terkait identitas, pendidikan, serta aktivitas santri di pesantren.
+**Santri** merupakan salah satu data utama yang harus dikelola dalam sistem Odoo Pesantren. Dengan menginput data santri, pihak pesantren dapat mengatur berbagai informasi terkait identitas, pendidikan, serta aktivitas santri di pesantren.
 
-### Langkah-Langkah Menambahkan Santri
+### Menambahkan Santri
 
 Berikut adalah langkah-langkah untuk menambahkan data santri pada Odoo Pesantren:
 
-1.  Buka modul **Kesantrian**, lalu klik menu **Kesantrian** dan pilih submenu **Santri**.
+1.  Buka modul **Kesantrian**, lalu klik menu **Kesantrian** kemudian pilih submenu **Santri**.
 
     <figure><img src="../../.gitbook/assets/images-123.png" alt=""><figcaption></figcaption></figure>
 

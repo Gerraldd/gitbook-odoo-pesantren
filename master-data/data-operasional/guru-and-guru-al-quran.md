@@ -8,13 +8,13 @@ Video \[]
 
 ## Master Data - Guru
 
-Guru adalah tenaga pengajar umum di pesantren yang bertugas mengajar mata pelajaran sesuai kurikulum yang berlaku. Data guru perlu dicatat di sistem agar dapat dikelola, dimonitor, dan digunakan dalam proses akademik maupun administrasi.
+**Guru** adalah tenaga pengajar umum di pesantren yang bertugas mengajar mata pelajaran sesuai kurikulum yang berlaku. Data guru perlu dicatat di sistem agar dapat dikelola, dimonitor, dan digunakan dalam proses akademik maupun administrasi.
 
-### Langkah-langkah Menambahkan Guru
+### Menambahkan Guru
 
 Berikut adalah langkah-langkah untuk menambahkan data guru pada Odoo Pesantren:
 
-1.  Buka **modul Kesantrian**, lalu klik menu **Kesantrian** dan pilih submenu **Guru**.
+1.  Buka **modul Kesantrian**, lalu klik menu **Kesantrian** kemudian pilih submenu **Guru**.
 
     <figure><img src="../../.gitbook/assets/images-108 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -50,13 +50,13 @@ Berikut adalah langkah-langkah untuk menambahkan data guru pada Odoo Pesantren:
 
 ## Master Data Guru Al-Qur'an
 
-Guru Al-Qur’an adalah tenaga pengajar yang berfokus pada pembelajaran Tahfidz dan Tahsin Al-Qur’an. Data guru Al-Qur’an penting untuk dicatat agar dapat dimonitor dan dilibatkan dalam proses pembelajaran kesantrian.
+**Guru Al-Qur’an** adalah tenaga pengajar yang berfokus pada pembelajaran Tahfidz dan Tahsin Al-Qur’an. Data guru Al-Qur’an penting untuk dicatat agar dapat dimonitor dan dilibatkan dalam proses pembelajaran kesantrian.
 
-### Langkah-Langkah Menambahkan Guru Al-Qur'an
+### Menambahkan Guru Al-Qur'an
 
 Berikut adalah langkah-langkah untuk menambahkan data Guru Al-Qur’an pada Odoo Pesantren:
 
-1.  Pada modul **Kesantrian**, klik menu **Kesantrian** dan pilih submenu **Guru Al-Qur’an**.
+1.  Pada modul **Kesantrian**, klik menu **Kesantrian** kemudian  pilih submenu **Guru Al-Qur’an**.
 
     <figure><img src="../../.gitbook/assets/images-113.png" alt=""><figcaption></figcaption></figure>
 

@@ -10,7 +10,7 @@ Video \[]
 
 Komponen digunakan untuk mendefinisikan berbagai jenis biaya pendidikan santri (misalnya biaya SPP, kegiatan, dll.) serta menentukan nominal per tahun ajaran. Data ini akan menjadi acuan dalam penagihan biaya komponen pendidikan.
 
-### Langkah-Langkah Menambahkan Komponen Biaya
+### Menambahkan Komponen Biaya
 
 Berikut adalah langkah-langkah untuk menambahkan komponen pendidikan pada Odoo Pesantren.
 

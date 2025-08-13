@@ -75,6 +75,5 @@ Berikut adalah langkah-langkah untuk melihat Stok Persediaan pada Odoo Pesantren
     <figure><img src="../../.gitbook/assets/images-717.png" alt=""><figcaption></figcaption></figure>
 
 
-14.
-15. Data ini menghitung stok tersedia ditambah stok masuk, dikurangi stok keluar, berdasarkan transaksi pembelian, penjualan, atau pengiriman yang sudah dijadwalkan. Dengan laporan ini, Anda dapat mengantisipasi potensi kekurangan stok dan merencanakan pembelian dengan tepat waktu.
+14. Data ini menghitung stok tersedia ditambah stok masuk, dikurangi stok keluar, berdasarkan transaksi pembelian, penjualan, atau pengiriman yang sudah dijadwalkan. Dengan laporan ini, Anda dapat mengantisipasi potensi kekurangan stok dan merencanakan pembelian dengan tepat waktu.
 

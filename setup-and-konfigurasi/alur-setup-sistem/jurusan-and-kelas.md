@@ -10,7 +10,7 @@ Video \[]
 
 Berikut adalah langkah-langkah cara menambahkan jurusan baru pada Odoo Pesantren.
 
-1.  **Buka Modul Sekolah**, lalu klik menu **Pengaturan** dan pilih submenu **Jurusan**.
+1.  **Buka Modul Sekolah**, lalu klik menu **Pengaturan** kemudian pilih submenu **Jurusan**.
 
     <figure><img src="../../.gitbook/assets/images-29.png" alt=""><figcaption></figcaption></figure>
 

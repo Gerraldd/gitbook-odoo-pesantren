@@ -10,9 +10,11 @@ Video \[]
 
 Mata Uang adalah konfigurasi di modul **Penagihan** yang digunakan untuk mengatur jenis mata uang yang dipakai dalam transaksi, baik untuk penjualan maupun pembelian. Sistem Odoo memungkinkan penggunaan lebih dari satu mata uang (multi currency), misalnya Rupiah (IDR) dan Dollar Amerika (USD), dengan kurs yang bisa diatur secara manual.
 
-### Langkah-langkah untuk mengaktifkan Mata Uang pada Perusahaan
+### Konfigurasi Mata Uang pada Perusahaan
 
-1.  Buka **Modul Penagihan**, lalu klik menu **Pengaturan** dan pilih submenu **Mata Uang**.
+Berikut adalah langkah-langkah untuk mengkonfigurasi mata uang di perusahaan pada Odoo Pesantren.
+
+1.  Buka **Modul Penagihan**, lalu klik menu **Pengaturan** kemudian pilih submenu **Mata Uang**.
 
     <figure><img src="../../../.gitbook/assets/images-58.png" alt=""><figcaption></figcaption></figure>
 

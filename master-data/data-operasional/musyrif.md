@@ -8,13 +8,13 @@ Video \[]
 
 ## Master Data - Data Musyrif
 
-Data Musyrif digunakan untuk mencatat identitas musyrif (pembimbing asrama) yang bertanggung jawab terhadap santri. Data ini wajib diinput agar musyrif bisa dikaitkan dengan santri, kamar, serta aktivitas kesantrian.
+**Data Musyrif** digunakan untuk mencatat identitas musyrif (pembimbing asrama) yang bertanggung jawab terhadap santri. Data ini wajib diinput agar musyrif bisa dikaitkan dengan santri, kamar, serta aktivitas kesantrian.
 
-### Langkah-Langkah Menambahkan Musyrif
+### Menambahkan Musyrif
 
 Berikut adalah langkah-langkah untuk menambahkan musyrif pada Odoo Pesantren.
 
-1.  Buka **modul Kesantrian**, lalu klik menu **Kesantrian** dan pilih submenu **Musyrif**.
+1.  Buka **modul Kesantrian**, lalu klik menu **Kesantrian** kemudian pilih submenu **Musyrif**.
 
     <figure><img src="../../.gitbook/assets/images-103.png" alt=""><figcaption></figcaption></figure>
 
@@ -45,3 +45,6 @@ Berikut adalah langkah-langkah untuk menambahkan musyrif pada Odoo Pesantren.
 5.  Data musyrif berhasil disimpan dan dapat digunakan untuk mengelola santri, absensi, mutaba’ah, serta aktivitas kesantrian lainnya.
 
     <figure><img src="../../.gitbook/assets/images-108.png" alt=""><figcaption></figcaption></figure>
+
+
+

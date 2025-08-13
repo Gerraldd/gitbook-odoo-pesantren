@@ -14,7 +14,7 @@ Video \[]
 
 Berikut adalah langkah-langkah untuk mengkonfigurasi lokasi dalam gudang pada Odoo Pesantren.
 
-1.  Buka modul **Stok Persediaan**, lalu klik menu **Konfigurasi** dan pilih submenu **Lokasi**.
+1.  Buka modul **Stok Persediaan**, lalu klik menu **Konfigurasi** kemudian pilih submenu **Lokasi**.
 
     <figure><img src="../../../.gitbook/assets/images-509.png" alt=""><figcaption></figcaption></figure>
 

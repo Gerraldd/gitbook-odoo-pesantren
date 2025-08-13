@@ -10,7 +10,7 @@ VIdeo \[]
 
 Kategori Mutaba’ah pada Odoo Pesantren digunakan untuk mendata jenis-jenis mutaba’ah santri, misalnya ibadah, kedisiplinan, atau kebersihan. Data ini menjadi acuan saat mencatat aktivitas mutaba’ah harian santri.
 
-### Langkah-Langkah Menambahkan Data Kategori Mutaba'ah
+### Menambahkan Data Kategori Mutaba'ah
 
 Berikut adalah langkah-langkah menambahkan data kategori mutaba'ah di Odoo Pesantren.
 
