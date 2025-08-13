@@ -1,6 +1,0 @@
----
-icon: boxes-stacked
----
-
-# Penilaian
-

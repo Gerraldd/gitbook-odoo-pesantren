@@ -223,7 +223,7 @@
   * [Lokasi](laporan-laporan/laporan-stok-persediaan/lokasi.md)
   * [Sejarah Pergerakan](laporan-laporan/laporan-stok-persediaan/sejarah-pergerakan.md)
   * [Analisis Pergerakan](laporan-laporan/laporan-stok-persediaan/analisis-pergerakan.md)
-  * [Penilaian](laporan-laporan/laporan-stok-persediaan/penilaian.md)
+  * [Penilaian Stok](laporan-laporan/laporan-stok-persediaan/penilaian-stok.md)
 * [Laporan Penagihan](laporan-laporan/laporan-penagihan/README.md)
   * [Laba & Rugi](laporan-laporan/laporan-penagihan/laba-and-rugi.md)
   * [Neraca](laporan-laporan/laporan-penagihan/neraca.md)
