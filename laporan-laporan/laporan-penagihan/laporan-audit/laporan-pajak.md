@@ -1,2 +1,6 @@
+---
+icon: receipt
+---
+
 # Laporan Pajak
 

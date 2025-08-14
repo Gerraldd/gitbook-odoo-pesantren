@@ -4,7 +4,7 @@ icon: user-crown
 
 # Login Admin
 
-Video \[]
+{% embed url="https://youtu.be/zj0ZFKvwjnM" %}
 
 ## Login Admin
 

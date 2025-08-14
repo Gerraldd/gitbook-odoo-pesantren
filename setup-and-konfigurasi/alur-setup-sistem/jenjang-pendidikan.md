@@ -4,7 +4,7 @@ icon: graduation-cap
 
 # Jenjang Pendidikan
 
-Video \[]
+{% embed url="https://youtu.be/D6-JLxK7gO4" %}
 
 ## Jenjang Pendidikan
 

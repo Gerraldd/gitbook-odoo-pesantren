@@ -4,7 +4,7 @@ icon: calendar-lines-pen
 
 # Tahun Ajaran
 
-Video \[]
+{% embed url="https://youtu.be/uLqSZ-j8z2o" %}
 
 ## Tahun Ajaran Baru
 

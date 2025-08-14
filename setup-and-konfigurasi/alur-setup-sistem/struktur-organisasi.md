@@ -4,7 +4,7 @@ icon: sitemap
 
 # Struktur Organisasi
 
-Video \[]
+{% embed url="https://youtu.be/_xFx75qm5tE" %}
 
 ## Konfigurasi Struktur Organisasi
 
