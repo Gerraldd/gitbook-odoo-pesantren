@@ -8,7 +8,7 @@ Video \[]
 
 ## Membuat Pajak Baru di Odoo Pesantren
 
-Pajak adalah konfigurasi pada modul **Penagihan** yang digunakan untuk mendefinisikan tarif dan jenis pajak yang berlaku pada transaksi penjualan maupun pembelian di pesantren, misalnya PPN. Pajak ini nantinya akan otomatis ditarik ketika membuat faktur pelanggan atau tagihan pemasok.
+**Pajak** adalah konfigurasi pada modul **Penagihan** yang digunakan untuk mendefinisikan tarif dan jenis pajak yang berlaku pada transaksi penjualan maupun pembelian di pesantren, misalnya PPN. Pajak ini nantinya akan otomatis ditarik ketika membuat faktur pelanggan atau tagihan pemasok.
 
 ### Menambahkan Pajak Baru
 

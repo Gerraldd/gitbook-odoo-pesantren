@@ -8,7 +8,7 @@ Video \[]
 
 ## Konfigurasi Jurnal Akuntansi Odoo Pesantren
 
-Jurnal adalah wadah pencatatan transaksi keuangan di Odoo yang berfungsi untuk mengelompokkan setiap transaksi berdasarkan jenisnya. Dengan jurnal, setiap transaksi dapat dicatat secara sistematis ke akun-akun pada **Chart of Account (COA)**.
+**Jurnal** adalah wadah pencatatan transaksi keuangan di Odoo yang berfungsi untuk mengelompokkan setiap transaksi berdasarkan jenisnya. Dengan jurnal, setiap transaksi dapat dicatat secara sistematis ke akun-akun pada **Chart of Account (COA)**.
 
 Dalam Odoo Pesantren, jurnal digunakan untuk mencatat transaksi seperti penerimaan pembayaran dari orang tua, pembayaran tagihan ke pemasok, transaksi kas dan bank, hingga pengelolaan dompet santri.
 

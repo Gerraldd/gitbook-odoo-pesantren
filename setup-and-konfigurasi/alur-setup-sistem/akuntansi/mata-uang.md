@@ -6,9 +6,9 @@ icon: circle-dollar
 
 Video \[]
 
-## Konfigurasi Mata Uang Odoo Pesantren
+## Mata Uang
 
-Mata Uang adalah konfigurasi di modul **Penagihan** yang digunakan untuk mengatur jenis mata uang yang dipakai dalam transaksi, baik untuk penjualan maupun pembelian. Sistem Odoo memungkinkan penggunaan lebih dari satu mata uang (multi currency), misalnya Rupiah (IDR) dan Dollar Amerika (USD), dengan kurs yang bisa diatur secara manual.
+**Mata Uang** adalah konfigurasi di modul **Penagihan** yang digunakan untuk mengatur jenis mata uang yang dipakai dalam transaksi, baik untuk penjualan maupun pembelian. Sistem Odoo memungkinkan penggunaan lebih dari satu mata uang (multi currency), misalnya Rupiah (IDR) dan Dollar Amerika (USD), dengan kurs yang bisa diatur secara manual.
 
 ### Konfigurasi Mata Uang pada Perusahaan
 

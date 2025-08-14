@@ -6,11 +6,11 @@ icon: address-card
 
 Video \[]
 
-## Pengaturan Pendaftaran Santri Baru
+## Pengaturan PSB
 
+**Pengaturan PSB (Penerimaan Santri Baru)** pada Odoo Pesantren digunakan untuk menentukan jadwal dan parameter utama proses penerimaan siswa baru. Melalui menu ini, administrator dapat mengatur tanggal mulai dan berakhirnya pendaftaran, jadwal seleksi, pengumuman hasil, serta pengaturan lainnya yang berkaitan dengan proses PSB.
 
-
-### Mengkonfigurasi Pengaturan Pendaftaran Santri Baru
+### Mengkonfigurasi Pengaturan PSB
 
 Berikut adalah langkah-langkah cara mengkonfigurasi beberapa pengaturan pendaftaran santri baru pada Odoo Pesantren.
 

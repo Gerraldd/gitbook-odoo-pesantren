@@ -6,6 +6,10 @@ icon: school
 
 Video \[]
 
+## Jurusan & Kelas
+
+**Jurusan & Kelas** pada Odoo Pesantren digunakan untuk menentukan jurusan pendidikan serta kelas tempat siswa terdaftar. Pengaturan ini biasanya dilakukan saat menginput data siswa baru atau saat mengatur struktur akademik.
+
 ## Membuat Jurusan Baru
 
 Berikut adalah langkah-langkah cara menambahkan jurusan baru pada Odoo Pesantren.

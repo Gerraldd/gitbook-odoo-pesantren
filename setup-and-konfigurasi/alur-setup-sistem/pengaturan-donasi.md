@@ -6,7 +6,7 @@ icon: hand-holding-dollar
 
 Video \[]
 
-## Konfigurasi Pengaturan Donasi
+## Pengaturan Donasi
 
 **Pengaturan Donasi** digunakan untuk menambahkan dan mengelola jenis donasi yang ada di Odoo Pesantren, seperti donasi pembangunan, beasiswa, atau kegiatan sosial lainnya. Administrator dapat menentukan detail donasi mulai dari rekening bank, target donasi, hingga periode kegiatan.
 

@@ -8,7 +8,7 @@ Video \[]
 
 ## Konfigurasi Soal & Penilaian PSB
 
-Konfigurasi soal dan penilaian seleksi pada Odoo Pesantren digunakan untuk mengatur jenis tes seleksi serta soal-soal yang akan diberikan kepada calon santri. Data ini menjadi acuan dalam proses penerimaan santri baru, sehingga hasil seleksi bisa tercatat dan dinilai secara sistematis di sistem.
+Konfigurasi **Soal dan Penilaian Seleksi** pada Odoo Pesantren digunakan untuk mengatur jenis tes seleksi serta soal-soal yang akan diberikan kepada calon santri. Data ini menjadi acuan dalam proses penerimaan santri baru, sehingga hasil seleksi bisa tercatat dan dinilai secara sistematis di sistem.
 
 Berikut adalah langkah-langkah cara mengkonfigurasi soal & penilaian soal untuk pendaftaran santri baru.
 

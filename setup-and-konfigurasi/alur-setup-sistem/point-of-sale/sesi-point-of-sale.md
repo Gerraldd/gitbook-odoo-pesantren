@@ -6,11 +6,13 @@ icon: cash-register
 
 Video \[]
 
-## Membuat Sesi POS
+## Sesi POS
 
-Sesi POS adalah konfigurasi pada modul **Point of Sale** yang digunakan untuk membuat dan mengatur sesi kasir, sehingga transaksi penjualan bisa dicatat secara real-time. Melalui sesi POS ini, pengguna dapat menentukan nama POS, akses login kasir, serta mengontrol jalannya transaksi.
+**Sesi POS** adalah konfigurasi pada modul **Point of Sale** yang digunakan untuk membuat dan mengatur sesi kasir, sehingga transaksi penjualan bisa dicatat secara real-time. Melalui sesi POS ini, pengguna dapat menentukan nama POS, akses login kasir, serta mengontrol jalannya transaksi.
 
-### Langkah-langkah membuat sesi POS
+### Membuat sesi POS baru
+
+Berikut adalah langkah-langkah untuk membuat sesi POS baru pada Odoo Pesantren.
 
 1.  Buka **Modul POS**, lalu klik menu **Pengaturan** kemudian pilih submenu **POS**.
 

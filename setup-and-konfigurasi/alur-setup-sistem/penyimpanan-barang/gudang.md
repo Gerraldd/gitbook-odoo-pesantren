@@ -6,7 +6,7 @@ icon: garage-open
 
 Video \[]
 
-## Konfigurasi Gudang
+## Gudang
 
 **Gudang** pada Odoo Pesantren digunakan untuk mengatur lokasi penyimpanan dan alur distribusi barang. Dengan konfigurasi gudang yang tepat, sistem dapat mengelola penerimaan, penyimpanan, dan pengiriman barang sesuai kebutuhan operasional pesantren.
 

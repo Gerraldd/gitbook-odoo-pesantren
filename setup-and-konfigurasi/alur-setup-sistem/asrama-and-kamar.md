@@ -6,6 +6,10 @@ icon: house-building
 
 Video \[]
 
+## Asrama & Kamar Santri
+
+**Asrama & Kamar Santri** pada Odoo Pesantren berfungsi untuk mengelola data tempat tinggal santri selama berada di lingkungan pesantren. Pengaturan ini memungkinkan administrator untuk mencatat pembagian asrama, penempatan kamar, serta siapa saja santri yang tinggal di masing-masing kamar.
+
 ## Membuat Asrama dan Kamar Santri
 
 Berikut adalah langkah-langkah membuat asrama dan kamar santri.

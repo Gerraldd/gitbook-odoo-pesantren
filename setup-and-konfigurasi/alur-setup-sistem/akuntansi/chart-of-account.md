@@ -6,7 +6,7 @@ icon: memo-pad
 
 Video \[]
 
-## Konfigurasi Chart of Account Odoo Pesantren
+## Chart of Account
 
 Chart of Account (COA) adalah daftar akun-akun yang digunakan untuk mencatat transaksi keuangan pesantren, seperti kas, bank, piutang, pendapatan, dan beban.
 

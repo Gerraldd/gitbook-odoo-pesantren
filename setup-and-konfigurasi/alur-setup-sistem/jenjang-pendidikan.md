@@ -8,7 +8,7 @@ Video \[]
 
 ## Jenjang Pendidikan
 
-
+**Jenjang Pendidikan** pada Odoo Pesantren digunakan untuk mengelompokkan tingkat pendidikan di lembaga, seperti TK, SD, SMP, SMA, atau jenjang lainnya. Data ini biasanya digunakan pada saat pendaftaran siswa, pengelolaan kelas, dan laporan akademik.
 
 ### Membuat Jenjang Pendidikan Baru
 

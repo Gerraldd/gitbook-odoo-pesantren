@@ -6,11 +6,13 @@ icon: credit-card
 
 Video \[]
 
-## Konfigurasi Metode Pembayaran POS
+## Metode Pembayaran POS
 
-Metode Pembayaran POS adalah konfigurasi di modul **Point of Sale** yang digunakan untuk menentukan cara pembayaran transaksi penjualan, misalnya **Tunai, Transfer Bank, Dompet Santri, atau E-Wallet**. Dengan pengaturan ini, sistem dapat mencatat transaksi sesuai jurnal dan akun yang terhubung.
+**Metode Pembayaran POS** adalah konfigurasi di modul **Point of Sale** yang digunakan untuk menentukan cara pembayaran transaksi penjualan, misalnya **Tunai, Transfer Bank, Dompet Santri, atau E-Wallet**. Dengan pengaturan ini, sistem dapat mencatat transaksi sesuai jurnal dan akun yang terhubung.
 
-### Langkah-langkah konfigurasi metode pembayaran POS
+### Mengkonfigurasi Metode Pembayaran POS
+
+Berikut adalah langkah-langkah untuk mengkonfigurasi metode pembayaran POS pada Odoo Pesantren.
 
 1.  Buka **Modul POS**, lalu klik menu **Pengaturan** kemudian pilih submenu **Metode-Metode Pembayaran**.
 
