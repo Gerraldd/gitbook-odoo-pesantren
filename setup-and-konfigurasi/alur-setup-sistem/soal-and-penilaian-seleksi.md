@@ -32,7 +32,7 @@ Berikut adalah langkah-langkah cara mengkonfigurasi soal & penilaian soal untuk 
     <figure><img src="../../.gitbook/assets/images-296.png" alt=""><figcaption></figcaption></figure>
 
 
-4. Untuk menambahkan soal seleksi, klik text "Tambahkan baris".&#x20;
+4. Untuk menambahkan soal seleksi, klik text **"Tambahkan baris"**.&#x20;
 5.  Lalu akan tampil form soal seleksi, isi inputan seperti:
 
     * Nama Soal
