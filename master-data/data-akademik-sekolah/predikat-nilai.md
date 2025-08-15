@@ -41,4 +41,6 @@ Berikut adalah langkah-langkah untuk menambahkan predikat nilai pada Odoo Pesant
     <figure><img src="../../.gitbook/assets/images-293.png" alt=""><figcaption></figcaption></figure>
 
 
-5. Data Predikat Nilai berhasil disimpan dan dapat digunakan secara otomatis dalam proses penilaian santri.
+5.  Data Predikat Nilai Akademik atau Ekstrakulikuler berhasil disimpan dan dapat digunakan secara otomatis dalam proses penilaian santri.
+
+    <figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
