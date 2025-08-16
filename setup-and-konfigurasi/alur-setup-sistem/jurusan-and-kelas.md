@@ -4,7 +4,7 @@ icon: school
 
 # Jurusan & Kelas
 
-Video \[]
+{% embed url="https://youtu.be/BwCnFMt_CT4" %}
 
 ## Jurusan & Kelas
 

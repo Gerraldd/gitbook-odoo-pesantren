@@ -4,7 +4,7 @@ icon: address-card
 
 # Pengaturan PSB
 
-Video \[]
+{% embed url="https://youtu.be/cS30b-8TP9A" %}
 
 ## Pengaturan PSB
 
