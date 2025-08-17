@@ -43,3 +43,13 @@ Berikut adalah langkah-langkah untuk menambahkan data pemasok pada Odoo Pesantre
 
 
 5. Data Pemasok berhasil disimpan dan dapat digunakan pada transaksi pembelian maupun pengaturan stok persediaan.
+
+### Edit Data Pemasok
+
+Untuk mengedit suatu data pemasok, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data pemasok dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+***
+
+{% hint style="danger" %}
+Data **Pemasok** tidak dapat dihapus dari sistem. Anda hanya diperbolehkan melakukan **perubahan atau pembaruan data** pada entri Pemasok yang sudah ada.
+{% endhint %}

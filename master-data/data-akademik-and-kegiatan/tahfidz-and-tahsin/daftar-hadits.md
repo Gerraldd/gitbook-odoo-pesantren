@@ -39,3 +39,9 @@ Hadits pada Odoo Pesantren digunakan untuk menyimpan koleksi hadits yang menjadi
 
 
 5. Hadits berhasil disimpan dan dapat digunakan sebagai referensi hafalan atau penilaian santri.
+
+### Edit dan Hapus Data Hadits
+
+Untuk mengedit suatu data hadits, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data hadits dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data hadits adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.

@@ -8,7 +8,7 @@ Video \[]
 
 ## Master Data - Komponen Biaya
 
-Komponen digunakan untuk mendefinisikan berbagai jenis biaya pendidikan santri (misalnya biaya SPP, kegiatan, dll.) serta menentukan nominal per tahun ajaran. Data ini akan menjadi acuan dalam penagihan biaya komponen pendidikan.
+**Komponen Biaya** digunakan untuk mendefinisikan berbagai jenis biaya pendidikan santri (misalnya biaya SPP, kegiatan, dll.) serta menentukan nominal per tahun ajaran. Data ini akan menjadi acuan dalam penagihan biaya komponen pendidikan.
 
 ### Menambahkan Komponen Biaya
 
@@ -39,7 +39,7 @@ Berikut adalah langkah-langkah untuk menambahkan komponen pendidikan pada Odoo P
 
     <figure><img src="../../.gitbook/assets/images-221.png" alt=""><figcaption></figcaption></figure>
 
-### Langkah-Langkah Menambahkan Biaya Komponen per Tahun Ajaran
+### Menambahkan Biaya Komponen per Tahun Ajaran
 
 Berikut adalah langkah-langkah untuk menambahkan biaya komponen per tahun ajaran pada Odoo Pesantren.
 
@@ -66,3 +66,15 @@ Berikut adalah langkah-langkah untuk menambahkan biaya komponen per tahun ajaran
 5.  Kembali ke submenu **Komponen Biaya** untuk melihat bahwa kolom **Biaya Per Tahun Ajaran** sudah otomatis menampilkan rincian sesuai dengan data yang baru ditambahkan.
 
     <figure><img src="../../.gitbook/assets/images-225.png" alt=""><figcaption></figcaption></figure>
+
+### Edit dan Hapus Data Komponen Biaya
+
+Untuk mengedit suatu data komponen biaya, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data komponen biaya dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data komponen biaya adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
+
+***
+
+{% hint style="danger" %}
+Data ini **dapat dihapus**, namun apabila sudah terdapat transaksi yang terkait dengan data tersebut, **disarankan untuk tidak menghapusnya** demi menjaga konsistensi dan keakuratan data transaksi di sistem.
+{% endhint %}

@@ -38,3 +38,15 @@ Berikut adalah langkah-langkah menambahkan data kategori mutaba'ah di Odoo Pesan
 
 
 5. Data Kategori Mutaba’ah berhasil disimpan dan dapat digunakan untuk mencatat aktivitas mutaba’ah harian santri.
+
+### Edit dan Hapus Data Kategori Mutaba'ah
+
+Untuk mengedit suatu data kategori mutaba'ah, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data kategori mutaba'ah dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data kategori mutaba'ah adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
+
+***
+
+{% hint style="danger" %}
+Data **Kategori Mutaba'ah** tidak dapat dihapus apabila sudah terdapat transaksi yang berhubungan dengan data tersebut. Jika belum ada transaksi yang tercatat, maka data masih dapat dihapus dari sistem.
+{% endhint %}

@@ -40,3 +40,15 @@ Berikut adalah langkah-langkah untuk menambahkan jenis pelanggaran.
 
 
 5. Jenis Pelanggaran berhasil disimpan dan dapat digunakan saat mencatat data pelanggaran santri.
+
+### Edit dan Hapus Data Jenis Pelanggaran
+
+Untuk mengedit suatu data jenis pelanggaran, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data jenis pelanggaran dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data jenis pelanggaran adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
+
+***
+
+{% hint style="danger" %}
+Data **Jenis Pelanggaran** tidak dapat dihapus apabila sudah terdapat data pelanggaran yang berhubungan dengan data tersebut. Jika belum ada data pelanggaran yang tercatat, maka data masih dapat dihapus dari sistem.
+{% endhint %}

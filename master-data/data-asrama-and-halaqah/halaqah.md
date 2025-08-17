@@ -49,3 +49,15 @@ Berikut adalah langkah-langkah untuk menambahkan halaqah pada Odoo Pesantren.
 6.  Data Halaqah berhasil disimpan dan siap digunakan dalam kegiatan pembelajaran dan kesantrian.
 
     <figure><img src="../../.gitbook/assets/images-198.png" alt=""><figcaption></figcaption></figure>
+
+### Edit dan Hapus Data Halaqah
+
+Untuk mengedit suatu data halaqah, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data halaqah dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data halaqah adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
+
+***
+
+{% hint style="danger" %}
+Data **Halaqah** tidak dapat dihapus apabila sudah terdapat transaksi yang berhubungan dengan data tersebut. Jika belum ada transaksi yang tercatat, maka data masih dapat dihapus dari sistem.
+{% endhint %}

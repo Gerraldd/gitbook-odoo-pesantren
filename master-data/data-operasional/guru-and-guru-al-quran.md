@@ -6,11 +6,11 @@ icon: person-chalkboard
 
 Video \[]
 
-## Master Data - Guru
+## Master Data - Guru Akademik
 
 **Guru** adalah tenaga pengajar umum di pesantren yang bertugas mengajar mata pelajaran sesuai kurikulum yang berlaku. Data guru perlu dicatat di sistem agar dapat dikelola, dimonitor, dan digunakan dalam proses akademik maupun administrasi.
 
-### Menambahkan Guru
+### Menambahkan Guru Akademik
 
 Berikut adalah langkah-langkah untuk menambahkan data guru pada Odoo Pesantren:
 
@@ -48,7 +48,7 @@ Berikut adalah langkah-langkah untuk menambahkan data guru pada Odoo Pesantren:
 
 
 
-## Master Data Guru Al-Qur'an
+## Master Data - Guru Al-Qur'an
 
 **Guru Al-Qur’an** adalah tenaga pengajar yang berfokus pada pembelajaran Tahfidz dan Tahsin Al-Qur’an. Data guru Al-Qur’an penting untuk dicatat agar dapat dimonitor dan dilibatkan dalam proses pembelajaran kesantrian.
 
@@ -88,3 +88,12 @@ Berikut adalah langkah-langkah untuk menambahkan data Guru Al-Qur’an pada Odoo
 
     <figure><img src="../../.gitbook/assets/images-117.png" alt=""><figcaption></figcaption></figure>
 
+### Edit Data Guru
+
+Untuk mengedit suatu data guru, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data guru dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+***
+
+{% hint style="danger" %}
+Data **Guru** tidak dapat dihapus dari sistem. Anda hanya diperbolehkan melakukan **perubahan atau pembaruan data** pada entri Guru yang sudah ada.
+{% endhint %}

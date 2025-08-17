@@ -51,3 +51,15 @@ Berikut adalah langkah-langkah untuk mengatur jadwal pelajaran pada Odoo Pesantr
 6.  Setelah seluruh jadwal terisi, lalu klik ikon **Simpan** di sebelah kanan ikon **Gear** agar jadwal pelajaran tersimpan di sistem.
 
     <figure><img src="../../.gitbook/assets/images-281.png" alt=""><figcaption></figcaption></figure>
+
+### Edit dan Hapus Data Jadwal Pelajaran
+
+Untuk mengedit suatu data jadwal pelajaran, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data jadwal pelajaran dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data jadwal pelajaran adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
+
+***
+
+{% hint style="danger" %}
+Data ini **dapat dihapus**, namun apabila sudah terdapat transaksi yang terkait dengan data tersebut, **disarankan untuk tidak menghapusnya** demi menjaga konsistensi dan keakuratan data transaksi di sistem.
+{% endhint %}

@@ -10,7 +10,7 @@ Video \[]
 
 **Data Pekerjaan** adalah data referensi yang digunakan untuk melengkapi informasi latar belakang orang tua atau wali santri pada Odoo Pesantren. Data ini membantu sistem dalam pencatatan detail profil orang tua maupun wali.
 
-### Melihat/Menambahkan Data Pekerjaan
+### Melihat dan Menambahkan Data Pekerjaan
 
 Berikut adalah langkah-langkah untuk menambahkna data pekerjaan pada Odoo Pesantren.
 
@@ -40,3 +40,15 @@ Berikut adalah langkah-langkah untuk menambahkna data pekerjaan pada Odoo Pesant
 
 5. Data pekerjaan yang sudah tersimpan akan muncul dalam daftar, dan dapat digunakan saat mengisi data orang tua atau wali santri.
 6. Jika pekerjaan tertentu sudah tidak digunakan, data bisa dinonaktifkan dengan menghilangkan centang pada kolom **Active** tanpa harus menghapusnya.
+
+### Edit dan Hapus Data Pekerjaan
+
+Untuk mengedit suatu data pekerjaan, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data pekerjaan dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data pekerjaan adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
+
+***
+
+{% hint style="danger" %}
+Data ini **dapat dihapus**, namun apabila sudah terdapat data yang terkait dengan data tersebut, **disarankan untuk tidak menghapusnya** demi menjaga konsistensi dan keakuratan data di sistem.
+{% endhint %}

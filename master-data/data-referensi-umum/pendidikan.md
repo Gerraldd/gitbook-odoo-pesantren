@@ -10,7 +10,7 @@ Video \[]
 
 **Data Pendidikan** adalah data referensi yang digunakan untuk mencatat tingkat pendidikan terakhir, baik untuk orang tua, wali, maupun pihak lain yang terkait di Odoo Pesantren. Data ini berguna untuk pendataan latar belakang pendidikan agar sistem memiliki informasi yang lebih lengkap.
 
-### Melihat/Menambahkan Data Pendidikan
+### Melihat dan Menambahkan Data Pendidikan
 
 Berikut adalah langkah-langkah untuk melihat atau menambahkan data pendidikan pada Odoo Pesantren.
 
@@ -41,3 +41,15 @@ Berikut adalah langkah-langkah untuk melihat atau menambahkan data pendidikan pa
 
 
 5. Data Pendidikan yang berhasil disimpan dapat digunakan pada form lain, misalnya saat mengisi data orang tua atau wali santri.
+
+### Edit dan Hapus Data Pendidikan
+
+Untuk mengedit suatu data pendidikan, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data pendidikan dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data pendidikan adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
+
+***
+
+{% hint style="danger" %}
+Data ini **dapat dihapus**, namun apabila sudah terdapat data yang terkait dengan data tersebut, **disarankan untuk tidak menghapusnya** demi menjaga konsistensi dan keakuratan data di sistem.
+{% endhint %}

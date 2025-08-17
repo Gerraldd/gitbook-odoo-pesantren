@@ -10,7 +10,7 @@ Video \[]
 
 **Data Kecamatan** adalah data referensi wilayah administratif yang digunakan untuk melengkapi informasi alamat santri, orang tua, maupun pihak lain di Odoo Pesantren. Data kecamatan biasanya sudah tersedia secara lengkap dalam sistem.
 
-### Melihat/Menambahkan Data Kecamatan
+### Melihat dan Menambahkan Data Kecamatan
 
 Berikut adalah langkah-langkah untuk melihat/mengakses data kecatama pada Odoo Pesantren.
 
@@ -47,8 +47,14 @@ Berikut adalah langkah-langkah untuk melihat/mengakses data kecatama pada Odoo P
 
     <figure><img src="../../.gitbook/assets/images-245.png" alt=""><figcaption></figcaption></figure>
 
+### Edit dan Hapus Data Kecamatan
+
+Untuk mengedit suatu data kecamatan, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data kecamatan dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data kecamatan adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
+
 ***
 
 {% hint style="danger" %}
-Data kecamatan yang sudah ada jangan dihapus. Jika ada kecamatan baru atau belum tercatat, Anda bisa menambahkannya.
+Data **Kecamatan** bawaan sistem sebaiknya tidak dihapus. Penambahan diperbolehkan bila memang ada data yang belum tersedia.
 {% endhint %}

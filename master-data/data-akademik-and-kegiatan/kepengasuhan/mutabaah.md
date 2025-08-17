@@ -41,3 +41,15 @@ Berikut adalah langkah-langkah untuk menambahkan mutaba'ah pada Odoo Pesantren.
 
 
 5. Data Mutaba’ah berhasil disimpan dan dapat digunakan saat pencatatan aktivitas mutaba’ah harian santri.
+
+### Edit dan Hapus Data Mutaba'ah
+
+Untuk mengedit suatu data mutaba'ah, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data mutaba'ah dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data mutaba'ah adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
+
+***
+
+{% hint style="danger" %}
+Data ini **dapat dihapus**, namun apabila sudah terdapat transaksi yang terkait dengan data tersebut, **disarankan untuk tidak menghapusnya** demi menjaga konsistensi dan keakuratan data transaksi di sistem.
+{% endhint %}

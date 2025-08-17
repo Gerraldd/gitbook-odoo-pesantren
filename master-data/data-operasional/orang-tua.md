@@ -74,3 +74,9 @@ Berikut adalah langkah-langkah untuk mengaitkan data orang tua ke Santri pada Od
 5.  Kembali ke halaman form **data Orang Tua** untuk memastikan bahwa santri telah terhubung dengan akun orang tua tersebut.
 
     <figure><img src="../../.gitbook/assets/images-137.png" alt=""><figcaption></figcaption></figure>
+
+### Edit dan Hapus Data Orang Tua
+
+Untuk mengedit suatu data orang tua, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data orang tua dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data orang tua adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.

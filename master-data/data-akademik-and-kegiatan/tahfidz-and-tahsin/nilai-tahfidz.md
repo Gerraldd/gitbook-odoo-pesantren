@@ -39,3 +39,9 @@ Berikut adalah langkah-langkah untuk menambakan nilai tahfidz pada Odoo Pesanntr
 
 
 6. Data Nilai Tahfidz berhasil disimpan dan dapat digunakan saat ustadz/guru qur'an menilai hafalan santri.
+
+### Edit dan Hapus Data Nilai Tahfidz
+
+Untuk mengedit suatu data nilai tahfidz, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data nilai tahfidz dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data nilai tahfidz adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.

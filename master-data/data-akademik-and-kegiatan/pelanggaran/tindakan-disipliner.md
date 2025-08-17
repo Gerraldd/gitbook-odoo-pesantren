@@ -39,3 +39,15 @@ Berikut adalah langkah-langkah untuk menambahkan tindakan disipliner pada Odoo P
 
 
 5. Data Tindakan Disipliner berhasil disimpan dan dapat digunakan untuk mengaitkan sanksi dengan setiap pelanggaran yang dilakukan santri.
+
+### Edit dan Hapus Data Tindakan Disipliner
+
+Untuk mengedit suatu data tindakan disipliner, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data tindakan disipliner dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data tindakan disipliner adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
+
+***
+
+{% hint style="danger" %}
+Data **Tindakan Disipliner** tidak dapat dihapus apabila sudah terdapat transaksi yang berhubungan dengan data tersebut. Jika belum ada transaksi yang tercatat, maka data masih dapat dihapus dari sistem.
+{% endhint %}

@@ -45,3 +45,13 @@ Berikut adalah langkah-langkah untuk menambahkan data Petugas Keamanan pada Odoo
 5.  Data Petugas Keamanan berhasil disimpan dan dapat digunakan untuk mendukung pengelolaan keamanan serta pengawasan izin keluar/masuk santri.
 
     <figure><img src="../../.gitbook/assets/images-122.png" alt=""><figcaption></figcaption></figure>
+
+### Edit Data Petugas Keamanan
+
+Untuk mengedit suatu data petugas keamanan, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data petugas keamanan dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+***
+
+{% hint style="danger" %}
+Data **Petugas Keamanan** tidak dapat dihapus dari sistem. Anda hanya diperbolehkan melakukan **perubahan atau pembaruan data** pada entri Petugas Keamanan yang sudah ada.
+{% endhint %}

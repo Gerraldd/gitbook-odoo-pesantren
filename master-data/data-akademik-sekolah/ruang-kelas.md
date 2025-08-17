@@ -50,3 +50,15 @@ Berikut adalah langkah-langkah untuk menambahkan data ruang kelas pada Odoo Pesa
 6.  Data ruang kelas yang berhasil disimpan dan dikonfirmasi dapat digunakan dalam proses akademik seperti absensi, jadwal pelajaran, dan penilaian.
 
     <figure><img src="../../.gitbook/assets/images-259.png" alt=""><figcaption></figcaption></figure>
+
+### Edit dan Hapus Data Ruang Kelas
+
+Untuk mengedit suatu data ruang kelas, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data ruang kelas dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data ruang kelas adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
+
+***
+
+{% hint style="danger" %}
+Data **Ruang Kelas** tidak dapat dihapus apabila sudah terdapat transaksi yang berhubungan dengan data tersebut. Jika belum ada transaksi yang tercatat, maka data masih dapat dihapus dari sistem.
+{% endhint %}

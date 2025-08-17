@@ -46,5 +46,12 @@ Berikut adalah langkah-langkah untuk menambahkan musyrif pada Odoo Pesantren.
 
     <figure><img src="../../.gitbook/assets/images-108.png" alt=""><figcaption></figcaption></figure>
 
+### Edit Data Musyrif
 
+Untuk mengedit suatu data musyrif, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data musyrif dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
 
+***
+
+{% hint style="danger" %}
+Data **Musyrif** tidak dapat dihapus dari sistem. Anda hanya diperbolehkan melakukan **perubahan atau pembaruan data** pada entri Musyrif yang sudah ada.
+{% endhint %}
