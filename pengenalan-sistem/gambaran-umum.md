@@ -6,31 +6,9 @@ icon: telescope
 
 **Aplikasi Manajemen Santri DQI (Darul Qur'an Istiqomah)** adalah solusi digital lengkap untuk pesantren yang memudahkan pengelolaan data santri, guru, dan kegiatan pendidikan. Dengan fitur modul utama seperti **Modul Penerimaan Santri Baru (PSB), Kesantrian**, **Musyrif**, **Keamanan**, **Guru**, **Orang Tua**, **Sekolah** dan **POS (Point of Sale)**, aplikasi ini mendukung operasional harian mulai dari pencatatan akademik, monitoring hafalan Al-Qur’an, hingga pendaftaran santri baru secara online. Dirancang untuk efisiensi, transparansi, dan kemudahan akses, aplikasi ini menjadi mitra terbaik dalam membangun generasi santri yang unggul dan terpantau dengan baik.
 
-Video \[]?
-
 ## Modul dan fitur-fitur Odoo Pesantren
 
 Modul-modul yang terdapat pada Odoo Pesantren adalah PSB, Kesantrian, Musyrif, Guru, Orang Tua, Sekolah, dan POS.
-
-### Role Pengguna dalam Odoo Pesantren
-
-Dalam sistem Odoo Pesantren, setiap modul dapat diakses oleh role tertentu sesuai dengan fungsi dan kedudukannya di lingkungan pesantren. Role utama yang digunakan meliputi:
-
-1. **Administrator**: Mengelola seluruh modul dan konfigurasi sistem.
-2. **Musyrif**: Bertanggung jawab atas aktivitas keseharian dan pengawasan santri di asrama.
-3. **Guru**: Berfokus pada pengajaran, absensi, dan penilaian akademik santri.
-4. **Orang Tua**: Memantau aktivitas anak, termasuk absensi, hafalan, dan izin.
-
-| Modul                       | Role Pengguna Utama  |
-| --------------------------- | -------------------- |
-| Penerimaan Santri Baru (PSB | Administrator        |
-| Kesantrian                  | Administrator        |
-| Musyrif                     | Musyrif              |
-| Keamanan                    | Petugas Keamanan     |
-| Guru                        | Guru                 |
-| Orang Tua                   | Orang Tua            |
-| Sekolah                     | Administrator        |
-| POS (Point of Sale)         | Administrator        |
 
 {% stepper %}
 {% step %}
@@ -149,3 +127,22 @@ Modul POS (Point of Sale) adalah modul yang digunakan untuk simulasi penjualan a
 {% endstep %}
 {% endstepper %}
 
+## Role Pengguna dalam Odoo Pesantren
+
+Dalam sistem Odoo Pesantren, setiap modul dapat diakses oleh role tertentu sesuai dengan fungsi dan kedudukannya di lingkungan pesantren. Role utama yang digunakan meliputi:
+
+1. **Administrator**: Mengelola seluruh modul dan konfigurasi sistem.
+2. **Musyrif**: Bertanggung jawab atas aktivitas keseharian dan pengawasan santri di asrama.
+3. **Guru**: Berfokus pada pengajaran, absensi, dan penilaian akademik santri.
+4. **Orang Tua**: Memantau aktivitas anak, termasuk absensi, hafalan, dan izin.
+
+| Modul                       | Role Pengguna Utama  |
+| --------------------------- | -------------------- |
+| Penerimaan Santri Baru (PSB | Administrator        |
+| Kesantrian                  | Administrator        |
+| Musyrif                     | Musyrif              |
+| Keamanan                    | Petugas Keamanan     |
+| Guru                        | Guru                 |
+| Orang Tua                   | Orang Tua            |
+| Sekolah                     | Administrator        |
+| POS (Point of Sale)         | Administrator        |
