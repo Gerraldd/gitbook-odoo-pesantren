@@ -4,7 +4,7 @@ icon: receipt
 
 # Pajak
 
-Video \[]
+{% embed url="https://youtu.be/1bCA_GHo7YU" %}
 
 ## Membuat Pajak Baru di Odoo Pesantren
 

@@ -4,7 +4,7 @@ icon: file-invoice-dollar
 
 # Jurnal Akuntansi
 
-Video \[]
+{% embed url="https://youtu.be/LPXIKZtc5ug" %}
 
 ## Konfigurasi Jurnal Akuntansi Odoo Pesantren
 

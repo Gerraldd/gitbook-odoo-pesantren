@@ -2,7 +2,7 @@
 icon: person-chalkboard
 ---
 
-# Guru & Guru Al-Qur'an
+# Guru
 
 Video \[]
 
@@ -89,7 +89,7 @@ Berikut adalah langkah-langkah untuk menambahkan data Guru Al-Qur’an pada Odoo
 
     <figure><img src="../../.gitbook/assets/images-117.png" alt=""><figcaption></figcaption></figure>
 
-### Edit Data Guru
+### Edit Data Guru Akademik & Guru Al-Qur'an
 
 Untuk mengedit suatu data guru, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data guru dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
 

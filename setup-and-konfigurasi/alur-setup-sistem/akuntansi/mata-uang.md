@@ -4,7 +4,7 @@ icon: circle-dollar
 
 # Mata Uang
 
-Video \[]
+{% embed url="https://youtu.be/mLc6C6fd3og" %}
 
 ## Mata Uang
 

@@ -4,7 +4,7 @@ icon: house-building
 
 # Asrama & Kamar
 
-{% embed url="https://youtu.be/zvkrR0tlGoU" %}
+{% embed url="https://youtu.be/795D4ZR0ilU" %}
 
 ## Asrama & Kamar Santri
 

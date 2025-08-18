@@ -47,7 +47,7 @@
 * [Data Operasional](master-data/data-operasional/README.md)
   * [Musyrif](master-data/data-operasional/musyrif.md)
   * [Petugas Keamanan](master-data/data-operasional/petugas-keamanan.md)
-  * [Guru & Guru Al-Qur'an](master-data/data-operasional/guru-and-guru-al-quran.md)
+  * [Guru](master-data/data-operasional/guru.md)
   * [Santri](master-data/data-operasional/santri.md)
   * [Orang Tua](master-data/data-operasional/orang-tua.md)
 * [Data Akademik & Kegiatan](master-data/data-akademik-and-kegiatan/README.md)

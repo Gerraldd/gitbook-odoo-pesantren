@@ -4,7 +4,7 @@ icon: memo
 
 # Soal & Penilaian Seleksi
 
-Video \[]
+{% embed url="https://youtu.be/2hmfY4TvTS0" %}
 
 ## Konfigurasi Soal & Penilaian PSB
 

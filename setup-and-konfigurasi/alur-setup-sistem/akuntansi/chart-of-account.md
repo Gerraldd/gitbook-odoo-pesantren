@@ -4,11 +4,11 @@ icon: memo-pad
 
 # Chart of Account
 
-Video \[]
+{% embed url="https://youtu.be/ZP7E9zRinvg" %}
 
 ## Chart of Account
 
-Chart of Account (COA) adalah daftar akun-akun yang digunakan untuk mencatat transaksi keuangan pesantren, seperti kas, bank, piutang, pendapatan, dan beban.
+**Chart of Account (COA)** adalah daftar akun-akun yang digunakan untuk mencatat transaksi keuangan pesantren, seperti kas, bank, piutang, pendapatan, dan beban.
 
 ### Mengkonfigurasi Chart of Account
 
