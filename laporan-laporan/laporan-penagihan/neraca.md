@@ -6,9 +6,9 @@ icon: scale-balanced
 
 Video \[]
 
-## Laporan Neraca
+## Neraca (Balance Sheet)
 
-Laporan **Neraca** pada Odoo Pesantren digunakan untuk menampilkan posisi keuangan pada periode tertentu, meliputi aset, kewajiban, dan ekuitas. Laporan ini berguna untuk mengetahui kondisi keuangan secara menyeluruh pada akhir periode akuntansi.
+Laporan **Neraca** **(Balance Sheet)** pada Odoo Pesantren digunakan untuk menampilkan posisi keuangan pada periode tertentu, meliputi aset, kewajiban, dan ekuitas. Laporan ini berguna untuk mengetahui kondisi keuangan secara menyeluruh pada akhir periode akuntansi.
 
 ### Mencetak Laporan Neraca
 

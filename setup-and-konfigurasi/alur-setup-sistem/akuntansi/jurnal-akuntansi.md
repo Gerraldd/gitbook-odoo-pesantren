@@ -12,7 +12,7 @@ Video \[]
 
 Dalam Odoo Pesantren, jurnal digunakan untuk mencatat transaksi seperti penerimaan pembayaran dari orang tua, pembayaran tagihan ke pemasok, transaksi kas dan bank, hingga pengelolaan dompet santri.
 
-### Mengkonfigurasi Jurnal Akuntansi
+### Konfigurasi Jurnal Akuntansi
 
 Berikut adalah langkah-langkah cara mengkonfigurasi jurnal akuntansi agar dapat mencatat transaksi dengan baik.
 
@@ -47,14 +47,11 @@ Berikut adalah langkah-langkah cara mengkonfigurasi jurnal akuntansi agar dapat 
     <figure><img src="../../../.gitbook/assets/images-48.PNG" alt=""><figcaption></figcaption></figure>
 
 
-5.
+5.  Terakhir, klik icon **Simpan** di sebelah kanan icon **Gear** agar jurnal akuntansi tersimpan di sistem.
 
     <figure><img src="../../../.gitbook/assets/images-49.png" alt=""><figcaption></figcaption></figure>
-6. Terakhir, klik icon **Simpan** di sebelah kanan icon **Gear** agar jurnal akuntansi tersimpan di sistem.
 
-***
-
-### Konfigurasi Jurnal Kas/Bank untuk Pembayaran Masuk dan Keluar
+### Konfigurasi Jurnal Kas/Bank
 
 Pada Odoo, setiap transaksi keuangan yang menggunakan **Kas** atau **Bank** dapat dikelola melalui jurnal khusus. Tab **Pembayaran Masuk (Incoming Payment)** dan **Pembayaran Keluar (Outgoing Payment)** diatur untuk memastikan bahwa uang yang masuk maupun keluar selalu menggunakan akun yang tepat.
 

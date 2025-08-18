@@ -25,7 +25,7 @@ Berikut adalah langkah-langkah untuk melihat laporan pesanan pada Odoo Pesantren
     <figure><img src="../../.gitbook/assets/images-677.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik tombol **Pengukuran** untuk menampilkan daftar opsi pengukuran yang tersedia, seperti **Total Harga, Harga Rata-rata, Margin, Kuantitas Produk**, dan lainnya. Pilih salah satu sesuai kebutuhan analisis Anda.
+4.  Klik tombol **"Pengukuran"** untuk menampilkan daftar opsi pengukuran yang tersedia, seperti **Total Harga, Harga Rata-rata, Margin, Kuantitas Produk**, dan lainnya. Pilih salah satu sesuai kebutuhan analisis Anda.
 
     <figure><img src="../../.gitbook/assets/images-678.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,6 +54,6 @@ Berikut adalah langkah-langkah untuk melihat laporan pesanan pada Odoo Pesantren
 
 9. Setelah filter diterapkan, data yang ditampilkan akan menyesuaikan dengan kriteria filter tersebut.
 10. Klik pada salah satu baris data pesanan untuk membuka halaman detail pesanan.
-11. Halaman detail pesanan akan menampilkan informasi lengkap, termasuk **Tanggal Order, Pelanggan, Produk, Total Harga, POS, Sesi POS, Metode Pembayaran, Kasir**, dan informasi tambahan lainnya.
+11. Halaman detail pesanan akan menampilkan informasi lengkap, termasuk **Tanggal Order, Pelanggan, Produk, Total Harga, POS, Sesi POS, Metode Pembayaran, Kasir**, dan informasi lainnya.
 
     <figure><img src="../../.gitbook/assets/images-683.png" alt=""><figcaption></figcaption></figure>

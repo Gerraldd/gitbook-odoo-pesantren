@@ -21,6 +21,8 @@ Berikut adalah langkah-langkah cara mengkonfigurasi beberapa pengaturan pendafta
 
 2.  Pada halaman konfigurasi, lakukan pengisian atau perubahan inputan berikut sesuai kebutuhan:
 
+    * **Tanggal Mulai Pendaftaran** → tentukan kapan pendaftaran dimulai.
+    * **Tanggal Akhir Pendaftaran** → tentukan kapan pendaftaran berakhir.
     * **Tanggal Mulai Seleksi** → tentukan kapan seleksi pendaftaran dimulai.
     * **Tanggal Akhir Seleksi** → tentukan kapan seleksi pendaftaran berakhir.
     * **Tanggal Pengumuman Hasil Seleksi** → isi jadwal resmi pengumuman hasil seleksi santri.

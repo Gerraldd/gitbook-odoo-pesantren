@@ -6,9 +6,9 @@ icon: money-bill-trend-up
 
 Video \[]
 
-## Laporan Arus Kas
+## Arus Kas (Cash Flow Statement)
 
-Laporan **Arus Kas** pada Odoo Pesantren digunakan untuk menampilkan aliran masuk dan keluar kas dalam periode tertentu. Laporan ini membantu mengetahui sumber penerimaan dan penggunaan dana, sehingga dapat digunakan untuk memantau likuiditas dan kesehatan keuangan.
+Laporan **Arus Kas (Cash Flow Statement)** pada Odoo Pesantren digunakan untuk menampilkan aliran masuk dan keluar kas dalam periode tertentu. Laporan ini membantu mengetahui sumber penerimaan dan penggunaan dana, sehingga dapat digunakan untuk memantau likuiditas dan kesehatan keuangan.
 
 ### Mencetak Laporan Arus Kas
 

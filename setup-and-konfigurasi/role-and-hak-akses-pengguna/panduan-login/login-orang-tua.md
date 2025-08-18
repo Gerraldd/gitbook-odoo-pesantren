@@ -8,7 +8,7 @@ Video \[]
 
 ## Login Orang Tua
 
-Berikut adalah langkah-langkah untuk login menggunakan akun santri yang telah terdaftar pada Aplikasi Odoo Pesantren:&#x20;
+Berikut adalah langkah-langkah untuk login menggunakan akun orang tua yang telah terdaftar pada Aplikasi Odoo Pesantren:&#x20;
 
 1. Buka browser Anda, lalu akses situs [**aplikasi.dqi.ac.id/psb**](https://aplikasi.dqi.ac.id/psb).
 2. Klik menu **“Login”** pada bagian navbar.

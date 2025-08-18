@@ -6,9 +6,9 @@ icon: square-dollar
 
 Video \[]
 
-## &#x20;Laporan Laba & Rugi
+## &#x20;Laba & Rugi (Profit & Loss)
 
-Laporan **Laba & Rugi** pada Odoo Pesantren digunakan untuk mengetahui ringkasan pendapatan dan beban selama periode tertentu, sehingga dapat digunakan untuk menganalisis kinerja keuangan pesantren.
+Laporan **Laba & Rugi** **(Profit & Loss)** pada Odoo Pesantren digunakan untuk mengetahui ringkasan pendapatan dan beban selama periode tertentu, sehingga dapat digunakan untuk menganalisis kinerja keuangan pesantren.
 
 ### Mencetak Laporan Laba & Rugi
 

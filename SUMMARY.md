@@ -121,6 +121,7 @@
   * [Pembayaran Tagihan Santri](transaksi-transaksi/modul-keuangan/pembayaran-tagihan-santri.md)
   * [Pembayaran Tagihan Pemasok](transaksi-transaksi/modul-keuangan/pembayaran-tagihan-pemasok.md)
   * [Limit Saldo Masal](transaksi-transaksi/modul-keuangan/limit-saldo-masal.md)
+  * [Uang Saku](transaksi-transaksi/modul-keuangan/uang-saku.md)
 * [Modul Keamanan](transaksi-transaksi/modul-keamanan/README.md)
   * [Santri Keluar/Masuk Pesantren](transaksi-transaksi/modul-keamanan/santri-keluar-masuk-pesantren.md)
 * [Modul Kesantrian](transaksi-transaksi/modul-kesantrian/README.md)

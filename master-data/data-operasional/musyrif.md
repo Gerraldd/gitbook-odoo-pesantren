@@ -31,8 +31,7 @@ Berikut adalah langkah-langkah untuk menambahkan musyrif pada Odoo Pesantren.
     * **Jenis Pegawai** (Musyrif)
     * **Telepon Kantor, Nomor HP, dan No KTP**
     * **Tempat Lahir, Jenis Kelamin, dan Alamat**
-    * **Departemen, Jabatan Kerja, dan Manajer**
-    * **Tanggal Lahir**
+    * **NIP, Lembaga, Jabatan Kerja, dan Tanggal Lahir**
 
     <figure><img src="../../.gitbook/assets/images-106.png" alt=""><figcaption></figcaption></figure>
 
