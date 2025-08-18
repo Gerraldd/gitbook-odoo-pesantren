@@ -8,23 +8,24 @@ Video \[]
 
 ## Master Data - Jam Pelajaran
 
-Menu **Jam Pelajaran** digunakan untuk mengatur waktu pelajaran dalam satu hari, termasuk jam ke berapa, waktu mulai, dan waktu selesai. Data ini menjadi acuan dalam penyusunan jadwal pelajaran agar kegiatan belajar mengajar berjalan teratur.
+Data **Jam Pelajaran** digunakan untuk mengatur waktu pelajaran dalam satu hari, termasuk jam ke berapa, waktu mulai, dan waktu selesai. Data ini menjadi acuan dalam penyusunan jadwal pelajaran agar kegiatan belajar mengajar berjalan teratur.
 
 ### Menambahkan Data Jam Pelajaran
 
 Berikut adalah langkah-langkah untuk menambahkan data jam pelajara pada Odoo Pesantren.
 
-1.  Buka modul **Sekolah**, lalu klik menu **Pengaturan** dan pilih submenu **Jam Pelajaran**.
+1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
+2.  Buka modul **Sekolah**, lalu klik menu **Pengaturan** kemudian pilih submenu **Jam Pelajaran**.
 
     <figure><img src="../../.gitbook/assets/images-272.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Klik tombol **"Baru"** untuk membuat data jam pelajaran baru
+3.  Klik tombol **"Baru"** untuk membuat data jam pelajaran baru
 
     <figure><img src="../../.gitbook/assets/images-273.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
+4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * **Nama** (misalnya: _Jam Ke-11_).
     * **Jam Mulai** (jam mulai pelajaran).
@@ -33,12 +34,12 @@ Berikut adalah langkah-langkah untuk menambahkan data jam pelajara pada Odoo Pes
     <figure><img src="../../.gitbook/assets/images-274.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon **Gear** agar data jam pelajaran tersimpan di sistem.
+5.  Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon **Gear** agar data jam pelajaran tersimpan di sistem.
 
     <figure><img src="../../.gitbook/assets/images-275.png" alt=""><figcaption></figcaption></figure>
 
 
-5. Data jam pelajaran berhasil disimpan dan dapat digunakan dalam penyusunan jadwal pelajaran secara otomatis.
+6. Data jam pelajaran berhasil disimpan dan dapat digunakan dalam penyusunan jadwal pelajaran secara otomatis.
 
 ### Edit dan Hapus Data Jam Pelajaran
 

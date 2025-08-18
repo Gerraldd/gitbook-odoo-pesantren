@@ -8,23 +8,24 @@ Video \[]
 
 ## Master Data - Jenis Prestasi
 
-Jenis Prestasi adalah data master yang digunakan untuk mendefinisikan kategori prestasi yang dapat diraih oleh santri, baik dalam bidang akademik, non-akademik, maupun lomba tertentu. Data ini akan digunakan sebagai acuan saat mencatat prestasi santri di sistem.
+Data **Jenis Prestasi** adalah data master yang digunakan untuk mendefinisikan kategori prestasi yang dapat diraih oleh santri, baik dalam bidang akademik, non-akademik, maupun lomba tertentu. Data ini akan digunakan sebagai acuan saat mencatat prestasi santri di sistem.
 
 ### Menambahkan Jenis Prestasi
 
 Berikut adalah langkah-langkah untuk menambahkan jenis prestasi pada Odoo Pesantren.
 
-1.  Buka modul **Kesantrian**, lalu klik menu **Pengaturan** dan pilih submenu Jenis Prestasi.
+1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
+2.  Buka modul **Kesantrian**, lalu klik menu **Pengaturan** kemudian pilih submenu Jenis Prestasi.
 
     <figure><img src="../../.gitbook/assets/images-182.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Klik tombol **“Baru”** untuk membuat data jenis prestasi baru.
+3.  Klik tombol **“Baru”** untuk membuat data jenis prestasi baru.
 
     <figure><img src="../../.gitbook/assets/images-183.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
+4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * **Nama Prestasi** (misalnya: _LKS SMK – Web Programming_).
     * **Keterangan** _(opsional)_.
@@ -33,12 +34,12 @@ Berikut adalah langkah-langkah untuk menambahkan jenis prestasi pada Odoo Pesant
     <figure><img src="../../.gitbook/assets/images-184.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon **Gear** agar data Jenis Prestasi tersimpan di sistem.
+5.  Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon **Gear** agar data Jenis Prestasi tersimpan di sistem.
 
     <figure><img src="../../.gitbook/assets/images-185.png" alt=""><figcaption></figcaption></figure>
 
 
-5. Data Jenis Prestasi berhasil disimpan dan dapat digunakan saat mencatat prestasi santri.
+6. Data Jenis Prestasi berhasil disimpan dan dapat digunakan saat mencatat prestasi santri.
 
 ### Edit dan Hapus Data Jenis Prestasi
 

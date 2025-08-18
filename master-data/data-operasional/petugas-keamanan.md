@@ -12,19 +12,20 @@ Video \[]
 
 ### Menambahkan Petugas Keamanan
 
-Berikut adalah langkah-langkah untuk menambahkan data Petugas Keamanan pada Odoo Pesantren:
+Berikut adalah langkah-langkah untuk menambahkan data Petugas Keamanan pada Odoo Pesantren.
 
-1.  Buka **modul Karyawan**, lalu klik menu **Karyawan** kemudian pilih submenu **Karyawan**.
+1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
+2.  Buka **modul Karyawan**, lalu klik menu **Karyawan** kemudian pilih submenu **Karyawan**.
 
     <figure><img src="../../.gitbook/assets/images-118.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Klik tombol **“Baru”** untuk membuat data karyawan/petugas keamanan baru.
+3.  Klik tombol **“Baru”** untuk membuat data karyawan/petugas keamanan baru.
 
     <figure><img src="../../.gitbook/assets/images-119.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
+4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * **Nama Petugas Keamanan** (misalnya: Budi Santoso)
     * **Email Kantor** (misalnya: budisantoso@gmail.com)
@@ -37,12 +38,12 @@ Berikut adalah langkah-langkah untuk menambahkan data Petugas Keamanan pada Odoo
     <figure><img src="../../.gitbook/assets/images-120.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon Gear agar data Petugas Keamanan tersimpan di sistem.
+5.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon Gear agar data Petugas Keamanan tersimpan di sistem.
 
     <figure><img src="../../.gitbook/assets/images-121 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Data Petugas Keamanan berhasil disimpan dan dapat digunakan untuk mendukung pengelolaan keamanan serta pengawasan izin keluar/masuk santri.
+6.  Data Petugas Keamanan berhasil disimpan dan dapat digunakan untuk mendukung pengelolaan keamanan serta pengawasan izin keluar/masuk santri.
 
     <figure><img src="../../.gitbook/assets/images-122.png" alt=""><figcaption></figcaption></figure>
 

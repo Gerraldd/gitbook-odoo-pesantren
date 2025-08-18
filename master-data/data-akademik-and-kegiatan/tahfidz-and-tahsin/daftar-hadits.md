@@ -8,21 +8,24 @@ Video \[]
 
 ## Master Data - Daftar Hadits
 
-Hadits pada Odoo Pesantren digunakan untuk menyimpan koleksi hadits yang menjadi referensi pembelajaran dan hafalan santri. Fitur ini memungkinkan pengguna untuk menambahkan hadits baru lengkap dengan teks arab, terjemahan, dan sumbernya.
+Data **Hadits** pada Odoo Pesantren digunakan untuk menyimpan koleksi hadits yang menjadi referensi pembelajaran dan hafalan santri. Fitur ini memungkinkan pengguna untuk menambahkan hadits baru lengkap dengan teks arab, terjemahan, dan sumbernya.
 
 ### Menambahkan Daftar Hadits
 
-1.  Buka modul **Kesantrian**, lalu klik menu **Pengaturan** dan pilih submenu **Daftar Hadits**.
+Berikut adalah langkah-langkah untuk menambahkan data hadits pada Odoo Pesantren.
+
+1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../../panduan-login/login-admin.md).
+2.  Buka modul **Kesantrian**, lalu klik menu **Pengaturan** kemudian pilih submenu **Daftar Hadits**.
 
     <figure><img src="../../../.gitbook/assets/images-141.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Klik tombol **“Baru”** untuk membuat hadits baru.
+3.  Klik tombol **“Baru”** untuk membuat hadits baru.
 
     <figure><img src="../../../.gitbook/assets/images-142 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 
-3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
+4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * **Nama Hadits**
     * **Kode**
@@ -33,12 +36,12 @@ Hadits pada Odoo Pesantren digunakan untuk menyimpan koleksi hadits yang menjadi
     <figure><img src="../../../.gitbook/assets/images-143.jpg" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar hadits tersimpan di sistem.
+5.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar hadits tersimpan di sistem.
 
     <figure><img src="../../../.gitbook/assets/images-144.jpg" alt=""><figcaption></figcaption></figure>
 
 
-5. Hadits berhasil disimpan dan dapat digunakan sebagai referensi hafalan atau penilaian santri.
+6. Hadits berhasil disimpan dan dapat digunakan sebagai referensi hafalan atau penilaian santri.
 
 ### Edit dan Hapus Data Hadits
 

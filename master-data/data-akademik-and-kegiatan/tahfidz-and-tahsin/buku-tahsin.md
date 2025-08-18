@@ -8,23 +8,24 @@ Video \[]
 
 ## Master Data - Buku Tahsin
 
-Data Buku Tahsin pada Odoo Pesantren digunakan untuk menyimpan daftar referensi buku atau modul pembelajaran tahsin yang digunakan dalam proses pengajaran baca tulis Al-Qur’an. Data ini mendukung proses pembelajaran bagi para santri.
+Data **Buku Tahsin** pada Odoo Pesantren digunakan untuk menyimpan daftar referensi buku atau modul pembelajaran tahsin yang digunakan dalam proses pengajaran baca tulis Al-Qur’an. Data ini mendukung proses pembelajaran bagi para santri.
 
 ### Menambahkan Data Buku Tahsin
 
 Berikut adalah langkah-langkah untuk menambahkan data buku tahsin pada Odoo Pesantren.
 
-1.  Buka modul **Kesantrian**, lalu klik menu **Pengaturan** dan pilih submenu **Buku Tahsin**.
+1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../../panduan-login/login-admin.md).
+2.  Buka modul **Kesantrian**, lalu klik menu **Pengaturan** kemudian pilih submenu **Buku Tahsin**.
 
     <figure><img src="../../../.gitbook/assets/images-153.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Klik tombol “Baru” untuk membuat data buku tahsin baru.
+3.  Klik tombol “Baru” untuk membuat data buku tahsin baru.
 
     <figure><img src="../../../.gitbook/assets/images-154.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
+4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * Buku Tahsin (isi dengan nama Buku Tahsin yang ada di pesantren)
     * Keterangan (opsional, misalnya atau deskripsi buku catatan tambahan)
@@ -33,12 +34,12 @@ Berikut adalah langkah-langkah untuk menambahkan data buku tahsin pada Odoo Pesa
     <figure><img src="../../../.gitbook/assets/images-155.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan selesai diisi, klik icon **Simpan** di sebelah kanan icon **Gear** agar data Buku Tahsin tersimpan di sistem.
+5.  Setelah semua inputan selesai diisi, klik icon **Simpan** di sebelah kanan icon **Gear** agar data Buku Tahsin tersimpan di sistem.
 
     <figure><img src="../../../.gitbook/assets/images-156.png" alt=""><figcaption></figcaption></figure>
 
 
-5. Data Buku Tahsin berhasil disimpan dan dapat digunakan dalam pencatatan tahsin santri.
+6. Data Buku Tahsin berhasil disimpan dan dapat digunakan dalam pencatatan tahsin santri.
 
 ### Edit dan Hapus Data Buku Tahsin
 

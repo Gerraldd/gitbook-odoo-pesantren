@@ -12,19 +12,20 @@ Video \[]
 
 ### Menambahkan Orang Tua
 
-Berikut adalah langkah-langkah untuk menambahkan data orang tua pada Odoo Pesantren:
+Berikut adalah langkah-langkah untuk menambahkan data orang tua pada Odoo Pesantren.
 
-1.  Buka modul **Kesantrian**, lalu klik menu **Kesantrian** kemudian pilih submenu **Orang Tua**.
+1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
+2.  Buka modul **Kesantrian**, lalu klik menu **Kesantrian** kemudian pilih submenu **Orang Tua**.
 
     <figure><img src="../../.gitbook/assets/images-128.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Klik tombol **"Baru"** untuk membuat data orang tua baru.
+3.  Klik tombol **"Baru"** untuk membuat data orang tua baru.
 
     <figure><img src="../../.gitbook/assets/images-129.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
+4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * **Nama Orang Tua** (misalnya: _Ayah Rizky_)
     * **Email** (misalnya: _ayahrizky@gmail.com_)
@@ -38,12 +39,12 @@ Berikut adalah langkah-langkah untuk menambahkan data orang tua pada Odoo Pesant
     <figure><img src="../../.gitbook/assets/images-130.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data orang tua tersimpan di sistem.
+5.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data orang tua tersimpan di sistem.
 
     <figure><img src="../../.gitbook/assets/images-131.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Data orang tua berhasil disimpan dan dapat digunakan untuk memantau aktivitas serta transaksi anak melalui akun login orang tua.
+6.  Data orang tua berhasil disimpan dan dapat digunakan untuk memantau aktivitas serta transaksi anak melalui akun login orang tua.
 
     <figure><img src="../../.gitbook/assets/images-132.png" alt=""><figcaption></figcaption></figure>
 

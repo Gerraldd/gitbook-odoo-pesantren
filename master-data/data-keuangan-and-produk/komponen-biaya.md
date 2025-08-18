@@ -8,23 +8,24 @@ Video \[]
 
 ## Master Data - Komponen Biaya
 
-**Komponen Biaya** digunakan untuk mendefinisikan berbagai jenis biaya pendidikan santri (misalnya biaya SPP, kegiatan, dll.) serta menentukan nominal per tahun ajaran. Data ini akan menjadi acuan dalam penagihan biaya komponen pendidikan.
+Data **Komponen Biaya** digunakan untuk mendefinisikan berbagai jenis biaya pendidikan santri (misalnya biaya SPP, kegiatan, dll.) serta menentukan nominal per tahun ajaran. Data ini akan menjadi acuan dalam penagihan biaya komponen pendidikan.
 
 ### Menambahkan Komponen Biaya
 
 Berikut adalah langkah-langkah untuk menambahkan komponen pendidikan pada Odoo Pesantren.
 
-1.  Buka modul **Keuangan**, lalu klik menu **Pengaturan** dan pilih submenu **Komponen Biaya**.
+1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
+2.  Buka modul **Keuangan**, lalu klik menu **Pengaturan** kemudian pilih submenu **Komponen Biaya**.
 
     <figure><img src="../../.gitbook/assets/images-218.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Klik tombol **"Baru"** untuk membuat data komponen biaya baru.
+3.  Klik tombol **"Baru"** untuk membuat data komponen biaya baru.
 
     <figure><img src="../../.gitbook/assets/images-219.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
+4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * **Nama Komponen Biaya** (misalnya: Buku Paket SMA 2029)
     * **Tipe Bayar** (Cicilan/Tunai)
@@ -35,7 +36,7 @@ Berikut adalah langkah-langkah untuk menambahkan komponen pendidikan pada Odoo P
     <figure><img src="../../.gitbook/assets/images-220.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon Gear agar data Komponen Biaya tersimpan di sistem.
+5.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon Gear agar data Komponen Biaya tersimpan di sistem.
 
     <figure><img src="../../.gitbook/assets/images-221.png" alt=""><figcaption></figcaption></figure>
 

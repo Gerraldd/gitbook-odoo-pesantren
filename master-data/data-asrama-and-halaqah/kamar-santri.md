@@ -8,23 +8,24 @@ Video \[]
 
 ## Master Data - Kamar Santri
 
-Kamar Santri merupakan data master yang digunakan untuk mengatur dan mencatat pembagian santri ke dalam kamar atau asrama, lengkap dengan musyrif/pembina yang bertanggung jawab.
+Data **Kamar Santri** merupakan data master yang digunakan untuk mengatur dan mencatat pembagian santri ke dalam kamar atau asrama, lengkap dengan musyrif/pembina yang bertanggung jawab.
 
 ### Menambahkan Pembagian Kamar Santri
 
 Berikut adalah langkah-langkah untuk menambah dan membagikan kamar santri pada Odoo Pesantren.
 
-1.  Buka modul **Kesantrian**, lalu klik menu **Pengaturan** dan pilih submenu **Pembagian Kamar Santri**.
+1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
+2.  Buka modul **Kesantrian**, lalu klik menu **Pengaturan** kemudian pilih submenu **Pembagian Kamar Santri**.
 
     <figure><img src="../../.gitbook/assets/images-192.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Klik tombol **"Baru"** untuk membuat data Kamar Santri baru.
+3.  Klik tombol **"Baru"** untuk membuat data Kamar Santri baru.
 
     <figure><img src="../../.gitbook/assets/images-193.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
+4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * **Nama Kamar**
     * **Musyrif/Pembina**
@@ -37,17 +38,17 @@ Berikut adalah langkah-langkah untuk menambah dan membagikan kamar santri pada O
     <figure><img src="../../.gitbook/assets/images-194.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon Gear agar data Kamar Santri tersimpan dengan status **Draft**.
+5.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon Gear agar data Kamar Santri tersimpan dengan status **Draft**.
 
     <figure><img src="../../.gitbook/assets/images-195.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Apabila kamar santri sudah diverifikasi oleh pihak pesantren, klik tombol **Konfirmasi** untuk mengubah status dari **Draft** menjadi **Terkonfirmasi**.
+6.  Apabila kamar santri sudah diverifikasi oleh pihak pesantren, klik tombol **Konfirmasi** untuk mengubah status dari **Draft** menjadi **Terkonfirmasi**.
 
     <figure><img src="../../.gitbook/assets/images-196.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Data Kamar Santri berhasil disimpan dan dapat digunakan untuk pengelolaan asrama santri di sistem.
+7.  Data Kamar Santri berhasil disimpan dan dapat digunakan untuk pengelolaan asrama santri di sistem.
 
     <figure><img src="../../.gitbook/assets/images-197.png" alt=""><figcaption></figcaption></figure>
 

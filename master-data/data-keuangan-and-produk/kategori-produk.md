@@ -8,23 +8,24 @@ Video \[]
 
 ## Master Data - Kategori Produk
 
-Kategori Produk berfungsi untuk mengelompokkan berbagai jenis produk yang digunakan atau dijual dalam lingkungan pesantren. Pengelompokan ini penting untuk memudahkan pengelolaan inventaris, penjualan, pembelian, maupun distribusi produk kepada santri atau unit lain.
+Data **Kategori Produk** berfungsi untuk mengelompokkan berbagai jenis produk yang digunakan atau dijual dalam lingkungan pesantren. Pengelompokan ini penting untuk memudahkan pengelolaan inventaris, penjualan, pembelian, maupun distribusi produk kepada santri atau unit lain.
 
 ### Menambahkan Kategori Produk
 
 Berikut adalah langkah-langkah untuk menambahkan kategori produk pada Odoo Pesantren.
 
-1.  Buka modul **Stok Persediaan**, lalu klik menu **Konfigurasi** dan pilih submenu **Kategori Produk**.
+1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
+2.  Buka modul **Stok Persediaan**, lalu klik menu **Konfigurasi** kemudian pilih submenu **Kategori Produk**.
 
     <figure><img src="../../.gitbook/assets/images-202.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Klik tombol **“Baru”** untuk membuat kategori produk baru.&#x20;
+3.  Klik tombol **“Baru”** untuk membuat kategori produk baru.&#x20;
 
     <figure><img src="../../.gitbook/assets/images-203.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
+4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * **Kategori** (isi dengan nama kategori produk yang akan di tambahkan).
     * **Kategori Induk** (opsional, bisa diisi dengan jika ada jalur distribusi atau alur logistik khusus).
@@ -37,12 +38,12 @@ Berikut adalah langkah-langkah untuk menambahkan kategori produk pada Odoo Pesan
     <figure><img src="../../.gitbook/assets/images-204.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data kategori produk tersimpan di sistem.
+5.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data kategori produk tersimpan di sistem.
 
     <figure><img src="../../.gitbook/assets/images-205.png" alt=""><figcaption></figcaption></figure>
 
 
-5. Data Kategori Produk berhasil disimpan dan siap digunakan untuk mengelompokkan produk.
+6. Data Kategori Produk berhasil disimpan dan siap digunakan untuk mengelompokkan produk.
 
 ### Edit dan Hapus Data Kategori Produk
 

@@ -8,23 +8,24 @@ Video \[]
 
 ## Master Data - Kategori Produk POS
 
-Kategori Produk POS digunakan untuk mengelompokkan produk khusus di Point of Sale (POS). Dengan adanya kategori ini, produk dapat ditampilkan lebih rapi saat transaksi penjualan dilakukan di kasir POS.
+Data **Kategori Produk POS** digunakan untuk mengelompokkan produk khusus di Point of Sale (POS). Dengan adanya kategori ini, produk dapat ditampilkan lebih rapi saat transaksi penjualan dilakukan di kasir POS.
 
 ### Menambahkan Kategori Produk POS
 
 Berikut adalah langkah-langkah untuk menambahkan kategori produk POS pada Odoo Pesantren.
 
-1.  Buka modul **POS**, lalu klik menu **Konfigurasi** dan pilih submenu Kategori-Kategori Produk POS.
+1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
+2.  Buka modul **POS**, lalu klik menu **Konfigurasi** kemudian pilih submenu **Kategori-Kategori Produk POS**.
 
     <figure><img src="../../.gitbook/assets/images-206.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Klik tombol **“Baru”** untuk membuat kategori produk POS baru.&#x20;
+3.  Klik tombol **“Baru”** untuk membuat kategori produk POS baru.&#x20;
 
     <figure><img src="../../.gitbook/assets/images-207.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
+4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * **Nama Kategori POS** (misalnya: Minuman)
     * **Kategori Induk** (kosongkan jika kategori utama, atau pilih kategori lain jika ingin sub-kategori)
@@ -33,12 +34,12 @@ Berikut adalah langkah-langkah untuk menambahkan kategori produk POS pada Odoo P
     <figure><img src="../../.gitbook/assets/images-208.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan selesai diisi, klik icon **Simpan** di sebelah kanan icon Gear agar data kategori produk POS tersimpan di sistem.
+5.  Setelah semua inputan selesai diisi, klik icon **Simpan** di sebelah kanan icon Gear agar data kategori produk POS tersimpan di sistem.
 
     <figure><img src="../../.gitbook/assets/images-209.png" alt=""><figcaption></figcaption></figure>
 
 
-5. Data Kategori Produk POS berhasil disimpan dan siap digunakan saat transaksi di POS.
+6. Data Kategori Produk POS berhasil disimpan dan siap digunakan saat transaksi di POS.
 
 ### Edit dan Hapus Data Kategori Produk POS
 

@@ -8,23 +8,24 @@ Video \[]
 
 ## Master Data - Sesi Mutaba'ah
 
-Data Sesi Mutabaah pada Odoo Pesantren digunakan untuk mencatat aktivitas pemantauan harian (mutabaah yaumiyah) santri yang mencakup waktu dimulai hingga selesai dan keterangan sesinya.
+Data **Sesi Mutabaah** pada Odoo Pesantren digunakan untuk mencatat aktivitas pemantauan harian (mutabaah yaumiyah) santri yang mencakup waktu dimulai hingga selesai dan keterangan sesinya.
 
 ### Menambahkan Sesi Mutaba'ah
 
 Berikut adalah langkah-langkah untuk menambahkan sesi mutaba'ah pada Odoo Pesantren.
 
-1.  Buka modul Kesantrian, lalu klik menu Pengaturan dan pilih submenu Sesi Mutabaah.
+1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../../panduan-login/login-admin.md).
+2.  Buka modul Kesantrian, lalu klik menu Pengaturan kemudian pilih submenu Sesi Mutabaah.
 
     <figure><img src="../../../.gitbook/assets/images-161.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Klik tombol “Baru” untuk membuat data sesi mutabaah baru.
+3.  Klik tombol “Baru” untuk membuat data sesi mutabaah baru.
 
     <figure><img src="../../../.gitbook/assets/images-162.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
+4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * Sesi Mutabaah (isi dengan waktu dimana sesi mutabaah akan berlangsung)
     * Jam Mulai (isi dengan jam dimulai nya sesi)
@@ -35,12 +36,12 @@ Berikut adalah langkah-langkah untuk menambahkan sesi mutaba'ah pada Odoo Pesant
     <figure><img src="../../../.gitbook/assets/images-163.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan diisi dengan benar, klik icon Simpan di sebelah kanan icon Gear agar data sesi mutabaah tersimpan di sistem.
+5.  Setelah semua inputan diisi dengan benar, klik icon Simpan di sebelah kanan icon Gear agar data sesi mutabaah tersimpan di sistem.
 
     <figure><img src="../../../.gitbook/assets/images-164.png" alt=""><figcaption></figcaption></figure>
 
 
-5. Data Sesi Mutaba’ah berhasil disimpan dan dapat digunakan pada pencatatan aktivitas mutaba’ah harian santri.
+6. Data Sesi Mutaba’ah berhasil disimpan dan dapat digunakan pada pencatatan aktivitas mutaba’ah harian santri.
 
 ### Edit dan Hapus Data Sesi Mutaba'ah
 

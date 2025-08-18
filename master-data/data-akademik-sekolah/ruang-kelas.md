@@ -8,23 +8,24 @@ Video \[]
 
 ## Master Data - Ruang Kelas
 
-Menu **Ruang Kelas** digunakan untuk mencatat dan mengelola data kelas yang ada di pesantren. Dengan adanya data ruang kelas, admin atau pengelola sekolah dapat menetapkan wali kelas, jurusan, jumlah santri dalam kelas tersebut, serta mengaitkannya langsung dengan data santri yang sudah terdaftar.
+Data **Ruang Kelas** digunakan untuk mencatat dan mengelola data kelas yang ada di pesantren. Dengan adanya data ruang kelas, admin atau pengelola sekolah dapat menetapkan wali kelas, jurusan, jumlah santri dalam kelas tersebut, serta mengaitkannya langsung dengan data santri yang sudah terdaftar.
 
 ### Menambahkan Data Ruang Kelas
 
 Berikut adalah langkah-langkah untuk menambahkan data ruang kelas pada Odoo Pesantren.
 
-1.  Buka modul **Sekolah**, lalu klik menu **Pengaturan** dan pilih submenu **Ruang Kelas**.
+1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
+2.  Buka modul **Sekolah**, lalu klik menu **Pengaturan** kemudian pilih submenu **Ruang Kelas**.
 
     <figure><img src="../../.gitbook/assets/images-254.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Klik tombol **“Baru”** untuk membuat data Ruang Kelas baru.
+3.  Klik tombol **“Baru”** untuk membuat data Ruang Kelas baru.
 
     <figure><img src="../../.gitbook/assets/images-255.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
+4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * **Nama Ruang Kelas** (misalnya: XII - Rekayasa Perangkat Lunak - A)
     * **Tahun Pelajaran** (misalnya: 2029/2030)
@@ -37,17 +38,17 @@ Berikut adalah langkah-langkah untuk menambahkan data ruang kelas pada Odoo Pesa
     <figure><img src="../../.gitbook/assets/images-256.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data ruang kelas tersimpan dan statusnya menjadi **Draft**.
+5.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data ruang kelas tersimpan dan statusnya menjadi **Draft**.
 
     <figure><img src="../../.gitbook/assets/images-257.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Jika ruang kelas sudah final dan terverifikasi oleh pihak pesantren, klik tombol **Konfirmasi** untuk mengaktifkan ruang kelas tersebut.
+6.  Jika ruang kelas sudah final dan terverifikasi oleh pihak pesantren, klik tombol **Konfirmasi** untuk mengaktifkan ruang kelas tersebut.
 
     <figure><img src="../../.gitbook/assets/images-258.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Data ruang kelas yang berhasil disimpan dan dikonfirmasi dapat digunakan dalam proses akademik seperti absensi, jadwal pelajaran, dan penilaian.
+7.  Data ruang kelas yang berhasil disimpan dan dikonfirmasi dapat digunakan dalam proses akademik seperti absensi, jadwal pelajaran, dan penilaian.
 
     <figure><img src="../../.gitbook/assets/images-259.png" alt=""><figcaption></figcaption></figure>
 

@@ -12,19 +12,20 @@ Video \[]
 
 ### Menambahkan Guru Akademik
 
-Berikut adalah langkah-langkah untuk menambahkan data guru pada Odoo Pesantren:
+Berikut adalah langkah-langkah untuk menambahkan data guru pada Odoo Pesantren.
 
-1.  Buka **modul Kesantrian**, lalu klik menu **Kesantrian** kemudian pilih submenu **Guru**.
+1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
+2.  Buka **modul Kesantrian**, lalu klik menu **Kesantrian** kemudian pilih submenu **Guru**.
 
     <figure><img src="../../.gitbook/assets/images-108 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Klik tombol **“Baru”** untuk membuat data guru baru.
+3.  Klik tombol **“Baru”** untuk membuat data guru baru.
 
     <figure><img src="../../.gitbook/assets/images-109.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
+4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * **Nama Guru** (misalnya: Siti Rahayu)
     * **Email Kantor** (misalnya: sitirahayu@gmail.com)
@@ -37,12 +38,12 @@ Berikut adalah langkah-langkah untuk menambahkan data guru pada Odoo Pesantren:
     <figure><img src="../../.gitbook/assets/images-110.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon Gear agar data guru tersimpan di sistem.
+5.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon Gear agar data guru tersimpan di sistem.
 
     <figure><img src="../../.gitbook/assets/images-111.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Data Guru berhasil disimpan dan dapat digunakan untuk kebutuhan akademik maupun administrasi.
+6.  Data Guru berhasil disimpan dan dapat digunakan untuk kebutuhan akademik maupun administrasi.
 
     <figure><img src="../../.gitbook/assets/images-112.png" alt=""><figcaption></figcaption></figure>
 
