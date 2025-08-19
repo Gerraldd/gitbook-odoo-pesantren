@@ -4,7 +4,7 @@ icon: cash-register
 
 # Sesi Point of Sale
 
-Video \[]
+{% embed url="https://youtu.be/peg5CMQgPZ8" %}
 
 ## Sesi POS
 

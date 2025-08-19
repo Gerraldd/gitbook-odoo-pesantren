@@ -4,7 +4,7 @@ icon: garage-open
 
 # Gudang
 
-Video \[]
+{% embed url="https://youtu.be/TseWJQw2ze4" %}
 
 ## Gudang
 

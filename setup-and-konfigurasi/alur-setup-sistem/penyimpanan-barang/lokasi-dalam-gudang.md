@@ -4,7 +4,7 @@ icon: warehouse-full
 
 # Lokasi Dalam Gudang
 
-Video \[]
+{% embed url="https://youtu.be/swF_aEZd1_A" %}
 
 ## Lokasi Dalam Gudang
 

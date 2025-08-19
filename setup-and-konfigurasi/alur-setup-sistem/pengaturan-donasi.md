@@ -4,7 +4,7 @@ icon: hand-holding-dollar
 
 # Pengaturan Donasi
 
-Video \[]
+{% embed url="https://youtu.be/awt1FRAbr50" %}
 
 ## Pengaturan Donasi
 
