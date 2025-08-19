@@ -10,6 +10,10 @@ Video \[]
 
 **Orang Tua** merupakan data utama yang berfungsi untuk menghubungkan santri dengan wali mereka dalam sistem Odoo Pesantren. Dengan menambahkan data orang tua, pihak pesantren dapat mengelola informasi identitas orang tua serta mengaitkannya dengan anak (santri) yang bersangkutan.
 
+Data orang tua pada umumnya **dibuat secara otomatis** ketika calon santri mengisi data orang tua saat proses **pendaftaran**. Setelah calon santri diterima secara resmi di pesantren, sistem akan otomatis menghasilkan entri data orang tua dan menghubungkannya dengan santri yang bersangkutan.
+
+Namun, administrator juga dapat menambahkan data orang tua **secara manual** apabila diperlukan, misalnya untuk melengkapi data yang belum ada atau melakukan pembaruan terhadap data lama.
+
 ### Menambahkan Orang Tua
 
 Berikut adalah langkah-langkah untuk menambahkan data orang tua pada Odoo Pesantren.
@@ -76,8 +80,12 @@ Berikut adalah langkah-langkah untuk mengaitkan data orang tua ke Santri pada Od
 
     <figure><img src="../../.gitbook/assets/images-137.png" alt=""><figcaption></figcaption></figure>
 
-### Edit dan Hapus Data Orang Tua
+### Edit Data Orang Tua
 
 Untuk mengedit suatu data orang tua, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data orang tua dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
 
-Untuk menghapus suatu data orang tua adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
+***
+
+{% hint style="danger" %}
+Data **Orang Tua** tidak dapat dihapus dari sistem. Anda hanya diperbolehkan melakukan **perubahan atau pembaruan data** pada entri Orang Tua yang sudah ada.
+{% endhint %}

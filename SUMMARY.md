@@ -44,6 +44,13 @@
 
 ## Master Data
 
+* [Data Referensi Umum](master-data/data-referensi-umum/README.md)
+  * [Keterangan Izin](master-data/data-referensi-umum/keterangan-izin.md)
+  * [Provinsi](master-data/data-referensi-umum/provinsi.md)
+  * [Kota](master-data/data-referensi-umum/kota.md)
+  * [Kecamatan](master-data/data-referensi-umum/kecamatan.md)
+  * [Pendidikan](master-data/data-referensi-umum/pendidikan.md)
+  * [Pekerjaan](master-data/data-referensi-umum/pekerjaan.md)
 * [Data Operasional](master-data/data-operasional/README.md)
   * [Musyrif](master-data/data-operasional/musyrif.md)
   * [Petugas Keamanan](master-data/data-operasional/petugas-keamanan.md)
@@ -85,13 +92,6 @@
   * [Pembagian Ekskul](master-data/data-akademik-sekolah/pembagian-ekskul.md)
   * [Predikat Nilai](master-data/data-akademik-sekolah/predikat-nilai.md)
   * [Rencana Pelaksanaan Pembelajaran](master-data/data-akademik-sekolah/rencana-pelaksanaan-pembelajaran.md)
-* [Data Referensi Umum](master-data/data-referensi-umum/README.md)
-  * [Keterangan Izin](master-data/data-referensi-umum/keterangan-izin.md)
-  * [Provinsi](master-data/data-referensi-umum/provinsi.md)
-  * [Kota](master-data/data-referensi-umum/kota.md)
-  * [Kecamatan](master-data/data-referensi-umum/kecamatan.md)
-  * [Pendidikan](master-data/data-referensi-umum/pendidikan.md)
-  * [Pekerjaan](master-data/data-referensi-umum/pekerjaan.md)
 
 ## Transaksi-Transaksi
 

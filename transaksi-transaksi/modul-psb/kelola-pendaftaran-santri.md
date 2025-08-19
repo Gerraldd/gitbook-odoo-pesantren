@@ -8,7 +8,7 @@ Video \[]
 
 ## Kelola Pendaftaran Santri
 
-Fitur ini digunakan oleh administrator untuk mengelola proses pendaftaran santri baru yang diajukan melalui website PSB Odoo Pesantren. Administrator dapat memverifikasi data calon santri, memantau status pendaftaran, melakukan seleksi, hingga menentukan hasil akhir diterima atau ditolak.
+Fitur ini digunakan oleh administrator untuk mengelola proses pendaftaran santri baru yang diajukan melalui website [aplikasi.dqi.ac.id/psb](https://aplikasi.dqi.ac.id/psb). Administrator dapat memverifikasi data calon santri, memantau status pendaftaran, melakukan seleksi, hingga menentukan hasil akhir diterima atau ditolak.
 
 ### Mengelola Pendaftaran Santri
 
