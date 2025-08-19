@@ -32,7 +32,7 @@ Berikut adalah langkah-langkah untuk menambahkan data guru pada Odoo Pesantren.
     * **Jenis Pegawai** (Guru)
     * **Telepon Kantor, Nomor HP, dan No KTP**
     * **Tempat Lahir, Jenis Kelamin, dan Alamat**
-    * **Departemen, Jabatan Kerja, dan Manajer**
+    * **NIP, Departemen, Jabatan Kerja, dan Manajer**
     * **Tanggal Lahir**
 
     <figure><img src="../../.gitbook/assets/images-110.png" alt=""><figcaption></figcaption></figure>
@@ -74,7 +74,7 @@ Berikut adalah langkah-langkah untuk menambahkan data Guru Al-Qur’an pada Odoo
     * **Jenis Pegawai** (Guru Al-Qur’an)
     * **Telepon Kantor, Nomor HP, dan No KTP**
     * **Tempat Lahir, Jenis Kelamin, dan Alamat**
-    * **Departemen, Jabatan Kerja, dan Manajer**
+    * **NIP, Departemen, Jabatan Kerja, dan Manajer**
     * **Tanggal Lahir**
 
     <figure><img src="../../.gitbook/assets/images-115.png" alt=""><figcaption></figcaption></figure>

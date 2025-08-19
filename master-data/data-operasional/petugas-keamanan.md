@@ -32,7 +32,7 @@ Berikut adalah langkah-langkah untuk menambahkan data Petugas Keamanan pada Odoo
     * **Jenis Pegawai** (Keamanan)
     * **Telepon Kantor, Nomor HP, dan No KTP**
     * **Tempat Lahir, Jenis Kelamin, dan Alamat**
-    * **Departemen, Jabatan Kerja, dan Manajer**
+    * **NIP, Departemen, Jabatan Kerja, dan Manajer**
     * **Tanggal Lahir**
 
     <figure><img src="../../.gitbook/assets/images-120.png" alt=""><figcaption></figcaption></figure>
