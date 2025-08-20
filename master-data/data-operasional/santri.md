@@ -56,3 +56,9 @@ Berikut adalah langkah-langkah untuk menambahkan data santri pada Odoo Pesantren
 Untuk mengedit suatu data santri, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data santri dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
 
 Untuk menghapus suatu data santri adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
+
+***
+
+{% hint style="danger" %}
+Data ini **dapat dihapus**, namun apabila sudah terdapat transaksi yang terkait dengan data tersebut, **disarankan untuk tidak menghapusnya** demi menjaga konsistensi dan keakuratan data transaksi di sistem.
+{% endhint %}

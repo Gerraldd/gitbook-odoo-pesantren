@@ -10,7 +10,7 @@ Video \[]
 
 Data **Rencana Pelaksanaan Pembelajaran (RPP)** adalah dokumen perencanaan yang berisi tujuan, materi, metode, dan langkah-langkah pembelajaran yang digunakan guru dalam proses belajar mengajar. Pada Odoo Pesantren, data RPP dapat ditambahkan dan dikelola agar sesuai dengan kurikulum yang berlaku.
 
-### Menambahkan Rencana Pelaksanaan Pembelajaran (RPP)
+### Menambahkan Rencana Pelaksanaan Pembelajaran
 
 Berikut adalah langkah-langkah untuk menambahkan rencana pelaksanaan pembelajaran pada Odoo Pesantren.
 
