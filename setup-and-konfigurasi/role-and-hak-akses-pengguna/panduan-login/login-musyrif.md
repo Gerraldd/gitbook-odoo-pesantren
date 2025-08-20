@@ -4,7 +4,7 @@ icon: user-tie
 
 # Login Musyrif
 
-Video \[]
+{% embed url="https://youtu.be/g6QdkHrNWD0" %}
 
 ## Login Musyrif
 

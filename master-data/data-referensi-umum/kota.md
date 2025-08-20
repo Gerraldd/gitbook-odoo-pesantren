@@ -25,7 +25,7 @@ Berikut adalah langkah-langkah untuk melihat/mengakses data kota pada Odoo Pesan
     <figure><img src="../../.gitbook/assets/images-235.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik salah satu data kota (misalnya: _Kota Surabaya_) untuk melihat detail informasinya.
+4.  Klik salah satu data kota (misalnya: _Kabupaten Malang_) untuk melihat detail informasinya.
 
     <figure><img src="../../.gitbook/assets/images-236.png" alt=""><figcaption></figcaption></figure>
 

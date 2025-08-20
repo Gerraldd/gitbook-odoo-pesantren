@@ -4,7 +4,7 @@ icon: user-police-tie
 
 # Login Petugas Keamanan
 
-Video \[]
+{% embed url="https://youtu.be/1xS73Xrq-10" %}
 
 ## Login Petugas Keamanan
 

@@ -4,7 +4,7 @@ icon: person-chalkboard
 
 # Login Guru
 
-Video \[]
+{% embed url="https://youtu.be/laiStv84cOw" %}
 
 ## Login Guru
 

@@ -90,14 +90,12 @@ Berikut adalah langkah-langkah melakukan impor data di dalam Odoo:
 
 ***
 
-<details>
-
-<summary>Tips &#x26; Catatan</summary>
+{% hint style="info" %}
+Tips & Catatan
 
 1. Gunakan ekspor terlebih dahulu untuk mendapatkan template file .csv yang sesuai dengan struktur field.
 2. Saat mengimpor, pastikan format tanggal, boolean, dan ID relasi sudah sesuai dengan standar Odoo.
 3. Untuk relasi (misal: customer di invoice), pastikan nama partner harus sudah ada di database.
 4. Gunakan kolom External ID untuk menghindari duplikasi saat mengimpor ulang data yang sudah ada.
 5. Jangan ubah kolom id kecuali kamu benar-benar paham dampaknya.
-
-</details>
+{% endhint %}

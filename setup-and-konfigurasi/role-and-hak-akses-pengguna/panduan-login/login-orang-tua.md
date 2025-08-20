@@ -4,7 +4,7 @@ icon: user
 
 # Login Orang Tua
 
-Video \[]
+{% embed url="https://youtu.be/9iYoV5gdq6s" %}
 
 ## Login Orang Tua
 

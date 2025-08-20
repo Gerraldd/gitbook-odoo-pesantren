@@ -4,7 +4,7 @@ icon: credit-card
 
 # Metode Pembayaran POS
 
-Video \[]
+{% embed url="https://youtu.be/XRtGZi7aqMU" %}
 
 ## Metode Pembayaran POS
 
