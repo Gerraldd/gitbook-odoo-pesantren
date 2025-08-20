@@ -1,6 +1,6 @@
 ---
-icon: wave-pulse
+icon: star-and-crescent
 ---
 
-# Data Akademik & Kegiatan
+# Data Kepesantrenan
 

@@ -27,7 +27,7 @@ Berikut adalah langkah-langkah menambahkan data kategori mutaba'ah di Odoo Pesan
 
 4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * **Kategori Mutaba’ah** (misalnya: Ibadah)
+    * **Kategori Mutaba’ah** (misalnya: Kedisiplinan)
     * **Aktif** (centang checkbox ini agar kategori mutaba’ah dapat digunakan pada pencatatan aktivitas santri).
 
     <figure><img src="../../../.gitbook/assets/images-159.png" alt=""><figcaption></figcaption></figure>

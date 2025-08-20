@@ -4,7 +4,7 @@ icon: user-tie-hair
 
 # Musyrif
 
-Video \[]
+{% embed url="https://youtu.be/i80RQLi6aFs" %}
 
 ## Master Data - Data Musyrif
 

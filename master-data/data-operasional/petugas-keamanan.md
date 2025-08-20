@@ -4,7 +4,7 @@ icon: user-police-tie
 
 # Petugas Keamanan
 
-Video \[]
+{% embed url="https://youtu.be/YDEC6iQe8AM" %}
 
 ## Master Data - Petugas Keamanan
 

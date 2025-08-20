@@ -28,8 +28,8 @@ Berikut adalah langkah-langkah untuk menambahkan sesi mutaba'ah pada Odoo Pesant
 4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * Sesi Mutabaah (isi dengan waktu dimana sesi mutabaah akan berlangsung)
-    * Jam Mulai (isi dengan jam dimulai nya sesi)
     * Jam Selesai (isi dengan jam berakhirnya sesi)
+    * Jam Mulai (isi dengan jam dimulai nya sesi)
     * Keterangan (isi dengan informasi detail dari sesi yang berlangsung)
     * Aktifkan checkbox "Aktif" jika sesi tersebut masih berjalan di pesantren.
 
