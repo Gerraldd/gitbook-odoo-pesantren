@@ -25,9 +25,7 @@ Berikut adalah langkah-langkah untuk melihat atau menambahkan data pendidikan pa
     <figure><img src="../../.gitbook/assets/images-427.png" alt=""><figcaption></figcaption></figure>
 
 
-4.
-
-    Akan tampil halaman form, isi inputan yang tersedia seperti:
+4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
     * **Nama Pendidikan** (misalnya: SD, SMP, SMA, S1, S2)
     * **Keterangan** (opsional, bisa diisi dengan informasi tambahan mengenai pendidikan tersebut)

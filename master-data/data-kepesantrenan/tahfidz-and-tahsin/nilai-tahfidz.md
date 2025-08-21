@@ -12,7 +12,7 @@ Data **Nilai Tahfidz** pada Odoo Pesantren digunakan untuk menyimpan referensi k
 
 ### Menambahkan Nilai Tahfidz
 
-Berikut adalah langkah-langkah untuk menambakan nilai tahfidz pada Odoo Pesanntren.
+Berikut adalah langkah-langkah untuk menambakan nilai tahfidz pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../../panduan-login/login-admin.md).
 2.  Buka modul **Kesantrian**, lalu klik menu **Pengaturan** kemudian pilih submenu **Nilai Tahfidz**.
@@ -27,19 +27,18 @@ Berikut adalah langkah-langkah untuk menambakan nilai tahfidz pada Odoo Pesanntr
 
 4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * Nama Nilai Tahfidz (misalnya: Mumtaz)
-    * Lulus Checkbox
+    * Nama Nilai Tahfidz (misalnya: Mumtaz).
+    * Lulus Checkbox (centang untuk mengaktifkan jika nilai tersebut dianggap sebagai kategori kelulusan nilai tahfidz).
 
     <figure><img src="../../../.gitbook/assets/images-151.png" alt=""><figcaption></figcaption></figure>
 
 
-5. Aktifkan checkbox "Lulus" jika nilai tersebut dianggap sebagai kategori kelulusan.
-6.  Setelah semua inputan diisi dengan benar, klik icon Simpan di sebelah kanan icon Gear agar data nilai tahfidz tersimpan di sistem.
+5.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data nilai tahfidz tersimpan di sistem.
 
     <figure><img src="../../../.gitbook/assets/images-152.png" alt=""><figcaption></figcaption></figure>
 
 
-7. Data Nilai Tahfidz berhasil disimpan dan dapat digunakan saat ustadz/guru qur'an menilai hafalan santri.
+6. Data Nilai Tahfidz berhasil disimpan dan dapat digunakan saat ustadz/guru qur'an menilai hafalan santri.
 
 ### Edit dan Hapus Data Nilai Tahfidz
 

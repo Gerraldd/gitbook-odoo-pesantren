@@ -4,8 +4,6 @@ icon: user-crown
 
 # Administrator
 
-Video \[]
-
 ## Role Administrator
 
 **Administrator** adalah peran tertinggi dalam sistem Odoo yang memberikan akses penuh kepada pengguna untuk mengelola seluruh modul, konfigurasi, dan data di dalam sistem. Pengguna dengan role ini dapat melihat dan mengatur semua bagian, termasuk data bisnis (seperti penjualan, inventaris, keuangan) serta menu teknis seperti model, field, dan tampilan (views).&#x20;

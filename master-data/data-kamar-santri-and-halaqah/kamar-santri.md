@@ -27,13 +27,12 @@ Berikut adalah langkah-langkah untuk menambah dan membagikan kamar santri pada O
 
 4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * **Nama Kamar**
-    * **Musyrif/Pembina**
-    * **Ustadz Pengganti** (opsional)
-    * **Tahun Ajaran**
+    * **Nama Kamar** (isi dengan nama kamar santri).
+    * **Musyrif/Pembina** (pilih musyrif yang bertanggung jawab atas kamar yang dibuat).
+    * **Tahun Ajaran** (isi dengan tahun ajaran halaqah ini aktif).
     * **Jumlah Santri** (akan terisi otomatis berdasarkan santri yang ditempatkan pada kamar tersebut)
-    * **Keterangan** (opsional)
-    * **Tab Santri** → pilih santri yang sudah tersimpan untuk dimasukkan ke kamar ini.
+    * **Keterangan** (opsional, bisa diisi dengan informasi tambahan))
+    * **Tab Santri** (isi dengan data santri yang sudah tersimpan).
 
     <figure><img src="../../.gitbook/assets/images-194.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +53,7 @@ Berikut adalah langkah-langkah untuk menambah dan membagikan kamar santri pada O
 
 ### Edit dan Hapus Data Kamar Santri
 
-Untuk mengedit suatu data kamar santri, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data kamar santri dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+Untuk mengedit suatu data kamar santri, silahkan pilih terlebih dahulu data mana yang akan diedit. Setelah masuk pada halaman form kamar santri, klik tombol **"Draft"** untu mulai mengedit data. Editlah data kamar santri dan klik icon **Simpan** untuk menyimpan data perubahan tersebut dan klik tombol **"Konfirmasi"** untuk mengkonfirmasi data kamar santri.
 
 Untuk menghapus suatu data kamar santri adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
 

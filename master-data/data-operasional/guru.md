@@ -4,7 +4,7 @@ icon: person-chalkboard
 
 # Guru
 
-Video \[]
+{% embed url="https://youtu.be/1pL3a4BTljg" %}
 
 ## Master Data - Guru Akademik
 
