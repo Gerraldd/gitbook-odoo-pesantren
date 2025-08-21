@@ -4,7 +4,7 @@ icon: briefcase-blank
 
 # Pekerjaan
 
-Video \[]
+{% embed url="https://youtu.be/4Oiyc_prWXU" %}
 
 ## Master Data - Pekerjaan
 

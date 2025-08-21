@@ -4,7 +4,7 @@ icon: graduation-cap
 
 # Pendidikan
 
-Video \[]
+{% embed url="https://youtu.be/tsdMgQQKy7s" %}
 
 ## Master Data - Pendidikan
 

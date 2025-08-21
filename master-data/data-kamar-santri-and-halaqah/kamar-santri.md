@@ -29,9 +29,9 @@ Berikut adalah langkah-langkah untuk menambah dan membagikan kamar santri pada O
 
     * **Nama Kamar** (isi dengan nama kamar santri).
     * **Musyrif/Pembina** (pilih musyrif yang bertanggung jawab atas kamar yang dibuat).
-    * **Tahun Ajaran** (isi dengan tahun ajaran halaqah ini aktif).
-    * **Jumlah Santri** (akan terisi otomatis berdasarkan santri yang ditempatkan pada kamar tersebut)
-    * **Keterangan** (opsional, bisa diisi dengan informasi tambahan))
+    * **Tahun Ajaran** (isi dengan tahun ajaran yang aktif saat ini).
+    * **Jumlah Santri** (akan terisi otomatis berdasarkan santri yang ditempatkan pada kamar tersebut).
+    * **Keterangan** (opsional, bisa diisi dengan informasi tambahan).
     * **Tab Santri** (isi dengan data santri yang sudah tersimpan).
 
     <figure><img src="../../.gitbook/assets/images-194.png" alt=""><figcaption></figcaption></figure>
