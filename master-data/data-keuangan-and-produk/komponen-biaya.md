@@ -27,9 +27,9 @@ Berikut adalah langkah-langkah untuk menambahkan komponen pendidikan pada Odoo P
 
 4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * **Nama Komponen Biaya** (misalnya: Buku Paket SMA 2029)
-    * **Tipe Bayar** (Cicilan/Tunai)
-    * **Produk** (pilih produk yang telah dibuat pada modul Stok Persediaan)
+    * **Nama Komponen Biaya** (misalnya: Buku Paket SMA 2029).
+    * **Tipe Bayar** (Cicilan/Tunai).
+    * **Produk** (pilih produk yang telah dibuat pada modul Stok Persediaan).
     * **Biaya Per Tahun Ajaran** → otomatis terisi ketika data Biaya Tahun Ajaran sudah dibuat.
     * **Active** (centang untuk mengaktifkan komponen biaya agar dapat digunakan).
 
@@ -56,9 +56,9 @@ Berikut adalah langkah-langkah untuk menambahkan biaya komponen per tahun ajaran
 
 3.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * **Komponen Biaya** (pilih salah satu dari komponen biaya yang sudah dibuat, contoh: SPP Bulanan)
-    * **Tahun Ajaran** (misalnya: 2029/2030)
-    * **Nominal** (misalnya: Rp 300.000)
+    * **Komponen Biaya** (pilih salah satu dari komponen biaya yang sudah dibuat).
+    * **Tahun Ajaran** (pilih tahun ajaran yang ada).
+    * **Nominal** (isi nominal biaya dengan benar).
 
     <figure><img src="../../.gitbook/assets/images-224.png" alt=""><figcaption></figcaption></figure>
 

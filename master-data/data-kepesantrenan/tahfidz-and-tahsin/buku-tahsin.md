@@ -27,8 +27,8 @@ Berikut adalah langkah-langkah untuk menambahkan data buku tahsin pada Odoo Pesa
 
 4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * Buku Tahsin (isi dengan nama Buku Tahsin yang ada di pesantren)
-    * Keterangan (opsional, misalnya atau deskripsi buku catatan tambahan)
+    * Buku Tahsin (isi dengan nama Buku Tahsin yang ada di pesantren).
+    * Keterangan (opsional, misalnya atau deskripsi buku catatan tambahan).
     * Jilid Tahsin (isi dengan menambahkan baris dengan data edisi jilid dan keterangan).
 
     <figure><img src="../../../.gitbook/assets/images-155.png" alt=""><figcaption></figcaption></figure>

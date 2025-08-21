@@ -4,7 +4,7 @@ icon: family
 
 # Orang Tua
 
-Video \[]
+{% embed url="https://youtu.be/_wiLMxriy00" %}
 
 ## Master Data - Orang Tua
 

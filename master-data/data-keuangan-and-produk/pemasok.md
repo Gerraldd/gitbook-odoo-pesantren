@@ -2,15 +2,15 @@
 icon: truck-ramp-box
 ---
 
-# Data Pemasok
+# Pemasok
 
 Video \[]
 
-## Master Data - Data Pemasok
+## Master Data - Pemasok
 
 Pada bagian Data **Pemasok**, Anda dapat menambahkan informasi pemasok yang berhubungan dengan kegiatan usaha. Data ini penting untuk mengelola hubungan dengan pemasok barang maupun jasa, serta digunakan dalam transaksi pembelian dan pengelolaan stok.
 
-### Menambahkan Data Pemasok
+### Menambahkan Pemasok
 
 Berikut adalah langkah-langkah untuk menambahkan data pemasok pada Odoo Pesantren.
 
@@ -27,11 +27,11 @@ Berikut adalah langkah-langkah untuk menambahkan data pemasok pada Odoo Pesantre
 
 4.  Akan tampil halaman formulir pemasok. Lengkapi kolom input yang tersedia, antara lain:
 
-    * **Nama Pemasok**
-    * **Alamat**
-    * **Telepon**
-    * **Email**
-    * **Label** (opsional)
+    * **Nama Pemasok** (masukkan nama lengkap perusahaan atau individu yang menjadi pemasok).
+    * **Alamat** (Tulis alamat lengkap pemasok, termasuk jalan, kota, dan kode pos).
+    * **Telepon dan Telepon Mobile** (masukkan nomor telepon pemasok yang dapat dihubungi).
+    * **Email** (isi dengan alamat email pemasok untuk keperluan komunikasi).
+    * **Label** (opsional, tambahkan label atau tag untuk memudahkan pengelompokan atau pencarian pemasok.)
     * Dan data lainnya sesuai kebutuhan.
 
     <figure><img src="../../.gitbook/assets/images-211.png" alt=""><figcaption></figcaption></figure>

@@ -27,7 +27,7 @@ Berikut adalah langkah-langkah untuk menambahkan kategori produk POS pada Odoo P
 
 4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * **Nama Kategori POS** (misalnya: Minuman)
+    * **Nama Kategori POS** (isi dengan nama kategori produk POS yang akan di tambahkan)
     * **Kategori Induk** (kosongkan jika kategori utama, atau pilih kategori lain jika ingin sub-kategori)
     * **Gambar Kategori** (opsional, untuk memudahkan identifikasi di tampilan POS).
 
