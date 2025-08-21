@@ -4,7 +4,7 @@ icon: memo-circle-check
 
 # Keterangan Izin
 
-Video \[]
+{% embed url="https://youtu.be/yTv-cm5VR7A" %}
 
 ## Master Data - Keterangan Izin
 

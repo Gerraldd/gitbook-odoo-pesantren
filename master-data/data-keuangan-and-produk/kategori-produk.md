@@ -29,7 +29,7 @@ Berikut adalah langkah-langkah untuk menambahkan kategori produk pada Odoo Pesan
 
     * **Kategori** (isi dengan nama kategori produk yang akan di tambahkan).
     * **Kategori Induk** (opsional, bisa diisi dengan jika ada jalur distribusi atau alur logistik khusus).
-    * **Logistik** (opsional, )
+    * **Logistik** (opsional)
     * Akun Properti, pilih akun-akun berikut sesuai dengan kebijakan keuangan:
       * Akun Laba: Akun yang mencatat penjualan (misal: 41000010 Penjualan)
       * Akun Beban: Akun yang mencatat HPP (misal: 51000010 Harga Pokok Penjualan)

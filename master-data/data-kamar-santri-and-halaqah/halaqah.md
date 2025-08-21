@@ -53,7 +53,7 @@ Berikut adalah langkah-langkah untuk menambahkan halaqah pada Odoo Pesantren.
 
 ### Edit dan Hapus Data Halaqah
 
-Untuk mengedit suatu data halaqah, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data halaqah dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+Untuk mengedit suatu data halaqah, silahkan pilih terlebih dahulu data mana yang akan diedit. Setelah masuk pada halaman form halaqah, klik tombol **"Draft"** untu mulai mengedit data. Editlah data halaqah dan klik tombol **"Konfirmasi"** untuk mengkonfirmasi perubahan data halaqah.
 
 Untuk menghapus suatu data halaqah adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
 

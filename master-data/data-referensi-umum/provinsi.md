@@ -4,7 +4,7 @@ icon: island-tropical
 
 # Provinsi
 
-Video \[]
+{% embed url="https://youtu.be/BaU34q8_0P0" %}
 
 ## Master Data - Provinsi
 

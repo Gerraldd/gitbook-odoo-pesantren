@@ -4,7 +4,7 @@ icon: building-circle-arrow-right
 
 # Kecamatan
 
-Video \[]
+{% embed url="https://youtu.be/WRXARyxMeKc" %}
 
 ## Master Data - Kecamatan
 

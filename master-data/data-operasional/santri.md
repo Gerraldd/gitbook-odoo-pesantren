@@ -4,7 +4,7 @@ icon: screen-users
 
 # Santri
 
-Video \[]
+{% embed url="https://youtu.be/G0K7_kd7JSk" %}
 
 ## Master Data - Santri
 

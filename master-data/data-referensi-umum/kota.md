@@ -4,7 +4,7 @@ icon: building
 
 # Kota
 
-Video \[]
+{% embed url="https://youtu.be/DhJwaYw8L5Q" %}
 
 ## Master Data - Kota
 
