@@ -4,7 +4,7 @@ icon: book-open-cover
 
 # Sesi Tahfidz
 
-Video \[]
+{% embed url="https://youtu.be/DrsZZoNcmtA" %}
 
 ## Master Data - Sesi Tahfidz
 

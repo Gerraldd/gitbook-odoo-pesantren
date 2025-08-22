@@ -4,7 +4,7 @@ icon: clipboard-list-check
 
 # Nilai Tahfidz
 
-Video \[]
+{% embed url="https://youtu.be/sNiPP3dvAKg" %}
 
 ## Master Data - Nilai Tahfidz
 

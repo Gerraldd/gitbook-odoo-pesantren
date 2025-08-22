@@ -4,7 +4,7 @@ icon: book-blank
 
 # Buku Tahsin
 
-Video \[]
+{% embed url="https://youtu.be/oskqDPFULQ8" %}
 
 ## Master Data - Buku Tahsin
 

@@ -4,7 +4,7 @@ icon: book-bookmark
 
 # Daftar Hadits
 
-Video \[]
+{% embed url="https://youtu.be/MvjjStcWszk" %}
 
 ## Master Data - Daftar Hadits
 
