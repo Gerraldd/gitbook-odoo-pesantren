@@ -27,10 +27,10 @@ Berikut adalah langkah-langkah untuk menambahknan data mata pelajaran pada Odoo 
 
 4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * **Jenjang Pendidikan** (misalnya: SD, SMP, atau SMA).
-    * **Kelas**
-    * **Nama Mata Pelajaran** (misalnya: Matematika).
-    * **Kode Mata Pelajaran** (misalnya: MTK).
+    * **Jenjang Pendidikan** (pilih jenjang pendidikan yang ada).
+    * **Kelas** (pilih kelas sesuai jenjang pendidikan yang dipilih).
+    * **Nama Mata Pelajaran** (masukkan nama mata pelajaran yang akan dibuat).
+    * **Kode Mata Pelajaran** (masukkan kode mata pelajaran untuk memberi identitas mata pelajaran).
     * **Kategori Mata Pelajaran** (Akademik, Diniyyah, Tahfidz, Ekstrakurikuler, atau Lainnya).
     * **Guru** (pilih guru yang sudah tersimpan pada sistem).
 

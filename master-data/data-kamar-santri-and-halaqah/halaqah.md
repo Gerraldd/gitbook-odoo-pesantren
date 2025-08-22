@@ -4,7 +4,7 @@ icon: mosque
 
 # Halaqah
 
-Video \[]
+{% embed url="https://youtu.be/czwMXOisxG4" %}
 
 ## Master Data - Halaqah
 
@@ -42,7 +42,7 @@ Berikut adalah langkah-langkah untuk menambahkan halaqah pada Odoo Pesantren.
     <figure><img src="../../.gitbook/assets/images-189.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Apabila halaqah sudah terkonformasi oleh pihak pesantren, maka klik tombol konfirmasi untuk mengkonfirmasi data yang disimpan.
+6.  Apabila halaqah sudah terkonfirmasi oleh pihak pesantren, maka klik tombol **"Konfirmasi"** untuk mengkonfirmasi data yang disimpan.
 
     <figure><img src="../../.gitbook/assets/images-190.png" alt=""><figcaption></figcaption></figure>
 

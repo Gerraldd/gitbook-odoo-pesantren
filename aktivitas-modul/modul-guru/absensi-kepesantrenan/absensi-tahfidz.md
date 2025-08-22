@@ -46,4 +46,4 @@ Berikut adalah langkah-langkah untuk melakukan absensi tahfidz pada Odoo pesantr
 
 
 8. Data absensi tahfidz yang telah selesai akan tersimpan dan dapat digunakan sebagai laporan kehadiran santri dalam kegiatan tahfidz.
-9. Selanjutnya, guru qur'an bisa melakukan penilaian tahfidz kepada santri yang sudah diabsensi melalui absensi tahfidz, [Penilaian Tahfidz Al-Qur'an di sini](../penilaian-keagamaan/penilaian-tahfidz.md).
+9. Selanjutnya, guru qur'an bisa melakukan penilaian tahfidz kepada santri yang sudah diabsensi melalui absensi tahfidz, [Penilaian Tahfidz Al-Qur'an di sini](../penilaian-kepesantrenan/penilaian-tahfidz.md).

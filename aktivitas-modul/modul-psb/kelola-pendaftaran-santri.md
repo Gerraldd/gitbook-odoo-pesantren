@@ -20,8 +20,8 @@ Berikut adalah langkah-langkah untuk mengelola pendaftaran santri yang telah ter
     <figure><img src="../../.gitbook/assets/images-299.png" alt=""><figcaption></figcaption></figure>
 
 
-3. Sistem akan menampilkan daftar calon santri yang mendaftar melalui website PSB yaitu [aplikasi.dqi.ac.id](https://aplikasi.dqi.ac.id/psb)
-4.  Klik salah satu pendaftar untuk melihat informasi detail. Misalnya, pada jenjang **SMA Tahfidz Bilingual** terdapat 1 pendaftar baru dengan status **Draft**.
+3. Sistem akan menampilkan daftar calon santri yang sudah mendaftar.
+4.  Klik salah satu pendaftar untuk melihat informasi detail. Misalnya, pada jenjang **SMA Tahfidz Bilingual** terdapat pendaftar baru dengan status **Draft**.
 
     <figure><img src="../../.gitbook/assets/images-300.png" alt=""><figcaption></figcaption></figure>
 
@@ -52,7 +52,7 @@ Berikut adalah langkah-langkah untuk mengelola pendaftaran santri yang telah ter
     <figure><img src="../../.gitbook/assets/images-303.png" alt=""><figcaption></figcaption></figure>
 
 
-9.  Akan muncul tab baru bernama **Nilai Seleksi**. Masuk ke tab ini, lalu tambahkan penilaian sesuai kriteria, misalnya:  Tes Al-Qur’an, Pengetahuan Agama, Bahasa Arab, dan Tes Akademik. Jika santri memenuhi kriteria, klik tombol "**Diterima"**. Namun, jika santri tidak memenuhi kriteria, klik tombol **Ditolak**.
+9.  Akan muncul tab baru bernama **Nilai Seleksi**. Masuk ke tab ini, lalu tambahkan penilaian sesuai kriteria, misalnya:  Tes Al-Qur’an, Tes Pengetahuan Agama, Tes Bahasa Arab, dan Tes Akademik. Jika santri memenuhi kriteria, klik tombol **"Diterima"**. Namun, jika santri tidak memenuhi kriteria, klik tombol **"Ditolak"**.
 
     <figure><img src="../../.gitbook/assets/images-304.png" alt=""><figcaption></figcaption></figure>
 

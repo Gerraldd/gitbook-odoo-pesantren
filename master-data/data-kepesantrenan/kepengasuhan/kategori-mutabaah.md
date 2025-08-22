@@ -4,7 +4,7 @@ icon: list
 
 # Kategori Mutaba'ah
 
-VIdeo \[]
+{% embed url="https://youtu.be/13hPtAzof-8" %}
 
 ## Master Data - Kategori Mutaba'ah
 

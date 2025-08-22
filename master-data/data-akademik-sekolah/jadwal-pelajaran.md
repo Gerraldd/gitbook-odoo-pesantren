@@ -27,20 +27,20 @@ Berikut adalah langkah-langkah untuk mengatur jadwal pelajaran pada Odoo Pesantr
 
 4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * **Tahun Ajaran** (misalnya: _2029/2030_)
-    * **Kelas** (misalnya: _XII - Rekayasa Perangkat Lunak - A_)
-    * **Semester** (misalnya: _Semester 1_)
-    * **List Tabel Jadwal Pelajaran** untuk mengatur detail jadwal harian.
+    * **Tahun Ajaran** (pilih tahun ajaran yang saat ini aktif).
+    * **Kelas** (pilih kelas yang ada).
+    * **Semester** (pilih semester sesuai saat membuat tahun ajaran).
+    * **List Tabel Jadwal Pelajaran** (untuk mengatur detail jadwal harian).
 
     <figure><img src="../../.gitbook/assets/images-278.png" alt=""><figcaption></figcaption></figure>
 
 
 5.  Untuk mengisi detail jadwal, klik salah satu baris pada tabel (misalnya: _Hari Senin, Jam Ke-1_) hingga muncul pop-up form, lalu isi inputannya:
 
-    * **Hari** (misalnya: _Senin_)
-    * **Kelas** (otomatis terisi sesuai jadwal)
-    * **Jam Pelajaran** (misalnya: _Jam Ke-1_)
-    * **Mata Pelajaran** (pilih mata pelajaran)
+    * **Hari** (pilih hari jadwal pelajaran).
+    * **Kelas** (otomatis terisi sesuai kelas yang telah dimasukkan).
+    * **Jam Pelajaran** (pilih jam pelajaran yang ada di sistem).
+    * **Mata Pelajaran** (pilih mata pelajaran yang ada di sistem).
     * **Guru** (pilih guru yang mengajar sesuai mata pelajaran).
 
     Jika sudah klik tombol **Simpan & Tutup** untuk menyimpan detail jadwal harian.

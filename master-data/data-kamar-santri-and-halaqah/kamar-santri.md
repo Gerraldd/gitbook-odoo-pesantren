@@ -4,7 +4,7 @@ icon: building-user
 
 # Kamar Santri
 
-Video \[]
+{% embed url="https://youtu.be/8Z_nAIOGYGA" %}
 
 ## Master Data - Kamar Santri
 

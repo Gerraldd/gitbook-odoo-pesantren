@@ -27,9 +27,9 @@ Berikut adalah langkah-langkah untuk menambahkan data jam pelajara pada Odoo Pes
 
 4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * **Nama** (misalnya: _Jam Ke-11_).
-    * **Jam Mulai** (jam mulai pelajaran).
-    * **Jam Selesai** (jam berakhirnya pelajaran).
+    * **Nama** (masukkan nama jam pelajaran).
+    * **Jam Mulai** (masukkan jam pelajaran dimulai).
+    * **Jam Selesai** (masukkan jam pelajaran berakhir).
 
     <figure><img src="../../.gitbook/assets/images-274.png" alt=""><figcaption></figcaption></figure>
 
