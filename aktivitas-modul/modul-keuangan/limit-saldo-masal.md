@@ -15,7 +15,7 @@ Limit Saldo Masal adalah fitur yang digunakan untuk membatasi penggunaan saldo s
 Berikut adalah langkah-langkah untuk melimit pemakaian saldo santri secara masal pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Keuangan**, lalu klik menu **Aktivitas** dan pilih submenu **Limit Masal**.
+2.  Buka modul **Keuangan**, lalu klik menu **Aktivitas** kemudian pilih submenu **Limit Masal**.
 
     <figure><img src="../../.gitbook/assets/images-355.PNG" alt=""><figcaption></figcaption></figure>
 

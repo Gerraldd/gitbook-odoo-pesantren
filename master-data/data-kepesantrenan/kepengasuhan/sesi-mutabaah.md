@@ -4,7 +4,7 @@ icon: wave-pulse
 
 # Sesi Mutaba'ah
 
-Video \[]
+{% embed url="https://youtu.be/FOGKrpdo1BU" %}
 
 ## Master Data - Sesi Mutaba'ah
 

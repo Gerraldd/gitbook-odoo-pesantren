@@ -4,7 +4,7 @@ icon: star
 
 # Jenis Prestasi
 
-Video \[]
+{% embed url="https://youtu.be/XhkCx5WB6gg" %}
 
 ## Master Data - Jenis Prestasi
 

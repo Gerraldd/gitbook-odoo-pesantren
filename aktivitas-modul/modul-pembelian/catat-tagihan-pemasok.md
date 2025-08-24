@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melakukan pencatatan tagihan pemasok pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Pembelian**, lalu klik menu **Pesanan**  dan pilih submenu **Pesanan Pembelian**.
+2.  Buka modul **Pembelian**, lalu klik menu **Pesanan** kemudian pilih submenu **Pesanan Pembelian**.
 
     <figure><img src="../../.gitbook/assets/images-497.png" alt=""><figcaption></figcaption></figure>
 

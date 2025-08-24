@@ -4,7 +4,7 @@ icon: users-slash
 
 # Penonaktifan Akun
 
-Video \[]
+{% embed url="https://youtu.be/PRBoACcjkzs" %}
 
 ## Penonaktifan Akun Santri
 
@@ -15,18 +15,18 @@ Video \[]
 Berikut adalah langkah-langkah untuk menonaktifkan akun santri pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../../panduan-login/login-admin.md).
-2.  Buka modul **Santri**, lalu klik menu **Akun Santri** dan pilih submenu **Penonaktifan Akun**.
+2.  Buka modul **Santri**, lalu klik menu **Akun Santri** kemudian pilih submenu **Penonaktifan Akun**.
 
     <figure><img src="../../../.gitbook/assets/images-323.png" alt=""><figcaption></figcaption></figure>
 
 
-3. Pastikan santri sudah memiliki **kartu santri** yang aktif sebelum dilakukan penonaktifan.
-4.  Pada tampilan form pop up **Penonaktifan Akun**, pilih nama santri pada bagian **Santri**.
+3.  Pada tampilan form pop up **Penonaktifan Akun**, pilih nama santri pada bagian **Santri**.
 
     <figure><img src="../../../.gitbook/assets/images-324.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Pilih **Alasan Penonaktifan Akun** sesuai kondisi (misalnya: pelanggaran, pindah pesantren, atau lainnya). Jika sudah, klik tombol **"Nonaktifkan"** untuk memproses penonaktifan akun santri.
+4. Pastikan santri yang dipilih memiliki **kartu santri** yang statusnya aktif sebelum dilakukan penonaktifan.
+5.  Pilih **Alasan Penonaktifan Akun** sesuai kondisi (misalnya: pelanggaran, pindah pesantren, atau lainnya) serta catatan tambahan penonaktifan. Jika sudah, klik tombol **"Nonaktifkan"** untuk memproses penonaktifan akun santri.
 
     <figure><img src="../../../.gitbook/assets/images-325.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,7 +36,7 @@ Berikut adalah langkah-langkah untuk menonaktifkan akun santri pada Odoo Pesantr
     <figure><img src="../../../.gitbook/assets/images-326.png" alt=""><figcaption></figcaption></figure>
 
 
-7. Setelah akun dinonaktifkan, status akun santri akan berubah menjadi **Nonaktif**, dan santri tidak bisa lagi melakukan transaksi.
+7. Status akun santri akan berubah menjadi **Nonaktif**, dan santri tidak bisa lagi melakukan transaksi.
 8.  Contoh transaksi dengan akun santri yang dinonaktifkan.
 
     <figure><img src="../../../.gitbook/assets/images-327.png" alt=""><figcaption></figcaption></figure>

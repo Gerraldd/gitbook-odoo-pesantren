@@ -4,7 +4,7 @@ icon: book
 
 # Mutaba'ah
 
-Video \[]
+{% embed url="https://youtu.be/Nh0EK5y3D8c" %}
 
 ## Master Data - Mutaba'ah
 

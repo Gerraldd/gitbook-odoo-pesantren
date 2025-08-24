@@ -15,11 +15,9 @@ Video \[]
 Berikut adalah langkah-langkah untuk melakukan **Penilaian** pada Odoo Pesantren sebagai **guru akademik**.
 
 1. Login menggunakan akun guru akademik. Jika Anda belum memahami cara login sebagai guru akademik, silakan lihat panduan [**Login Guru Akademik** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-guru.md).
-2.  Buka modul **Guru**, lalu klik menu **Aktivitas** dan pilih submenu **Penilaian**.
+2.  Buka modul **Guru**, lalu klik menu **Aktivitas** kemudian pilih submenu **Penilaian**.
 
     <figure><img src="../../../.gitbook/assets/images-456.png" alt=""><figcaption></figcaption></figure>
-
-
 3.  Klik tombol **"Baru"** untuk membuat penilaian baru.
 
     <figure><img src="../../../.gitbook/assets/images-457.png" alt=""><figcaption></figcaption></figure>

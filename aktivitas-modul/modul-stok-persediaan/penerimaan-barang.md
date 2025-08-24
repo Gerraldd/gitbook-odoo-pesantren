@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melakukan penerimaan barang dari pemasok pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka **modul Stok Persediaan**, lalu klik menu **Operasi** dan pilih submenu **Penerimaan**.
+2.  Buka **modul Stok Persediaan**, lalu klik menu **Operasi** kemudian pilih submenu **Penerimaan**.
 
     <figure><img src="../../.gitbook/assets/images-491.png" alt=""><figcaption></figcaption></figure>
 

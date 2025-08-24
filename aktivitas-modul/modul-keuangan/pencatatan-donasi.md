@@ -34,7 +34,7 @@ Berikut adalah langkah-langkah untuk melakukan pencatatan donasi pada Odoo Pesan
 
     * **Nama Donatur**.
     * **Tanggal Donasi** (tanggal saat donasi dilakukan).
-    * **Terkait Sumbangan,** pilih jenis sumbangan yang sudah dikonfigurasi sebelumnya.
+    * **Terkait Sumbangan 9**pilih jenis sumbangan yang sudah dikonfigurasi sebelumnya).
 
     <figure><img src="../../.gitbook/assets/images-344.png" alt=""><figcaption></figcaption></figure>
 

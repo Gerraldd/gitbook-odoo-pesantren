@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk memonitoring absensi santri pada Odoo Pesantren sebagai **orang tua**.
 
 1. Login menggunakan akun orang tua. Jika Anda belum memahami cara login sebagai orang tua, silakan lihat panduan [**Login Orang Tua** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-orang-tua.md).
-2.  Buka modul **Orang Tua**, lalu klik menu **Akademik** dan pilih submenu **Absensi Santri**.
+2.  Buka modul **Orang Tua**, lalu klik menu **Akademik** kemudian pilih submenu **Absensi Santri**.
 
     <figure><img src="../../../.gitbook/assets/images-560.png" alt=""><figcaption></figcaption></figure>
 

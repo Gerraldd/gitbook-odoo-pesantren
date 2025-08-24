@@ -2,7 +2,7 @@
 icon: memo-circle-check
 ---
 
-# Menambah Izin Santri
+# Mengajukan Izin Santri
 
 Video \[]
 
@@ -10,9 +10,9 @@ Video \[]
 
 **Perizinan santri** pada Odoo Pesantren digunakan untuk mencatat izin santri yang dikelola oleh musyrif. Melalui fitur ini, musyrif dapat menginput data perizinan santri mulai dari tanggal izin, tanggal kembali, penjemput, hingga alasan izin.
 
-### Menambahkan Perizinan Santri
+### Mengajukan Perizinan Santri oleh Musyrif
 
-Berikut adalah langkah-langkah untuk mengelola perizinan santri pada Odoo Pesantren sebagai **musyrif**.
+Berikut adalah langkah-langkah untuk membuat/mengajukan perizinan santri pada Odoo Pesantren sebagai **musyrif**.
 
 1. Login menggunakan akun musyrif. Jika Anda belum memahami cara login sebagai musyrif, silakan lihat panduan [**Login Musyrif** di sini](../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-musyrif.md).
 2.  Buka modul **Musyrif**, lalu klik menu **Perizinan Santri**.
@@ -20,7 +20,7 @@ Berikut adalah langkah-langkah untuk mengelola perizinan santri pada Odoo Pesant
     <figure><img src="../../.gitbook/assets/images-373.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Klik tombol "**Baru"** untuk menambahkan data perizinan santri.
+3.  Klik tombol "**Baru"** untuk membuat/mengajukan data perizinan santri.
 
     <figure><img src="../../.gitbook/assets/images-374.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,12 +32,14 @@ Berikut adalah langkah-langkah untuk mengelola perizinan santri pada Odoo Pesant
 
 5.  Isi inputan yang tersedia dengan benar, seperti:
 
-    * **Tanggal Izin** (tanggal mulai izin santri).
-    * **Tanggal Kembali** (tanggal santri kembali ke pesantren.)
-    * **Penjemput**: (nama penjemput santri (jika ada)).
-    * **Keperluan**: (alasan izin, misalnya _Sakit, Keluar Kota, Urusan Keluarga,_ atau lainnya).
+    * **Tanggal Izin** (masukkan tanggal mulai izin santri).
+    * **Tanggal Kembali** (masukkan tanggal santri kembali ke pesantren).
+    * **Penjemput** (masukkan nama penjemput santri (jika ada)).
+    * **Foto Bukti** (upload file foto sebagai bukti perizinan santri tersebut).
+    * **Keperluan** (pilih alasan izin sesuai dengan data keterangan izin yang dibuat sebelumnya).
+    * **Catatan** (masukkan catatan tambahan dari perizinan yang dibuat).
 
-    Setelah semua data diisi, klik tombol **Simpan** untuk menyimpan perizinan santri. Status perizinan akan otomatis menjadi **Pengajuan**.
+    Setelah semua data diisi, klik tombol **"Simpan"** untuk menyimpan perizinan santri. Status perizinan akan otomatis menjadi **Pengajuan**.
 
     <figure><img src="../../.gitbook/assets/images-376.png" alt=""><figcaption></figcaption></figure>
 

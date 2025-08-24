@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melakukan order pembelian barang kepada pemasok pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Pembelian**, lalu klik menu **Pesanan** dan pilih submenu **Permintaan Penawaran**.
+2.  Buka modul **Pembelian**, lalu klik menu **Pesanan** kemudian pilih submenu **Permintaan Penawaran**.
 
     <figure><img src="../../.gitbook/assets/images-486.png" alt=""><figcaption></figcaption></figure>
 

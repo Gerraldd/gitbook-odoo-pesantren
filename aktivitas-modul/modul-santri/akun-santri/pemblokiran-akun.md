@@ -4,29 +4,29 @@ icon: user-lock
 
 # Pemblokiran Akun
 
-Video \[]
+{% embed url="https://youtu.be/B5RfDx6n9jw" %}
 
 ## Pemblokiran Akun Santri
 
-**Pemblokiran Akun Santri** adalah fitur yang digunakan untuk menghentikan sementara akses transaksi santri pada sistem Odoo Pesantren. Fitur ini biasanya dipakai ketika santri melakukan pelanggaran tertentu, seperti penyalahgunaan kartu santri, atau berdasarkan kebijakan pesantren. Berbeda dengan **Penonaktifan Akun** yang bersifat permanen, pemblokiran akun dapat dibuka kembali jika santri dinyatakan layak menggunakan akunnya kembali.
+Pemblokiran Akun Santri adalah tindakan **menonaktifkan seluruh akses santri ke sistem, transaksi, dan layanan pesantren secara tegas**. Akses hanya dapat dipulihkan setelah proses evaluasi dan persetujuan pengurus. Berbeda dengan Penonaktifan Akun yang sifatnya lebih ringan, pemblokiran bersifat pembatasan penuh hingga ada keputusan resmi.
 
 ### Memblokir Akun Santri
 
 Berikut adalah langkah-langkah untuk memblokir akun santri pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../../panduan-login/login-admin.md).
-2.  Buka modul **Santri**, lalu klik menu **Akun Santri** dan pilih submenu **Pemblokiran Akun**.
+2.  Buka modul **Santri**, lalu klik menu **Akun Santri** kemudian pilih submenu **Pemblokir Akun**.
 
     <figure><img src="../../../.gitbook/assets/images-328.png" alt=""><figcaption></figcaption></figure>
 
 
-3. Pastikan santri sudah memiliki **kartu santri** yang aktif agar bisa dilakukan pemblokiran.
-4.  Pada tampilan form pop up **Pemblokiran Akun**, pilih nama santri pada bagian **Santri**.
+3.  Pada tampilan form pop up **Pemblokiran Akun**, pilih nama santri pada bagian **Santri**.
 
     <figure><img src="../../../.gitbook/assets/images-329.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Pilih **Alasan Pemblokiran Akun** (misalnya: Menggunakan Kartu Santri Orang Lain). Jika sudah, klik tombol **"Blokir"** untuk memproses pemblokiran akun santri.
+4. Pastikan santri yang dipilih memiliki **kartu santri** yang statusnya aktif sebelum dilakukan pemblokiran.
+5.  Pilih **Alasan Pemblokiran Akun** sesuai kondisi (misalnya: penyalahgunaan saldo, menggunakan kartu santri lain, dan lainnya) serta catatan tambahan penonaktifan. Jika sudah, klik tombol **"Blokir"** untuk memproses pemblokiran akun santri.
 
     <figure><img src="../../../.gitbook/assets/images-330.png" alt=""><figcaption></figcaption></figure>
 

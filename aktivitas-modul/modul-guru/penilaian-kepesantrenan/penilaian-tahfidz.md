@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melakukan penialian tahfidz al-qur'an pada Odoo Pesantren sebagai **guru qur'an**.
 
 1. Login menggunakan akun guru qur'an. Jika Anda belum memahami cara login sebagai guru qur'an, silakan lihat panduan [**Login Guru Qur'an** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-guru.md).
-2.  Buka **modul Guru**, lalu klik menu **Kepesantrenan** dan pilih submenu **Tahfidz Al-Qur’an**.
+2.  Buka **modul Guru**, lalu klik menu **Kepesantrenan** kemudian pilih submenu **Tahfidz Al-Qur’an**.
 
     <figure><img src="../../../.gitbook/assets/images-469.png" alt=""><figcaption></figcaption></figure>
 

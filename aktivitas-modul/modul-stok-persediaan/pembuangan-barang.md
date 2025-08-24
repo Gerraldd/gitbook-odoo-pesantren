@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melakukan pembuangan stok barang pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Stok Persediaan**, lalu klik menu **Operasi** dan pilih submenu **Pembuangan**.
+2.  Buka modul **Stok Persediaan**, lalu klik menu **Operasi** kemudian pilih submenu **Pembuangan**.
 
     <figure><img src="../../.gitbook/assets/images-523.png" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ icon: siren
 
 # Tindakan Disipliner
 
-Video \[]
+{% embed url="https://youtu.be/C01ea0MPtw0" %}
 
 ## Master Data - Tindakan Disipliner
 

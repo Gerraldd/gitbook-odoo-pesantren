@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk mencatat kondisi kesehatan santri pada Odoo Pesantren sebagai **musyrif**.
 
 1. Login menggunakan akun musyrif. Jika Anda belum memahami cara login sebagai musyrif, silakan lihat panduan [**Login Musyrif** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-musyrif.md).
-2.  Buka modul **Musyrif**, lalu klik menu **Aktivitas** dan pilih submenu **Kesehatan Santri**.
+2.  Buka modul **Musyrif**, lalu klik menu **Aktivitas** kemudian pilih submenu **Kesehatan Santri**.
 
     <figure><img src="../../../.gitbook/assets/images-387.png" alt=""><figcaption></figcaption></figure>
 

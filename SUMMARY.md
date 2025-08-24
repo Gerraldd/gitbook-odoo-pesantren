@@ -96,7 +96,7 @@
 ## Aktivitas Modul
 
 * [Modul PSB](aktivitas-modul/modul-psb/README.md)
-  * [Kelola Pendaftaran Santri](aktivitas-modul/modul-psb/kelola-pendaftaran-santri.md)
+  * [Pengelolaan Pendaftaran Santri](aktivitas-modul/modul-psb/pengelolaan-pendaftaran-santri.md)
 * [Modul Santri](aktivitas-modul/modul-santri/README.md)
   * [Pendaftaran Kartu dan VA](aktivitas-modul/modul-santri/pendaftaran-kartu-dan-va.md)
   * [Akun Santri](aktivitas-modul/modul-santri/akun-santri/README.md)
@@ -106,7 +106,7 @@
     * [Pemblokiran Akun](aktivitas-modul/modul-santri/akun-santri/pemblokiran-akun.md)
     * [Pembukaan Akun](aktivitas-modul/modul-santri/akun-santri/pembukaan-akun.md)
 * [Modul Musyrif](aktivitas-modul/modul-musyrif/README.md)
-  * [Menambah Izin Santri](aktivitas-modul/modul-musyrif/menambah-izin-santri.md)
+  * [Mengajukan Izin Santri](aktivitas-modul/modul-musyrif/mengajukan-izin-santri.md)
   * [Pengelolaan Izin Santri](aktivitas-modul/modul-musyrif/pengelolaan-izin-santri.md)
   * [Pencatatan Aktivitas](aktivitas-modul/modul-musyrif/pencatatan-aktivitas/README.md)
     * [Pelanggaran Santri](aktivitas-modul/modul-musyrif/pencatatan-aktivitas/pelanggaran-santri.md)

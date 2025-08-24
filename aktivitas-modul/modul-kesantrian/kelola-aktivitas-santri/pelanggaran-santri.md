@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melakukan pengelolaan pelanggaran santri pada Odoo Pesantren sebagai **administrator**.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../../panduan-login/login-admin.md).
-2.  Buka modul **Kesantrian**, lalu klik menu **Aktivitas** dan pilih submenu **Pelanggaran**.
+2.  Buka modul **Kesantrian**, lalu klik menu **Aktivitas** kemudian pilih submenu **Pelanggaran**.
 
     <figure><img src="../../../.gitbook/assets/images-547.png" alt=""><figcaption></figcaption></figure>
 

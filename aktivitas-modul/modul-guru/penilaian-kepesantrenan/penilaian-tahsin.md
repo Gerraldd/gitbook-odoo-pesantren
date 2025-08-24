@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melakukan penilaian tahsin al-qur'an pada Odoo Pesantren sebagai **guru qur'an**.
 
 1. Login menggunakan akun guru qur'an. Jika Anda belum memahami cara login sebagai guru qur'an, silakan lihat panduan [**Login Guru Qur'an** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-guru.md).
-2.  Buka **modul Guru**, lalu klik menu **Kepesantrenan** dan pilih submenu **Tahsin Al-Qur’an**.
+2.  Buka **modul Guru**, lalu klik menu **Kepesantrenan** kemudian pilih submenu **Tahsin Al-Qur’an**.
 
     <figure><img src="../../../.gitbook/assets/images-474.png" alt=""><figcaption></figcaption></figure>
 

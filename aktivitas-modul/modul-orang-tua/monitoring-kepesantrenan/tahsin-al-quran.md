@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk memonitoring tahsin al-qur'an santri pada Odoo Pesantren sebagai **orang tua**.
 
 1. Login menggunakan akun orang tua. Jika Anda belum memahami cara login sebagai orang tua, silakan lihat panduan [**Login Orang Tua** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-orang-tua.md).
-2.  Buka modul **Orang Tua**, lalu klik menu **Kesantrian** dan pilih submenu **Tahsin Al-Qur'an**.
+2.  Buka modul **Orang Tua**, lalu klik menu **Kesantrian** kemudian pilih submenu **Tahsin Al-Qur'an**.
 
     <figure><img src="../../../.gitbook/assets/images-582.png" alt=""><figcaption></figcaption></figure>
 

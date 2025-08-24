@@ -16,7 +16,7 @@ Namun, dalam kondisi tertentu, pengguna dapat melakukan pengiriman barang secara
 Berikut adalah langkah-langkah untuk melakukan proses pengiriman barang pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Stok Persediaan**, lalu pilih menu **Operasi** dan klik submenu **Pengiriman**.
+2.  Buka modul **Stok Persediaan**, lalu pilih menu **Operasi** kemudian klik submenu **Pengiriman**.
 
     <figure><img src="../../.gitbook/assets/images-668 (2).png" alt=""><figcaption></figcaption></figure>
 

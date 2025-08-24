@@ -15,7 +15,7 @@ Penetapan Tagihan Santri adalah proses untuk menentukan tagihan biaya pendidikan
 Berikut adalah langkah-langkah untuk menetapkan tagihan kepada santri pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Keuangan**, lalu klik menu **Aktivitas** dan pilih submenu **Penetapan Tagiahn Santri**.
+2.  Buka modul **Keuangan**, lalu klik menu **Aktivitas** kemudian pilih submenu **Penetapan Tagiahn Santri**.
 
     <figure><img src="../../.gitbook/assets/images-351.png" alt=""><figcaption></figcaption></figure>
 

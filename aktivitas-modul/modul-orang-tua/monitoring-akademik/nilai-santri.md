@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk memonitoring nilai santri pada Orang Tua sebagai **orang tua**.
 
 1. Login menggunakan akun orang tua. Jika Anda belum memahami cara login sebagai orang tua, silakan lihat panduan [**Login Orang Tua** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-orang-tua.md).
-2.  Buka modul **Orang Tua**, lalu klik menu **Akademik** dan pilih submenu **Nilai Santri**.
+2.  Buka modul **Orang Tua**, lalu klik menu **Akademik** kemudian pilih submenu **Nilai Santri**.
 
     <figure><img src="../../../.gitbook/assets/images-563.png" alt=""><figcaption></figcaption></figure>
 

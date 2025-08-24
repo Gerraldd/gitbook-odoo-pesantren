@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melakukan pembayaran tagihan santri pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Keuangan**, lalu klik menu **Aktivitas** dan pilih submenu **Tagihan Santri**.
+2.  Buka modul **Keuangan**, lalu klik menu **Aktivitas** kemudian pilih submenu **Tagihan Santri**.
 
     <figure><img src="../../.gitbook/assets/images-360 (1).png" alt=""><figcaption></figcaption></figure>
 

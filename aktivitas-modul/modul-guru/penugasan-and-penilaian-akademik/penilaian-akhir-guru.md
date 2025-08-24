@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melakukan penilaian akhir (guru) pada Odoo Pesantren oleh **guru akademik**.
 
 1. Login menggunakan akun guru akademik. Jika Anda belum memahami cara login sebagai guru akademik, silakan lihat panduan [**Login Guru Akademik** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-guru.md).
-2.  Buka modul **Guru**, lalu klik menu **Aktivitas** dan pilih submenu **Penilaian Akhir (Guru)**.
+2.  Buka modul **Guru**, lalu klik menu **Aktivitas** kemudian pilih submenu **Penilaian Akhir (Guru)**.
 
     <figure><img src="../../../.gitbook/assets/images-461.png" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ icon: list
 
 # Jenis Pelanggaran
 
-Video \[]
+{% embed url="https://youtu.be/yw1VoB0OP8g" %}
 
 ## Master Data - Jenis Pelanggaran
 

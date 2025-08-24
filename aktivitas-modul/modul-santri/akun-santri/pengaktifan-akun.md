@@ -4,7 +4,7 @@ icon: user-check
 
 # Pengaktifan Akun
 
-Video \[]
+{% embed url="https://youtu.be/hOIATAx9K4w" %}
 
 ## Pengaktifan Akun Santri
 
@@ -15,22 +15,21 @@ Video \[]
 Berikut adalah langkah-langkah untuk mengaktifkan akun santri pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../../panduan-login/login-admin.md).
-2. Pastikan santri sudah memiliki **kartu santri** yang sebelumnya  dinonaktifkan agar proses pengaktifan akun dapat dilakukan.
-3.  Buka modul **Santri**, lalu klik menu **Akun Santri** dan pilih submenu **Pengaktifan Akun**.
+2.  Buka modul **Santri**, lalu klik menu **Akun Santri** kemudian pilih submenu **Pengaktifan Akun**.
 
     <figure><img src="../../../.gitbook/assets/images-333.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Pada tampilan form pop up **Pengaktifan Akun**, pilih nama santri pada bagian **Santri** yang sebelumnya akunnya dinonaktifkan.
+3.  Pada tampilan form pop up **Pengaktifan Akun**, pilih nama santri pada bagian **Santri** yang sebelumnya akunnya dinonaktifkan.
 
     <figure><img src="../../../.gitbook/assets/images-334.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Sistem akan menampilkan informasi status kartu beserta alasan penonaktifan sebelumnya. Lalu klik tombol **"Aktifkan"** untuk memproses pengaktifan kembali akun santri.
+4.  Sistem akan menampilkan informasi status kartu beserta alasan penonaktifan sebelumnya. Lalu klik tombol **"Aktifkan"** untuk memproses pengaktifan kembali akun santri.
 
     <figure><img src="../../../.gitbook/assets/images-335.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Setelah berhasil, sistem akan menampilkan notifikasi bahwa **akun santri berhasil diaktifkan** dan dapat kembali digunakan untuk transaksi.
+5.  Setelah berhasil, sistem akan menampilkan notifikasi bahwa **akun santri berhasil diaktifkan** dan dapat kembali digunakan untuk transaksi.
 
     <figure><img src="../../../.gitbook/assets/images-336.png" alt=""><figcaption></figcaption></figure>

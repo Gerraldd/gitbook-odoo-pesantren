@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melakukan penyesuaian stok barang pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Stok Persediaan**, lalu klik menu **Operasi** dan pilih submenu **Inventaris Fisi**.
+2.  Buka modul **Stok Persediaan**, lalu klik menu **Operasi** kemudian pilih submenu **Inventaris Fisi**.
 
     <figure><img src="../../.gitbook/assets/images-519.png" alt=""><figcaption></figcaption></figure>
 

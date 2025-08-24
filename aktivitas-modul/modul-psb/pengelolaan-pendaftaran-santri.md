@@ -2,9 +2,9 @@
 icon: user-gear
 ---
 
-# Kelola Pendaftaran Santri
+# Pengelolaan Pendaftaran Santri
 
-Video \[]
+{% embed url="https://youtu.be/tsQCgywClL8" %}
 
 ## Kelola Pendaftaran Santri
 
@@ -12,7 +12,7 @@ Fitur ini digunakan oleh administrator untuk mengelola proses pendaftaran santri
 
 ### Mengelola Pendaftaran Santri
 
-Berikut adalah langkah-langkah untuk mengelola pendaftaran santri yang telah terdata di sisitem pada Odoo Pesantren.
+Berikut adalah langkah-langkah untuk mengelola pendaftaran santri yang telah terdata di sistem pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
 2.  Buka modul **PSB**, lalu klik menu **Pendaftaran** untuk mulai mengelola daftar pendaftaran yang telah diajukan oleh calon santri.
@@ -47,7 +47,7 @@ Berikut adalah langkah-langkah untuk mengelola pendaftaran santri yang telah ter
     <figure><img src="../../.gitbook/assets/images-302.png" alt=""><figcaption></figcaption></figure>
 
 
-8.  Setelah konfirmasi, status akan berubah menjadi **Terdaftar**. Untuk melanjutkan proses, klik tombol "**Seleksi"**.
+8.  Setelah terkonfirmasi, status akan berubah menjadi **Terdaftar**. Untuk melanjutkan proses pendaftaran pada tahap seleksi, klik tombol "**Seleksi"**.
 
     <figure><img src="../../.gitbook/assets/images-303.png" alt=""><figcaption></figcaption></figure>
 

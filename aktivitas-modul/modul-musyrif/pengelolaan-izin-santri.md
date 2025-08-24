@@ -32,13 +32,13 @@ Berikut adalah langkah-langkah untuk mengelola perizinan santri pada Odoo Pesant
 
 5.  Setelah status berubah menjadi **Diperiksa**, lanjutkan proses:
 
-    * Klik tombol **Ijin Diterima** apabila santri memenuhi syarat untuk keluar pesantren.
-    * Klik tombol **Ijin Ditolak** apabila santri tidak memenuhi kriteria atau izin tidak dapat diberikan.
+    * Klik tombol **"Ijin Diterima"** apabila santri memenuhi syarat untuk keluar pesantren.
+    * Klik tombol **"Ijin Ditolak"** apabila santri tidak memenuhi kriteria atau izin tidak dapat diberikan.
 
     <figure><img src="../../.gitbook/assets/images-379.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Jika izin disetujui, status perizinan akan otomatis berubah menjadi **Disetujui**, yang berarti musyrif telah menyetujui izin santri untuk keluar.
+6.  Jika izin disetujui, status perizinan akan otomatis berubah menjadi **Disetujui**, yang berarti musyrif telah menyetujui izin santri untuk keluar. Sebaliknya jika izin ditolak, maka status perizinan santri akan berubah menjadi **Ditolak**.
 
     <figure><img src="../../.gitbook/assets/images-380.png" alt=""><figcaption></figcaption></figure>
 

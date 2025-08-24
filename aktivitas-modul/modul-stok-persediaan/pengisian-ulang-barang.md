@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melakukan pengisian ulang stok produk pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Stok Persediaan**, lalu klik menu **Operasi** dan pilih submenu **Pengisian Ulang**.
+2.  Buka modul **Stok Persediaan**, lalu klik menu **Operasi** kemudian pilih submenu **Pengisian Ulang**.
 
     <figure><img src="../../.gitbook/assets/images-529.png" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ icon: database
 
 # Data Pelanggaran
 
-Video \[]
+{% embed url="https://youtu.be/Lrs1bim-eP8" %}
 
 ## Master Data - Data Pelanggaran
 
