@@ -4,7 +4,7 @@ icon: sitemap
 
 # Organisasi Siswa
 
-Video \[]
+{% embed url="https://youtu.be/6fZPYcIbKF0" %}
 
 ## Master Data - Organisasi Siswa
 

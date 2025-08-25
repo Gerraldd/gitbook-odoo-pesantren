@@ -14,7 +14,7 @@ Video \[]
 
 Berikut adalah langkah-langkah untuk memonitoring tahfidz al-qur'an santri pada Odoo Pesantren sebagai **orang tua**.
 
-1. Login menggunakan akun orang tua. Jika Anda belum memahami cara login sebagai orang tua, silakan lihat panduan [**Login Orang Tua** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-orang-tua.md).
+1. Login menggunakan akun orang tua. Jika Anda belum memahami cara login sebagai orang tua, silakan lihat panduan [**Login Orang Tua** di sini](../../../setup-and-konfigurasi/panduan-login/login-orang-tua.md).
 2.  Buka modul **Orang Tua**, lalu klik menu **Kesantrian** kemudian pilih submenu **Tahfidz Al-Qur'an**.
 
     <figure><img src="../../../.gitbook/assets/images-579.png" alt=""><figcaption></figcaption></figure>

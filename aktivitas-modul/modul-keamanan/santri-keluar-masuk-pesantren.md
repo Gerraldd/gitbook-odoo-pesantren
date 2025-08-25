@@ -14,7 +14,7 @@ Video \[]
 
 Berikut adalah langkah-langkah untuk melakukan pencatatan keluar/masuk santri dari pesantren pada Odoo Pesantren sebagai **petugas keamanan**.
 
-1. Login menggunakan akun petugas keamanan. Jika Anda belum memahami cara login sebagai petugas keamanan, silakan lihat panduan [**Login Petugas Keamanan** di sini](../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-petugas-keamanan.md).
+1. Login menggunakan akun petugas keamanan. Jika Anda belum memahami cara login sebagai petugas keamanan, silakan lihat panduan [**Login Petugas Keamanan** di sini](../../setup-and-konfigurasi/panduan-login/login-petugas-keamanan.md).
 2.  Buka **modul Keamanan**, lalu klik menu **Santri Keluar/Masuk**.
 
     <figure><img src="../../.gitbook/assets/images-410.png" alt=""><figcaption></figcaption></figure>

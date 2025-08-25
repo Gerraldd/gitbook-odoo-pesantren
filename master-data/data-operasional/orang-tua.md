@@ -4,17 +4,15 @@ icon: family
 
 # Orang Tua
 
-{% embed url="https://youtu.be/_wiLMxriy00" %}
-
 ## Master Data - Orang Tua
 
-**Orang Tua** merupakan data utama yang berfungsi untuk menghubungkan santri dengan wali mereka dalam sistem Odoo Pesantren. Dengan menambahkan data orang tua, pihak pesantren dapat mengelola informasi identitas orang tua serta mengaitkannya dengan anak (santri) yang bersangkutan.
+Data **Orang Tua** merupakan data utama yang berfungsi untuk menghubungkan santri dengan wali mereka dalam sistem Odoo Pesantren. Dengan menambahkan data orang tua, pihak pesantren dapat mengelola informasi identitas orang tua serta mengaitkannya dengan anak (santri) yang bersangkutan.
 
 Data orang tua pada umumnya **dibuat secara otomatis** ketika calon santri mengisi data orang tua saat proses **pendaftaran**. Setelah calon santri diterima secara resmi di pesantren, sistem akan otomatis menghasilkan entri data orang tua dan menghubungkannya dengan santri yang bersangkutan.
 
 Namun, administrator juga dapat menambahkan data orang tua **secara manual** apabila diperlukan, misalnya untuk melengkapi data yang belum ada atau melakukan pembaruan terhadap data lama.
 
-### Menambahkan Orang Tua
+### Menambahkan Data Orang Tua
 
 Berikut adalah langkah-langkah untuk menambahkan data orang tua pada Odoo Pesantren.
 
@@ -31,13 +29,14 @@ Berikut adalah langkah-langkah untuk menambahkan data orang tua pada Odoo Pesant
 
 4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * **Nama Orang Tua** (misalnya: _Ayah Rizky_)
-    * **Email** (misalnya: _ayahrizky@gmail.com_)
-    * **No. Telepon** dan **NIK**
-    * **Alamat, Kota, RT/RW**
-    * **Hubungan** (misalnya: _Ayah_)
-    * **Label** (misalnya: _Orang Tua_)
-    * **Akses Limit** (opsional, diaktifkan jika ingin membatasi penggunaan saldo anak oleh orang tua)
+    * **Nama Orang Tua** (masukkan nama orang tua).
+    * **Email** (masukkan email orang tua).
+    * **Nomor Telepon** (masukkan nomor telepon orang tua).
+    * **NIK** (masukkan nomor induk kependudukan orang tua).
+    * **Alamat, Kota dan RT/RW** (masukkan alamat, kota, dan rt/rw orang tua).
+    * **Hubungan** (Isi dengan hubungan orang tua dengan santri).
+    * **Label** (misalnya: _Orang Tua_).
+    * **Akses Limit** (opsional, diaktifkan jika ingin membatasi penggunaan saldo anak oleh orang tua).
     * **Tab Santri** → menampilkan daftar santri yang terhubung dengan akun orang tua tersebut.
 
     <figure><img src="../../.gitbook/assets/images-130.png" alt=""><figcaption></figcaption></figure>
@@ -54,19 +53,19 @@ Berikut adalah langkah-langkah untuk menambahkan data orang tua pada Odoo Pesant
 
 ### Mengaitkan Data Orang Tua ke Santri
 
-Berikut adalah langkah-langkah untuk mengaitkan data orang tua ke Santri pada Odoo Pesantren:
+Berikut adalah langkah-langkah untuk mengaitkan data orang tua ke Santri pada Odoo Pesantren.
 
-1.  Pada modul yang sama yaitu **Kesantrian, k**lik menu **Kesantrian** lalu pilih submenu **Santri**.
+1.  Pada modul **Kesantrian**, klik menu **Kesantrian** kemudian pilih submenu **Santri**.
 
     <figure><img src="../../.gitbook/assets/images-133.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Pilih santri yang ingin ditambahkan data orang tua (misalnya: _Muhammad Rizky Ramadhan_).
+2.  Pilih santri yang akan ditambahkan data orang tuanya.
 
     <figure><img src="../../.gitbook/assets/images-134.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada **Tab Orang Tua**, tambahkan orang tua yang telah dibuat sebelumnya (misalnya: _Ayah Rizky_) pada field **Akun Orang Tua**, lalu lengkapi data yang diperlukan.
+3.  Pada **Tab Orang Tua**, tambahkan orang tua yang telah dibuat sebelumnya pada field **Akun Orang Tua**, lalu lengkapi data yang diperlukan.
 
     <figure><img src="../../.gitbook/assets/images-135.png" alt=""><figcaption></figcaption></figure>
 

@@ -8,7 +8,7 @@ Video \[]
 
 ## Tagihan Santri
 
-Penetapan Tagihan Santri adalah proses untuk menentukan tagihan biaya pendidikan santri berdasarkan kelas, angkatan, dan komponen biaya yang berlaku pada tahun ajaran aktif. Proses ini dilakukan oleh administrator melalui modul Keuangan.
+**Penetapan Tagihan Santri** adalah proses untuk menentukan tagihan biaya pendidikan santri berdasarkan kelas, angkatan, dan komponen biaya yang berlaku pada tahun ajaran aktif. Proses ini dilakukan oleh administrator melalui modul Keuangan.
 
 ### Menetapkan Tagihan Santri
 
@@ -41,7 +41,7 @@ Berikut adalah langkah-langkah untuk menetapkan tagihan kepada santri pada Odoo 
 
 Berikut adalah langkah-langkah untuk mengkonfirmasi tagihan santri yang telah dibuat pada Odoo Pesantren.
 
-1.  Buka **Modul Keuangan**, lalu klik menu **Aktivitas** dan pilih submenu **Tagihan Santri**.
+1.  Pada modul **Keuangan**, lalu klik menu **Aktivitas** kemudian pilih submenu **Tagihan Santri**.
 
     <figure><img src="../../.gitbook/assets/images-360.png" alt=""><figcaption></figcaption></figure>
 
@@ -80,4 +80,4 @@ Berikut adalah langkah-langkah untuk mengkonfirmasi tagihan santri yang telah di
     <figure><img src="../../.gitbook/assets/images-366.png" alt=""><figcaption></figcaption></figure>
 
 
-4. Setelah tagihan terkonfirmasi, maka tagihan tersebut siap digunakan dalam proses penagihan lebih lanjut (misalnya pembayaran dari orang tua atau wali santri).
+4. Setelah tagihan terkonfirmasi, maka tagihan tersebut siap digunakan dalam proses penagihan lebih lanjut (misalnya pembayaran dari orang tua atau lainnya).

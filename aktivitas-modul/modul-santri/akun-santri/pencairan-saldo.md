@@ -27,7 +27,7 @@ Berikut langkah-langkah untuk mencairkan saldo santri pada Odoo Pesantren.
 
 4. Pastikan santri yang bersangkutan sudah memiliki **kartu santri** dan **saldo**.
    * Jika santri belum memiliki kartu santri, lakukan pendaftaran kartu santri terlebih dahulu [disini](../pendaftaran-kartu-dan-va.md#langkah-langkah-mendaftarkan-kartu-santri).
-   * Jika santri belum memiliki saldo, silakan minta pengisian uang saku dari orang tua melalui [musyrif disini](../../modul-musyrif/uang-saku-santri.md) atau [administrator disini](../../modul-keuangan/uang-saku.md).
+   * Jika santri belum memiliki saldo, silakan minta pengisian uang saku dari orang tua melalui [musyrif disini](../../modul-musyrif/mutasi-saldo.md) atau [administrator disini](../../modul-keuangan/uang-saku.md).
 5.  Isi nominal saldo yang ingin dicairkan pada field **Nominal**, serta catatan tambahan bila diperlukan. Jika sudah, klik tombol **"Cairkan"** untuk memproses pencairan saldo.
 
     <figure><img src="../../../.gitbook/assets/images-321.png" alt=""><figcaption></figcaption></figure>

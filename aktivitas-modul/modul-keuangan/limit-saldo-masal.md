@@ -8,7 +8,7 @@ Video \[]
 
 ## Limit Saldo Masal Santri
 
-Limit Saldo Masal adalah fitur yang digunakan untuk membatasi penggunaan saldo santri secara serentak berdasarkan periode tertentu (harian, mingguan, atau bulanan). Fitur ini memudahkan administrator dalam mengatur batas maksimal penggunaan saldo agar lebih terkontrol.
+**Limit Saldo Masal** adalah fitur yang digunakan untuk membatasi penggunaan saldo santri secara serentak berdasarkan periode tertentu (harian, mingguan, atau bulanan). Fitur ini memudahkan administrator dalam mengatur batas maksimal penggunaan saldo agar lebih terkontrol.
 
 ### Melimit Saldo Santri Secara Masal
 
@@ -25,7 +25,7 @@ Berikut adalah langkah-langkah untuk melimit pemakaian saldo santri secara masal
     <figure><img src="../../.gitbook/assets/images-356.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Masukkan **Nominal Limit** yang ingin diterapkan, kemudian pilih **Kelas** yang santrinya akan dikenakan limit saldo masal.
+4.  Masukkan **Nominal Limit** yang ingin diterapkan, kemudian pilih **Kelas** yang santrinya akan dikenakan limit saldo secara masal.
 
     <figure><img src="../../.gitbook/assets/images-357.png" alt=""><figcaption></figcaption></figure>
 

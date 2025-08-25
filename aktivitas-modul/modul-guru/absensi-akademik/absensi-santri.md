@@ -14,7 +14,7 @@ Video \[]
 
 Berikut adalah langkah-langkah untuk melakukan absensi santri pada Odoo Pesantren sebagai **guru akademik**.
 
-1. Login menggunakan akun guru akademik. Jika Anda belum memahami cara login sebagai guru akademik, silakan lihat panduan [**Login Guru Akademik** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-guru.md).
+1. Login menggunakan akun guru akademik. Jika Anda belum memahami cara login sebagai guru akademik, silakan lihat panduan [**Login Guru Akademik** di sini](../../../setup-and-konfigurasi/panduan-login/login-guru.md).
 2.  Buka modul **Guru**, lalu klik menu **Absensi** kemudian pilih submenu **Absensi Santri**.
 
     <figure><img src="../../../.gitbook/assets/images-417.png" alt=""><figcaption></figcaption></figure>
@@ -32,10 +32,10 @@ Berikut adalah langkah-langkah untuk melakukan absensi santri pada Odoo Pesantre
 
 5.  Isi inputan lainnya, seperti:
 
-    * **Tanggal Absen** (tanggal mulai absensi santri).
-    * **Jam Ke** (misalnya: Jam Ke-1).
-    * **Mata Pelajaran** → otomatis terisi sesuai jam pelajaran yang dikonfigurasi pada jadwal pelajaran.
-    * **Guru** → otomatis terisi sesuai guru yang sedang login.
+    * **Tanggal Absen** (masukkan tanggal absensi santri).
+    * **Jam Pelajaran** (masukkan jam pelajaran).
+    * **Mata Pelajaran**  (otomatis terisi sesuai jam pelajaran yang dikonfigurasi pada jadwal pelajaran).
+    * **Guru** (otomatis terisi sesuai guru yang sedang login).
     * **Tab Absensi Santri** → menampilkan daftar santri pada kelas tersebut untuk dilakukan pencatatan hadir, izin, atau alfa.
 
     <figure><img src="../../../.gitbook/assets/images-421.png" alt=""><figcaption></figcaption></figure>
@@ -43,9 +43,9 @@ Berikut adalah langkah-langkah untuk melakukan absensi santri pada Odoo Pesantre
 
 6.  Pindah ke **Tab Jurnal**, lalu isi inputan berikut:
 
-    * **Tema** (misalnya: Integral Tentu).
-    * **Materi** (materi yang diajarkan pada pertemuan tersebut).
-    * **RPP (Rencana Pelaksanaan Pembelajaran)** → pilih sesuai dengan RPP yang telah dibuat untuk mata pelajaran tersebut.
+    * **Tema** (masukkan tema pembelajaran).
+    * **Materi** (masukkan materi yang diajarkan pada pertemuan tersebut).
+    * **RPP (Rencana Pelaksanaan Pembelajaran)** (pilih sesuai dengan RPP yang telah dibuat untuk mata pelajaran tersebut).
 
     Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon **Gear** agar data absensi santri tersimpan di sistem dan statusnya akan menjadi **Draft**.
 

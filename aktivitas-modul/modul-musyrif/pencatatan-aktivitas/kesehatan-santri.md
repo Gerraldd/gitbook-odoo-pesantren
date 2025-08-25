@@ -14,7 +14,7 @@ Video \[]
 
 Berikut adalah langkah-langkah untuk mencatat kondisi kesehatan santri pada Odoo Pesantren sebagai **musyrif**.
 
-1. Login menggunakan akun musyrif. Jika Anda belum memahami cara login sebagai musyrif, silakan lihat panduan [**Login Musyrif** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-musyrif.md).
+1. Login menggunakan akun musyrif. Jika Anda belum memahami cara login sebagai musyrif, silakan lihat panduan [**Login Musyrif** di sini](../../../setup-and-konfigurasi/panduan-login/login-musyrif.md).
 2.  Buka modul **Musyrif**, lalu klik menu **Aktivitas** kemudian pilih submenu **Kesehatan Santri**.
 
     <figure><img src="../../../.gitbook/assets/images-387.png" alt=""><figcaption></figcaption></figure>
@@ -32,10 +32,11 @@ Berikut adalah langkah-langkah untuk mencatat kondisi kesehatan santri pada Odoo
 
 5.  Isi inputan lain yang tersedia, seperti:
 
-    * **Keluhan** (misalnya: sakit kepala, batuk, atau demam)
-    * **Diperiksa oleh** (misalnya: ustadz, musyrif, atau tenaga kesehatan pesantren)
-    * **Diagnosa** (misalnya: tipes)
-    * **Tanggal Periksa** (tanggal pemeriksaan)
+    * **Keluhan** (masukkan keluhan yang sedang dialami oleh santri).
+    * **Diperiksa oleh** (masukkan orang yang memeriksa santri tersebut).
+    * **Diagnosa** (masukkan diagnosa penyakit yang dialami oleh santri).
+    * **Tanggal Periksa** (masukkan tanggal pemeriksaan dilakukan).
+    * **Tanggal Sembuh** (tidak perlu diisi oleh musyrif karena kolom ini akan diisi oleh pemeriksa atau pihak yang berwenang).
 
     Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon **Gear** agar data kesehatan santri tersimpan di sistem.
 

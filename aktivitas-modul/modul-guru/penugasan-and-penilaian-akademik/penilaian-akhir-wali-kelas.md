@@ -14,7 +14,7 @@ Video \[]
 
 Berikut adalah langkah-langkah untuk melakukan penilaian akhir (wali kelas) pada Odoo Pesantren oleh **wali kelas**.
 
-1. Login menggunakan akun guru wali kelas. Jika Anda belum memahami cara login sebagai guru wali kelas, silakan lihat panduan [**Login Guru Wali Kelas** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-guru.md).
+1. Login menggunakan akun guru wali kelas. Jika Anda belum memahami cara login sebagai guru wali kelas, silakan lihat panduan [**Login Guru Wali Kelas** di sini](../../../setup-and-konfigurasi/panduan-login/login-guru.md).
 2.  Buka modul **Guru**, lalu klik menu **Aktivitas** kemudian pilih submenu **Penilaian Akhir (Wali Kelas)**.
 
     <figure><img src="../../../.gitbook/assets/images-763.png" alt=""><figcaption></figcaption></figure>

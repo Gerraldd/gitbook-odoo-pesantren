@@ -4,13 +4,13 @@ icon: truck-ramp-box
 
 # Pemasok
 
-Video \[]
+{% embed url="https://youtu.be/ghNzCgyzNvc" %}
 
 ## Master Data - Pemasok
 
 Pada bagian Data **Pemasok**, Anda dapat menambahkan informasi pemasok yang berhubungan dengan kegiatan usaha. Data ini penting untuk mengelola hubungan dengan pemasok barang maupun jasa, serta digunakan dalam transaksi pembelian dan pengelolaan stok.
 
-### Menambahkan Pemasok
+### Menambahkan Data Pemasok
 
 Berikut adalah langkah-langkah untuk menambahkan data pemasok pada Odoo Pesantren.
 

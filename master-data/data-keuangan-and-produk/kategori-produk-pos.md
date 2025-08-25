@@ -4,7 +4,7 @@ icon: list
 
 # Kategori Produk POS
 
-Video \[]
+{% embed url="https://youtu.be/jIuXJMlm9lo" %}
 
 ## Master Data - Kategori Produk POS
 

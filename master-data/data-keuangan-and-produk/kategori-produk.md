@@ -4,7 +4,7 @@ icon: list
 
 # Kategori Produk
 
-Video \[]
+{% embed url="https://youtu.be/9PoaMN26LIQ" %}
 
 ## Master Data - Kategori Produk
 

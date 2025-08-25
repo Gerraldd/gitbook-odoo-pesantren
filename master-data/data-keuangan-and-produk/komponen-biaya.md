@@ -4,7 +4,7 @@ icon: hand-holding-circle-dollar
 
 # Komponen Biaya
 
-Video \[]
+{% embed url="https://youtu.be/V6hP5hQPHLw" %}
 
 ## Master Data - Komponen Biaya
 

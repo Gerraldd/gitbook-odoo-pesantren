@@ -32,11 +32,11 @@ Berikut adalah langkah-langkah untuk melakukan pembayaran tagihan santri pada Od
 
 5.  Akan muncul pop up form pembayaran, lalu isi inputan yang tersedia seperti:
 
-    * **Jurnal**: pilih jurnal pencatatan pembayaran (misalnya: Kas, Bank, atau Dompet Santri).
-    * **Metode Pembayaran**: pilih metode pembayaran yang telah tersedia pada jurnal tersebut.
-    * **Jumlah Nominal**: isi dengan jumlah uang yang akan dibayarkan (boleh penuh atau sebagian).
-    * **Tanggal Bayar**: isi tanggal pelunasan pembayaran.
-    * **Tanggal Efektif**: isi tanggal efektif transaksi dicatat pada sistem.
+    * **Jurnal** (pilih jurnal pencatatan pembayaran (misalnya: Kas, Bank, atau Dompet Santri).
+    * **Metode Pembayaran** (pilih metode pembayaran yang telah tersedia pada jurnal tersebut).
+    * **Jumlah Nominal** (isi dengan jumlah uang yang akan dibayarkan (boleh penuh atau sebagian)).
+    * **Tanggal Bayar** (isi tanggal pelunasan pembayaran).
+    * **Tanggal Efektif** (isi tanggal efektif transaksi dicatat pada sistem).
 
     Jika semua data sudah diisi dengan benar, klik tombol **Simpan** untuk melanjutkan.
 
@@ -48,7 +48,7 @@ Berikut adalah langkah-langkah untuk melakukan pembayaran tagihan santri pada Od
     <figure><img src="../../.gitbook/assets/images-370.png" alt=""><figcaption></figcaption></figure>
 
 
-7.  Jika PIN benar dan proses pembayaran berhasil, sistem akan menampilkan notifikasi bahwa pembayaran tagihan santri telah berhasil dicatat.
+7.  Jika PIN benar dan proses pembayaran berhasil, sistem akan menampilkan notifikasi bahwa pembayaran tagihan santri telah berhasil.
 
     <figure><img src="../../.gitbook/assets/images-371.png" alt=""><figcaption></figcaption></figure>
 

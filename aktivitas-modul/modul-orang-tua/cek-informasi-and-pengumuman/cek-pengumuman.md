@@ -14,7 +14,7 @@ Video \[]
 
 Berikut adalah langkah-langkah untuk mengecek pengumuman pada Odoo Pesantren sebagai **orang tua**.
 
-1. Login menggunakan akun orang tua. Jika Anda belum memahami cara login sebagai orang tua, silakan lihat panduan [**Login Orang Tua** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-orang-tua.md).
+1. Login menggunakan akun orang tua. Jika Anda belum memahami cara login sebagai orang tua, silakan lihat panduan [**Login Orang Tua** di sini](../../../setup-and-konfigurasi/panduan-login/login-orang-tua.md).
 2.  Buka modul **Orang Tua**, lalu klik menu **Informasi** dan pilih submenu **Pengumuman**.
 
     <figure><img src="../../../.gitbook/assets/images-600.png" alt=""><figcaption></figcaption></figure>

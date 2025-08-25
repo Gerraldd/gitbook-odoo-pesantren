@@ -4,7 +4,7 @@ icon: box-taped
 
 # Produk
 
-Video \[]
+{% embed url="https://youtu.be/Tew7xtPI_zM" %}
 
 ## Master Data - Produk
 

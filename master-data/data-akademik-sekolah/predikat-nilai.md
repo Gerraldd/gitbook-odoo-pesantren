@@ -14,7 +14,7 @@ Data **Predikat Nilai** digunakan untuk menentukan standar penilaian santri baik
 
 Berikut adalah langkah-langkah untuk menambahkan predikat nilai pada Odoo Pesantren.
 
-1. Login menggunakan akun administrator atau guru. Jika Anda belum memahami cara login sebagai admin atau guru, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md) dan [**Login Guru** di sini](../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-guru.md).
+1. Login menggunakan akun administrator atau guru. Jika Anda belum memahami cara login sebagai admin atau guru, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md) dan [**Login Guru** di sini](../../setup-and-konfigurasi/panduan-login/login-guru.md).
 2.  Buka **modul Guru**, lalu klik menu **Pengaturan** kemudian pilih submenu **Predikat Nilai**.
 
     <figure><img src="../../.gitbook/assets/images-290.png" alt=""><figcaption></figcaption></figure>
@@ -48,7 +48,7 @@ Berikut adalah langkah-langkah untuk menambahkan predikat nilai pada Odoo Pesant
 
 ### Edit dan Hapus Data Predikat Nilai
 
-Untuk mengedit suatu datapredikat nilai, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data predikat nilai dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+Untuk mengedit suatu data predikat nilai, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data predikat nilai dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
 
 Untuk menghapus suatu data predikat nilai adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.
 

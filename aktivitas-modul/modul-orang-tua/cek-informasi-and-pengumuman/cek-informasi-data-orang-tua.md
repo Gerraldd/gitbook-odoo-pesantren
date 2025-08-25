@@ -14,7 +14,7 @@ Fitur **Cek Informasi Orang Tua** digunakan oleh **Orang Tua** untuk melihat dan
 
 Berikut adalah langkah-langkah untuk mengecek informasi data orang tua pada Odoo Pesantren sebagai **orang tua**.
 
-1. Login menggunakan akun orang tua. Jika Anda belum memahami cara login sebagai orang tua, silakan lihat panduan [**Login Orang Tua** di sini](../../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-orang-tua.md).
+1. Login menggunakan akun orang tua. Jika Anda belum memahami cara login sebagai orang tua, silakan lihat panduan [**Login Orang Tua** di sini](../../../setup-and-konfigurasi/panduan-login/login-orang-tua.md).
 2.  Buka modul **Orang Tua**, lalu klik menu **Informasi** dan pilih submenu **Orang Tua**.
 
     <figure><img src="../../../.gitbook/assets/images-597.png" alt=""><figcaption></figcaption></figure>

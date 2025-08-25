@@ -14,7 +14,7 @@ Data **Rencana Pelaksanaan Pembelajaran (RPP)** adalah dokumen perencanaan yang 
 
 Berikut adalah langkah-langkah untuk menambahkan rencana pelaksanaan pembelajaran pada Odoo Pesantren.
 
-1. Login menggunakan akun administrator atau guru. Jika Anda belum memahami cara login sebagai admin atau guru, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md) dan [**Login Guru** di sini](../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-guru.md).
+1. Login menggunakan akun administrator atau guru. Jika Anda belum memahami cara login sebagai admin atau guru, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md) dan [**Login Guru** di sini](../../setup-and-konfigurasi/panduan-login/login-guru.md).
 2.  Buka modul **Guru**, lalu klik menu **Pengaturan** kemudian pilih submenu **Master RPP**.
 
     <figure><img src="../../.gitbook/assets/images-422.png" alt=""><figcaption></figcaption></figure>

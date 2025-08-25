@@ -14,7 +14,7 @@ Data **Keterangan Izin** digunakan untuk mendefinisikan alasan atau keperluan sa
 
 Berikut adalah langkah-langkah untuk menambahkan keterangan izin pada Odoo Pesantren.
 
-1. Login menggunakan akun administrator atau musyrif. Jika Anda belum memahami cara login sebagai admin atau musyrif, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md) dan [**Login Musyrif** di sini](../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-musyrif.md).
+1. Login menggunakan akun administrator atau musyrif. Jika Anda belum memahami cara login sebagai admin atau musyrif, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md) dan [**Login Musyrif** di sini](../../setup-and-konfigurasi/panduan-login/login-musyrif.md).
 2.  Buka modul **Musyrif**, lalu klik menu **Master Data** kemudian pilih submenu **Keterangan Izin**.
 
     <figure><img src="../../.gitbook/assets/images-227.png" alt=""><figcaption></figcaption></figure>

@@ -45,7 +45,7 @@ Berikut adalah langkah-langkah untuk melakukan pengisian saldo dompet santri pad
     <figure><img src="../../.gitbook/assets/images-783.png" alt=""><figcaption></figcaption></figure>
 
 
-8.  Setelah semua data transaksi diisi dengan benar, klik tombol **Confirm** untuk mengonfirmasi transaksi. Status transaksi akan berubah menjadi _Confirm_.
+8.  Setelah semua data transaksi diisi dengan benar, klik tombol **"Confirm"** untuk mengonfirmasi transaksi. Status transaksi akan berubah menjadi _Confirm_.
 
     <figure><img src="../../.gitbook/assets/images-784.png" alt=""><figcaption></figcaption></figure>
 

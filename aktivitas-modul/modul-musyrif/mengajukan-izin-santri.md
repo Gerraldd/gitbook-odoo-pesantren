@@ -14,7 +14,7 @@ Video \[]
 
 Berikut adalah langkah-langkah untuk membuat/mengajukan perizinan santri pada Odoo Pesantren sebagai **musyrif**.
 
-1. Login menggunakan akun musyrif. Jika Anda belum memahami cara login sebagai musyrif, silakan lihat panduan [**Login Musyrif** di sini](../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-musyrif.md).
+1. Login menggunakan akun musyrif. Jika Anda belum memahami cara login sebagai musyrif, silakan lihat panduan [**Login Musyrif** di sini](../../setup-and-konfigurasi/panduan-login/login-musyrif.md).
 2.  Buka modul **Musyrif**, lalu klik menu **Perizinan Santri**.
 
     <figure><img src="../../.gitbook/assets/images-373.png" alt=""><figcaption></figcaption></figure>

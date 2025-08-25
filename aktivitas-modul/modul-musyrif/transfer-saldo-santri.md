@@ -14,7 +14,7 @@ Fitur **Transfer Saldo Santri** pada modul _Musyrif_ digunakan untuk memfasilita
 
 Berikut langkah-langkah untuk melakukan transfer saldo antar santri pada Odoo Pesantren sebagai **musyrif**.
 
-1. Login menggunakan akun musyrif. Jika Anda belum memahami cara login sebagai musyrif, silakan lihat panduan [**Login Musyrif** di sini](../../setup-and-konfigurasi/role-and-hak-akses-pengguna/panduan-login/login-musyrif.md).
+1. Login menggunakan akun musyrif. Jika Anda belum memahami cara login sebagai musyrif, silakan lihat panduan [**Login Musyrif** di sini](../../setup-and-konfigurasi/panduan-login/login-musyrif.md).
 2.  Buka **modul Musyrif**, lalu klik menu **Transfer Saldo**.
 
     <figure><img src="../../.gitbook/assets/images-400.png" alt=""><figcaption></figcaption></figure>
@@ -30,7 +30,7 @@ Berikut langkah-langkah untuk melakukan transfer saldo antar santri pada Odoo Pe
     <figure><img src="../../.gitbook/assets/images-402.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Isi inputan lainnya seperti **Nominal Transfer**, lalu masukkan **PIN Dompet Santri Pengirim** untuk otorisasi. Setelah semua inputan selesai diisi dengan benar, klik tombol **“Transfer”** untuk memproses transfer saldo antar santri.
+5.  Isi inputan lainnya seperti **Nominal Transfer**, lalu masukkan **PIN Dompet Santri Pengirim** untuk otorisasi. Setelah semua inputan selesai diisi dengan benar, klik tombol **"Transfer"** untuk memproses transfer saldo antar santri.
 
     <figure><img src="../../.gitbook/assets/images-403.png" alt=""><figcaption></figcaption></figure>
 
