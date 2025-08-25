@@ -25,20 +25,22 @@ Berikut adalah langkah-langkah untuk melakukan absensi tahfidz pada Odoo Pesantr
     <figure><img src="../../../.gitbook/assets/images-446.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Akan tampil halaman form **Absensi Tahsin**. Pada form ini, isi **Tanggal Absen**, lalu pilih **Halaqah** yang dibina oleh guru Qur’an yang sedang login.
+4.  Akan tampil halaman form **Absensi Tahsin**. Pada form ini, isi **Tanggal Absen**, lalu pilih **Halaqah** yang dibina oleh guru Qur’an yang sedang login. Pada field **Ustadz** (otomatis akan terisi sesuai guru qur'an yang sedang login).
 
     <figure><img src="../../../.gitbook/assets/images-447.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Pada **Tab Daftar Halaqah**, sistem akan menampilkan semua daftar santri yang berada dalam halaqah tersebut. Lakukan pencatatan kehadiran dengan memilih status kehadiran (Hadir/Izin/Alfa). Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon Gear agar data absensi tahsin tersimpan di sistem, lalu klik tombol **Proses** untuk memproses absensi.
+5. Pada **Tab Daftar Halaqah**, sistem akan menampilkan semua daftar santri yang berada dalam halaqah tersebut.&#x20;
+6.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon Gear agar data absensi tahsin tersimpan di sistem dan statusnya akan menjadi **Draft**, lalu klik tombol **"Proses"** untuk memproses absensi.
 
     <figure><img src="../../../.gitbook/assets/images-448.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Terakhir, setelah proses absensi selesai, klik tombol **Selesai** untuk mengonfirmasi bahwa absensi tahsin sudah final.
+7. Setelah status absensi tahsin menjadi **Proses**, lakukan pencatatan absensi dengan memilih status kehadiran santri (Hadir/Izin/Alfa).&#x20;
+8.  Terakhir, setelah proses absensi selesai, klik tombol **"Selesai"** untuk mengonfirmasi bahwa absensi tahsin sudah final.
 
     <figure><img src="../../../.gitbook/assets/images-449.png" alt=""><figcaption></figcaption></figure>
 
 
-7. Data absensi tahsin yang telah dikonfirmasi akan tersimpan secara permanen dan dapat digunakan untuk laporan kehadiran santri pada kegiatan tahsin.
-8. Selanjutnya, guru qur'an bisa melakukan penilaian tahsin kepada santri yang sudah diabsensi melalui absensi tahsin, [Penilaian Tahsin Al-Qur'an di sini](../penilaian-kepesantrenan/penilaian-tahsin.md).
+9. Data absensi tahsin yang telah dikonfirmasi akan tersimpan secara permanen dan dapat digunakan untuk laporan kehadiran santri pada kegiatan tahsin.
+10. Selanjutnya, guru qur'an bisa melakukan penilaian tahsin kepada santri yang sudah diabsensi pada absensi tahsin, [Penilaian Tahsin Al-Qur'an di sini](../penilaian-kepesantrenan/penilaian-tahsin.md).

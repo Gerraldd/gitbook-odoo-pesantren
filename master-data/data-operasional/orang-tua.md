@@ -4,6 +4,8 @@ icon: family
 
 # Orang Tua
 
+{% embed url="https://drive.google.com/file/d/1HgjEGL-atTHB6rjWWH7kCG5bKDWiFou0/view?usp=drive_link" %}
+
 ## Master Data - Orang Tua
 
 Data **Orang Tua** merupakan data utama yang berfungsi untuk menghubungkan santri dengan wali mereka dalam sistem Odoo Pesantren. Dengan menambahkan data orang tua, pihak pesantren dapat mengelola informasi identitas orang tua serta mengaitkannya dengan anak (santri) yang bersangkutan.

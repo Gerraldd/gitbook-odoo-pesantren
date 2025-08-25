@@ -30,14 +30,15 @@ Berikut adalah langkah-langkah untuk melakukan absensi ekskul pada Odoo Pesantre
     <figure><img src="../../../.gitbook/assets/images-436.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Pada **Tab Absensi Santri**, sistem akan menampilkan daftar santri yang mengikuti ekskul tersebut. Lakukan pencatatan kehadiran dengan memberi status Hadir/Izin/Alfa sesuai kondisi santri. Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon Gear agar data absensi ekskul tersimpan di sistem.
+5. Pada **Tab Absensi Ekskul**, sistem akan menampilkan daftar santri yang mengikuti ekskul tersebut. Lakukan pencatatan kehadiran dengan memberi status Hadir/Izin/Alfa sesuai kondisi santri.&#x20;
+6.  Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon Gear agar data absensi ekskul tersimpan di sistem dan statusnya akan menjadi **Proses**.
 
     <figure><img src="../../../.gitbook/assets/images-437.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Terakhir, klik tombol **Selesai** untuk mengkonfirmasi absensi ekskul yang telah dibuat sehingga statusnya menjadi **Selesai**.
+7.  Terakhir, klik tombol **"Selesai"** untuk mengkonfirmasi absensi ekskul yang telah dibuat sehingga statusnya menjadi **Selesai**.
 
     <figure><img src="../../../.gitbook/assets/images-438.png" alt=""><figcaption></figcaption></figure>
 
 
-7. Data Absensi Ekskul berhasil disimpan dan dapat digunakan sebagai laporan kehadiran santri dalam kegiatan ekstrakurikuler.
+8. Data Absensi Ekskul berhasil disimpan dan dapat digunakan sebagai laporan kehadiran santri dalam kegiatan ekstrakurikuler.

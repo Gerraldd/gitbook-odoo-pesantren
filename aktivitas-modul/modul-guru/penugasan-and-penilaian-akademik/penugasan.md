@@ -8,7 +8,7 @@ Video \[]
 
 ## Penugasan
 
-Penugasan digunakan oleh **guru akademik** untuk memberikan tugas atau ujian kepada santri sesuai dengan kelas dan mata pelajaran yang diampu. Fitur ini membantu dalam pencatatan dan pemantauan perkembangan akademik santri.
+**Penugasan** digunakan oleh **guru akademik** untuk memberikan tugas atau ujian kepada santri sesuai dengan kelas dan mata pelajaran yang diampu. Fitur ini membantu dalam pencatatan dan pemantauan perkembangan akademik santri.
 
 ### Melakukan Penugasan kepada Santri/Siswa
 
@@ -32,13 +32,13 @@ Berikut adalah langkah-langkah untuk melakukan **Penugasan** pada Odoo Pesantren
 
 5.  Selanjutnya, isi inputan lainnya seperti:
 
-    * **Mata Pelajaran** (otomatis sesuai dengan jadwal atau bisa dipilih manual)
-    * **Guru** (terisi otomatis sesuai akun guru yang login)
-    * **Deskripsi Tugas/Ujian** (misalnya: “Mengerjakan soal matematika bab trigonometri”)
-    * **Deadline** (tanggal terakhir pengumpulan tugas)
-    * **Tab Siswa**, sistem akan menampilkan daftar santri dalam kelas tersebut, pilih siswa yang akan diberi penugasan.
+    * **Mata Pelajaran** (masukkan mata pelajaran yang akan dilakukan penugasan).
+    * **Guru** (masukkan guru yang akan melakukan penugasan).
+    * **Deskripsi Tugas/Ujian** (masukkan penjelasan tugas yang diberikan).
+    * **Deadline** (masukkan tanggal terakhir pengumpulan tugas).
+    * **Tab Siswa** (sistem akan menampilkan daftar santri dalam kelas tersebut, pilih siswa yang akan diberi penugasan).
 
-    Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon **Gear** agar data penugasan tersimpan di sistem dan statusnya menjadi **Draft**.
+    Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data penugasan tersimpan di sistem dan statusnya menjadi **Draft**.
 
     <figure><img src="../../../.gitbook/assets/images-453.png" alt=""><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@ Berikut adalah langkah-langkah untuk melakukan **Penugasan** pada Odoo Pesantren
     <figure><img src="../../../.gitbook/assets/images-454.png" alt=""><figcaption></figcaption></figure>
 
 
-7.
+7.  Selanjutnya lakukanlah penilaian dari tugas yang sudah selesai dikumpulkan oleh santri. Jika penugasan sudah selesai, klik tombol **"Selesai"** untuk mengonfirmasi bahwa penugasan sudah final.
 
     <figure><img src="../../../.gitbook/assets/images-455.png" alt=""><figcaption></figcaption></figure>
 

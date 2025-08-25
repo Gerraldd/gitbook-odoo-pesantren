@@ -4,7 +4,7 @@ icon: baseball
 
 # Jenis Ekskul
 
-Video \[]
+{% embed url="https://youtu.be/R4zxiGo5Hko" %}
 
 ## Master Data - Jenis Ekskul
 

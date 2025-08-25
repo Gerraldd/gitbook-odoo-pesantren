@@ -30,18 +30,19 @@ Berikut adalah langkah-langkah untuk melakukan **Penilaian** pada Odoo Pesantren
 
 5.  Selanjutnya, isi inputan lainnya seperti:
 
-    * **Mata Pelajaran** (misalnya: Matematika)
-    * **Semester** (misalnya: Ganjil/Genap)
-    * **Tipe Penilaian** (misalnya: Ulangan Harian, UTS, UAS, atau lainnya)
+    * **Mata Pelajaran** (masukkan mata pelajaran yang akan dilakukan penilaian).
+    * **Semester** (masukkan semester sesuai dengan tahun ajaran yang aktif).
+    * **Tipe Penilaian** (pilih jenis penilaian seperti Ulangan, UTS, dan lainnya).
 
     Pada bagian bawah form terdapat **list table santri**, yang menampilkan seluruh santri/siswa dalam kelas tersebut.
 
     <figure><img src="../../../.gitbook/assets/images-459.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Masukkan nilai pada setiap santri. **Predikat** akan otomatis terisi berdasarkan konfigurasi predikat nilai yang sudah dibuat di setup. Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon Gear agar data penilaian tersimpan di sistem dengan status **Draft**. Klik tombol **Done** untuk mengonfirmasi bahwa proses penilaian sudah selesai.
+6. Masukkan nilai pada setiap santri. **Predikat** akan otomatis terisi berdasarkan konfigurasi predikat nilai yang sudah dibuat di setup.&#x20;
+7.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon Gear agar data penilaian tersimpan di sistem dengan status **Draft**. Klik tombol **"Done"** untuk mengonfirmasi bahwa proses penilaian sudah selesai dan statusnya akan menjadi **Done**.
 
     <figure><img src="../../../.gitbook/assets/images-460.png" alt=""><figcaption></figcaption></figure>
 
 
-7. Data penilaian akan tersimpan secara permanen dan dapat diakses untuk laporan akademik santri.
+8. Data penilaian akan tersimpan secara permanen dan dapat diakses untuk laporan akademik santri.

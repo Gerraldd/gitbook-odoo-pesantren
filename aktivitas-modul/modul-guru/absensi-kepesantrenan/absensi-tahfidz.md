@@ -30,20 +30,22 @@ Berikut adalah langkah-langkah untuk melakukan absensi tahfidz pada Odoo pesantr
     <figure><img src="../../../.gitbook/assets/images-441.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Pilih **Halaqah** yang dibina oleh guru Qur’an yang sedang login.
+5.  Pilih **Halaqah** yang dibina oleh guru Qur’an yang sedang login, kemudian isi **Keterangan** sebagai informasi tambahan absensi tahfidz (keterangan bersifat opsional). Pada field **Ustadz** (otomatis akan terisi sesuai guru qur'an yang sedang login).
 
     <figure><img src="../../../.gitbook/assets/images-442.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Pindah ke **Tab Daftar Halaqah**, sistem akan menampilkan seluruh santri yang tergabung dalam halaqah tersebut. Lakukan pencatatan absensi dengan memilih status kehadiran santri (Hadir/Izin/Alfa). Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon Gear agar data absensi tahfidz tersimpan di sistem, lalu klik tombol **Proses** untuk memproses absensi.
+6. Pindah ke **Tab Daftar Halaqah**, sistem akan menampilkan seluruh santri yang tergabung dalam halaqah tersebut.
+7.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon Gear agar data absensi tahfidz tersimpan di sistem dan statusnya menjadi **Draft**, lalu klik tombol **"Proses"** untuk memproses absensi tahfidz.&#x20;
 
     <figure><img src="../../../.gitbook/assets/images-443.png" alt=""><figcaption></figcaption></figure>
 
 
-7.  Terakhir, setelah proses absensi selesai, klik tombol **Selesai** untuk mengonfirmasi bahwa absensi tahfidz sudah final.
+8. Setelah status absensi tahfidz menjadi **Proses**, lakukan pencatatan absensi dengan memilih status kehadiran santri (Hadir/Izin/Alfa).&#x20;
+9.  Terakhir, setelah proses absensi selesai, klik tombol **"Selesai"** untuk mengonfirmasi bahwa absensi tahfidz sudah final.
 
     <figure><img src="../../../.gitbook/assets/images-444.png" alt=""><figcaption></figcaption></figure>
 
 
-8. Data absensi tahfidz yang telah selesai akan tersimpan dan dapat digunakan sebagai laporan kehadiran santri dalam kegiatan tahfidz.
-9. Selanjutnya, guru qur'an bisa melakukan penilaian tahfidz kepada santri yang sudah diabsensi melalui absensi tahfidz, [Penilaian Tahfidz Al-Qur'an di sini](../penilaian-kepesantrenan/penilaian-tahfidz.md).
+10. Data absensi tahfidz yang telah selesai akan tersimpan dan dapat digunakan sebagai laporan kehadiran santri dalam kegiatan tahfidz.
+11. Selanjutnya, guru qur'an bisa melakukan penilaian tahfidz kepada santri yang sudah diabsensi pada absensi tahfidz, [Penilaian Tahfidz Al-Qur'an di sini](../penilaian-kepesantrenan/penilaian-tahfidz.md).

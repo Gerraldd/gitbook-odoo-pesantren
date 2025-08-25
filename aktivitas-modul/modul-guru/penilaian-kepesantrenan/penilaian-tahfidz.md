@@ -32,14 +32,14 @@ Berikut adalah langkah-langkah untuk melakukan penialian tahfidz al-qur'an pada 
 
 5.  Lakukan penilaian dengan mengisi inputan penilaian seperti:
 
-    * **Ayat Awal** (misalnya: ayat 1)
-    * **Ayat Akhir** (misalnya: ayat 20)
-    * **Jumlah Baris** (opsional, berdasarkan jumlah baris yang dibaca)
-    * **Nilai** (skor hasil hafalan)
-    * **Kategori Penilaian** (misalnya: Mumtaz, Jayyid Jiddan, Jayyid, atau lainnya sesuai standar penilaian pesantren)
-    * **Keterangan** (opsional, misalnya: perlu pengulangan di ayat tertentu).
+    * **Ayat Awal** (masukkan ayat awal dari hafalan surat Al-Qur'an tersebut).
+    * **Ayat Akhir** (masukkan ayat akhir dari hafalan surat Al-Qur'an tersebut).
+    * **Jumlah Baris** (masukkan jumlah baris yang dibaca).
+    * **Nilai** (masukkan nilai dari tahfidz santri).
+    * **Kategori Penilaian** (masukkan kategori penilaian yang sesuai dengan data nilai tahfidz).
+    * **Keterangan** (opsional, bisa diisi catatan tambahan dari tahfidz tersebut).
 
-    Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon **Gear** agar data penilaian tersimpan di sistem dengan status **Draft**.
+    Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data penilaian tersimpan di sistem dengan status **Draft**.
 
     <figure><img src="../../../.gitbook/assets/images-472.png" alt=""><figcaption></figcaption></figure>
 

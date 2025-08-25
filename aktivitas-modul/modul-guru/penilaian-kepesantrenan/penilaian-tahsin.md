@@ -32,15 +32,15 @@ Berikut adalah langkah-langkah untuk melakukan penilaian tahsin al-qur'an pada O
 
 5.  Lakukan penilaian bacaan santri dengan mengisi inputan berikut:
 
-    * **Jilid Tahsin** (misalnya: Jilid 2)
-    * **Halaman** yang sedang dibaca santri
+    * **Jilid Tahsin** (masukkan jilid tahsin yang telah dibaca oleh santri).
+    * **Halaman** (masukkan halaman buku tahsin yang telah dibaca oleh santri).
     * **Catatan Musyrif/Ustadz** (opsional, untuk menambahkan keterangan khusus).
-    * **Nilai Fashohah** (kelancaran bacaan)
-    * **Nilai Tajwid** (ketepatan kaidah tajwid)
-    * **Nilai Ghorib/Musykilat** (kemampuan membaca lafadz-lafadz yang asing atau sulit)
-    * **Nilai Suara & Lagu** (kualitas suara dan lagu bacaan Al-Qur’an).
+    * **Nilai Fashohah** (kelancaran bacaan).
+    * **Nilai Tajwid** (ketepatan kaidah tajwid).
+    * **Nilai Ghorib/Musykilat** (kemampuan membaca lafadz-lafadz yang asing atau sulit).
+    * **Nilai Suara Lagu** (kualitas suara dan lagu bacaan Al-Qur’an).
 
-    Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon **Gear** agar data penilaian tahsin tersimpan di sistem dengan status **Draft**.
+    Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data penilaian tahsin tersimpan di sistem dengan status **Draft**.
 
     <figure><img src="../../../.gitbook/assets/images-477.png" alt=""><figcaption></figcaption></figure>
 

@@ -34,7 +34,7 @@ Berikut adalah langkah-langkah untuk melakukan absensi santri pada Odoo Pesantre
 
     * **Tanggal Absen** (masukkan tanggal absensi santri).
     * **Jam Pelajaran** (masukkan jam pelajaran).
-    * **Mata Pelajaran**  (otomatis terisi sesuai jam pelajaran yang dikonfigurasi pada jadwal pelajaran).
+    * **Mata Pelajaran** (otomatis terisi sesuai jam pelajaran yang dikonfigurasi pada jadwal pelajaran).
     * **Guru** (otomatis terisi sesuai guru yang sedang login).
     * **Tab Absensi Santri** → menampilkan daftar santri pada kelas tersebut untuk dilakukan pencatatan hadir, izin, atau alfa.
 
@@ -47,12 +47,12 @@ Berikut adalah langkah-langkah untuk melakukan absensi santri pada Odoo Pesantre
     * **Materi** (masukkan materi yang diajarkan pada pertemuan tersebut).
     * **RPP (Rencana Pelaksanaan Pembelajaran)** (pilih sesuai dengan RPP yang telah dibuat untuk mata pelajaran tersebut).
 
-    Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon **Gear** agar data absensi santri tersimpan di sistem dan statusnya akan menjadi **Draft**.
+    Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data absensi santri tersimpan di sistem dan statusnya akan menjadi **Draft**.
 
     <figure><img src="../../../.gitbook/assets/images-432.png" alt=""><figcaption></figcaption></figure>
 
 
-7.  Klik tombol **"Konfirmasi"** untuk mengkonfirmasi absensi santri yang telah dibuat sehingga statusnya menjadi **Done**.
+7.  Klik tombol **"Confirm"** untuk mengkonfirmasi absensi santri yang telah dibuat sehingga statusnya menjadi **Done**.
 
     <figure><img src="../../../.gitbook/assets/images-433.png" alt=""><figcaption></figcaption></figure>
 

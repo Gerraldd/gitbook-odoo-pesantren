@@ -45,11 +45,11 @@ Berikut adalah langkah-langkah untuk melakukan penilaian akhir (wali kelas) pada
     <figure><img src="../../../.gitbook/assets/images-768.png" alt=""><figcaption></figcaption></figure>
 
 
-8.  Lalu di **Tab Organisasi**. Sistem akan menampilkan daftar organisasi yang diikuti siswa. Setelah semua penilaian terisi, klik tombol **"Konfirmasi"** untuk mengunci data. Status penilaian akan berubah menjadi **Confirm**.
+8.  Lalu di **Tab Organisasi**. Sistem akan menampilkan daftar organisasi yang diikuti siswa. Setelah semua penilaian terisi, klik tombol **"Confirm"** untuk mengunci data. Status penilaian akan berubah menjadi **Confirm**.
 
     <figure><img src="../../../.gitbook/assets/images-769.png" alt=""><figcaption></figcaption></figure>
 
 
-9.  Untuk menyetujui penilaian, klik tombol **"Disetujui"**. Setelah disetujui, data siap digunakan untuk proses pencetakan rapor dan status penilaian akan menjadi **Confirm**.
+9.  Untuk menyetujui penilaian, klik tombol **"Disetujui"**. Setelah disetujui, data siap digunakan untuk proses pencetakan rapor dan status penilaian akan menjadi **Di Setujui**.
 
     <figure><img src="../../../.gitbook/assets/images-770.png" alt=""><figcaption></figcaption></figure>
