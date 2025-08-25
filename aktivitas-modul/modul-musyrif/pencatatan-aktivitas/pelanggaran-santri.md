@@ -32,18 +32,19 @@ Berikut adalah langkah-langkah untuk melakukan pencatatan pelanggaran santri pad
 
 5.  Isi inputan lain yang tersedia, seperti:
 
-    * **Tanggal Pelanggaran**
-    * **Kategori Pelanggaran** (misalnya: kebersihan, kedisiplinan, atau akhlak)
-    * **Poin Pelanggaran**
-    * **Deskripsi Pelanggaran**
-    * **Tindakan Disipliner** (misalnya: peringatan, hukuman fisik ringan, atau pemanggilan orang tua)
-    * **Catatan Ustadz / Kepala Asrama** bila diperlukan
+    * **Tanggal Pelanggaran** (masukkan tanggal saat pencatatan pelanggaran).
+    * **Kategori/Nama Pelanggaran** (pilih kategori pelanggaran sesuai data pelanggaran yang dibuat sebelumnya).
+    * **Poin Pelanggaran** (Isi poin pelanggaran sesuai pelanggaran yang dilakukan).
+    * **Deskripsi Pelanggaran** (masukkan penjelasan lebih lanjut mengenai pelanggaran yang dilakukan).
+    * **Tindakan** (pilih tindakan yang harus dilakukan santri).
+    * **Deskripsi Tindakan** (masukkan penjelasan lebih lanjut mengenai tindakan disipliner).
+    * **Catatan Ustadz / Kepala Asrama** (jika perlu isi dengan catatan tambahan untuk ustadz atau kepala asrama di pesantren).
 
-    Setelah semua data diisi, klik tombol **“Konfirmasi”** untuk menyimpan dan mengonfirmasi catatan pelanggaran.
+    Setelah semua data diisi, klik tombol **"Konfirmasi"** untuk menyimpan dan mengonfirmasi catatan pelanggaran.
 
     <figure><img src="../../../.gitbook/assets/images-385.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Catatan pelanggaran santri berhasil tersimpan dan siap ditindaklanjuti oleh pihak terkait, seperti ustadz atau pihak yang berwenang.
+6.  Catatan pelanggaran santri berhasil tersimpan dan siap ditindaklanjuti oleh pihak terkait, seperti ustadz atau pihak yang berwenang (administrator).
 
     <figure><img src="../../../.gitbook/assets/images-386.png" alt=""><figcaption></figcaption></figure>
