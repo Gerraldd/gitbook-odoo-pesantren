@@ -4,7 +4,7 @@ icon: books
 
 # Mata Pelajaran
 
-Video \[]
+{% embed url="https://youtu.be/814GQqPygJQ" %}
 
 ## Master Data - Mata Pelajaran
 

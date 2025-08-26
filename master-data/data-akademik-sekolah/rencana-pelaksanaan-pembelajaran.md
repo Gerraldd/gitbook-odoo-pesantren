@@ -4,7 +4,7 @@ icon: calendar-lines-pen
 
 # Rencana Pelaksanaan Pembelajaran
 
-Video \[]
+{% embed url="https://youtu.be/FpIqfDhtvtc" %}
 
 ## Master Data - Rencana Pelaksanaan Pembelajaran
 

@@ -25,24 +25,25 @@ Berikut adalah langkah-langkah untuk melakukan pengelolaan kesehatan santri pada
     <figure><img src="../../../.gitbook/assets/images-552.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Akan tampil halaman form **Kesehatan Santri**. Periksa kembali data pemeriksaan (keluhan, diagnosa, tanggal, pemeriksa) untuk memastikan kebenaran data. Jika data sudah sesuai, klik tombol **"Pengobatan"** untuk melanjutkan ke tahap pengelolaan kesehatan.
+4. Akan tampil halaman form **Kesehatan Santri**. Periksa kembali data pemeriksaan (keluhan, diagnosa, tanggal, pemeriksa) untuk memastikan kebenaran data.&#x20;
+5.  Jika data sudah sesuai, klik tombol **"Pengobatan"** untuk melanjutkan ke tahap pengelolaan kesehatan.
 
     <figure><img src="../../../.gitbook/assets/images-553.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Pada tahap pengobatan/perawatan, lengkapi data seperti:
+6.  Pada tahap pengobatan/perawatan, lengkapi data seperti:
 
-    * Nama obat yang diberikan
-    * Catatan tambahan (opsional)
-    * Lokasi perawatan (contoh: Klinik Pesantren / Rumah Sakit)
-    * Keterangan perawatan
-    * Tanggal sembuh (jika sudah diketahui atau setelah pasien pulih)
+    * **Obat** (masukkan obat yang diberikan).&#x20;
+    * **Catatan** (opsional, isi dengan catatan tambahan jika diperlukan).
+    * **Lokasi Perawatan** (masukkan lokasi yang digunakan untuk merawat santri).
+    * **Keterangan Perawatan** (opsional, isi dengan keterangan tambahan untuk pengobatan).
+    * **Tanggal Sembuh** (masukkan tanggal sembuh jika santri sudah sembuh).
 
     Jika santri sudah dinyatakan pulih, klik tombol **"Pasien Sembuh"** untuk menutup kasus kesehatan santri tersebut.
 
     <figure><img src="../../../.gitbook/assets/images-554.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Setelah status berubah menjadi **Sembuh**, data riwayat kesehatan santri akan tersimpan permanen dalam sistem dan dapat dilihat sewaktu-waktu.
+7.  Setelah status berubah menjadi **Sembuh**, data riwayat kesehatan santri akan tersimpan permanen dalam sistem dan dapat dilihat sewaktu-waktu.
 
     <figure><img src="../../../.gitbook/assets/images-555.png" alt=""><figcaption></figcaption></figure>

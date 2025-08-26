@@ -35,4 +35,4 @@ Berikut adalah langkah-langkah untuk melakukan pengelolaan pelanggaran santri pa
     <figure><img src="../../../.gitbook/assets/images-550.png" alt=""><figcaption></figcaption></figure>
 
 
-6. Jika ternyata data tidak sesuai, administrator dapat melakukan **edit data** atau menghubungi musyrif terkait untuk perbaikan sebelum disetujui.
+6. Jika ternyata data tidak sesuai, administrator dapat melakukan **edit data** dengan mengubah data menjadi **Draft** melalui tombol **"Ubah ke Draft"** atau menghubungi musyrif terkait untuk perbaikan sebelum disetujui.

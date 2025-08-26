@@ -45,7 +45,7 @@ Berikut adalah langkah-langkah untuk melakukan mutasi saldo pada Odoo Pesantren 
     <figure><img src="../../../.gitbook/assets/images-777.png" alt=""><figcaption></figcaption></figure>
 
 
-8. Setelah semua data diisi, transaksi akan tersimpan dengan status **Draft**.
+8. Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data mutasi saldo tersimpan di sistem dengan status **Draft**.
 9. Selanjutnya, transaksi uang saku tersebut akan dikonfirmasi pada pengelolaan mutasi saldo oleh **Administrator**.
 
 ### Mengelola Mutasi Saldo Santri

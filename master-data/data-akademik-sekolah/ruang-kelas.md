@@ -4,7 +4,7 @@ icon: chalkboard-user
 
 # Ruang Kelas
 
-Video \[]
+{% embed url="https://youtu.be/ImeH0LcXjC0" %}
 
 ## Master Data - Ruang Kelas
 
