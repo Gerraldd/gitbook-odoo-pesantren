@@ -25,7 +25,7 @@ Berikut adalah langkah-langkah untuk melakukan penialian tahfidz al-qur'an pada 
     <figure><img src="../../../.gitbook/assets/images-470.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Akan tampil halaman form **Penilaian Tahfidz Al-Qur’an**. Pada form ini, Anda bisa melihat beberapa informasi santri, lalu pilih **surat Al-Qur’an** yang akan dibacakan.
+4.  Akan tampil halaman form **Penilaian Tahfidz Al-Qur’an**. Pada form ini, Anda bisa melihat beberapa informasi santri, kemudian pilih **surat Al-Qur’an**.
 
     <figure><img src="../../../.gitbook/assets/images-471.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,9 +34,9 @@ Berikut adalah langkah-langkah untuk melakukan penialian tahfidz al-qur'an pada 
 
     * **Ayat Awal** (masukkan ayat awal dari hafalan surat Al-Qur'an tersebut).
     * **Ayat Akhir** (masukkan ayat akhir dari hafalan surat Al-Qur'an tersebut).
-    * **Jumlah Baris** (masukkan jumlah baris yang dibaca).
-    * **Nilai** (masukkan nilai dari tahfidz santri).
+    * **Jumlah Baris** (masukkan jumlah baris yang dihafal).
     * **Kategori Penilaian** (masukkan kategori penilaian yang sesuai dengan data nilai tahfidz).
+    * **Nilai** (masukkan nilai dari tahfidz santri).
     * **Keterangan** (opsional, bisa diisi catatan tambahan dari tahfidz tersebut).
 
     Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data penilaian tersimpan di sistem dengan status **Draft**.

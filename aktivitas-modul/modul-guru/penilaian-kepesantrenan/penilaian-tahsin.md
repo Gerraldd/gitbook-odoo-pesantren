@@ -22,12 +22,12 @@ Berikut adalah langkah-langkah untuk melakukan penilaian tahsin al-qur'an pada O
 
 3.  Pilih **santri yang sudah dilakukan absensi Tahsin** pada hari tersebut untuk melanjutkan proses penilaian.
 
-    <figure><img src="../../../.gitbook/assets/images-475.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/images-810 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Akan tampil halaman form **Penilaian Tahsin Al-Qur’an**. Pada form ini, Anda bisa melihat beberapa informasi santri, lalu pilih **Buku Tahsin** yang dipelajari.
+4.  Akan tampil halaman form **Penilaian Tahsin Al-Qur’an**. Pada form ini, Anda bisa melihat beberapa informasi santri, masukkan **Tanggal Tahsin** lalu pilih **Buku Tahsin** yang dipelajari.
 
-    <figure><img src="../../../.gitbook/assets/images-476.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/images-807 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 5.  Lakukan penilaian bacaan santri dengan mengisi inputan berikut:
@@ -42,12 +42,12 @@ Berikut adalah langkah-langkah untuk melakukan penilaian tahsin al-qur'an pada O
 
     Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data penilaian tahsin tersimpan di sistem dengan status **Draft**.
 
-    <figure><img src="../../../.gitbook/assets/images-477.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/images-808 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Klik tombol **"Confirm"** untuk mengonfirmasi bahwa proses penilaian tahsin sudah selesai.
+6.  Klik tombol **"Confirm"** untuk mengonfirmasi bahwa proses penilaian tahsin sudah selesai dan statusnya menjadi **Selesai**.
 
-    <figure><img src="../../../.gitbook/assets/images-478.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/images-809 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 7. Data penilaian yang sudah dikonfirmasi akan tersimpan dan dapat digunakan sebagai arsip evaluasi perkembangan bacaan santri.

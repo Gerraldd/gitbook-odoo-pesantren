@@ -4,7 +4,7 @@ icon: clipboard-list-check
 
 # Predikat Nilai
 
-Video \[]
+{% embed url="https://youtu.be/iRgcqWUuVjQ" %}
 
 ## Master Data - Predikat Nilai
 

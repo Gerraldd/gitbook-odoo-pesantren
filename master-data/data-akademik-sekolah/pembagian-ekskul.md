@@ -4,7 +4,7 @@ icon: volleyball
 
 # Pembagian Ekskul
 
-Video \[]
+{% embed url="https://youtu.be/pzOb1IEHegg" %}
 
 ## Master Data - Pembagian Ekskul
 
