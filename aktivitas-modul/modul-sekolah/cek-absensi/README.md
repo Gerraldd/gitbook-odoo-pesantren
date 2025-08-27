@@ -2,5 +2,5 @@
 icon: memo-circle-check
 ---
 
-# Absensi
+# Cek Absensi
 

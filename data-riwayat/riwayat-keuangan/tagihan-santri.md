@@ -35,27 +35,25 @@ Berikut adalah langkah-langkah untuk melihat riwayat tagihan santri pada Odoo Pe
     <figure><img src="../../.gitbook/assets/images-651.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Anda dapat mengubah tampilan daftar menjadi mode **Kanban** dengan mengklik ikon **Kanban** di sebelah ikon **List**.
+6.  Anda dapat mengubah tampilan daftar menjadi mode **Kanban** dengan mengklik icon **Kanban** di sebelah icon **List**.
 
     <figure><img src="../../.gitbook/assets/images-655.png" alt=""><figcaption></figcaption></figure>
 
 
 7. Untuk melihat detail suatu tagihan, klik salah satu data tagihan santri dari daftar yang tersedia.
-8.  Sistem akan menampilkan **formulir detail tagihan**, yang berisi informasi lengkap seperti:
-
-    * **Identitas Santri**
-    * **Detail Tagihan**
-
-    Pada **Tab Baris Faktur** yang berisi daftar produk yang dibeli oleh santri.
+8. Sistem akan menampilkan **formulir detail tagihan**, yang berisi informasi lengkap seperti:
+   * **Identitas Santri** (berisi informasi santri).
+   * **Detail Tagihan** (berisi informasi tagihan santri).
+9.  Pada **Tab Baris Faktur** yang berisi daftar produk yang dibeli oleh santri.
 
     <figure><img src="../../.gitbook/assets/images-652.png" alt=""><figcaption></figcaption></figure>
 
 
-9.  Pada **Tab Item Jurnal**, Anda dapat melihat rincian akun-akun yang terlibat dalam pencatatan jurnal atas transaksi tersebut.
+10. Pada **Tab Item Jurnal**, Anda dapat melihat rincian akun-akun yang terlibat dalam pencatatan jurnal atas transaksi tersebut.
 
     <figure><img src="../../.gitbook/assets/images-653.png" alt=""><figcaption></figcaption></figure>
 
 
-10. Pada **Tab Info Lainnya**, Anda dapat menemukan informasi tambahan seperti nomor faktur, referensi akuntansi, informasi pemasaran, serta pengaturan pajak elektronik (e-Faktur).
+11. Pada **Tab Info Lainnya**, Anda dapat menemukan informasi tambahan seperti nomor faktur, referensi akuntansi, informasi pemasaran, serta pengaturan pajak elektronik (e-Faktur).
 
     <figure><img src="../../.gitbook/assets/images-654.png" alt=""><figcaption></figcaption></figure>

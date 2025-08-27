@@ -35,6 +35,7 @@ Berikut adalah langkah-langkah untuk melakukan pengajuan izin santri pada Odoo P
     * **Tanggal Izin** (tanggal mulai izin santri)
     * **Tanggal Kembali** (tanggal santri kembali ke pesantren)
     * **Penjemput** (nama orang yang menjemput santri)
+    * **Foto Bukti** (masukkan file foto bukti perizinan santri).
     * **Keperluan Izin** (misalnya: sakit, urusan keluarga, keluar kota, atau lainnya)
 
     <figure><img src="../../.gitbook/assets/images-570.png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@ icon: calendar-days
 
 # Jadwal Pelajaran
 
-Video \[]
+{% embed url="https://youtu.be/mY4S1xYSnV8" %}
 
 ## Master Data - Jadwal Pelajaran
 

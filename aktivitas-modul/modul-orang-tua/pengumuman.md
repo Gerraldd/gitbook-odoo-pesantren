@@ -2,13 +2,13 @@
 icon: bullhorn
 ---
 
-# Tambah Pengumuman
+# Pengumuman
 
 Video \[]
 
-## Tambah Pengumuman
+## Pengumuman
 
-**Tambah Pengumuman** digunakan oleh Administrator untuk menyampaikan informasi penting kepada orang tua atau wali santri melalui sistem. Pengumuman yang ditambahkan akan langsung ditampilkan pada modul **Orang Tua**, sehingga orang tua dapat membaca informasi terbaru saat login ke sistem. Contoh pengumuman misalnya jadwal ujian, libur pesantren, pembayaran SPP, atau agenda kegiatan pesantre
+**Pengumuman** digunakan oleh Administrator untuk menyampaikan informasi penting kepada orang tua atau wali santri melalui sistem. Pengumuman yang ditambahkan akan langsung ditampilkan pada modul **Orang Tua**, sehingga orang tua dapat membaca informasi terbaru saat login ke sistem. Contoh pengumuman misalnya jadwal ujian, libur pesantren, pembayaran SPP, atau agenda kegiatan pesantre
 
 ### Menambahkan Pengumuman oleh Administrator
 
@@ -39,3 +39,9 @@ Berikut adalah langkah-langkah untuk menambahkan pengumuman oleh Administrator p
 
 
 6. Setelah disimpan, pengumuman akan otomatis ditampilkan dan dapat dilihat oleh orang tua saat login menggunakan akun **Orang Tua** pada modul yang sama.
+
+### Edit dan Hapus Data Pengumuman
+
+Untuk mengedit suatu data pengumuman, silahkan pilih terlebih dahulu data mana yang akan diedit. Editlah data pengumuman dan klik icon **Simpan** untuk menyimpan data perubahan tersebut.
+
+Untuk menghapus suatu data pengumuman adalah dengan pilih data mana yang akan dihapus, kemudian klik icon **Gear** atau **Action** lalu pilih opsi **Hapus**, maka akan tampil dialog konfirmasi apakah anda ingin menghapus data tersebut. Jika ya, klik **Hapus** jika tidak maka klik **Tidak, tetap simpan**.

@@ -4,7 +4,7 @@ icon: clock
 
 # Jam Pelajaran
 
-Video \[]
+{% embed url="https://youtu.be/2NWXfBM-l3g" %}
 
 ## Master Data - Jam Pelajaran
 

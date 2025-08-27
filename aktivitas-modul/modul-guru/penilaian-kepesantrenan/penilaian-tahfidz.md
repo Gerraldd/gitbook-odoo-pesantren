@@ -12,7 +12,7 @@ Video \[]
 
 ### Melakukan Penilaian Tahfidz Al-Qur'an
 
-Berikut adalah langkah-langkah untuk melakukan penialian tahfidz al-qur'an pada Odoo Pesantren sebagai **guru qur'an**.
+Berikut adalah langkah-langkah untuk melakukan penilaian tahfidz al-qur'an pada Odoo Pesantren sebagai **guru qur'an**.
 
 1. Login menggunakan akun guru qur'an. Jika Anda belum memahami cara login sebagai guru qur'an, silakan lihat panduan [**Login Guru Qur'an** di sini](../../../setup-and-konfigurasi/panduan-login/login-guru.md).
 2.  Buka **modul Guru**, lalu klik menu **Kepesantrenan** kemudian pilih submenu **Tahfidz Al-Qur’an**.

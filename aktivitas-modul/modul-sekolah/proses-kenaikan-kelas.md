@@ -45,10 +45,8 @@ Berikut adalah langkah-langkah untuk melakukan proses kenaikan kelas pada Odoo P
     <figure><img src="../../.gitbook/assets/images-484.png" alt=""><figcaption></figcaption></figure>
 
 
-7.  Santri yang **naik kelas** akan otomatis dipindahkan ke kelas baru sesuai jenjangnya di tahun ajaran berikutnya. Sebaliknya, santri yang **tidak naik kelas** akan ditempatkan ke dalam **kelas khusus** yang dibuat otomatis oleh sistem untuk menampung santri tinggal kelas.
+7. Status kelas dan daftar santri dapat dicek kembali melalui menu **Ruang Kelas** pada modul Sekolah.
+8.  Santri yang **naik kelas** akan otomatis dipindahkan ke kelas baru sesuai jenjangnya di tahun ajaran berikutnya. Sebaliknya, santri yang **tidak naik kelas** akan ditempatkan ke dalam **kelas khusus** yang dibuat otomatis oleh sistem untuk menampung santri tinggal kelas.
 
     <figure><img src="../../.gitbook/assets/images-485.png" alt=""><figcaption></figcaption></figure>
-
-
-8. Setelah proses selesai, status kelas dan daftar santri dapat dicek kembali melalui menu **Ruang Kelas** pada modul Sekolah.
 

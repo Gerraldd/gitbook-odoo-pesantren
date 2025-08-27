@@ -12,7 +12,7 @@ Video \[]
 
 ### Memonitoring Nilai Santri oleh Orang Tua
 
-Berikut adalah langkah-langkah untuk memonitoring nilai santri pada Orang Tua sebagai **orang tua**.
+Berikut adalah langkah-langkah untuk memonitoring nilai santri pada Odoo Pesantren sebagai **orang tua**.
 
 1. Login menggunakan akun orang tua. Jika Anda belum memahami cara login sebagai orang tua, silakan lihat panduan [**Login Orang Tua** di sini](../../../setup-and-konfigurasi/panduan-login/login-orang-tua.md).
 2.  Buka modul **Orang Tua**, lalu klik menu **Akademik** kemudian pilih submenu **Nilai Santri**.
@@ -25,9 +25,6 @@ Berikut adalah langkah-langkah untuk memonitoring nilai santri pada Orang Tua se
     <figure><img src="../../../.gitbook/assets/images-564.png" alt=""><figcaption></figcaption></figure>
 
 
-4.
+4.  Data nilai yang ditampilkan bersifat **update sesuai input guru**, sehingga orang tua dapat langsung memantau progres belajar anak secara real-time.
 
     <figure><img src="../../../.gitbook/assets/images-565.png" alt=""><figcaption></figcaption></figure>
-
-
-5. Data nilai yang ditampilkan bersifat **update sesuai input guru**, sehingga orang tua dapat langsung memantau progres belajar anak secara real-time.

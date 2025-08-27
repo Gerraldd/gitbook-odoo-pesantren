@@ -4,7 +4,7 @@ icon: memo-circle-check
 
 # Mengajukan Izin Santri
 
-Video \[]
+{% embed url="https://youtu.be/DfOhTG2Mw0Y" %}
 
 ## Perizinan Santri
 

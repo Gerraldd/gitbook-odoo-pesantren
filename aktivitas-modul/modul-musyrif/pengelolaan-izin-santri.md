@@ -4,7 +4,7 @@ icon: users-gear
 
 # Pengelolaan Izin Santri
 
-Video \[]
+{% embed url="https://youtu.be/ewaxnkoqoMM" %}
 
 ## Pengelolaan Izin Santri
 

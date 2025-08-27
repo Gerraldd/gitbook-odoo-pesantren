@@ -38,19 +38,18 @@ Berikut adalah langkah-langkah untuk melihat daftar absensi tahsin santri pada O
 Berikut adalah langkah-langkah untuk melihat daftar tahsin al-qur'an santri pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../../panduan-login/login-admin.md).
-2.
-3.  Buka modul **Kesantrian**, lalu klik menu **Kepesantrenan** kemudian pilih submenu **Tahsin Al-Qur’an**.
+2.  Buka modul **Kesantrian**, lalu klik menu **Kepesantrenan** kemudian pilih submenu **Tahsin Al-Qur’an**.
 
     <figure><img src="../../../.gitbook/assets/images-632 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Pada halaman ini, Anda akan melihat daftar seluruh kegiatan tahsin yang telah dicatat. Setiap entri menampilkan informasi seperti nama halaqah, nama santri, sesi tahsin, guru/ustadz pembimbing, tanggal tahsin, jilid dan halaman yang dibaca, dan status pelaksanaan.
+3.  Pada halaman ini, Anda akan melihat daftar seluruh kegiatan tahsin yang telah dicatat. Setiap entri menampilkan informasi seperti nama halaqah, nama santri, sesi tahsin, guru/ustadz pembimbing, tanggal tahsin, jilid dan halaman yang dibaca, dan status pelaksanaan.
 
     <figure><img src="../../../.gitbook/assets/images-633.png" alt=""><figcaption></figcaption></figure>
 
 
-5. Klik salah satu entri dari daftar untuk melihat **detail** kegiatan tahsin tersebut.
-6.  Anda akan diarahkan ke tampilan form tahsin yang memuat informasi lengkap, seperti:
+4. Klik salah satu entri dari daftar untuk melihat **detail** kegiatan tahsin tersebut.
+5.  Anda akan diarahkan ke tampilan form tahsin yang memuat informasi lengkap, seperti:
 
     * **Identitas Santri** (berisi informasi detail mengenai santri yang melakukan tahsin al-qur'an).
     * **Rincian Pelaksanaan Tahfidz** (menampilkan informasi pelaksanaan tahsin).
@@ -59,4 +58,4 @@ Berikut adalah langkah-langkah untuk melihat daftar tahsin al-qur'an santri pada
     <figure><img src="../../../.gitbook/assets/images-636.png" alt=""><figcaption></figcaption></figure>
 
 
-7. Dengan langkah-langkah ini, Anda dapat memantau dan mengevaluasi perkembangan tahsin santri secara menyeluruh dan akurat.
+6. Dengan langkah-langkah ini, Anda dapat memantau dan mengevaluasi perkembangan tahsin santri secara menyeluruh dan akurat.

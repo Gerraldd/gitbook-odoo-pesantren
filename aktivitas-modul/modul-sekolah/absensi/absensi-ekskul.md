@@ -1,6 +1,0 @@
----
-icon: volleyball
----
-
-# Absensi Ekskul
-
