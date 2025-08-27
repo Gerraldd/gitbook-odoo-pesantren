@@ -4,7 +4,7 @@ icon: triangle-exclamation
 
 # Pelanggaran Santri
 
-Video \[]
+{% embed url="https://youtu.be/xNw1cIeoL0o" %}
 
 ## Pelanggaran Santri
 

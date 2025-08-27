@@ -32,16 +32,17 @@ Berikut adalah langkah-langkah untuk melakukan pencatatan tagihan pemasok pada O
 
 5.  Sistem akan otomatis membuat dokumen **Tagihan Pemasok** berdasarkan order pembelian. Pada halaman form tagihan pemasok, isi inputan berikut:
 
-    * **Tanggal Tagihan** (tanggal sesuai faktur dari pemasok)
-    * **Akunting/Jurnal** (pilih jurnal pencatatan yang sesuai, misalnya _Pembelian_)
-    * **Batas Waktu** (tanggal jatuh tempo pembayaran)
-    * **Jurnal**, pastikan jurnal pencatatan tagihan harus tepat (misalnya: Tagihan Vendor).
-    * Pada **Tab Baris Faktur**, pastikan produk, kuantitas, harga, dan pajak sesuai dengan order pembelian.
+    * **Tanggal Tagihan** (masukkan tanggal sesuai faktur dari pemasok).
+    * **Tanggal Akuntansi** (masukkan tanggal pencatatan akuntansi).
+    * **Batas Waktu** (masukkan tanggal jatuh tempo pembayaran).
+    * **Jurnal** (pastikan jurnal pencatatan tagihan harus tepat (misalnya: Tagihan Vendor)).
+
+    Pada **Tab Baris Faktur** (pastikan produk, kuantitas, harga, dan pajak sesuai dengan order pembelian).
 
     <figure><img src="../../.gitbook/assets/images-500.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Pindah ke **Tab Item Jurnal**, periksa apakah akun yang tercatat sudah sesuai dengan konfigurasi akuntansi. Jika semua data sudah benar, klik tombol **Konfirmasi**. Status tagihan pemasok akan berubah dari _Draft_ menjadi _Terekam_.
+6.  Pindah ke **Tab Item Jurnal**, periksa apakah akun yang tercatat sudah sesuai dengan konfigurasi akuntansi. Jika semua data sudah benar, klik tombol **"Konfirmasi"**. Status tagihan pemasok akan berubah dari _**Draft**_ menjadi _**Terekam**_.
 
     <figure><img src="../../.gitbook/assets/images-501.png" alt=""><figcaption></figcaption></figure>
 
