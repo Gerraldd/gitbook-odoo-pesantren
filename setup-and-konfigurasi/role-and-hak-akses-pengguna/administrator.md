@@ -35,7 +35,7 @@ Berikut adalah langkah-langkah untuk memberikan role Administrator:
 
 1.  Masuk ke Odoo sebagai Administrator, Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
 
-    <figure><img src="../../.gitbook/assets/administrator.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/administrator (1).png" alt=""><figcaption></figcaption></figure>
 
 
 2.  Buka Pengaturan → User & Perusahaan → Pengguna.
@@ -65,7 +65,7 @@ Berikut adalah langkah-langkah untuk memberikan role tertentu kepada user.
 
 1.  Masuk ke Odoo sebagai Administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
 
-    <figure><img src="../../.gitbook/assets/administrator.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/administrator (1).png" alt=""><figcaption></figcaption></figure>
 
 
 2.  Buka Pengaturan → User & Perusahaan → Pengguna.

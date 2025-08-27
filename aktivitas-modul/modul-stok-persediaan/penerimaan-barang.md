@@ -30,7 +30,7 @@ Berikut adalah langkah-langkah untuk melakukan penerimaan barang dari pemasok pa
     <figure><img src="../../.gitbook/assets/images-493.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Kemudian, pindah ke **Tab Operasi**, pastikan produk, jumlah barang (_kuantitas_), dan detail lainnya sudah sesuai dengan order pembelian. Dan pastikan tipe operasi yaitu penerimaan pada gudang, lalu lokasi tujuan juga harus sesuai dengan lokasi gudang yang dipakai. Jika data sudah sesuai, klik tombol **Validasi** untuk menyelesaikan proses penerimaan barang.
+5.  Kemudian, pindah ke **Tab Operasi**, pastikan produk, jumlah barang (_kuantitas_), dan detail lainnya sudah sesuai dengan order pembelian. Dan pastikan tipe operasi yaitu **penerimaan** pada gudang, lalu lokasi tujuan juga harus sesuai dengan lokasi gudang yang dipakai. Jika data sudah sesuai, klik tombol **Validasi** untuk menyelesaikan proses penerimaan barang.
 
     <figure><img src="../../.gitbook/assets/images-494.png" alt=""><figcaption></figcaption></figure>
 

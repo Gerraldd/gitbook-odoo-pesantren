@@ -14,7 +14,7 @@ Modul-modul yang terdapat pada Odoo Pesantren adalah PSB, Kesantrian, Musyrif, G
 {% step %}
 ### Modul Penerimaan Santri Baru (PSB)
 
-Modul Penerimaan Santri Baru (PSB) adalah fitur utama yang memungkinkan proses pendaftaran santri dilakukan secara online, terpusat, dan efisien tanpa perlu datang langsung ke pesantren. Fitur yang tersedia pada modul ini adalah:&#x20;
+**Modul Penerimaan Santri Baru (PSB)** adalah fitur utama yang memungkinkan proses pendaftaran santri dilakukan secara online, terpusat, dan efisien tanpa perlu datang langsung ke pesantren. Fitur yang tersedia pada modul ini adalah:&#x20;
 
 1. **Website Pendaftaran Santri Baru** (Calon Santri/Orang Tua)
 2. **Dashboard, Management Pendaftaran Santri Baru, dan Pengaturan** (Administrator)
@@ -25,28 +25,32 @@ Modul Penerimaan Santri Baru (PSB) adalah fitur utama yang memungkinkan proses p
 {% step %}
 ### Modul Kesantrian
 
-Modul Kesantrian adalah modul yang digunakan untuk mengelola data santri, termasuk kamar dan asrama, pelanggaran dan reward, hafalan Al-Qur’an, aktivitas harian, serta data kesehatan dan perkembangan santri. Fitur yang tersedia pada modul ini adalah:
+**Modul Kesantrian** adalah modul yang digunakan untuk mengelola data santri, termasuk kamar dan asrama, pelanggaran dan reward, hafalan Al-Qur’an, aktivitas harian, serta data kesehatan dan perkembangan santri. Fitur yang tersedia pada modul ini adalah:
 
-1. **Menu Kesantrian**
-   * **Menu Dashboard** untuk menampilkan ringkasan data dan statistik santri.
-   * **Menu Kepesantrenan** meliputi Absensi Santri dan pencatatan Hafalan.
-   * **Menu Kesantrian** meliputi pendataan Santri, Musyrif, Guru, Guru Al-Qur’an, dan Orang Tua.
-   * **Menu Aktivitas** meliputi pencatatan Pelanggaran, Perizinan, Kesehatan, Prestasi, dan Mutasi Saldo Santri.
-   * **Menu Pengaturan** meliputi konfigurasi data dasar seperti jenjang, kamar, tahun ajaran, dan kategori lainnya.
-2.  **Menu Santri**
-
-    * **Menu Dashboard** untuk menampilkan ringkasan saldo dan transaksi yang dilakukan oleh santri.
-    * **Menu Santri** untuk mengelola data santri secara keseluruhan.
-    * **Menu Pendaftaran** berupa tampilan popup untuk proses pendaftaran kartu santri.
-    * **Menu Akun Santri** berisi fitur keuangan seperti pencairan saldo dan pengaturan akun seperti penonaktifan, pemblokiran, pengaktifan, dan pembukaan blokir akun santri.
+1. **Menu Dashboard** untuk menampilkan ringkasan data dan statistik santri.
+2. **Menu Kepesantrenan** meliputi Absensi Santri dan pencatatan Hafalan.
+3. **Menu Kesantrian** meliputi pendataan Santri, Musyrif, Guru, Guru Al-Qur’an, dan Orang Tua.
+4. **Menu Aktivitas** meliputi pencatatan Pelanggaran, Perizinan, Kesehatan, Prestasi, dan Mutasi Saldo Santri.
+5. **Menu Pengaturan** meliputi konfigurasi data dasar seperti jenjang, kamar, tahun ajaran, dan kategori lainnya.
 
 
 {% endstep %}
 
 {% step %}
+### Modul Santri
+
+
+
+* **Menu Dashboard** untuk menampilkan ringkasan saldo dan transaksi yang dilakukan oleh santri.
+* **Menu Santri** untuk mengelola data santri secara keseluruhan.
+* **Menu Pendaftaran** berupa tampilan popup untuk proses pendaftaran kartu santri.
+* **Menu Akun Santri** berisi fitur keuangan seperti pencairan saldo dan pengaturan akun seperti penonaktifan, pemblokiran, pengaktifan, dan pembukaan blokir akun santri.
+{% endstep %}
+
+{% step %}
 ### Modul Musyrif
 
-Modul Musyrif adalah modul yang digunakan untuk membantu musyrif dalam mengontrol, memantau, dan mencatat aktivitas keseharian santri di asrama. Fitur yang tersedia pada modul ini adalah:&#x20;
+**Modul Musyrif** adalah modul yang digunakan untuk membantu musyrif dalam mengontrol, memantau, dan mencatat aktivitas keseharian santri di asrama. Fitur yang tersedia pada modul ini adalah:&#x20;
 
 1. **Menu Dashboard** untuk menampilkan ringkasan data dan statistik santri yang relevan dengan musyrif.
 2. **Menu Perizinan Santri** untuk melakukan pengajuan izin santri.
@@ -74,7 +78,7 @@ Modul Musyrif adalah modul yang digunakan untuk membantu musyrif dalam mengontro
 {% step %}
 ### Modul Guru
 
-Modul Guru adalah modul yang digunakan oleh guru untuk mengelola absensi santri, pencatatan Tahfidz dan Tahsin, serta aktivitas pembelajaran seperti penugasan dan penilaian. Fitur yang tersedia pada modul ini adalah:&#x20;
+**Modul Guru** adalah modul yang digunakan oleh guru untuk mengelola absensi santri, pencatatan Tahfidz dan Tahsin, serta aktivitas pembelajaran seperti penugasan dan penilaian. Fitur yang tersedia pada modul ini adalah:&#x20;
 
 1. **Menu Dashboard** untuk menampilkan ringkasan aktivitas santri.
 2. **Menu Absensi** meliputi Absensi Santri, Absensi Tahfidz, Absensi Tahsin, dan Absensi Ekskul.
@@ -86,22 +90,9 @@ Modul Guru adalah modul yang digunakan oleh guru untuk mengelola absensi santri,
 {% endstep %}
 
 {% step %}
-### Modul Orang Tua
-
-Modul Orang Tua adalah modul yang digunakan oleh orang tua untuk mengawasi dan memantau aktivitas santri secara menyeluruh, mulai dari absensi, hafalan Al-Qur’an (Tahfidz dan Tahsin), aktivitas keseharian, hingga transaksi pembelian dan tagihan santri di pesantren. Fitur yang tersedia pada modul ini adalah :&#x20;
-
-1. **Menu Dashboard** untuk menampilkan ringkasan data seperti aktivitas santri di pesantren.
-2. **Menu Akademik** meliput Absensi Santri untuk memantau absensi santri, dan Nilai Santri untuk melihat nilai ulangan santri.
-3. **Menu Kesantrian** meliputi Ajukan Izin, Mutaba'ah Harian, Tahfidz Al-Qur'an, dan Tahsin Al-Qur'an.
-4. **Menu Aktivitas** meliputi data Pelanggaran, Kesehatan, dan Prestasi Santri.
-5. **Menu Keuangan d**igunakan untuk melihat dan memantau _tagihan_ yang dikenakan kepada santri.
-6. **Menu Informasi b**erisi informasi terkait _Santri_, _Orang Tua_, dan _Pengumuman_ dari pesantren.
-{% endstep %}
-
-{% step %}
 ### Modul Sekolah
 
-Modul Sekolah adalah modul yang digunakan untuk manajemen kegiatan sekolah seperti data kelas, santri, guru, organisasi, ekstrakurikuler, absensi, dan mata pelajaran. Fitur yang tersedia pada modul ini adalah:&#x20;
+**Modul Sekolah** adalah modul yang digunakan untuk manajemen kegiatan sekolah seperti data kelas, santri, guru, organisasi, ekstrakurikuler, absensi, dan mata pelajaran. Fitur yang tersedia pada modul ini adalah:&#x20;
 
 1. **Menu Dashboard** untuk menampilkan ringkasan data tagihan dan pembayaran.
 2. **Menu Santri** meliputi data santri dan data orang tua.
@@ -124,6 +115,21 @@ Modul POS (Point of Sale) adalah modul yang digunakan untuk simulasi penjualan a
 4. **Menu Produk** untuk mengelola data produk yang dijual.
 5. **Menu Manajemen Dompet** untuk melihat dan mengelola transaksi dompet santri.
 6. **Menu Pengaturan** untuk konfigurasi data terkait POS, produk, dan metode pembayaran.
+
+
+{% endstep %}
+
+{% step %}
+### Modul Orang Tua
+
+**Modul Orang Tua** adalah modul yang digunakan oleh orang tua untuk mengawasi dan memantau aktivitas santri secara menyeluruh, mulai dari absensi, hafalan Al-Qur’an (Tahfidz dan Tahsin), aktivitas keseharian, hingga transaksi pembelian dan tagihan santri di pesantren. Fitur yang tersedia pada modul ini adalah :&#x20;
+
+1. **Menu Dashboard** untuk menampilkan ringkasan data seperti aktivitas santri di pesantren.
+2. **Menu Akademik** meliput Absensi Santri untuk memantau absensi santri, dan Nilai Santri untuk melihat nilai ulangan santri.
+3. **Menu Kesantrian** meliputi Ajukan Izin, Mutaba'ah Harian, Tahfidz Al-Qur'an, dan Tahsin Al-Qur'an.
+4. **Menu Aktivitas** meliputi data Pelanggaran, Kesehatan, dan Prestasi Santri.
+5. **Menu Keuangan d**igunakan untuk melihat dan memantau _tagihan_ yang dikenakan kepada santri.
+6. **Menu Informasi b**erisi informasi terkait _Santri_, _Orang Tua_, dan _Pengumuman_ dari pesantren.
 {% endstep %}
 {% endstepper %}
 
@@ -136,13 +142,13 @@ Dalam sistem Odoo Pesantren, setiap modul dapat diakses oleh role tertentu sesua
 3. **Guru**: Berfokus pada pengajaran, absensi, dan penilaian akademik santri.
 4. **Orang Tua**: Memantau aktivitas anak, termasuk absensi, hafalan, dan izin.
 
-| Modul                       | Role Pengguna Utama  |
-| --------------------------- | -------------------- |
-| Penerimaan Santri Baru (PSB | Administrator        |
-| Kesantrian                  | Administrator        |
-| Musyrif                     | Musyrif              |
-| Keamanan                    | Petugas Keamanan     |
-| Guru                        | Guru                 |
-| Orang Tua                   | Orang Tua            |
-| Sekolah                     | Administrator        |
-| POS (Point of Sale)         | Administrator        |
+| Modul                        | Role Pengguna Utama    |
+| ---------------------------- | ---------------------- |
+| Penerimaan Santri Baru (PSB) | Administrator          |
+| Kesantrian & Santri          | Administrator          |
+| Musyrif                      | Musyrif                |
+| Keamanan                     | Petugas Keamanan       |
+| Guru                         | Guru Akademik & Qur'an |
+| Sekolah                      | Administrator          |
+| POS (Point of Sale)          | Administrator          |
+| Orang Tua                    | Orang Tua              |

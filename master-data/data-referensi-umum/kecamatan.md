@@ -25,21 +25,21 @@ Berikut adalah langkah-langkah untuk melihat/mengakses data kecatama pada Odoo P
     <figure><img src="../../.gitbook/assets/images-238.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik salah satu kecamatan (misalnya: _Kecamatan Tasikmadu_) untuk melihat detail informasinya.
+4.  Klik salah satu data kecamatan untuk melihat detail informasinya.
 
     <figure><img src="../../.gitbook/assets/images-289.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Jika ada kecamatan yang belum tersedia, klik tombol **Baru** untuk menambahkannya.
+5.  Jika ada kecamatan yang belum tersedia, klik tombol **"Baru"** untuk menambahkannya.
 
     <figure><img src="../../.gitbook/assets/images-239.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Akan tampil halaman form kota, isi inputan yang tersedia seperti:
+6.  Akan tampil halaman form kecamatan, isi inputan yang tersedia seperti:
 
-    * **Nama Kecamatan** (misalnya: Kecamatan Cidadap)
-    * **Keterangan** (Opsional)
-    * **Kota** (misalnya: Bandung)
+    * **Nama Kecamatan** (masukkan nama kecamatan).
+    * **Keterangan** (opsional, bisa diisi dengan keterangan tambahan mengenai kecamatan).
+    * **Kota** (pilih kota/kabupaten yang berkaitan dengan kecamatan tersebut).
 
     <figure><img src="../../.gitbook/assets/images-244.png" alt=""><figcaption></figcaption></figure>
 

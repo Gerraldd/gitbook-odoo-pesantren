@@ -4,7 +4,7 @@ icon: notebook
 
 # Penilaian Akhir (Guru)
 
-Video \[]
+{% embed url="https://youtu.be/hdXrZwpq-FU" %}
 
 ## Penilaian Akhir (Guru)
 

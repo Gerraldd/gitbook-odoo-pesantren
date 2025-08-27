@@ -20,16 +20,16 @@ Berikut adalah langkah-langkah untuk menambahkna data pekerjaan pada Odoo Pesant
     <figure><img src="../../.gitbook/assets/images-250.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Klik tombol **“Baru”** untuk membuat data Pekerjaan baru.
+3.  Klik tombol **"Baru"** untuk membuat data Pekerjaan baru.
 
     <figure><img src="../../.gitbook/assets/images-251.png" alt=""><figcaption></figcaption></figure>
 
 
 4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * **Nama Pekerjaan** (misalnya: Wirausaha)
-    * **Keterangan** (opsional)
-    * **Active** (aktifkan jika data pekerjaan ini akan digunakan dalam sistem)
+    * **Nama Pekerjaan** (masukkan nama pekerjaan).
+    * **Keterangan** (opsional, bisa diisi dengan keterangan tambahan mengenai pekerjaan tersebut).
+    * **Active** (centang jika data pekerjaan ini akan digunakan dalam sistem).
 
     <figure><img src="../../.gitbook/assets/images-252.png" alt=""><figcaption></figcaption></figure>
 

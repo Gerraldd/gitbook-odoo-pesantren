@@ -4,7 +4,7 @@ icon: money-check-dollar
 
 # Mutasi Saldo
 
-Video \[]
+{% embed url="https://youtu.be/iXhhfDlAqFg" %}
 
 ## Mutasi Saldo
 

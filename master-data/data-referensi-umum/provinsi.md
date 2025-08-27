@@ -12,7 +12,7 @@ Data **Provinsi** adalah data referensi wilayah administratif tingkat pertama ya
 
 ### Melihat dan Menambahkan Provinsi
 
-Berikut adalah langkah-langkah untuk menambahkan provinsi pada Odoo Pesantren.
+Berikut adalah langkah-langkah untuk melihat dan menambahkan provinsi pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
 2.  Buka modul **Sekolah**, lalu klik menu **Pengaturan** kemudian pilih submenu **Provinsi**.
@@ -25,20 +25,20 @@ Berikut adalah langkah-langkah untuk menambahkan provinsi pada Odoo Pesantren.
     <figure><img src="../../.gitbook/assets/images-232.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik salah satu data provinsi (misalnya: _Jawa Timur_) untuk melihat detail informasinya.
+4.  Klik salah satu data provinsi untuk melihat detail informasinya.
 
     <figure><img src="../../.gitbook/assets/images-233.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Jika ada provinsi yang belum tersedia, Anda bisa klik tombol **Baru** untuk menambahkannya.
+5.  Jika ada provinsi yang belum tersedia, Anda bisa klik tombol **"Baru"** untuk menambahkannya.
 
     <figure><img src="../../.gitbook/assets/images-233 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 6.  Akan tampil halaman form provinsi, isi inputan yang tersedia seperti:
 
-    * **Nama Provinsi** (misalnya: Jawa Barat)
-    * **Keterangan** (Opsional)
+    * **Nama Provinsi** (masukkan nama provinsi).
+    * **Keterangan** (opsional, bisa diisi keterangan tambahan mengenai provinsi tersebut).
     * **Tab Kota** di bagian bawah tidak perlu diisi. Karena akan terisi otomatis apabila ada data kota yang termasuk kedalam provinsi tersebut.
 
     <figure><img src="../../.gitbook/assets/images-240.png" alt=""><figcaption></figcaption></figure>

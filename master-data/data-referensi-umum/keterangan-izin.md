@@ -27,7 +27,7 @@ Berikut adalah langkah-langkah untuk menambahkan keterangan izin pada Odoo Pesan
 
 4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * **Nama Keterangan Izin** (misalnya: Acara Keluarga, Kegiatan Sekolah, atau Keperluan Mendesak).
+    * **Nama Keterangan Izin** (masukkan nama keterangan izin. Misalnya: Urusan Keluarga, Sakit, dan lainnya).
 
     <figure><img src="../../.gitbook/assets/images-229.png" alt=""><figcaption></figcaption></figure>
 

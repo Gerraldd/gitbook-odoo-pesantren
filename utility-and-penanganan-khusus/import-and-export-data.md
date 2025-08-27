@@ -14,7 +14,7 @@ Odoo menyediakan fitur **Export dan Import Data** yang sangat berguna untuk memi
 
 **Export Data** digunakan untuk mengambil data dari Odoo dan menyimpannya dalam format file .csv atau .xlsx, sehingga bisa digunakan untuk backup, analisis, atau template impor.&#x20;
 
-Berikut adalah langkah-langkah melakukan ekspor data di dalam Odoo:
+Berikut adalah langkah-langkah melakukan ekspor data pada Odoo Pesantren.
 
 1.  Buka modul yang datanya akan di ekspor, misalnya pada data **Santri**.
 
@@ -57,7 +57,7 @@ Berikut adalah langkah-langkah melakukan ekspor data di dalam Odoo:
 
 **Import Data** digunakan untuk memasukkan data baru atau memperbarui data yang sudah ada ke dalam sistem Odoo, menggunakan file berformat .csv atau .xlsx.&#x20;
 
-Berikut adalah langkah-langkah melakukan impor data di dalam Odoo:
+Berikut adalah langkah-langkah melakukan impor data pada Odoo Pesantren.
 
 1.  Buka modul yang akan di beri/impor data, misalnya pada data **Santri**.
 
@@ -91,7 +91,7 @@ Berikut adalah langkah-langkah melakukan impor data di dalam Odoo:
 ***
 
 {% hint style="info" %}
-Tips & Catatan
+**Tips & Catatan:**
 
 1. Gunakan ekspor terlebih dahulu untuk mendapatkan template file .csv yang sesuai dengan struktur field.
 2. Saat mengimpor, pastikan format tanggal, boolean, dan ID relasi sudah sesuai dengan standar Odoo.

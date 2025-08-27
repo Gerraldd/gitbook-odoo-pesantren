@@ -12,7 +12,7 @@ Data **Kota** adalah data referensi wilayah administratif yang digunakan untuk m
 
 ### Melihat dan Menambahkan Data Kota
 
-Berikut adalah langkah-langkah untuk melihat/mengakses data kota pada Odoo Pesantren.
+Berikut adalah langkah-langkah untuk melihat dan menambahkan data kota pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
 2.  Buka **modul Sekolah**, lalu klik menu **Pengaturan** kemudian pilih submenu **Kota**.
@@ -25,21 +25,21 @@ Berikut adalah langkah-langkah untuk melihat/mengakses data kota pada Odoo Pesan
     <figure><img src="../../.gitbook/assets/images-235.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik salah satu data kota (misalnya: _Kabupaten Malang_) untuk melihat detail informasinya.
+4.  Klik salah satu data kota/kabupaten untuk melihat detail informasinya.
 
     <figure><img src="../../.gitbook/assets/images-236.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Jika ada kota/kabupaten yang belum tersedia, klik **Baru** untuk menambah data.
+5.  Jika ada kota/kabupaten yang belum tersedia, klik tombol **"Baru"** untuk menambah data.
 
     <figure><img src="../../.gitbook/assets/images-236 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 6.  Akan tampil halaman form kota, isi inputan yang tersedia seperti:
 
-    * **Nama Kota** (misalnya: Bandung)
-    * **Keterangan** (Opsional)
-    * **Provinsi** (misalnya: Jawa Barat)
+    * **Nama Kota** (masukkan nama kota).
+    * **Keterangan** (opsional, bisa diisi dengan keterangan tambahan mengenai kota tersebut).
+    * **Provinsi** (pilih provinsi yang berkaitan dengan kota tersebut).
     * **Tab Kecamatan** di bagian bawah tidak perlu diisi. Karena akan terisi otomatis apabila ada data kecamatan yang termasuk kedalam kota tersebut.
 
     <figure><img src="../../.gitbook/assets/images-242.png" alt=""><figcaption></figcaption></figure>

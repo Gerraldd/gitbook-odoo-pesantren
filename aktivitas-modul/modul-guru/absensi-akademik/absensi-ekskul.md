@@ -4,7 +4,7 @@ icon: trumpet
 
 # Absensi Ekskul
 
-Video \[]
+{% embed url="https://youtu.be/g5SuARXrB4A" %}
 
 ## Absensi Ekskul
 

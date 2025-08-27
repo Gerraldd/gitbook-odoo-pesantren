@@ -4,7 +4,7 @@ icon: pen
 
 # Penilaian
 
-Video \[]
+{% embed url="https://youtu.be/yF2Kq4_OFeg" %}
 
 ## Penilaian
 

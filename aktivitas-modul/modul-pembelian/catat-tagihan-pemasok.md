@@ -47,4 +47,4 @@ Berikut adalah langkah-langkah untuk melakukan pencatatan tagihan pemasok pada O
     <figure><img src="../../.gitbook/assets/images-501.png" alt=""><figcaption></figcaption></figure>
 
 
-7. Setelah tagihan dikonfirmasi, sistem akan menambahkan kewajiban pembayaran di modul **Keuangan** di menu **Tagihan Pemasok**, dan siap untuk diproses pembayarannya di sini.
+7. Setelah tagihan dikonfirmasi, sistem akan menambahkan kewajiban pembayaran di modul **Keuangan** di menu **Tagihan Pemasok**, dan siap untuk diproses pembayarannya.

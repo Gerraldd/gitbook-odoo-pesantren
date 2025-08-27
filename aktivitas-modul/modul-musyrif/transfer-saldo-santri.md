@@ -4,7 +4,7 @@ icon: money-bill-transfer
 
 # Transfer Saldo Santri
 
-Video \[]
+{% embed url="https://youtu.be/zNXWECMLR-4" %}
 
 ## Transfer Saldo Antar Santri
 

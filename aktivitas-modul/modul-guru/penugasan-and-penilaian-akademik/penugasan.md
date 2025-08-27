@@ -4,7 +4,7 @@ icon: book
 
 # Penugasan
 
-Video \[]
+{% embed url="https://youtu.be/oQCFdbMR4_Q" %}
 
 ## Penugasan
 

@@ -27,14 +27,14 @@ Berikut adalah langkah-langkah untuk melihat atau menambahkan data pendidikan pa
 
 4.  Akan tampil halaman form, isi inputan yang tersedia seperti:
 
-    * **Nama Pendidikan** (misalnya: SD, SMP, SMA, S1, S2)
-    * **Keterangan** (opsional, bisa diisi dengan informasi tambahan mengenai pendidikan tersebut)
-    * **Active** (berupa checkbox, jika diaktifkan maka data Pendidikan dapat dipakai untuk pendataan orang tua, wali, atau kebutuhan lainnya)
+    * **Nama Pendidikan** (masukkan nama pendidikan).
+    * **Keterangan** (opsional, bisa diisi dengan informasi tambahan mengenai pendidikan tersebut).
+    * **Active** (berupa checkbox, jika diaktifkan maka data Pendidikan dapat dipakai untuk pendataan orang tua, wali, atau kebutuhan lainnya).
 
     <figure><img src="../../.gitbook/assets/images-428.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Setelah semua inputan diisi dengan benar, klik ikon **Simpan** di sebelah kanan ikon **Gear** agar data Pendidikan tersimpan di sistem.
+5.  Setelah semua inputan diisi dengan benar, klik icon **Simpan** di sebelah kanan icon **Gear** agar data Pendidikan tersimpan di sistem.
 
     <figure><img src="../../.gitbook/assets/images-429.png" alt=""><figcaption></figcaption></figure>
 
