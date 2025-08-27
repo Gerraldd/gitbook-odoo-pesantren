@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Pesanan Pembelian
 
-
+**Riwayat Pesanan Pembelian** pada Odoo Pesantren digunakan untuk memantau seluruh pesanan pembelian yang telah dibuat. Setiap entri memuat informasi detail seperti nomor referensi, tanggal konfirmasi, pemasok, pembeli, total nilai pesanan, dan status penagihan.
 
 ### Melihat Riwayat Pesanan Pembelian
 
