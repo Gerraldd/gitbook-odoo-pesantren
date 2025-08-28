@@ -4,7 +4,7 @@ icon: file-pen
 
 # Penilaian Tahfidz
 
-Video \[]
+{% embed url="https://youtu.be/qqe32-eANBs" %}
 
 ## Penilaian Tahfidz Al-Qur'an
 

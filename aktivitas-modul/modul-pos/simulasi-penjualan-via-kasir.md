@@ -20,22 +20,22 @@ Berikut adalah langkah-langkah untuk melakukan simulasi penjualan via kasir pada
     <figure><img src="../../.gitbook/assets/images-533.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada tampilan dashboard, pilih salah satu **sesi POS** (misalnya kantin atau toko pesantren) yang ingin dibuka, kemudian klik tombol **Buka Pendaftaran**.
+3.  Pada tampilan dashboard, pilih salah satu **sesi POS** (misalnya kantin atau toko pesantren) yang ingin dibuka, kemudian klik tombol **"Buka Pendaftaran"**.
 
     <figure><img src="../../.gitbook/assets/images-534.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Akan muncul halaman baru, klik tombol **"Buka Pendaftaran"** sekali lagi untuk masuk ke sesi POS.
+4.  Akan muncul halaman baru, klik tombol **"Buka Pendaftaran"** untuk masuk ke sesi POS.
 
     <figure><img src="../../.gitbook/assets/images-535.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Setelah itu, klik ikon **Users**.
+5.  Setelah itu, klik icon **Pengguna**.
 
     <figure><img src="../../.gitbook/assets/images-536.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Muncul pop up pemilihan pengguna, pilih karyawan yang akan bertugas di sesi POS tersebut (misalnya Administrator).
+6.  Muncul pop up pemilihan pengguna, pilih karyawan yang akan bertugas di sesi POS tersebut (misalnya: **Administrator**).
 
     <figure><img src="../../.gitbook/assets/images-537.png" alt=""><figcaption></figcaption></figure>
 
@@ -50,9 +50,7 @@ Berikut adalah langkah-langkah untuk melakukan simulasi penjualan via kasir pada
     <figure><img src="../../.gitbook/assets/images-539.png" alt=""><figcaption></figcaption></figure>
 
 
-9.
-
-    Akan tampil daftar pelanggan (santri/orang tua). Anda dapat memilih pelanggan dengan dua cara:
+9.  Akan tampil daftar pelanggan (santri/orang tua). Anda dapat memilih pelanggan dengan dua cara:
 
     * **Scan kartu santri fisik** menggunakan barcode/QR scanner.
     * **Pilih manual** dari daftar pelanggan yang tersedia.
@@ -65,7 +63,7 @@ Berikut adalah langkah-langkah untuk melakukan simulasi penjualan via kasir pada
     <figure><img src="../../.gitbook/assets/images-541.png" alt=""><figcaption></figcaption></figure>
 
 
-11. Pada tampilan pembayaran POS, pilih **metode pembayaran** (misalnya Dompet Santri). Jika ingin transaksi penjualan langsung tercatat sebagai faktur, aktifkan opsi **Faktur**. Klik tombol **"Validasi"** untuk melanjutkan proses pembayaran.
+11. Pada tampilan pembayaran POS, pilih **metode pembayaran** (misalnya: **Dompet Santri**). Jika ingin transaksi penjualan langsung tercatat sebagai faktur, aktifkan opsi **Faktur**. Klik tombol **"Validasi"** untuk melanjutkan proses pembayaran.
 
     <figure><img src="../../.gitbook/assets/images-542.png" alt=""><figcaption></figcaption></figure>
 

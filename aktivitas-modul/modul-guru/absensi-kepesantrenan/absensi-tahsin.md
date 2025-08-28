@@ -4,7 +4,7 @@ icon: book-quran
 
 # Absensi Tahsin
 
-Video \[]
+{% embed url="https://youtu.be/_5lHNHJV_us" %}
 
 ## Absensi Tahsin
 

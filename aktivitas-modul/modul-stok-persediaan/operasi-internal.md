@@ -25,7 +25,7 @@ Berikut adalah langkah-langkah untuk melakukan operasi internal pada Odoo Pesant
     <figure><img src="../../.gitbook/assets/images-514.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Akan tampil halaman form **Operasi Internal**, masukkan **Tanggal Operasi**, lalu pilih **Lokasi Sumber** (asal barang).
+4.  Akan tampil halaman form **Operasi Internal**, pilih **Kontak** (bisa diisi dengan pemilik perusahaan atau misalnya administrator), lalu masukkan **Tanggal Operasi**, kemudian pilih **Lokasi Sumber** (asal barang).
 
     <figure><img src="../../.gitbook/assets/images-515.png" alt=""><figcaption></figcaption></figure>
 
@@ -45,4 +45,4 @@ Berikut adalah langkah-langkah untuk melakukan operasi internal pada Odoo Pesant
     <figure><img src="../../.gitbook/assets/images-518.png" alt=""><figcaption></figcaption></figure>
 
 
-8. Setelah divalidasi, sistem akan otomatis memperbarui data stok sesuai dengan lokasi tujuan.
+8. Setelah divalidasi, sistem akan otomatis memperbarui data stok sesuai dengan lokasi tujuan, dan status dokumen berubah menjadi _**Selesai**_.

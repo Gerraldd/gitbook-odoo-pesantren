@@ -4,7 +4,7 @@ icon: clipboard-list-check
 
 # Absensi & Tahfidz Al-Qur'an
 
-Video \[]
+{% embed url="https://youtu.be/xKjbjrBjk7A" %}
 
 ## Absensi & Tahfidz Al-Qur'an
 

@@ -142,7 +142,7 @@
   * [Kepesantrenan](aktivitas-modul/modul-kesantrian/kepesantrenan/README.md)
     * [Absensi & Tahfidz Al-Qur'an](aktivitas-modul/modul-kesantrian/kepesantrenan/absensi-and-tahfidz-al-quran.md)
     * [Absensi & Tahsin Al-Quran](aktivitas-modul/modul-kesantrian/kepesantrenan/absensi-and-tahsin-al-quran.md)
-    * [Mutaba'ah Harian](aktivitas-modul/modul-kesantrian/kepesantrenan/mutabaah-harian.md)
+    * [Kelola Mutaba'ah Harian](aktivitas-modul/modul-kesantrian/kepesantrenan/kelola-mutabaah-harian.md)
   * [Kelola Aktivitas Santri](aktivitas-modul/modul-kesantrian/kelola-aktivitas-santri/README.md)
     * [Pelanggaran Santri](aktivitas-modul/modul-kesantrian/kelola-aktivitas-santri/pelanggaran-santri.md)
     * [Kesehatan Santri](aktivitas-modul/modul-kesantrian/kelola-aktivitas-santri/kesehatan-santri.md)

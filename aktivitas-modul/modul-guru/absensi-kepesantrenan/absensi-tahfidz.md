@@ -4,7 +4,7 @@ icon: book-quran
 
 # Absensi Tahfidz
 
-Video \[]
+{% embed url="https://youtu.be/h-VESgrjDVI" %}
 
 ## Absensi Tahfidz
 

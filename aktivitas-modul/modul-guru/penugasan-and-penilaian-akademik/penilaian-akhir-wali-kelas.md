@@ -4,7 +4,7 @@ icon: notebook
 
 # Penilaian Akhir (Wali Kelas)
 
-Video \[]
+{% embed url="https://youtu.be/h0FqO5hUX_g" %}
 
 ## Penilaian Akhir (Wali Kelas)
 

@@ -4,7 +4,7 @@ icon: file-pen
 
 # Penilaian Tahsin
 
-Video \[]
+{% embed url="https://youtu.be/8LlgzuvdlDM" %}
 
 ## Penilaian Tahsin Al-Qur'an
 

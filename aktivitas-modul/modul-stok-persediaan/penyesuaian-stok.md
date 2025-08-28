@@ -37,7 +37,7 @@ Berikut adalah langkah-langkah untuk melakukan penyesuaian stok barang pada Odoo
     <figure><img src="../../.gitbook/assets/images-521 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Akan tampil pop up form **Alasan Penyesuaian Stok**, isi keterangan mengenai alasan dilakukannya inventaris. Klik tombol **Perbarui Kuantitas** untuk menyelesaikan proses penyesuaian stok.
+5.  Akan tampil pop up form **Alasan Penyesuaian Stok**, isi keterangan mengenai alasan dilakukannya inventaris. Klik tombol **"Perbarui Kuantitas"** untuk menyelesaikan proses penyesuaian stok.
 
     <figure><img src="../../.gitbook/assets/images-522.png" alt=""><figcaption></figcaption></figure>
 

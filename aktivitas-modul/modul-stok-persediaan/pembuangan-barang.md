@@ -25,12 +25,12 @@ Berikut adalah langkah-langkah untuk melakukan pembuangan stok barang pada Odoo 
     <figure><img src="../../.gitbook/assets/images-524.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Akan tampil halaman form **Pembuangan Stok Barang**, pilih produk yang ingin dibuang.
+4.  Akan tampil halaman form **Pembuangan Stok Barang**, pilih **produk** yang ingin dibuang.
 
     <figure><img src="../../.gitbook/assets/images-525.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Selanjutnya, isi inputan lainnya seperti kuantitas produk yang akan dibuang, aktifkan pulihkan kuantitas jika ingin memulihkan produk setelah dibuang (pastikan gudang/lokasi mempunyai rute untuk pulihkan kuantitas), lokasi sumber (lokasi barang saat ini berada), dan lokasi barang rusak (lokasi yang akan menjadi tempat dibuangnya barang).
+5.  Selanjutnya, isi inputan lainnya seperti **kuantitas produk** yang akan dibuang, aktifkan **pulihkan kuantitas** jika ingin memulihkan produk setelah dibuang (pastikan gudang/lokasi mempunyai rute untuk pulihkan kuantitas), **alasan pembuangan** (buat alasan pembuangan baru), **lokasi sumber** (lokasi barang saat ini berada), dan **lokasi barang rusak** (lokasi yang akan menjadi tempat dibuangnya barang).
 
     <figure><img src="../../.gitbook/assets/images-526.png" alt=""><figcaption></figcaption></figure>
 

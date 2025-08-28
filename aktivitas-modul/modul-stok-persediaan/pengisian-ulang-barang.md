@@ -30,7 +30,7 @@ Berikut adalah langkah-langkah untuk melakukan pengisian ulang stok produk pada 
     <figure><img src="../../.gitbook/assets/images-531.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Sistem akan menampilkan jumlah kuantitas saat ini dari produk yang dipilih. Lalu masukkan nilai minimal dan maksimal kuantitas produk untuk melakukan proses pengisian ulang stok barang.
+5.  Sistem akan menampilkan jumlah kuantitas saat ini dari produk yang dipilih. Kemudian masukkan nilai minimal dan maksimal kuantitas produk untuk melakukan proses pengisian ulang stok barang.
 
     <figure><img src="../../.gitbook/assets/images-532.png" alt=""><figcaption></figcaption></figure>
 

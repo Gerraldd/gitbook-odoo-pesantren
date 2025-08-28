@@ -30,12 +30,12 @@ Berikut adalah langkah-langkah untuk melakukan penerimaan barang dari pemasok pa
     <figure><img src="../../.gitbook/assets/images-493.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Kemudian, pindah ke **Tab Operasi**, pastikan produk, jumlah barang (_kuantitas_), dan detail lainnya sudah sesuai dengan order pembelian. Dan pastikan tipe operasi yaitu **penerimaan** pada gudang, lalu lokasi tujuan juga harus sesuai dengan lokasi gudang yang dipakai. Jika data sudah sesuai, klik tombol **Validasi** untuk menyelesaikan proses penerimaan barang.
+5.  Kemudian, pindah ke **Tab Operasi**, pastikan produk, jumlah barang (_kuantitas_), dan detail lainnya sudah sesuai dengan order pembelian. Dan pastikan tipe operasi yaitu **penerimaan** pada gudang, lalu lokasi tujuan juga harus sesuai dengan lokasi gudang yang dipakai. Jika data sudah sesuai, klik tombol **"Validasi"** untuk menyelesaikan proses penerimaan barang.
 
     <figure><img src="../../.gitbook/assets/images-494.png" alt=""><figcaption></figcaption></figure>
 
 
-6. Setelah berhasil divalidasi, sistem akan otomatis memperbarui **stok persediaan** sesuai barang yang diterima, dan status dokumen berubah menjadi _Selesai_.
+6. Setelah berhasil divalidasi, sistem akan otomatis memperbarui **stok persediaan** sesuai barang yang diterima, dan status dokumen berubah menjadi _**Selesai**_.
 7. Jika ada ketidaksesuaian barang (lebih/kurang), Anda bisa menyesuaikan kuantitas sebelum validasi atau melakukan proses retur barang setelah validasi.
 
 ### Melakukan Proses Retur Barang
@@ -47,14 +47,14 @@ Berikut adalah langkah-langkah untuk melakukan proses retur barang pada Odoo Pes
     <figure><img src="../../.gitbook/assets/images-495.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Akan muncul pop up form retur. Pada form ini, isi **kuantitas barang** yang ingin dikembalikan. Tentukan apakah retur dilakukan dengan cara **mengembalikan barang langsung** atau **retur dengan penggantian barang lain**. Setelah itu klik tombol **Retur/Kembalikan untuk Ditukar** untuk melanjutkan proses.
+2.  Akan muncul pop up form retur. Pada form ini, isi **kuantitas barang** yang ingin dikembalikan. Tentukan apakah retur dilakukan dengan cara **mengembalikan barang langsung** atau **retur dengan penggantian barang lain**. Setelah itu klik tombol **"Retur/Kembalikan untuk Ditukar"** untuk melanjutkan proses.
 
     <figure><img src="../../.gitbook/assets/images-496.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Sistem akan membuat dokumen baru berupa **form pengembalian barang**. Periksa kembali daftar produk dan jumlah yang akan diretur. Jika sudah sesuai, klik tombol **Validasi** untuk menyelesaikan proses retur barang.
+3.  Sistem akan membuat dokumen baru berupa **form pengembalian barang**. Periksa kembali daftar produk dan jumlah yang akan diretur. Jika sudah sesuai, klik tombol **"Validasi"** untuk menyelesaikan proses retur barang.
 
     <figure><img src="../../.gitbook/assets/images-497 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4. Setelah berhasil divalidasi, status dokumen retur akan berubah menjadi _Selesai_ dan stok persediaan otomatis berkurang sesuai barang yang diretur.
+4. Setelah berhasil divalidasi, status dokumen retur akan berubah menjadi _**Selesai**_ dan stok persediaan otomatis berkurang sesuai barang yang diretur.
