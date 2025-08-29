@@ -2,7 +2,7 @@
 icon: truck
 ---
 
-# Pengiriman
+# Pengiriman Barang
 
 Video \[]
 

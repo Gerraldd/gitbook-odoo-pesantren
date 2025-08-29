@@ -2,7 +2,7 @@
 icon: hand-holding-box
 ---
 
-# Penerimaan
+# Penerimaan Barang
 
 Video \[]
 

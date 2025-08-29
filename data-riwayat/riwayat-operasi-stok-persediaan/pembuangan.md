@@ -2,7 +2,7 @@
 icon: trash-can
 ---
 
-# Pembuangan
+# Pembuangan Barang
 
 Video \[]
 
