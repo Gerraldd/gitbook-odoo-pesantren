@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Pembayaran POS
 
-Riwayat Pembayaran POS digunakan untuk melihat seluruh data pembayaran yang dilakukan melalui sistem Point of Sale (POS) pada Odoo Pesantren. Data ini dapat membantu administrator memantau metode pembayaran yang digunakan, nilai transaksi, kasir yang memproses pembayaran, dan keterkaitan dengan order POS tertentu.
+Data **Riwayat Pembayaran POS** digunakan untuk melihat seluruh data pembayaran yang dilakukan melalui sistem Point of Sale (POS) pada Odoo Pesantren. Data ini dapat membantu administrator memantau metode pembayaran yang digunakan, nilai transaksi, kasir yang memproses pembayaran, dan keterkaitan dengan order POS tertentu.
 
 ### Melihat Riwayat Pembayaran POS
 

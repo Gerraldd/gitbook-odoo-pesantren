@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Transfer Internal Barang
 
-**Riwayat Transfer Internal Barang** pada Odoo Pesantren digunakan untuk mencatat dan memantau seluruh aktivitas perpindahan barang antar lokasi di dalam satu perusahaan atau pesantren. Proses ini biasanya dilakukan untuk mendistribusikan barang dari gudang pusat ke gudang cabang, atau antar bagian di area operasional yang sama.
+Data **Riwayat Transfer Internal Barang** pada Odoo Pesantren digunakan untuk mencatat dan memantau seluruh aktivitas perpindahan barang antar lokasi di dalam satu perusahaan atau pesantren. Proses ini biasanya dilakukan untuk mendistribusikan barang dari gudang pusat ke gudang cabang, atau antar bagian di area operasional yang sama.
 
 ### Melihat Riwayat Transfer Internal Barang
 
@@ -37,7 +37,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat transfer internal bara
 
 
 7. Untuk melihat detail suatu transfer internal, klik salah satu entri pada daftar.
-8.  Anda akan diarahkan ke halaman formulir yang menampilkan informasi lengkap terkait penerimaan barang tersebut, yang terdiri dari beberapa tab, yaitu **Tab Operasi, Tab Informasi Tambahan, dan Tab Catatan**, Pada **Tab Operasi /**&#x48;alaman detail transfer internal menampilkan informasi yang terbagi dalam beberapa tab. Pada **Tab Operasi** akan menampilkan daftar produk yang dipindahkan beserta jumlah dan lokasi asal/tujuan.
+8.  Anda akan diarahkan ke halaman formulir yang menampilkan informasi lengkap terkait penerimaan barang tersebut. Pada **Tab Operasi** akan menampilkan daftar produk yang dipindahkan beserta jumlah dan lokasi asal/tujuan.
 
     <figure><img src="../../.gitbook/assets/images-676 (1).png" alt=""><figcaption></figcaption></figure>
 

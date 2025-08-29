@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Permintaan Penawaran
 
-**Riwayat Permintaan Penawaran** pada Odoo Pesantren digunakan untuk memantau semua permintaan penawaran yang diajukan kepada pemasok. Setiap entri berisi informasi seperti nomor referensi, pemasok, pembeli, tenggat waktu pesanan, total nilai penawaran, dan status pembelian.
+Data **Riwayat Permintaan Penawaran** pada Odoo Pesantren digunakan untuk memantau semua permintaan penawaran yang diajukan kepada pemasok. Setiap entri berisi informasi seperti nomor referensi, pemasok, pembeli, tenggat waktu pesanan, total nilai penawaran, dan status pembelian.
 
 ### Melihat Riwayat Permintaan Penawaran
 

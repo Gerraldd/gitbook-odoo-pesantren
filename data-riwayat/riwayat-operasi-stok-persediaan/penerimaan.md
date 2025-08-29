@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Penerimaan Barang
 
-**Riwayat Penerimaan Barang** pada Odoo Pesantren digunakan untuk mencatat dan memantau seluruh aktivitas penerimaan barang yang masuk ke gudang atau lokasi tertentu, baik dari pemasok maupun transfer internal. Informasi ini penting dalam proses kontrol persediaan dan memastikan ketepatan data stok barang.
+Data **Riwayat Penerimaan Barang** pada Odoo Pesantren digunakan untuk mencatat dan memantau seluruh aktivitas penerimaan barang yang masuk ke gudang atau lokasi tertentu, baik dari pemasok maupun transfer internal. Informasi ini penting dalam proses kontrol persediaan dan memastikan ketepatan data stok barang.
 
 ### Melihat Riwayat Penerimaan Barang
 
@@ -25,7 +25,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat penerimaan barang pada
     <figure><img src="../../.gitbook/assets/images-665 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik **toggle pencarian** untuk menampilkan fitur **Filter**. Anda dapat menggunakan beberapa filter yang tersedia, seperti **Todo, Transfer Saya, Status,** dan lainnya serta filter **Kelompok** berdasarkan **Status**, **Tanggal Terjadwal**, **Dokumen Sumber**, dan **Tipe Operasi**.
+4.  Klik **toggle pencarian** untuk menampilkan fitur **Filter**. Anda dapat menggunakan beberapa filter yang tersedia seperti **Todo**, **Transfer Saya**, **Status**, dan lainnya serta filter **Kelompok** berdasarkan **Status**, **Tanggal Terjadwal**, **Dokumen Sumber**, dan **Tipe Operasi**.
 
     <figure><img src="../../.gitbook/assets/images-666.png" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat penerimaan barang pada
 
 
 7. Untuk melihat detail dari suatu aktivitas penerimaan, klik salah satu entri dalam daftar.
-8.  Anda akan diarahkan ke halaman formulir yang menampilkan informasi lengkap terkait penerimaan barang tersebut, yang terdiri dari beberapa tab, yaitu **Tab Operasi, Tab Informasi Tambahan, dan Tab Catatan**, Pada **Tab Operasi** akan menampilkan daftar produk yang diterima beserta jumlah dan detail lainnya.
+8.  Anda akan diarahkan ke halaman formulir yang menampilkan informasi lengkap terkait penerimaan barang tersebut. Pada **Tab Operasi** akan menampilkan daftar produk yang diterima beserta jumlah dan detail lainnya.
 
     <figure><img src="../../.gitbook/assets/images-668.png" alt=""><figcaption></figcaption></figure>
 

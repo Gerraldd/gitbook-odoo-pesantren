@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Pengiriman Barang
 
-**Riwayat Pengiriman Barang** pada Odoo Pesantren digunakan untuk memantau dan mencatat seluruh aktivitas pengiriman barang dari gudang ke pelanggan, santri, atau pihak lain. Fitur ini membantu memastikan proses distribusi berjalan tepat waktu, sesuai tujuan, dan terdokumentasi dengan baik.
+Data **Riwayat Pengiriman Barang** pada Odoo Pesantren digunakan untuk memantau dan mencatat seluruh aktivitas pengiriman barang dari gudang ke pelanggan, santri, atau pihak lain. Fitur ini membantu memastikan proses distribusi berjalan tepat waktu, sesuai tujuan, dan terdokumentasi dengan baik.
 
 ### Melihat Riwayat Pengiriman Barang
 
@@ -25,7 +25,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pengiriman barang pada
     <figure><img src="../../.gitbook/assets/images-669 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik **toggle pencarian** untuk menampilkan fitur **Filter**. Beberapa filter yang dapat digunakan antara lain yaitu **Todo, Transfer Saya, Status**, dan lainnya serta filter **Kelompok** berdasarkan **Status**, **Tanggal Terjadwal**, **Dokumen Sumber**, dan **Tipe Operasi**.
+4.  Klik **toggle pencarian** untuk menampilkan fitur **Filter**. Beberapa filter yang dapat digunakan antara lain yaitu **Todo**, **Transfer Saya**, **Status**, dan lainnya serta filter **Kelompok** berdasarkan **Status**, **Tanggal Terjadwal**, **Dokumen Sumber**, dan **Tipe Operasi**.
 
     <figure><img src="../../.gitbook/assets/images-670 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pengiriman barang pada
 
 
 7. Untuk melihat detail suatu pengiriman, klik salah satu entri pada daftar.
-8.  Anda akan diarahkan ke halaman formulir yang menampilkan informasi lengkap terkait penerimaan barang tersebut, yang terdiri dari beberapa tab, yaitu **Tab Operasi, Tab Informasi Tambahan, dan Tab Catatan**, Pada **Tab Operasi** akan menampilkan daftar produk yang dikirim beserta jumlah dan detail terkait tujuan pengiriman.
+8.  Anda akan diarahkan ke halaman formulir yang menampilkan informasi lengkap terkait penerimaan barang tersebut. Pada **Tab Operasi** akan menampilkan daftar produk yang dikirim beserta jumlah dan detail terkait tujuan pengiriman.
 
     <figure><img src="../../.gitbook/assets/images-672.png" alt=""><figcaption></figcaption></figure>
 

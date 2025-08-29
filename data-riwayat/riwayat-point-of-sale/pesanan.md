@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Pesanan
 
-**Riwayat Pesanan POS** digunakan untuk memantau seluruh transaksi penjualan yang dilakukan melalui sistem Point of Sale (POS) pada Odoo Pesantren. Menu ini menampilkan daftar pesanan, detail transaksi, status, serta informasi pembayaran yang berkaitan dengan penjualan di kasir.
+Data **Riwayat Pesanan POS** digunakan untuk memantau seluruh transaksi penjualan yang dilakukan melalui sistem Point of Sale (POS) pada Odoo Pesantren. Menu ini menampilkan daftar pesanan, detail transaksi, status, serta informasi pembayaran yang berkaitan dengan penjualan di kasir.
 
 ### Melihat Riwayat Pesanan POS
 
@@ -41,7 +41,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pesanan POS pada Odoo 
 
 
 7. Untuk melihat detail sebuah pesanan, klik salah satu entri pada daftar Pesanan POS.
-8.  Halaman detail akan menampilkan informasi lengkap pesanan beserta tab berikut: **Produk, Pembayaran, Info Tambahan, dan Catatan Umum**. Pada **Tab Produk**, Anda dapat melihat daftar produk yang dijual dalam pesanan tersebut, termasuk jumlah, harga, dan subtotalnya.
+8.  Halaman detail akan menampilkan informasi lengkap pesanan beserta tab berikut: **Produk**, **Pembayaran**, **Info Tambahan**, dan **Catatan Umum**. Pada **Tab Produk**, Anda dapat melihat daftar produk yang dijual dalam pesanan tersebut, termasuk jumlah, harga, dan subtotalnya.
 
     <figure><img src="../../.gitbook/assets/images-685 (1).png" alt=""><figcaption></figcaption></figure>
 

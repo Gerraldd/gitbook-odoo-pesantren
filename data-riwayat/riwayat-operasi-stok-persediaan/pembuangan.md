@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Pembuangan Barang
 
-**Riwayat Pembuangan Barang** pada Odoo Pesantren digunakan untuk mencatat dan memantau proses pembuangan barang yang sudah rusak, kedaluwarsa, atau tidak layak pakai. Data ini membantu pengelola stok memastikan persediaan tetap akurat serta memudahkan proses pelaporan dan audit.
+Data **Riwayat Pembuangan Barang** pada Odoo Pesantren digunakan untuk mencatat dan memantau proses pembuangan barang yang sudah rusak, kedaluwarsa, atau tidak layak pakai. Data ini membantu pengelola stok memastikan persediaan tetap akurat serta memudahkan proses pelaporan dan audit.
 
 ### Melihat Riwayat Pembuangan Barang
 

@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Sesi POS
 
-**Riwayat Sesi POS** digunakan untuk memantau seluruh sesi penggunaan sistem Point of Sale (POS) pada Odoo Pesantren, mulai dari pembukaan sesi, aktivitas transaksi, hingga penutupan sesi. Melalui menu ini, administrator dapat mengevaluasi saldo awal, saldo akhir, perbedaan saldo, dan status sesi POS.
+Data **Riwayat Sesi POS** digunakan untuk memantau seluruh sesi penggunaan sistem Point of Sale (POS) pada Odoo Pesantren, mulai dari pembukaan sesi, aktivitas transaksi, hingga penutupan sesi. Melalui menu ini, administrator dapat mengevaluasi saldo awal, saldo akhir, perbedaan saldo, dan status sesi POS.
 
 ### Melihat Riwayat Sesi POS
 
