@@ -36,7 +36,7 @@ Berikut adalah langkah-langkah untuk melihat riwayat kesehatan santri pada Odoo 
 
 
 6. Untuk melihat detail dari salah satu data kesehatan santri, klik pada baris data tersebut.
-7.  Anda akan diarahkan ke tampilan **form kesehatan**, yang berisi informasi lengkap seperti **identitas santri**, **kondisi kesehatan, obat atau perawatan yang diberikan**, dan **tanggal pemeriksaan hingga tanggal sembuh**.
+7.  Anda akan diarahkan ke tampilan **form kesehatan**, yang berisi informasi lengkap seperti **identitas santri**, **kondisi kesehatan, tindakan oleh pemeriksa, obat atau perawatan yang diberikan**, dan **tanggal pemeriksaan hingga tanggal sembuh**.
 
     <figure><img src="../../.gitbook/assets/images-640.png" alt=""><figcaption></figcaption></figure>
 
