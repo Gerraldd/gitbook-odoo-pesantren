@@ -20,36 +20,25 @@ Berikut adalah langkah-langkah untuk melihat riwayat kesehatan santri pada Odoo 
     <figure><img src="../../.gitbook/assets/images-636 (2).png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Anda akan melihat daftar seluruh riwayat kesehatan santri. Setiap entri mencakup informasi sebagai berikut yaitu, nomor referensi, tanggal diperiksa, nama santri, kelas santri, keluhan, obat yang diberikan, pemeriksa (tenaga kesehatan/musyrif), kondisi saat diperiksa (Pemeriksaan, Pengobatan/Perawatan, Sembuh), dan catatan tambahan.
+3.  Anda akan melihat daftar seluruh riwayat kesehatan santri. Setiap entri mencakup informasi sebagai berikut yaitu, **Nomor Referensi**, **Tanggal Diperiksa**, **Nama Santri**, **Kelas Santri**, **Keluhan**, **Obat yang diberikan**, **Pemeriksa**, **Kondisi saat diperiksa (Pemeriksaan, Pengobatan/Perawatan, Sembuh)**, dan **Catatan tambahan**.
 
     <figure><img src="../../.gitbook/assets/images-637 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik **ikon filter pencarian** (dropdown toggle) untuk memunculkan opsi pencarian lanjutan seperti filter nama santri, tanggal pemeriksaan, tanggal selesai.
+4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya filter **Nama Santri, Tanggal Periksa, Tanggal Selesai** serta filter **Kelompok** berdasarkan **Santri/Siswa**.
 
     <figure><img src="../../.gitbook/assets/images-638.png" alt=""><figcaption></figcaption></figure>
 
 
-5. Gunakan filter yang tersedia seperti:
-   * **Nama santri**
-   * **Tanggal pemeriksaan**
-   * **Tanggal selesai/pemulihan**
-   * **Filter kelompok** berdasarkan nama siswa
-6.  Setelah filter diaktifkan, sistem akan secara otomatis menampilkan data yang sesuai dengan kriteria pencarian.
+5.  Setelah filter diaktifkan, sistem akan secara otomatis menampilkan data yang sesuai dengan kriteria pencarian.
 
     <figure><img src="../../.gitbook/assets/images-639.png" alt=""><figcaption></figcaption></figure>
 
 
-7. Untuk melihat detail dari salah satu data kesehatan santri, klik pada baris data tersebut.
-8.
-
-    Anda akan diarahkan ke tampilan **form kesehatan**, yang berisi informasi lengkap seperti:
-
-    * Identitas santri
-    * Riwayat keluhan
-    * Tindakan medis yang dilakukan
-    * Obat atau perawatan yang diberikan
-    * Tanggal pemeriksaan hingga tanggal sembuh
-    * Catatan dari tenaga kesehatan
+6. Untuk melihat detail dari salah satu data kesehatan santri, klik pada baris data tersebut.
+7.  Anda akan diarahkan ke tampilan **form kesehatan**, yang berisi informasi lengkap seperti **identitas santri**, **kondisi kesehatan, obat atau perawatan yang diberikan**, **tanggal pemeriksaan hingga tanggal sembuh**.
 
     <figure><img src="../../.gitbook/assets/images-640.png" alt=""><figcaption></figcaption></figure>
+
+
+8. Data riwayat ini dapat digunakan untuk evaluasi, pembinaan lanjutan, atau pembuatan laporan kesehatan santri secara menyeluruh.

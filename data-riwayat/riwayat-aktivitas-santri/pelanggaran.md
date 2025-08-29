@@ -20,26 +20,25 @@ Berikut adalah langkah-langkah untuk melihat riwayat pelanggaran santri pada Odo
     <figure><img src="../../.gitbook/assets/images-630.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman ini, Anda akan melihat daftar seluruh pelanggaran santri yang telah dicatat. Setiap entri menampilkan informasi penting seperti nama santri,  kelas santri, jenis pelanggaran, kategori pelanggaran, jumlah poin pelanggaran, tindakan/hukuman, dan status pelanggaran.
+3.  Pada halaman ini, Anda akan melihat daftar seluruh pelanggaran santri yang telah dicatat. Setiap entri menampilkan informasi penting meliputi: **Tanggal Pelanggaran**, **Nama Santri**, **Kelas Santri**, **Nama Pelanggaran**, **Kategori Pelanggaran**, **Jumlah Poin Pelanggaran**, **Tindakan/Hukuman**, dan **Status Pelanggaran**.
 
     <figure><img src="../../.gitbook/assets/images-631 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik **toggle dropdown pencarian**, kemudian gunakan fitur **Filter** untuk menyaring data berdasarkan nama santri, tanggal pelanggaran, kategori, atau kriteria lainnya.
+4.  Klik **toggle dropdown pencarian**, kemudian gunakan fitur **Filter** **Kelompok** untuk menyaring data berdasarkan **Nama Santri**, **Tanggal Pelanggaran**, **Kategori**, atau kriteria lainnya.
 
     <figure><img src="../../.gitbook/assets/images-632.png" alt=""><figcaption></figcaption></figure>
 
 
-5. Setelah filter diaktifkan, sistem akan secara otomatis menampilkan data pelanggaran yang sesuai dengan kriteria pencarian.
-6. Untuk melihat detail dari suatu pelanggaran, klik salah satu entri dalam daftar pelanggaran.
-7.  Anda akan diarahkan ke tampilan form pelanggaran yang menampilkan informasi lengkap, seperti:
-
-    * Identitas santri
-    * Rincian pelanggaran yang dilakukan
-    * Tindakan/hukuman yang diberikan
-    * Catatan dari musyrif atau administrator yang menangani kasus tersebut
+5.  Setelah filter diaktifkan, sistem akan secara otomatis menampilkan data pelanggaran yang sesuai dengan kriteria pencarian.
 
     <figure><img src="../../.gitbook/assets/images-633 (2).png" alt=""><figcaption></figcaption></figure>
+
+
+6. Untuk melihat detail dari suatu pelanggaran, klik salah satu entri dalam daftar pelanggaran.
+7.  Anda akan diarahkan ke tampilan form pelanggaran yang menampilkan informasi lengkap, seperti: **identitas santri**, **rincian pelanggaran yang dilakukan**, **tindakan/hukuman yang diberikan**, dan **catatan dari musyrif atau administrator yang menangani kasus tersebut**.
+
+    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 8. Data riwayat ini dapat digunakan untuk evaluasi, pembinaan lanjutan, atau pembuatan laporan pelanggaran santri secara menyeluruh.

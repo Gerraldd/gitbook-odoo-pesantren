@@ -20,22 +20,20 @@ Berikut adalah langkah-langkah untuk melihat data riwayat prestasi santri pada O
     <figure><img src="../../.gitbook/assets/images-639 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman ini, Anda akan melihat daftar seluruh data prestasi santri. Setiap data memiliki informasi utama berupa: nomor referensi, tanggal prestasi, nama santri, jenis prestasi, tingkat prestasi, dan perolehan juara.
+3.  Pada halaman ini, Anda akan melihat daftar seluruh data prestasi santri. Setiap data memiliki informasi utama berupa: **Nomor Referensi**, **Tanggal Prestasi**, **Nama Santri**, **Jenis Prestasi**, **Tingkat Prestasi**, dan **Perolehan Juara**.
 
     <figure><img src="../../.gitbook/assets/images-640 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Untuk mengubah tampilan daftar menjadi tampilan **Kanban**, klik ikon **Kanban** yang berada di samping ikon **List/Grid** pada pojok kanan atas.
+4.  Untuk mengubah tampilan daftar menjadi tampilan **Kanban**, klik icon **Kanban** yang berada di samping icon **List/Grid** pada pojok kanan atas.
 
     <figure><img src="../../.gitbook/assets/images-641.png" alt=""><figcaption></figcaption></figure>
 
 
 5. Jika Anda ingin melihat detail dari salah satu data prestasi santri, klik pada baris atau kartu data prestasi yang ingin ditinjau.
-6.  Anda akan diarahkan ke halaman **form detail**, yang menampilkan informasi lengkap tentang prestasi santri tersebut, seperti:
-
-    * Identitas santri
-    * Jenis dan kategori prestasi
-    * Tingkat dan pencapaian (juara)
-    * Bukti dokumentasi seperti foto sertifikat atau kegiatan
+6.  Anda akan diarahkan ke halaman **form detail**, yang menampilkan informasi lengkap tentang prestasi santri tersebut, seperti **identitas santri**, **jenis dan kategori prestasi**, **tingkat dan pencapaian (juara)**, **bukti dokumentasi seperti foto sertifikat atau kegiatan**.
 
     <figure><img src="../../.gitbook/assets/images-642.png" alt=""><figcaption></figcaption></figure>
+
+
+7. Data riwayat ini dapat digunakan untuk evaluasi, pembinaan lanjutan, atau pembuatan laporan prestasi santri secara menyeluruh.

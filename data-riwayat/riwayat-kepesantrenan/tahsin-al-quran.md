@@ -20,24 +20,19 @@ Berikut adalah langkah-langkah untuk melihat data riwayat tahsin al-qur'an pada 
     <figure><img src="../../.gitbook/assets/images-632 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman ini, Anda akan melihat daftar seluruh kegiatan tahsin yang telah dicatat. Setiap entri menampilkan informasi seperti nama halaqah, nama santri, sesi tahsin, guru/ustadz pembimbing, tanggal tahsin, jilid dan halaman yang dibaca, dan status pelaksanaan.
+3.  Pada halaman ini, Anda akan melihat daftar seluruh kegiatan tahsin yang telah dicatat. Setiap entri menampilkan informasi meliputi: **Tanggal Tahsin**, **Nama Santri**, **Nama Halaqah**, **Buku Tahsin**, **Jilid Tahsin**, **Halaman yang dibaca**, **Ustadz Pembimbing**, dan **Status Pelaksanaan Tahfidz**.
 
     <figure><img src="../../.gitbook/assets/images-633.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk menyaring data berdasarkan **Hari Ini**, guru, santri, atau status tertentu.
+4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk menyesuaikan data, misalnya filter berdasarkan tanggal **Hari Ini**.
 
     <figure><img src="../../.gitbook/assets/images-634.png" alt=""><figcaption></figcaption></figure>
 
 
 5. Setelah filter diaktifkan, sistem akan secara otomatis menampilkan daftar riwayat tahsin yang sesuai dengan kriteria pencarian Anda.
 6. Klik salah satu entri dari daftar untuk melihat **detail** kegiatan tahsin tersebut.
-7.  Anda akan diarahkan ke tampilan form tahsin yang memuat informasi lengkap, seperti:
-
-    * Identitas santri
-    * Detail pelaksanaan tahsin (tanggal, jilid, halaman)
-    * Ustadz pembimbing
-    * Penilaian dan catatan bacaan
+7.  Anda akan diarahkan ke tampilan form tahsin yang memuat informasi lengkap, seperti **identitas santri**, **detail pelaksanaan tahsin**, dan **penilaian tahsin**.
 
     <figure><img src="../../.gitbook/assets/images-636.png" alt=""><figcaption></figcaption></figure>
 

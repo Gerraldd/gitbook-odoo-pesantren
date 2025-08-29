@@ -20,29 +20,25 @@ Berikut adalah langkah-langkah untuk melihat data riwayat perizinan santri pada 
     <figure><img src="../../.gitbook/assets/images-633 (3).png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Anda akan melihat daftar semua data pengajuan izin santri yang pernah dicatat. Setiap entri menampilkan informasi berikut yaitu, nomor referensi, tanggal izin, nama santri, kamar santri, nama halaqah, musyrif pembina, keperluan izin, lama izin, status izin (Draft, Diperiksa, Diterima, Ditolak, Santri Izin, Kembali), dan nama penjemput.
+3.  Anda akan melihat daftar semua data pengajuan izin santri yang pernah dicatat. Setiap entri menampilkan informasi berikut yaitu, **Nomor Referensi**, **Tanggal Izin**, **Nama Santri**, **Kamar Santri**, **Nama Halaqah**, **Musyrif**, **Keperluan Izin**, **Lama Izin**, **Status Izin (Draft, Diperiksa, Diterima, Ditolak, Santri Izin, Kembali)**, dan **Nama Penjemput**.
 
     <figure><img src="../../.gitbook/assets/images-634 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4. Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya filter **NON SPP, SPP, Tagihan Belum Lunas dan Sudah Lunas** serta filter kelompok yaitu **per nama santri, komponen biaya, periode tagihan, dan ruang kelas.**
-5.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya filter **Tanggal Izin Hari Ini, Lama Izin Lebih Dari 3 Hari, Status Perizinan (Draf, Diperiksa, Diterima, Ditolak, Santri Ijin, dan Kembali)** serta filter **Kelompok** seperti per **Status Ijin**.
+4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya filter **Tanggal Izin Hari Ini, Lama Izin Lebih Dari 3 Hari, Status Perizinan (Draf, Diperiksa, Diterima, Ditolak, Santri Ijin, dan Kembali)** serta filter **Kelompok** berdasarkan **Status Izin**.
 
     <figure><img src="../../.gitbook/assets/images-635.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Setelah filter diaktifkan, sistem akan secara otomatis menampilkan data yang sesuai dengan kriteria pencarian.
+5.  Setelah filter diaktifkan, sistem akan secara otomatis menampilkan data yang sesuai dengan kriteria pencarian.
 
     <figure><img src="../../.gitbook/assets/images-636 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-7. Untuk melihat detail dari salah satu data perizinan, klik pada baris data tersebut.
-8.  Anda akan diarahkan ke tampilan **form perizinan**, yang menampilkan informasi lengkap mengenai pengajuan izin, seperti:
-
-    * **Identitas santri**
-    * **Tanggal dan keperluan izin**
-    * **Data penjemput**
-    * **Proses persetujuan izin (oleh musyrif dan/atau administrator)**
-    * **Status terkini dari izin tersebut**
+6. Untuk melihat detail dari salah satu data perizinan, klik pada baris data tersebut.
+7.  Anda akan diarahkan ke tampilan **form perizinan**, yang menampilkan informasi lengkap mengenai pengajuan izin, seperti **identitas santri**, **informasi perizinan santri seperti (tanggal izin, keperluan dan penjemput)**, **informasi keamanan seperti waktu keluar/masuk**, **status terkini dari izin tersebut**.
 
     <figure><img src="../../.gitbook/assets/images-637.png" alt=""><figcaption></figcaption></figure>
+
+
+8. Data riwayat ini dapat digunakan untuk evaluasi, pembinaan lanjutan, atau pembuatan laporan perizinan santri secara menyeluruh.

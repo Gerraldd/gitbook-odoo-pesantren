@@ -20,25 +20,19 @@ Berikut adalah langkah-langkah untuk melihat riwayat tahfidz al-qur'an pada Odoo
     <figure><img src="../../.gitbook/assets/images-629 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Di halaman ini Anda akan melihat daftar semua kegiatan tahfidz santri. Setiap entri menampilkan informasi seperti: nama halaqah, nama santri, sesi tahfidz, guru/ustadz pembimbing, tanggal hafalan, nama surah, ayat awal–akhir, jumlah baris, nilai, dan status hafalan.
+3.  Di halaman ini Anda akan melihat daftar semua kegiatan tahfidz santri. Setiap entri menampilkan informasi meliputi: **Tanggal Tahfidz**, **Sesi Tahfidz**, **Nama Santri**, **Nama Halaqah**, **Nama Surah**, **Ayat Awal**, **Ayat Akhir**, **Jumlah Baris**, **Nilai**, **Ustadz**, dan **Status Tahfidz**.
 
     <figure><img src="../../.gitbook/assets/images-630 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk menyesuaikan data, misalnya filter berdasarkan tanggal hari ini.
+4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk menyesuaikan data, misalnya filter berdasarkan tanggal **Hari Ini**.
 
     <figure><img src="../../.gitbook/assets/images-631.png" alt=""><figcaption></figcaption></figure>
 
 
 5. Setelah filter diaktifkan, sistem akan otomatis menampilkan data riwayat tahfidz sesuai dengan kriteria filter yang dipilih.
 6. Klik salah satu entri dari daftar untuk melihat detail riwayat tahfidz.
-7.  Anda akan diarahkan ke tampilan form tahfidz yang berisi informasi lengkap seperti:
-
-    * **Identitas santri**
-    * **Rincian pelaksanaan hafalan**
-    * **Surah dan ayat yang dihafal**
-    * **Jumlah baris ayat yang disetorkan**
-    * **Penilaian dan status hafalan**
+7.  Anda akan diarahkan ke tampilan form tahfidz yang berisi informasi lengkap seperti **identitas santri**, **rincian pelaksanaan tahfidz**, dan **penilaian tahfidz**.
 
     <figure><img src="../../.gitbook/assets/images-633 (5).png" alt=""><figcaption></figcaption></figure>
 

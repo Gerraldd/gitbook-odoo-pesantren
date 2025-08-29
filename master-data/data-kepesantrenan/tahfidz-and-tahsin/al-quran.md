@@ -20,7 +20,7 @@ Berikut adalah langkah-langkah untuk melihat/mengakses data Al-Qur'an pada Odoo 
 
 3.  Sistem akan menampilkan list lengkap seluruh surah Al‑Qur’an beserta jumlah ayatnya.
 
-    <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4.  Klik salah satu surah (misalnya: _Al‑Fatihah_) untuk melihat detail ayat‑ayatnya.

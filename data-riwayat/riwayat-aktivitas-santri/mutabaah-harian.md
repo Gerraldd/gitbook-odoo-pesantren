@@ -20,18 +20,15 @@ Berikut adalah langkah-langkah untuk melihat riwayat mutaba'ah harian santri pad
     <figure><img src="../../.gitbook/assets/images-645.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman ini, Anda akan melihat daftar seluruh data **Mutaba'ah Harian Santri**. Setiap entri memuat informasi seperti: nomor referensi, tanggal mutaba’ah, nama santri, nama halaqah, sesi mutaba’ah, total skor, dan status mutaba’ah.
+3.  Pada halaman ini, Anda akan melihat daftar seluruh data **Mutaba'ah Harian Santri**. Setiap entri memuat informasi seperti: **Nomor Referensi**, **Tanggal Mutaba’ah**, **Nama Santri**, **Nama Halaqah**, **Sesi Mutaba’ah**, **Total Skor**, dan **Status Mutaba’ah**.
 
     <figure><img src="../../.gitbook/assets/images-646.png" alt=""><figcaption></figcaption></figure>
 
 
 4. Untuk melihat informasi lebih detail, klik salah satu data pada daftar mutaba’ah harian santri.
-5.  Anda akan diarahkan ke halaman **form detail** yang berisi informasi lengkap mengenai:
-
-    * Identitas santri
-    * Rincian kegiatan mutaba’ah (seperti ibadah, kebersihan, adab, dll.)
-    * Skor atau nilai dari masing-masing aspek
-    * Total skor yang diperoleh santri dalam mutaba’ah tersebut
+5.  Anda akan diarahkan ke halaman **form detail** yang berisi informasi lengkap mengenai **identitas santri**, **rincian kegiatan mutaba’ah (seperti ibadah, kebersihan, adab, dll.)**, **skor atau nilai dari masing-masing kegiatan mutaba'ah**, dan **total skor yang diperoleh santri dalam mutaba’ah tersebut**.
 
     <figure><img src="../../.gitbook/assets/images-647.png" alt=""><figcaption></figcaption></figure>
-6. Anda juga dapat menggunakan fitur **pencarian dan filter** untuk menyaring data berdasarkan tanggal, nama santri, sesi, atau status mutaba’ah tertentu.
+
+
+6. Data riwayat ini dapat digunakan untuk evaluasi, pembinaan lanjutan, atau pembuatan laporan muutaba'ah harian santri secara menyeluruh.
