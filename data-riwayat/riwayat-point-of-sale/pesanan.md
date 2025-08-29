@@ -20,12 +20,12 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pesanan POS pada Odoo 
     <figure><img src="../../.gitbook/assets/images-680 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman ini, Anda akan melihat daftar seluruh Pesanan POS. Setiap data pesanan menampilkan informasi seperti **Referensi Order, Sesi POS, Tanggal Transaksi, POS, Nomor Struk, Pelanggan, Kasir, Total Transaksi, dan Status Pesanan POS**.
+3.  Pada halaman ini, Anda akan melihat daftar seluruh Pesanan POS. Setiap data pesanan menampilkan informasi seperti **Referensi Order**, **Sesi POS**, **Tanggal Transaksi**, **POS**, **Nomor Struk**, **Pelanggan**, **Kasir**, **Total Transaksi**, dan **Status Pesanan POS**.
 
     <figure><img src="../../.gitbook/assets/images-681 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Gunakan tombol **Toggle Dropdown Pencarian** untuk menampilkan opsi pencarian. Anda dapat menerapkan penyaringan data berdasarkan **Telah Difakturkan, Terekam, Dibatalkan**, serta pengelompokan berdasarkan **Sesi POS, Kasir, POS, Pelanggan, Status Pesanan POS, dan Tanggal Order**.
+4.  Gunakan **toggle pencarian** untuk menampilkan fitur **Filter**. Anda dapat menerapkan penyaringan data berdasarkan **Telah Difakturkan, Terekam, Dibatalkan**, dan lainnya serta filter **Kelompok** berdasarkan **Sesi POS**, **Kasir**, **POS**, **Pelanggan**, **Status Pesanan POS**, dan **Tanggal Order**.
 
     <figure><img src="../../.gitbook/assets/images-682 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -35,7 +35,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pesanan POS pada Odoo 
     <figure><img src="../../.gitbook/assets/images-683 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Anda dapat mengubah tampilan daftar menjadi **Kanban View** dengan mengklik ikon **Kanban** di sebelah ikon daftar.
+6.  Anda dapat mengubah tampilan daftar menjadi **Kanban View** dengan mengklik icon **Kanban** di sebelah icon **List**.
 
     <figure><img src="../../.gitbook/assets/images-684 (1).png" alt=""><figcaption></figcaption></figure>
 

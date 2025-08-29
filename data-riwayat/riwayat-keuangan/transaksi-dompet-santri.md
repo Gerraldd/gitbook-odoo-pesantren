@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Transaksi Dompet Santri
 
-**Riwayat Transaksi Dompet Santri** merupakan fitur yang digunakan untuk memantau seluruh aktivitas keuangan yang terjadi dalam dompet digital santri. Fitur ini mencatat setiap pemasukan maupun pengeluaran dari saldo santri, sehingga administrator dapat melakukan monitoring transaksi secara menyeluruh dan akurat.
+Data **Riwayat Transaksi Dompet Santri** merupakan fitur yang digunakan untuk memantau seluruh aktivitas keuangan yang terjadi dalam dompet digital santri. Fitur ini mencatat setiap pemasukan maupun pengeluaran dari saldo santri, sehingga administrator dapat melakukan monitoring transaksi secara menyeluruh dan akurat.
 
 ### Melihat Riwayat Transaksi Dompet Santri
 
@@ -20,12 +20,12 @@ Berikut adalah langkha-langkah untuk melihat data riwayat transaksi dompet santr
     <figure><img src="../../.gitbook/assets/images-661.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman tersebut, Anda akan melihat daftar semua transaksi dompet santri. Setiap data ditampilkan dalam format tabel yang mencakup kolom: **Nomor Referensi, Tanggal Transaksi, Nama Santri, Nomor VA Saku, Nominal Masuk**, dan **Nominal Keluar**.
+3.  Pada halaman tersebut, Anda akan melihat daftar semua transaksi dompet santri. Setiap data ditampilkan dalam format tabel yang mencakup: **Nomor Referensi**, **Tanggal Transaksi**, **Nama Santri**, **Nomor VA Saku**, dan **Nominal Masuk/Keluar**.
 
     <figure><img src="../../.gitbook/assets/images-662.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Gunakan fitur **toggle dropdown pencarian** untuk menampilkan opsi filter. Anda dapat menyaring data berdasarkan: **Status Transaksi, Transaksi Pekan Ini, Transaksi Bulan Ini**, serta filter **Kelompok** yaitu **Tanggal Transaksi, Minggu, Bulan, Jenis Transaksi (Masuk/Keluar), dan Nama Santri**.
+4.  Gunakan fitur **toggle dropdown pencarian** untuk menampilkan opsi filter. Anda dapat menyaring data berdasarkan **Status Transaksi**, **Transaksi Pekan Ini**, **Transaksi Bulan Ini** serta filter **Kelompok** berdasarkan **Tanggal Transaksi**, **Minggu**, **Bulan**, **Jenis Transaksi (Masuk/Keluar)**, dan **Nama Santri**.
 
     <figure><img src="../../.gitbook/assets/images-663.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,10 +36,7 @@ Berikut adalah langkha-langkah untuk melihat data riwayat transaksi dompet santr
 
 
 6. Untuk melihat detail dari suatu transaksi, klik salah satu entri dalam daftar transaksi dompet santri.
-7.  Anda akan diarahkan ke tampilan **formulir transaksi** yang memuat informasi lebih lengkap, seperti:
-
-    * **Identitas Santri**
-    * **Detail Transaksi**: nominal, jenis transaksi (masuk/keluar), tanggal, dan referensi lainnya jika ada.
+7.  Anda akan diarahkan ke tampilan **formulir transaksi** yang memuat informasi lebih lengkap, seperti **identitas santri** (berisi informasi mengenai santri), **detail transaksi** (berisi informasi lengkap mengenai transaksi seperti jenis transaksi, nominal, dan lainnya).
 
     <figure><img src="../../.gitbook/assets/images-665.png" alt=""><figcaption></figcaption></figure>
 

@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Tahsin Al-Qur'an
 
-**Riwayat Tahsin Al-Qur’an** adalah kumpulan data pelaksanaan kegiatan tahsin yang dilakukan oleh santri di bawah bimbingan guru/ustadz halaqah. Kegiatan ini mencakup penilaian kualitas bacaan Al-Qur’an, jilid, halaman, dan progres santri dalam memperbaiki bacaan mereka. Data ini digunakan oleh administrator untuk memantau perkembangan kemampuan membaca Al-Qur’an santri secara berkala.
+Data **Riwayat Tahsin Al-Qur’an** adalah kumpulan data pelaksanaan kegiatan tahsin yang dilakukan oleh santri di bawah bimbingan guru/ustadz halaqah. Kegiatan ini mencakup penilaian kualitas bacaan Al-Qur’an, jilid, halaman, dan progres santri dalam memperbaiki bacaan mereka. Data ini digunakan oleh administrator untuk memantau perkembangan kemampuan membaca Al-Qur’an santri secara berkala.
 
 ### Melihat Riwayat Tahsin Al-Qur'an
 

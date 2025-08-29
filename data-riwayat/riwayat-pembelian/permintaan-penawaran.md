@@ -20,12 +20,12 @@ Berikut adalah langkah-langkah untuk melihat data riwayat permintaan penawaran p
     <figure><img src="../../.gitbook/assets/images-818.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman ini, Anda akan melihat daftar lengkap data permintaan penawaran, yang mencakup informasi seperti **nomor referensi, pemasok, pembeli, deadline order, total, dan status pembelian**.
+3.  Pada halaman ini, Anda akan melihat daftar lengkap data permintaan penawaran, yang mencakup informasi seperti **Nomor Referensi**, **Pemasok**, **Pembeli**, **Deadline Order**, **Total**, dan **Status Pembelian**.
 
     <figure><img src="../../.gitbook/assets/images-819.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik dropdown pencarian dan aktifkan fitur **Filter** untuk memudahkan pencarian data berdasarkan kriteria seperti **Pembelian Saya, RFQ, Tanggal Order, dan lain-lain**. Anda juga dapat melakukan pengelompokan berdasarkan **Pemasok, Wakil Pembelian, atau Tanggal Order**.
+4.  Klik **toggle pencarian** dan aktifkan fitur **Filter** untuk memudahkan pencarian data berdasarkan kriteria seperti **Pembelian Saya, RFQ, Tanggal Order, dan lain-lain**. Anda juga dapat melakukan pengelompokan berdasarkan **Pemasok, Wakil Pembelian, atau Tanggal Order**.
 
     <figure><img src="../../.gitbook/assets/images-820.png" alt=""><figcaption></figcaption></figure>
 

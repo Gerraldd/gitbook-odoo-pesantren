@@ -20,7 +20,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pembayaran POS pada Od
     <figure><img src="../../.gitbook/assets/images-688 (2).png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Halaman ini akan menampilkan daftar semua data Pembayaran POS yang dikelompokkan berdasarkan metode pembayaran. Setiap entri menampilkan informasi **Tanggal Pembayaran, Metode Pembayaran, Order POS, Kasir, dan Jumlah Transaksi**.
+3.  Halaman ini akan menampilkan daftar semua data Pembayaran POS yang dikelompokkan berdasarkan metode pembayaran. Setiap entri menampilkan informasi **Tanggal Pembayaran**, **Metode Pembayaran**, **Order POS**, **Kasir**, dan **Jumlah Transaksi**.
 
     <figure><img src="../../.gitbook/assets/images-689 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -28,9 +28,9 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pembayaran POS pada Od
 4. Untuk melihat detail pembayaran tertentu, klik salah satu entri pada daftar Pembayaran POS.
 5.  Halaman detail akan menampilkan informasi lengkap pembayaran, termasuk:
 
-    * **Sesi POS**: Sesi Point of Sale tempat transaksi dilakukan.
-    * **Order POS**: Nomor pesanan POS yang terkait dengan pembayaran.
-    * **Jumlah Transaksi**: Total nilai pembayaran yang diterima.
-    * **Metode Pembayaran**: Jenis pembayaran yang digunakan, seperti tunai, transfer bank, atau e-wallet.
+    * **Sesi POS** (berisi sesi Point of Sale tempat transaksi dilakukan).
+    * **Order POS** (berisi nomor pesanan POS yang terkait dengan pembayaran).
+    * **Jumlah Transaksi** (berisi total nilai pembayaran yang diterima).
+    * **Metode Pembayaran** (berisi jenis pembayaran yang digunakan, seperti tunai, transfer bank, atau e-wallet).
 
     <figure><img src="../../.gitbook/assets/images-690 (1).png" alt=""><figcaption></figcaption></figure>

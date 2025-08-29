@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Tagihan Santri
 
-**Riwayat Tagihan Santri** adalah kumpulan data yang menampilkan seluruh transaksi keuangan santri yang berkaitan dengan tagihan pembayaran. Fitur ini digunakan untuk memantau pembayaran, sisa tagihan, hingga status pelunasan dari berbagai produk atau layanan yang digunakan santri di lingkungan pesantren.
+Data **Riwayat Tagihan Santri** adalah kumpulan data yang menampilkan seluruh transaksi keuangan santri yang berkaitan dengan tagihan pembayaran. Fitur ini digunakan untuk memantau pembayaran, sisa tagihan, hingga status pelunasan dari berbagai produk atau layanan yang digunakan santri di lingkungan pesantren.
 
 ### Melihat Riwayat Tagihan Santri
 
@@ -20,12 +20,12 @@ Berikut adalah langkah-langkah untuk melihat riwayat tagihan santri pada Odoo Pe
     <figure><img src="../../.gitbook/assets/images-648.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman ini, Anda akan melihat daftar seluruh data tagihan santri. Setiap data menampilkan informasi seperti: **nomor referensi, tanggal tagihan, nama santri, produk yang dibeli, kelas santri, total tagihan, jumlah yang telah dibayar, sisa tagihan, dan status pembayaran**.
+3.  Pada halaman ini, Anda akan melihat daftar seluruh data tagihan santri. Setiap data menampilkan informasi seperti: **Nomor Referensi**, **Tanggal Tagihan**, **Nama Santri, Produk yang dibeli, Kelas Santri**, **Total Tagihan**, **Jumlah yang telah dibayar**, **Sisa Tagihan**, dan **Status Pembayaran**.
 
     <figure><img src="../../.gitbook/assets/images-649.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya **NON SPP, SPP, Tagihan Belum Lunas dan Sudah Lunas** serta filter kelompok yaitu **per nama santri, komponen biaya, periode tagihan, dan ruang kelas.**
+4.  Klik **toggle dropdown pencarian** yang menampilkan fitur **Filter** untuk memudahkan pencarian, misalnya **NON SPP**, **SPP**, **Tagihan Belum Lunas dan Sudah Lunas** serta filter **Kelompok** yaitu berdasarkan **Nama Santri**, **Komponen Biaya**, **Periode Tagihan**, dan **Ruang Kelas.**
 
     <figure><img src="../../.gitbook/assets/images-650.png" alt=""><figcaption></figcaption></figure>
 
@@ -41,10 +41,8 @@ Berikut adalah langkah-langkah untuk melihat riwayat tagihan santri pada Odoo Pe
 
 
 7. Untuk melihat detail suatu tagihan, klik salah satu data tagihan santri dari daftar yang tersedia.
-8. Sistem akan menampilkan **formulir detail tagihan**, yang berisi informasi lengkap seperti:
-   * **Identitas Santri** (berisi informasi santri).
-   * **Detail Tagihan** (berisi informasi tagihan santri).
-9.  Pada **Tab Baris Faktur** yang berisi daftar produk yang dibeli oleh santri.
+8. Sistem akan menampilkan **formulir detail tagihan**, yang berisi informasi lengkap seperti **identitas Santri** (berisi informasi santri), **detail tagihan** (berisi informasi tagihan santri).
+9.  Pada **Tab Baris Faktur**, berisi daftar produk yang dibeli oleh santri.
 
     <figure><img src="../../.gitbook/assets/images-652.png" alt=""><figcaption></figcaption></figure>
 

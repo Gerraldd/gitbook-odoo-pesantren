@@ -20,12 +20,12 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pesanan pembelian pada
     <figure><img src="../../.gitbook/assets/images-824.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman ini, Anda akan melihat daftar lengkap data pesanan pembelian, yang mencakup informasi seperti **nomor referensi, tanggal konfirmasi,pemasok, pembeli, total, dan status tagihan**.
+3.  Pada halaman ini, Anda akan melihat daftar lengkap data pesanan pembelian, yang mencakup informasi seperti **Nomor Referensi**, **Tanggal Konfirmasi**, **Pemasok**, **Pembeli, Total**, dan **Status Tagihan**.
 
     <figure><img src="../../.gitbook/assets/images-825.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik dropdown pencarian dan aktifkan fitur **Filter** untuk memudahkan pencarian data berdasarkan kriteria seperti **Orderku, Siap Difakturkan, Tagihan Diterima, Tanggal Order, dan lain-lain**. Anda juga dapat melakukan pengelompokan berdasarkan **Pemasok, Wakil Pembelian, atau Tanggal Order**.
+4.  Klik **toggle pencarian** dan aktifkan fitur **Filter** untuk memudahkan pencarian data berdasarkan kriteria seperti **Orderku, Siap Difakturkan, Tagihan Diterima, Tanggal Order, dan lain-lain**. Anda juga dapat melakukan pengelompokan berdasarkan **Pemasok, Wakil Pembelian, atau Tanggal Order**.
 
     <figure><img src="../../.gitbook/assets/images-826.png" alt=""><figcaption></figcaption></figure>
 

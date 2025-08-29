@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Pembayaran
 
-**Riwayat Pembayaran** adalah kumpulan data transaksi pembayaran yang dilakukan oleh pesantren, baik berupa pembayaran dari santri (customer) maupun pembayaran kepada pemasok (vendor). Melalui fitur ini, administrator dapat dengan mudah memantau seluruh transaksi pembayaran, termasuk status, metode, jurnal, dan pihak terkait dalam proses pembayaran tersebut.
+Data **Riwayat Pembayaran** adalah kumpulan data transaksi pembayaran yang dilakukan oleh pesantren, baik berupa pembayaran dari santri (customer) maupun pembayaran kepada pemasok (vendor). Melalui fitur ini, administrator dapat dengan mudah memantau seluruh transaksi pembayaran, termasuk status, metode, jurnal, dan pihak terkait dalam proses pembayaran tersebut.
 
 ### Melihat Riwayat Pembayaran
 
@@ -20,12 +20,12 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pembayaran pada Odoo P
     <figure><img src="../../.gitbook/assets/images-656 (2).png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman ini akan ditampilkan daftar seluruh data pembayaran. Setiap baris data mencakup informasi: **Nomor Referensi, Tanggal Pembayaran, Jurnal, Metode Pembayaran, Pelanggan/Pemasok, Jumlah Pembayaran**, dan **Status Pembayaran**.
+3.  Pada halaman ini akan ditampilkan daftar seluruh data pembayaran. Setiap baris data mencakup informasi: **Tanggal Pembayaran**, **Nomor Referensi**, **Jurnal**, **Metode Pembayaran**, **Pelanggan/Pemasok**, **Jumlah Pembayaran**, dan **Status Pembayaran**.
 
     <figure><img src="../../.gitbook/assets/images-657 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik tombol **toggle dropdown pencarian** untuk menampilkan fitur **Filter**. Anda dapat menggunakan berbagai filter pencarian, seperti: pembayaran dari pelanggan (customer) atau ke pemasok (vendor), Draft, Dalam Proses, terdapat filter kelompokRekanan, Siswa, Jurnal, Metode Pembayaran, Status, Tanggal Pembayaran, Mata Uang, dan Perusahaan.
+4.  Klik tombol **toggle dropdown pencarian** untuk menampilkan fitur **Filter**. Anda dapat menggunakan berbagai filter pencarian, seperti: **pembayaran dari pelanggan (customer) atau ke pemasok (vendor)**, **Draft**, **Dalam Proses**, dan lainnya serta filter **Kelompok** berdasarkan **Rekanan**, **Siswa**, **Jurnal**, **Metode Pembayaran**, **Status**, **Tanggal Pembayaran**, **Mata Uang**, dan **Perusahaan**.
 
     <figure><img src="../../.gitbook/assets/images-658 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -36,11 +36,6 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pembayaran pada Odoo P
 
 
 6. Untuk melihat detail pembayaran, klik salah satu entri dari daftar pembayaran.
-7.  Sistem akan menampilkan **formulir pembayaran** yang berisi informasi lengkap, termasuk:
-
-    * **Pelanggan atau Pemasok**
-    * **Tanggal dan Jumlah Pembayaran**
-    * **Jurnal dan Metode Pembayaran**
-    * **Referensi Faktur yang Dibayar** (jika terkait)
+7.  Sistem akan menampilkan **formulir pembayaran** yang berisi informasi lengkap, termasuk p**elanggan atau pemasok**, **tanggal pembayaran**, **jumlah pembayaran**, **jurnal**, **metode pembayaran**, dan **referensi faktur yang dibayar** (jika terkait).
 
     <figure><img src="../../.gitbook/assets/images-660.png" alt=""><figcaption></figcaption></figure>

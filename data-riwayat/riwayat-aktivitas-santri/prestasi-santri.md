@@ -8,7 +8,7 @@ Video
 
 ## Riwayat Prestasi Santri
 
-**Riwayat Prestasi Santri** merupakan data yang mencatat seluruh capaian dan penghargaan yang diraih oleh santri selama menempuh pendidikan di pesantren. Informasi ini dapat digunakan sebagai referensi dalam penilaian karakter, semangat belajar, serta keaktifan santri dalam berbagai bidang akademik maupun non-akademik.
+Data **Riwayat Prestasi Santri** merupakan data yang mencatat seluruh capaian dan penghargaan yang diraih oleh santri selama menempuh pendidikan di pesantren. Informasi ini dapat digunakan sebagai referensi dalam penilaian karakter, semangat belajar, serta keaktifan santri dalam berbagai bidang akademik maupun non-akademik.
 
 ### Melihat Riwayat Prestasi Santri
 
@@ -31,7 +31,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat prestasi santri pada O
 
 
 5. Jika Anda ingin melihat detail dari salah satu data prestasi santri, klik pada baris atau kartu data prestasi yang ingin ditinjau.
-6.  Anda akan diarahkan ke halaman **form detail**, yang menampilkan informasi lengkap tentang prestasi santri tersebut, seperti **identitas santri**, **jenis dan kategori prestasi**, **tingkat dan pencapaian (juara)**, **bukti dokumentasi seperti foto sertifikat atau kegiatan**.
+6.  Anda akan diarahkan ke halaman **form detail**, yang menampilkan informasi lengkap tentang prestasi santri tersebut, seperti **identitas santri**, **jenis dan kategori prestasi**, **tingkat dan pencapaian (juara)**, dan **bukti dokumentasi seperti foto sertifikat atau kegiatan**.
 
     <figure><img src="../../.gitbook/assets/images-642.png" alt=""><figcaption></figcaption></figure>
 

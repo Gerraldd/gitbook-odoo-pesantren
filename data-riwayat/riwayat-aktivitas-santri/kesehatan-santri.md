@@ -25,7 +25,7 @@ Berikut adalah langkah-langkah untuk melihat riwayat kesehatan santri pada Odoo 
     <figure><img src="../../.gitbook/assets/images-637 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya filter **Nama Santri, Tanggal Periksa, Tanggal Selesai** serta filter **Kelompok** berdasarkan **Santri/Siswa**.
+4.  Klik **toggle dropdown pencarian** untuk menampilkan fitur **Filter** untuk memudahkan pencarian, misalnya filter **Nama Santri**, **Tanggal Periksa**, **Tanggal Selesai** serta filter **Kelompok** berdasarkan **Santri/Siswa**.
 
     <figure><img src="../../.gitbook/assets/images-638.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,7 +36,7 @@ Berikut adalah langkah-langkah untuk melihat riwayat kesehatan santri pada Odoo 
 
 
 6. Untuk melihat detail dari salah satu data kesehatan santri, klik pada baris data tersebut.
-7.  Anda akan diarahkan ke tampilan **form kesehatan**, yang berisi informasi lengkap seperti **identitas santri**, **kondisi kesehatan, obat atau perawatan yang diberikan**, **tanggal pemeriksaan hingga tanggal sembuh**.
+7.  Anda akan diarahkan ke tampilan **form kesehatan**, yang berisi informasi lengkap seperti **identitas santri**, **kondisi kesehatan, obat atau perawatan yang diberikan**, dan **tanggal pemeriksaan hingga tanggal sembuh**.
 
     <figure><img src="../../.gitbook/assets/images-640.png" alt=""><figcaption></figcaption></figure>
 

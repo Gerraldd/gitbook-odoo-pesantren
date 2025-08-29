@@ -20,12 +20,12 @@ Berikut adalah langkah-langkah untuk melihat data riwayat absensi santri pada Od
     <figure><img src="../../.gitbook/assets/images-617.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman **Absensi Santri**, akan ditampilkan daftar seluruh absensi dari setiap kelas. Setiap data absensi memiliki informasi seperti **Nama Absensi, Tanggal Absen, Jam Pelajaran, Nama Kelas, Mata pelajaran, Guru, serta Status Absensi.**
+3.  Pada halaman **Absensi Santri**, akan ditampilkan daftar seluruh absensi dari setiap kelas. Setiap data absensi memiliki informasi seperti **Nama Absensi**, **Tanggal Absen**, **Jam Pelajaran**, **Nama Kelas**, **Mata Pelajaran**, **Guru**, serta **Status Absensi.**
 
     <figure><img src="../../.gitbook/assets/images-618.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya dengan memilih absensi pada beberapa hari terakhir atau filter **Kelompok** berdasarkan K**elas, Mapel, Guru, dan Tanggal Absensi**.
+4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya dengan memilih absensi pada beberapa hari terakhir atau filter **Kelompok** berdasarkan **Kelas**, **Mapel**, **Guru**, dan **Tanggal Absensi**.
 
     <figure><img src="../../.gitbook/assets/images-619.png" alt=""><figcaption></figcaption></figure>
 

@@ -20,12 +20,12 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pembuangan barang pada
     <figure><img src="../../.gitbook/assets/images-676 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Halaman akan menampilkan daftar seluruh pembuangan barang. Setiap entri ditampilkan dalam satu baris yang berisi informasi seperti: **Referensi, Tanggal Pembuangan, Produk, Kuantitas Produk, Lokasi Sumber, Lokasi Barang Rusak, Perusahaan Saat Ini**, dan **Status Pembuangan Barang**.
+3.  Halaman akan menampilkan daftar seluruh pembuangan barang. Setiap entri ditampilkan dalam satu baris yang berisi informasi seperti: **Nomor** **Referensi**, **Tanggal Pembuangan**, **Produk**, **Kuantitas Barang**, **Lokasi Sumber**, **Lokasi Barang Rusak**, dan **Status Pembuangan Barang**.
 
     <figure><img src="../../.gitbook/assets/images-677 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Gunakan ikon **dropdown pencarian** untuk menampilkan opsi filter. Opsi yang tersedia meliputi filter kelompok berdasarkan **Produk, Lokasi, Lokasi Barang Rusak**, dan **Transfer**.
+4.  Gunakan **toggle pencarian** untuk menampilkan fitur **Filter**. Opsi yang tersedia meliputi filter **Kelompok** berdasarkan **Produk**, **Lokasi**, **Lokasi Barang Rusak**, dan **Transfer**.
 
     <figure><img src="../../.gitbook/assets/images-678 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -35,17 +35,12 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pembuangan barang pada
     <figure><img src="../../.gitbook/assets/images-679 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Ubah tampilan daftar menjadi **Kanban** apabila diperlukan dengan mengklik ikon Kanban di samping ikon tampilan List.
+6.  Ubah tampilan daftar menjadi **Kanban** apabila diperlukan dengan mengklik icon **Kanban** di samping icon tampilan **List**.
 
     <figure><img src="../../.gitbook/assets/images-680 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 7. Untuk melihat detail suatu pembuangan barang, klik salah satu entri pada daftar.
-8.  Halaman detail pembuangan barang menampilkan informasi yang mencakup:
-
-    * Data pembuangan barang.
-    * Alasan pembuangan.
-    * Lokasi sumber dan lokasi barang rusak.
-    * Informasi tambahan lain yang terkait dengan proses pembuangan.
+8.  Halaman detail pembuangan barang menampilkan informasi yang mencakup **data pembuangan barang**, **alasan pembuangan**, **lokasi sumber, lokasi barang rusak**, dan **informasi tambahan lain yang terkait dengan proses pembuangan.**
 
     <figure><img src="../../.gitbook/assets/images-681 (1) (1).png" alt=""><figcaption></figcaption></figure>

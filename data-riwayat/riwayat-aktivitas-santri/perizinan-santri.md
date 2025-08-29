@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Perizinan Santri
 
-**Riwayat Perizinan Santri** adalah kumpulan data yang mencatat seluruh pengajuan izin yang dilakukan oleh santri selama berada di pesantren. Data ini mencakup informasi terkait waktu izin, keperluan, penjemput, status izin, dan riwayat proses persetujuan dari musyrif maupun administrator. Tujuan dari pencatatan ini adalah untuk memastikan keteraturan dan pengawasan terhadap mobilitas santri di luar lingkungan pesantren.
+Data **Riwayat Perizinan Santri** adalah kumpulan data yang mencatat seluruh pengajuan izin yang dilakukan oleh santri selama berada di pesantren. Data ini mencakup informasi terkait waktu izin, keperluan, penjemput, status izin, dan riwayat proses persetujuan dari musyrif maupun administrator. Tujuan dari pencatatan ini adalah untuk memastikan keteraturan dan pengawasan terhadap mobilitas santri di luar lingkungan pesantren.
 
 ### Melihat Riwayat Perizinan Santri
 
@@ -25,7 +25,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat perizinan santri pada 
     <figure><img src="../../.gitbook/assets/images-634 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya filter **Tanggal Izin Hari Ini, Lama Izin Lebih Dari 3 Hari, Status Perizinan (Draf, Diperiksa, Diterima, Ditolak, Santri Ijin, dan Kembali)** serta filter **Kelompok** berdasarkan **Status Izin**.
+4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya filter berdasarkan **Tanggal Izin Hari Ini**, **Lama Izin Lebih Dari 3 Hari**, **Status Perizinan (Draf**, **Diperiksa**, **Diterima**, **Ditolak**, **Santri Ijin**, dan **Kembali)** serta filter **Kelompok** berdasarkan **Status Izin**.
 
     <figure><img src="../../.gitbook/assets/images-635.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,7 +36,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat perizinan santri pada 
 
 
 6. Untuk melihat detail dari salah satu data perizinan, klik pada baris data tersebut.
-7.  Anda akan diarahkan ke tampilan **form perizinan**, yang menampilkan informasi lengkap mengenai pengajuan izin, seperti **identitas santri**, **informasi perizinan santri seperti (tanggal izin, keperluan dan penjemput)**, **informasi keamanan seperti waktu keluar/masuk**, **status terkini dari izin tersebut**.
+7.  Anda akan diarahkan ke tampilan **form perizinan**, yang menampilkan informasi lengkap mengenai pengajuan izin, seperti **identitas santri**, **informasi perizinan santri seperti (tanggal izin, keperluan dan penjemput)**, **informasi keamanan seperti waktu keluar/masuk**, dan **status terkini dari izin tersebut**.
 
     <figure><img src="../../.gitbook/assets/images-637.png" alt=""><figcaption></figcaption></figure>
 

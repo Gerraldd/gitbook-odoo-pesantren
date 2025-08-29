@@ -4,7 +4,7 @@ icon: recycle
 
 # Pengisian Ulang Barang
 
-Video \[]
+{% embed url="https://youtu.be/--MZqtOepT8" %}
 
 ## Pengisian Ulang Barang
 

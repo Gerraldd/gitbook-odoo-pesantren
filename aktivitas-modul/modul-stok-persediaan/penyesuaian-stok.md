@@ -4,7 +4,7 @@ icon: sliders
 
 # Penyesuaian Stok
 
-Video \[]
+{% embed url="https://youtu.be/fflXf34Idh4" %}
 
 ## Penyesuaian Stok
 

@@ -20,18 +20,18 @@ Berikut adalah langkah-langkah untuk melihat data riwayat penerimaan barang pada
     <figure><img src="../../.gitbook/assets/images-664 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman ini, Anda akan melihat daftar semua aktivitas penerimaan barang. Setiap data ditampilkan dalam satu baris tabel dengan informasi utama: **Referensi, Dari, Kepada, Rekanan, Tanggal Terjadwal, Dokumen Sumber, Perusahaan Saat Ini**, dan **Status Penerimaan Barang**.
+3.  Pada halaman ini, Anda akan melihat daftar semua aktivitas penerimaan barang. Setiap data ditampilkan dalam satu baris tabel dengan informasi utama: **Nomor** **Referensi**, **Dari** (sebagai pengirim barang), **Kepada** (sebagai lokasi gudang), **Kontak**, **Tanggal Terjadwal**, **Dokumen Sumber**, dan **Status Penerimaan Barang**.
 
     <figure><img src="../../.gitbook/assets/images-665 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik ikon **dropdown pencarian** untuk menampilkan fitur **Filter**. Anda dapat menggunakan beberapa filter yang tersedia, seperti **To Do, Transfer Saya, Status, dan lainnya**, serta filter **Kelompok** seperti **Status**, **Tanggal Terjadwal**, **Dokumen Sumber**, dan **Tipe Operasi**.
+4.  Klik **toggle pencarian** untuk menampilkan fitur **Filter**. Anda dapat menggunakan beberapa filter yang tersedia, seperti **Todo, Transfer Saya, Status,** dan lainnya serta filter **Kelompok** berdasarkan **Status**, **Tanggal Terjadwal**, **Dokumen Sumber**, dan **Tipe Operasi**.
 
     <figure><img src="../../.gitbook/assets/images-666.png" alt=""><figcaption></figcaption></figure>
 
 
 5. Setelah filter diaktifkan, data riwayat penerimaan barang akan otomatis disesuaikan berdasarkan kriteria yang Anda pilih.
-6.  Anda dapat mengubah tampilan daftar menjadi **Kanban** dengan mengklik ikon Kanban di samping ikon tampilan List.
+6.  Anda dapat mengubah tampilan daftar menjadi **Kanban** dengan mengklik icon **Kanban** di samping icon tampilan **List**.
 
     <figure><img src="../../.gitbook/assets/images-667.png" alt=""><figcaption></figcaption></figure>
 

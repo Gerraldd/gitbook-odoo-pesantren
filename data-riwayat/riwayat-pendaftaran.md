@@ -8,7 +8,7 @@ Video \[]
 
 ## Riwayat Pendaftaran
 
-**Data Riwayat Pendaftaran** merupakan kumpulan data yang tersimpan ketika ada user yang melakukan pendaftaran. Data akan ditampilkan berupa list dengan filter jenjang. Pada tampilan awal, list akan menampilkan nomor pendaftaran, nama pendaftar, jenjang, tanggal pendaftaran, dan statusnya.
+Data **Riwayat Pendaftaran** merupakan kumpulan data yang tersimpan ketika ada user yang melakukan pendaftaran. Data akan ditampilkan berupa list dengan filter jenjang. Pada tampilan awal, list akan menampilkan nomor pendaftaran, nama pendaftar, jenjang, tanggal pendaftaran, dan statusnya.
 
 ### Melihat Riwayat Pendaftaran
 
@@ -20,12 +20,12 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pendaftaran pada Odoo 
     <figure><img src="../.gitbook/assets/images-608.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Disini anda akan melihat list dengan data yang difilter berdasarkan **jenjang** pendaftaran. Anda bisa mengklik setiap jenjang untuk melihat semua pendaftar yang mendaftar di jenjang tersebut. Setiap data memiliki header yaitu **Nomor Pendaftaran, Nama Pendaftar, Jenjang Pendidikan, Tanggal Pendaftaran, Total Nilai Seleksi, dan Status Pendaftaran**.&#x20;
+3.  Disini anda akan melihat list dengan data yang difilter berdasarkan **jenjang** pendaftaran. Anda bisa mengklik setiap jenjang untuk melihat semua pendaftar yang mendaftar di jenjang tersebut. Setiap data memiliki header yaitu **Nomor Pendaftaran**, **Nama Pendaftar**, **Jenjang Pendidikan**, **Tanggal Pendaftaran**, **Total Nilai Seleksi**, dan **Status Pendaftaran**.&#x20;
 
     <figure><img src="../.gitbook/assets/images-609.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik dropdown pencarian dan aktifkan fitur **Filter** untuk memudahkan pencarian data berdasarkan kriteria seperti **By Jenjang, dan Nilai Tertinggi**. Anda juga dapat melakukan pengelompokan berdasarkan **Jenjang, Provinsi, Kota, Kecamatan, Asal Sekolah, Jenis Kelamin, Kewarganegaraan, dan Tanggal Daftar**.
+4.  Klik **toggle pencarian** yang menampilkan fitur **Filter** untuk memudahkan pencarian data berdasarkan kriteria seperti **By Jenjang, dan Nilai Tertinggi**. Anda juga dapat melakukan pengelompokan berdasarkan **Jenjang**, **Provinsi**, **Kota**, **Kecamatan**, **Asal Sekolah**, **Jenis Kelamin**, **Kewarganegaraan**, dan **Tanggal Daftar**.
 
     <figure><img src="../.gitbook/assets/images-820 (2).png" alt=""><figcaption></figcaption></figure>
 

@@ -20,18 +20,18 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pengiriman barang pada
     <figure><img src="../../.gitbook/assets/images-668 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Halaman akan menampilkan daftar seluruh aktivitas pengiriman barang. Setiap entri ditampilkan dalam satu baris dengan informasi: **Referensi, Dari, Kepada, Rekanan, Tanggal Terjadwal, Dokumen Sumber, Perusahaan Saat Ini**, dan **Status Pengiriman Barang**.
+3.  Halaman akan menampilkan daftar seluruh aktivitas pengiriman barang. Setiap entri ditampilkan dalam satu baris dengan informasi: **Nomor** **Referensi**, **Dari** (sebagai lokasi gudang), **Kepada** (sebagai penerima barang), **Kontak**, **Tanggal Terjadwal**, **Dokumen Sumber**, dan **Status Pengiriman Barang**.
 
     <figure><img src="../../.gitbook/assets/images-669 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik ikon **dropdown pencarian** untuk menampilkan opsi filter. Beberapa filter yang dapat digunakan antara lain yaitu, **To Do, Transfer Saya, Status**, serta filter Kelompok seperti **Status**, **Tanggal Terjadwal**, **Dokumen Sumber**, dan **Tipe Operasi**.
+4.  Klik **toggle pencarian** untuk menampilkan fitur **Filter**. Beberapa filter yang dapat digunakan antara lain yaitu **Todo, Transfer Saya, Status**, dan lainnya serta filter **Kelompok** berdasarkan **Status**, **Tanggal Terjadwal**, **Dokumen Sumber**, dan **Tipe Operasi**.
 
     <figure><img src="../../.gitbook/assets/images-670 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 5. Setelah filter diaktifkan, data riwayat pengiriman barang akan otomatis diperbarui sesuai kriteria yang dipilih.
-6.  Anda dapat mengubah tampilan daftar menjadi **Kanban** dengan mengklik ikon Kanban di samping ikon tampilan List.
+6.  Anda dapat mengubah tampilan daftar menjadi **Kanban** dengan mengklik icon **Kanban** di samping icon tampilan **List**.
 
     <figure><img src="../../.gitbook/assets/images-671.png" alt=""><figcaption></figcaption></figure>
 

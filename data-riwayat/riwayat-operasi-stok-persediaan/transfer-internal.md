@@ -20,18 +20,18 @@ Berikut adalah langkah-langkah untuk melihat data riwayat transfer internal bara
     <figure><img src="../../.gitbook/assets/images-672 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Halaman akan menampilkan daftar seluruh aktivitas transfer internal barang. Setiap entri ditampilkan dalam satu baris dengan informasi: **Referensi, Dari, Kepada, Rekanan, Tanggal Terjadwal, Dokumen Sumber, Perusahaan Saat Ini**, dan **Status Transfer Barang**.
+3.  Halaman akan menampilkan daftar seluruh aktivitas transfer internal barang. Setiap entri ditampilkan dalam satu baris dengan informasi: **Nomor** **Referensi**, **Dari** (sebagai lokasi gudang), **Kepada** (sebagai lokasi gudang), **Kontak**, **Tanggal Terjadwal**, **Dokumen Sumber**, dan **Status Transfer Internal Barang**.
 
     <figure><img src="../../.gitbook/assets/images-673 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik ikon **dropdown pencarian** untuk menampilkan opsi filter. Beberapa filter yang dapat digunakan antara lain yaitu, **To Do, Transfer Saya, Status, dan lainnya** serta filter kelompok seperti **Status**, **Tanggal Terjadwal**, **Dokumen Sumber**, dan **Tipe Operasi**.
+4.  Klik **toggle pencarian** untuk menampilkan fitur **Filter**. Beberapa filter yang dapat digunakan antara lain yaitu **Todo**, **Transfer Saya**, **Status**, dan lainnya serta filter **Kelompok** berdasarkan **Status**, **Tanggal Terjadwal**, **Dokumen Sumber**, dan **Tipe Operasi**.
 
     <figure><img src="../../.gitbook/assets/images-674 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 5. Setelah filter diaktifkan, daftar riwayat transfer internal barang akan otomatis diperbarui sesuai kriteria yang dipilih.
-6.  Ubah tampilan daftar menjadi **Kanban** jika diperlukan dengan mengklik ikon Kanban di samping ikon tampilan List.
+6.  Ubah tampilan daftar menjadi **Kanban** jika diperlukan dengan mengklik icon **Kanban** di samping icon tampilan **List**.
 
     <figure><img src="../../.gitbook/assets/images-675.png" alt=""><figcaption></figcaption></figure>
 
