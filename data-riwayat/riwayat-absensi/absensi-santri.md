@@ -20,14 +20,16 @@ Berikut adalah langkah-langkah untuk melihat data riwayat absensi santri pada Od
     <figure><img src="../../.gitbook/assets/images-617.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman **Absensi Santri**, akan ditampilkan daftar seluruh absensi dari setiap kelas. Setiap data absensi memiliki informasi seperti **tanggal absen, nama kelas, mata pelajaran, guru, jam pelajaran, serta status absensi.**
+3.  Pada halaman **Absensi Santri**, akan ditampilkan daftar seluruh absensi dari setiap kelas. Setiap data absensi memiliki informasi seperti **Nama Absensi, Tanggal Absen, Jam Pelajaran, Nama Kelas, Mata pelajaran, Guru, serta Status Absensi.**
 
     <figure><img src="../../.gitbook/assets/images-618.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya dengan memilih absensi pada beberapa hari terakhir atau filter kelompok seperti perkelas, mapel, guru, dan tanggal.
+4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian, misalnya dengan memilih absensi pada beberapa hari terakhir atau filter **Kelompok** berdasarkan K**elas, Mapel, Guru, dan Tanggal Absensi**.
 
     <figure><img src="../../.gitbook/assets/images-619.png" alt=""><figcaption></figcaption></figure>
+
+
 5.  Setelah filter diaktifkan, sistem akan otomatis menampilkan daftar riwayat absensi yang sesuai dengan filter tersebut.
 
     <figure><img src="../../.gitbook/assets/images-620.png" alt=""><figcaption></figcaption></figure>
@@ -39,7 +41,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat absensi santri pada Od
     <figure><img src="../../.gitbook/assets/images-621.png" alt=""><figcaption></figcaption></figure>
 
 
-8.  Pada **Tab Jurnal**, Anda dapat melihat informasi tambahan seperti tema, materi pembelajaran, RPP yang digunakan, serta pertemuan ke berapa absensi tersebut dilakukan.
+8.  Pada **Tab Jurnal**, Anda dapat melihat informasi tambahan seperti tema pelajaran, materi pembelajaran, RPP yang digunakan, serta pertemuan ke berapa absensi tersebut dilakukan.
 
     <figure><img src="../../.gitbook/assets/images-622.png" alt=""><figcaption></figcaption></figure>
 

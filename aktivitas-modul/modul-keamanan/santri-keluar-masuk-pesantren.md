@@ -4,7 +4,7 @@ icon: door-closed
 
 # Santri Keluar/Masuk Pesantren
 
-Video \[]
+{% embed url="https://youtu.be/UUf2ldSGFBU" %}
 
 ## Santri Keluar/Masuk Pesantren
 

@@ -4,7 +4,7 @@ icon: users-medical
 
 # Kesehatan Santri
 
-Video \[]
+{% embed url="https://youtu.be/WWFv9Inr4NI" %}
 
 ## Pengelolaan Kesehatan Santri
 

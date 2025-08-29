@@ -20,12 +20,12 @@ Berikut adalah langkah-langkah untuk melihat data riwayat absensi ekskul pada Od
     <figure><img src="../../.gitbook/assets/images-621 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman **Absensi Ekskul**, akan ditampilkan daftar seluruh absensi dari setiap kegiatan ekskul dalam filter kelompok yaitu pertanggal. Informasi utama yang ditampilkan meliputi: nama ekskul, guru pembina, tanggal absen, tahun ajaran, serta status absensi.
+3.  Pada halaman **Absensi Ekskul**, akan ditampilkan daftar seluruh absensi dari setiap kegiatan ekskul dalam filter kelompok yaitu pertanggal. Informasi utama yang ditampilkan meliputi: **Tanggal Absen, Nama Ekskul, Guru Pembina, Tahun Ajaran, serta Status Absensi**.
 
     <figure><img src="../../.gitbook/assets/images-622 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian. Anda dapat memfilter berdasarkan status absensi atau filter kelompok tertentu seperti nama ekskul, guru pembina, dan tahun ajaran.
+4.  Klik **toggle dropdown pencarian**, lalu gunakan fitur **Filter** untuk memudahkan pencarian. Anda dapat memfilter berdasarkan **Status Absensi** atau filter **Kelompok** berdasarkan **Nama Ekskul**, G**uru Pembina**, **Tahun Ajaran**, dan **Status Absensi**.
 
     <figure><img src="../../.gitbook/assets/images-623.png" alt=""><figcaption></figcaption></figure>
 

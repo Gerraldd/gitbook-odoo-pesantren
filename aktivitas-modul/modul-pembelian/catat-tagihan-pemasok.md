@@ -4,7 +4,7 @@ icon: file-invoice-dollar
 
 # Catat Tagihan Pemasok
 
-Video \[]
+{% embed url="https://youtu.be/4X6J9mQBNoE" %}
 
 ## Catat Tagihan Pemasok
 

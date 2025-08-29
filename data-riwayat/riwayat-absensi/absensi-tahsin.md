@@ -20,7 +20,7 @@ Berikut adalah langkah-langkah untuk melihat riwayat absensi tahsin pada Odoo Pe
     <figure><img src="../../.gitbook/assets/images-627.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman **Absensi Tahsin**, Anda akan melihat daftar seluruh data absensi dari setiap sesi halaqah. Informasi utama yang ditampilkan meliputi: nama halaqah, sesi tahsin, ustadz pembina, tanggal absen, dan status absensi.
+3.  Pada halaman **Absensi Tahsin**, Anda akan melihat daftar seluruh data absensi dari setiap sesi halaqah. Informasi utama yang ditampilkan meliputi: **Tanggal Absen**, **Nama Halaqah**, **Ustadz**, dan **Status Absensi**.
 
     <figure><img src="../../.gitbook/assets/images-628 (1).png" alt=""><figcaption></figcaption></figure>
 

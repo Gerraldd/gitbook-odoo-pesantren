@@ -4,7 +4,7 @@ icon: cart-plus
 
 # Order Pembelian Barang
 
-Video \[]
+{% embed url="https://youtu.be/hXbH_P256aM" %}
 
 ## Order Pembelian Barang
 

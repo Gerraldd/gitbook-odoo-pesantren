@@ -20,7 +20,7 @@ Berikut adalah langkah-langkah untuk melihat riwayat absensi tahfidz pada Odoo P
     <figure><img src="../../.gitbook/assets/images-624 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Pada halaman **Absensi Tahfidz**, Anda akan melihat daftar seluruh absensi dari setiap sesi halaqah. Informasi utama yang ditampilkan meliputi: nama halaqah, sesi tahfidz, guru/ustadz pembina, tanggal absen, dan status absensi.
+3.  Pada halaman **Absensi Tahfidz**, Anda akan melihat daftar seluruh absensi dari setiap sesi halaqah. Informasi utama yang ditampilkan meliputi: **Tanggal Absen**, **Sesi Tahfidz**, **Nama Halaqah**, **Ustadz**, dan **Status Absensi**.
 
     <figure><img src="../../.gitbook/assets/images-625 (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ icon: money-check-dollar
 
 # Mutasi Saldo Santri
 
-Video \[]
+{% embed url="https://youtu.be/6q2mJbfXnpk" %}
 
 ## Mutasi Saldo Santri
 

@@ -4,7 +4,7 @@ icon: arrow-trend-up
 
 # Proses Kenaikan Kelas
 
-Video
+{% embed url="https://youtu.be/68lGv1QjINo" %}
 
 ## Proses Kenaikan Kelas
 

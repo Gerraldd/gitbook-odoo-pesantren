@@ -2,9 +2,9 @@
 icon: calendar-lines-pen
 ---
 
-# Mutaba'ah Harian
+# Kelola Mutaba'ah Harian
 
-Video \[]
+{% embed url="https://youtu.be/bzDw_-QBPko" %}
 
 ## Pengelolaan Mutaba'ah Harian Santri
 
