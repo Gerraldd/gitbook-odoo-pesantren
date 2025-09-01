@@ -4,7 +4,7 @@ icon: sack-dollar
 
 # Pencatatan Donasi
 
-Video \[]
+{% embed url="https://youtu.be/byEr8AmWEP8" %}
 
 ## Pencatatan Donasi
 

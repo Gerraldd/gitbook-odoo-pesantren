@@ -168,7 +168,7 @@
   * [Monitoring Akademik](aktivitas-modul/modul-orang-tua/monitoring-akademik/README.md)
     * [Absensi Santri](aktivitas-modul/modul-orang-tua/monitoring-akademik/absensi-santri.md)
     * [Nilai Santri](aktivitas-modul/modul-orang-tua/monitoring-akademik/nilai-santri.md)
-  * [Pengajuan Izin](aktivitas-modul/modul-orang-tua/pengajuan-izin.md)
+  * [Pengajuan Izin Santri](aktivitas-modul/modul-orang-tua/pengajuan-izin-santri.md)
   * [Monitoring Kepesantrenan](aktivitas-modul/modul-orang-tua/monitoring-kepesantrenan/README.md)
     * [Tahfidz Al-Qur'an](aktivitas-modul/modul-orang-tua/monitoring-kepesantrenan/tahfidz-al-quran.md)
     * [Tahsin Al-Qur'an](aktivitas-modul/modul-orang-tua/monitoring-kepesantrenan/tahsin-al-quran.md)

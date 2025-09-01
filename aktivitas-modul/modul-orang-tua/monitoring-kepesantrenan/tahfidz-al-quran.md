@@ -4,7 +4,7 @@ icon: book-quran
 
 # Tahfidz Al-Qur'an
 
-Video \[]
+{% embed url="https://youtu.be/OLP6tX5QJb4" %}
 
 ## Monitoring Tahfidz Al-Qur'an Santri
 

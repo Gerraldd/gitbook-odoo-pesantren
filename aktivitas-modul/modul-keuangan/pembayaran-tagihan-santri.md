@@ -4,7 +4,7 @@ icon: money-check-dollar-pen
 
 # Pembayaran Tagihan Santri
 
-Video \[]
+{% embed url="https://youtu.be/2Tvof20LGfs" %}
 
 ## Pembayaran Tagihan Santri
 

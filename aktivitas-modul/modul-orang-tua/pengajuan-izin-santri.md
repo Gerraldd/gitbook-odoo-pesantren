@@ -2,9 +2,9 @@
 icon: memo-circle-check
 ---
 
-# Pengajuan Izin
+# Pengajuan Izin Santri
 
-Video \[]
+{% embed url="https://youtu.be/UlA3xrNQceg" %}
 
 ## Pengajuan Izin
 
@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melakukan pengajuan izin santri pada Odoo Pesantren sebagai **orang tua**.
 
 1. Login menggunakan akun orang tua. Jika Anda belum memahami cara login sebagai orang tua, silakan lihat panduan [**Login Orang Tua** di sini](../../setup-and-konfigurasi/panduan-login/login-orang-tua.md).
-2.  Buka modul **Orang Tua**, lalu klik menu **Aktivitas** kemudian pilih submenu **Ajukan Izin**.
+2.  Buka modul **Orang Tua**, lalu klik menu **Kesantrian** kemudian pilih submenu **Ajukan Izin**.
 
     <figure><img src="../../.gitbook/assets/images-566.png" alt=""><figcaption></figcaption></figure>
 

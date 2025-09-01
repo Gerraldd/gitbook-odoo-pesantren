@@ -4,7 +4,7 @@ icon: timer
 
 # Limit Saldo Masal
 
-Video \[]
+{% embed url="https://youtu.be/B7TtlsFUyO0" %}
 
 ## Limit Saldo Masal Santri
 

@@ -4,7 +4,7 @@ icon: book
 
 # Tahsin Al-Qur'an
 
-Video \[]
+{% embed url="https://youtu.be/yRUyi9hAyiY" %}
 
 ## Monitoring Tahsin Al-Qur'an Santri
 

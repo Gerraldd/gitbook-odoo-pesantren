@@ -4,7 +4,7 @@ icon: money-check-dollar
 
 # Uang Saku
 
-Video \[]
+{% embed url="https://youtu.be/AG7fipwcWjU" %}
 
 ## Uang Saku Santri
 
