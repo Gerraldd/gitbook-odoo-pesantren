@@ -4,11 +4,11 @@ icon: cash-register
 
 # Simulasi Penjualan via Kasir
 
-Video \[]
+{% embed url="https://youtu.be/0sdh4OtJZ20" %}
 
-## Simulasi Penjualan
+## Simulasi Penjualan via Kasir
 
-**Simulasi Penjualan** via kasir digunakan untuk melakukan transaksi penjualan produk secara langsung menggunakan aplikasi **POS (Point of Sale)** pada Odoo Pesantren. Fitur ini mensimulasikan kondisi nyata seperti penjualan di kantin atau koperasi santri, dengan metode pembayaran yang sudah terintegrasi dengan **Dompet Santri** atau metode pembayaran lain yang telah dikonfigurasi.
+**Simulasi Penjualan** **via Kasir** digunakan untuk melakukan transaksi penjualan produk secara langsung menggunakan aplikasi **POS (Point of Sale)** pada Odoo Pesantren. Fitur ini mensimulasikan kondisi nyata seperti penjualan di kantin atau koperasi santri, dengan metode pembayaran yang sudah terintegrasi dengan **Dompet Santri** atau metode pembayaran lain yang telah dikonfigurasi.
 
 ### Melakukan Simulasi Penjualan via Kasir
 

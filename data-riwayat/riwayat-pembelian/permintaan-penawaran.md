@@ -39,9 +39,9 @@ Berikut adalah langkah-langkah untuk melihat data riwayat permintaan penawaran p
 7. Untuk melihat detail suatu **permintaan penawaran**, klik data permintaan penawaran yang diinginkan dari daftar.
 8.  Sistem akan menampilkan formulir permintaan penawaran yang mencakup, **Informasi Penawaran** yang berisi detail penawaran termasuk **pemasok, deadline order, dan lainnya**. Pada Tab **Produk** berisi daftar produk yang dibeli dari pemasok.
 
-    <figure><img src="../../.gitbook/assets/images-822.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-821 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 9.  Kemudian di Tab **Informasi Lainnya** berisi detail lain seperti pembeli dan informasi terkait lainnya.
 
-    <figure><img src="../../.gitbook/assets/images-823.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/images-822 (1).png" alt=""><figcaption></figcaption></figure>

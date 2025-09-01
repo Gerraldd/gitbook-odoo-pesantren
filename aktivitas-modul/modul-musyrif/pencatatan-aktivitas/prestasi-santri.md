@@ -4,7 +4,7 @@ icon: medal
 
 # Prestasi Santri
 
-{% embed url="https://youtu.be/vU2KwkBFQjk" %}
+{% embed url="https://youtu.be/Gr9H5Pmue1Y" %}
 
 ## Prestasi Santri
 

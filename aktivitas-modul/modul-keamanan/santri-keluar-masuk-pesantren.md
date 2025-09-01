@@ -44,10 +44,6 @@ Berikut adalah langkah-langkah untuk melakukan pencatatan santri keluar dari pes
     <figure><img src="../../.gitbook/assets/images-413 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-
-    *   **Santri Masuk, n**otifikasi bahwa santri berhasil dicatat masuk ke pesantren.
-
-
 6. Riwayat keluar santri dapat dilihat kembali pada daftar aktivitas keluar/masuk.
 
 ### Mencatat Santri Masuk ke Pesantren

@@ -52,6 +52,6 @@ Berikut adalah langkah-langkah untuk melihat riwayat tagihan santri pada Odoo Pe
     <figure><img src="../../.gitbook/assets/images-653.png" alt=""><figcaption></figcaption></figure>
 
 
-11. Pada **Tab Info Lainnya**, Anda dapat menemukan informasi tambahan seperti nomor faktur, referensi akuntansi, informasi pemasaran, serta pengaturan pajak elektronik (e-Faktur).
+11. Pada **Tab Info Lainnya**, Anda dapat menemukan informasi tambahan seperti nomor faktur, referensi akuntansi, serta pengaturan pajak elektronik (e-Faktur).
 
     <figure><img src="../../.gitbook/assets/images-654.png" alt=""><figcaption></figcaption></figure>
