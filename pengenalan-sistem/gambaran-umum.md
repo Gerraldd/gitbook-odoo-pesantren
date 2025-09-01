@@ -4,7 +4,7 @@ icon: telescope
 
 # Gambaran Umum
 
-**Aplikasi Manajemen Santri DQI (Darul Qur'an Istiqomah)** adalah solusi digital lengkap untuk pesantren yang memudahkan pengelolaan data santri, guru, dan kegiatan pendidikan. Dengan fitur modul utama seperti **Modul Penerimaan Santri Baru (PSB), Kesantrian**, **Musyrif**, **Keamanan**, **Guru**, **Orang Tua**, **Sekolah** dan **POS (Point of Sale)**, aplikasi ini mendukung operasional harian mulai dari pencatatan akademik, monitoring hafalan Al-Qur’an, hingga pendaftaran santri baru secara online. Dirancang untuk efisiensi, transparansi, dan kemudahan akses, aplikasi ini menjadi mitra terbaik dalam membangun generasi santri yang unggul dan terpantau dengan baik.
+**Aplikasi Odoo Manajemen Pesantren** adalah solusi digital lengkap untuk pesantren yang memudahkan pengelolaan data santri, guru, dan kegiatan pendidikan yang. Dengan fitur modul utama seperti **Modul Penerimaan Santri Baru (PSB), Kesantrian**, **Musyrif**, **Keamanan**, **Guru**, **Orang Tua**, **Sekolah** dan **POS (Point of Sale)**, aplikasi ini mendukung operasional harian mulai dari pencatatan akademik, monitoring hafalan Al-Qur’an, hingga pendaftaran santri baru secara online. Dirancang untuk efisiensi, transparansi, dan kemudahan akses, aplikasi ini menjadi mitra terbaik dalam membangun generasi santri yang unggul dan terpantau dengan baik.
 
 ## Modul dan fitur-fitur Odoo Pesantren
 
