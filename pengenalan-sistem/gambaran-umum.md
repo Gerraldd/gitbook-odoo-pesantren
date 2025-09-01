@@ -41,10 +41,10 @@ Modul-modul yang terdapat pada Odoo Pesantren adalah PSB, Kesantrian, Musyrif, G
 
 Modul **Santri** adalah modul yang digunakan untuk mengelola data dan aktivitas keuangan santri secara terpusat dalam sistem Odoo Pesantren. Modul ini memudahkan pengelolaan identitas santri, pendaftaran kartu santri, serta pengaturan akun dan transaksi yang berkaitan dengan saldo santri. Fitur yang tersedia pada modul ini adalah:
 
-* **Menu Dashboard** untuk menampilkan ringkasan saldo dan transaksi yang dilakukan oleh santri.
-* **Menu Santri** untuk mengelola data santri secara keseluruhan.
-* **Menu Pendaftaran** berupa tampilan popup untuk proses pendaftaran kartu santri.
-* **Menu Akun Santri** berisi fitur keuangan seperti pencairan saldo dan pengaturan akun seperti penonaktifan, pemblokiran, pengaktifan, dan pembukaan blokir akun santri.
+1. **Menu Dashboard** untuk menampilkan ringkasan saldo dan transaksi yang dilakukan oleh santri.
+2. **Menu Santri** untuk mengelola data santri secara keseluruhan.
+3. **Menu Pendaftaran** berupa tampilan popup untuk proses pendaftaran kartu santri.
+4. **Menu Akun Santri** berisi fitur keuangan seperti pencairan saldo dan pengaturan akun seperti penonaktifan, pemblokiran, pengaktifan, dan pembukaan blokir akun santri.
 {% endstep %}
 
 {% step %}
