@@ -41,6 +41,6 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pembuangan barang pada
 
 
 7. Untuk melihat detail suatu pembuangan barang, klik salah satu entri pada daftar.
-8.  Halaman detail pembuangan barang menampilkan informasi yang mencakup **data pembuangan barang**, **alasan pembuangan**, **lokasi sumber, lokasi barang rusak**, dan **informasi tambahan lain yang terkait dengan proses pembuangan.**
+8.  Halaman detail pembuangan barang menampilkan informasi yang mencakup **barang**, **jumlah barang**, **alasan pembuangan**, **lokasi sumber, lokasi barang rusak**, dan **informasi tambahan lain yang terkait dengan proses pembuangan**.
 
     <figure><img src="../../.gitbook/assets/images-681 (1) (1).png" alt=""><figcaption></figcaption></figure>

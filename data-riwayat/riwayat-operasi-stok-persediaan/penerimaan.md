@@ -42,7 +42,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat penerimaan barang pada
     <figure><img src="../../.gitbook/assets/images-668.png" alt=""><figcaption></figcaption></figure>
 
 
-9.  Pada **Tab Informasi Tambahan** akan menampilkan informasi seperti penanggung jawab operasional, tipe operasi, dan perusahaan terkait.
+9.  Pada **Tab Informasi Tambahan** akan menampilkan informasi seperti penanggung jawab operasi atau informasi lainnya.
 
     <figure><img src="../../.gitbook/assets/images-669.png" alt=""><figcaption></figcaption></figure>
 

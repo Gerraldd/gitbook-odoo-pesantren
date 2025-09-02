@@ -42,7 +42,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pengiriman barang pada
     <figure><img src="../../.gitbook/assets/images-672.png" alt=""><figcaption></figcaption></figure>
 
 
-9.  Pada **Tab Informasi Tambahan** akan **b**erisi informasi tambahan seperti penanggung jawab operasi, tipe operasi, dan perusahaan yang terlibat.
+9.  Pada **Tab Informasi Tambahan** akan **b**erisi informasi tambahan seperti penanggung jawab operasi atau informasi lainnya.
 
     <figure><img src="../../.gitbook/assets/images-673.png" alt=""><figcaption></figcaption></figure>
 

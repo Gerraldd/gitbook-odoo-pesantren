@@ -10,7 +10,7 @@ Video \[]
 
 **Limit Saldo Santri** digunakan oleh orang tua untuk mengatur batas penggunaan saldo santri dalam jangka waktu tertentu, misalnya harian, mingguan, atau bulanan. Dengan fitur ini, orang tua dapat mengontrol pengeluaran anaknya agar sesuai dengan kebutuhan yang sudah ditetapkan.
 
-### Melimit Pengguanaan Saldo Santri oleh Orang Tua
+### Melimit Penggunaan Saldo Santri oleh Orang Tua
 
 Berikut adalah langkah-langkah untuk melimit penggunaan saldo santri pada Odoo Pesantren sebagai **orang tua**.
 

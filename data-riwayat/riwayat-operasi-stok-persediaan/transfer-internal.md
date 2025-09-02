@@ -42,7 +42,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat transfer internal bara
     <figure><img src="../../.gitbook/assets/images-676 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-9.  Pada **Tab Informasi Tambahan** akan berisi detail tambahan seperti penanggung jawab operasi, tipe operasi, dan perusahaan yang terlibat.
+9.  Pada **Tab Informasi Tambahan** akan berisi detail tambahan seperti penanggung jawab operasi atau informasi lainnya.
 
     <figure><img src="../../.gitbook/assets/images-677 (1).png" alt=""><figcaption></figcaption></figure>
 
