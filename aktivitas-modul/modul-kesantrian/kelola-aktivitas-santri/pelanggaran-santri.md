@@ -4,7 +4,7 @@ icon: triangle-exclamation
 
 # Pelanggaran Santri
 
-{% embed url="https://youtu.be/ODVAq_1-vbg" %}
+{% embed url="https://youtu.be/O1ijC6uJZys" %}
 
 ## Pengelolaan Pelanggaran Santri
 

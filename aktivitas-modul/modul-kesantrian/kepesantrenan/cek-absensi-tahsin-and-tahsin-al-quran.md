@@ -2,9 +2,9 @@
 icon: clipboard-list-check
 ---
 
-# Absensi & Tahsin Al-Quran
+# Cek Absensi Tahsin & Tahsin Al-Quran
 
-{% embed url="https://youtu.be/zXDjM9ekr8U" %}
+{% embed url="https://youtu.be/mLl7wJWEeQ4" %}
 
 ## Absensi & Tahsin Al-Qur'an
 
@@ -52,7 +52,7 @@ Berikut adalah langkah-langkah untuk melihat daftar tahsin al-qur'an santri pada
 5.  Anda akan diarahkan ke tampilan form tahsin yang memuat informasi lengkap, seperti:
 
     * **Identitas Santri** (berisi informasi detail mengenai santri yang melakukan tahsin al-qur'an).
-    * **Rincian Pelaksanaan Tahfidz** (menampilkan informasi pelaksanaan tahsin).
+    * **Rincian Pelaksanaan Tahsin** (menampilkan informasi pelaksanaan tahsin).
     * **Penilaian Tahsin** (berisi informasi penilaian tahsin seperti nilai-nilai fashohah, tajwid dan lainnya).
 
     <figure><img src="../../../.gitbook/assets/images-636.png" alt=""><figcaption></figcaption></figure>

@@ -2,9 +2,9 @@
 icon: clipboard-list-check
 ---
 
-# Absensi & Tahfidz Al-Qur'an
+# Cek Absensi Tahfidz & Tahfidz Al-Qur'an
 
-{% embed url="https://youtu.be/xKjbjrBjk7A" %}
+{% embed url="https://youtu.be/bU5dsXPs7dg" %}
 
 ## Absensi & Tahfidz Al-Qur'an
 
