@@ -4,7 +4,7 @@ icon: pallet-box
 
 # Operasi Internal
 
-{% embed url="https://youtu.be/7puXRqkbxPY" %}
+{% embed url="https://youtu.be/5qVx5Yt0ZpE" %}
 
 ## Operasi Internal
 

@@ -4,7 +4,7 @@ icon: truck
 
 # Pengiriman Barang
 
-{% embed url="https://youtu.be/1qmO43CuHok" %}
+{% embed url="https://youtu.be/Y4U7d3QpPnI" %}
 
 ## Pengiriman Barang
 

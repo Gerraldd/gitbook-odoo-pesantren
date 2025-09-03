@@ -4,7 +4,7 @@ icon: screen-users
 
 # Absensi Santri
 
-Video \[]
+{% embed url="https://youtu.be/NvjmL74-yP0" %}
 
 ## Riwayat Absensi Santri
 

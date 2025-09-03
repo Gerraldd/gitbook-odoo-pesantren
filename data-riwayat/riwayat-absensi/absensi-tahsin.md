@@ -4,7 +4,7 @@ icon: book
 
 # Absensi Tahsin
 
-Video \[]
+{% embed url="https://youtu.be/9v-Y05_L5SE" %}
 
 ## Riwayat Absensi Tahsin
 

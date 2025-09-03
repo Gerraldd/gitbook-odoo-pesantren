@@ -4,7 +4,7 @@ icon: volleyball
 
 # Absensi Ekskul
 
-Video \[]
+{% embed url="https://youtu.be/h-VkfFLsltY" %}
 
 ## Riwayat Absensi Ekskul
 
