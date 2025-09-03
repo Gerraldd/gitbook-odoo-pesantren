@@ -27,7 +27,7 @@ Berikut adalah langkah-langkah untuk melakukan pencatatan santri keluar dari pes
 
 4.  Pada bagian atas form, akan ditampilkan informasi berupa **peringatan (warning)**. Santri yang **tidak memiliki persetujuan izin dari musyrif** tidak dapat diproses keluar dan santri yang **sudah memiliki izin dari musyrif** dapat diproses keluar.
 
-    *   **Santri Keluar** dari Pesantren, Pilih opsi **Keluar** melalui tombol radio yang tersedia untuk memproses santri keluar dari pesantren. Data santri serta detail perizinan akan otomatis terisi sesuai informasi santri tersebut.&#x20;
+    *   Pada field **Santri Keluar/Masuk**, pilih opsi **Keluar** melalui tombol radio yang tersedia untuk memproses santri keluar dari pesantren. Data santri serta detail perizinan akan otomatis terisi sesuai informasi santri tersebut.&#x20;
 
         <figure><img src="../../.gitbook/assets/images-412.png" alt=""><figcaption></figcaption></figure>
 
@@ -53,7 +53,7 @@ Berikut adalah langkah-langkah untuk melakukan pencatatan santri masuk dari pesa
 1. Pada tampilan halaman pop up form **Santri Keluar/Masuk,** petugas keamanan yang sedang login memilih santri yang akan dicatat masuk pesantren.
 2.  Pada bagian atas form, akan ditampilkan informasi berupa **peringatan (warning)**. Santri yang **tidak memiliki persetujuan izin** tidak dapat diproses masuk dan santri yang **sudah memiliki izin** dapat diproses masuk.
 
-    *   **Santri Masuk** ke Pesantren, Pilih opsi **Masuk** melalui tombol radio yang tersedia untuk memproses santri masuk ke pesantren. Data santri serta detail perizinan akan otomatis terisi sesuai informasi santri tersebut.
+    *   Pada field **Santri Keluar/Masuk**, pilih opsi **Masuk** melalui tombol radio yang tersedia untuk memproses santri masuk ke pesantren. Data santri serta detail perizinan akan otomatis terisi sesuai informasi santri tersebut.
 
         <figure><img src="../../.gitbook/assets/images-414.png" alt=""><figcaption></figcaption></figure>
 

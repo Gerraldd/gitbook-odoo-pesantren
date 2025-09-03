@@ -4,7 +4,7 @@ icon: screen-users
 
 # Cek Absensi Santri
 
-{% embed url="https://youtu.be/Y_redGaCCcg" %}
+{% embed url="https://youtu.be/iM7QNscA1dc" %}
 
 ## Absensi Santri
 

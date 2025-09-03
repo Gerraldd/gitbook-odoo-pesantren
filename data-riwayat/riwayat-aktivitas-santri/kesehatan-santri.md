@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melihat riwayat kesehatan santri pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Kesantrian**, lalu klik menu **Aktivitas** kemudian submenu **Kesehatan Santri**.
+2.  Buka modul **Kesantrian**, lalu klik menu **Aktivitas** kemudian pilih submenu **Kesehatan Santri**.
 
     <figure><img src="../../.gitbook/assets/images-636 (2).png" alt=""><figcaption></figcaption></figure>
 

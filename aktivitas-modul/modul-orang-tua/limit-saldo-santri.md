@@ -4,7 +4,7 @@ icon: clock
 
 # Limit Saldo Santri
 
-Video \[]
+{% embed url="https://youtu.be/dSKGK0LZFvk" %}
 
 ## Limit Saldo Santri
 

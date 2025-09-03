@@ -46,7 +46,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat pesanan POS pada Odoo 
     <figure><img src="../../.gitbook/assets/images-685 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-9.  Pada **Tab Pembayaran**, Anda dapat melihat rincian pembayaran seperti metode pembayaran, tanggal transaksi, jumlah yang dibayar, dan informasi tambahan terkait.
+9.  Pada **Tab Pembayaran**, Anda dapat melihat rincian pembayaran seperti tanggal transaksi, metode pembayaran, jumlah yang dibayar, dan informasi tambahan terkait pembayaran.
 
     <figure><img src="../../.gitbook/assets/images-686 (1).png" alt=""><figcaption></figcaption></figure>
 

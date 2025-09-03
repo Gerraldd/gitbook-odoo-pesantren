@@ -47,7 +47,6 @@ Berikut adalah langkah-langkah untuk melihat riwayat sesi POS pada Odoo Pesantre
     * **POS/Toko** (berisi lokasi atau titik penjualan yang digunakan).
     * **Entri Jurnal** (berisi pencatatan transaksi keuangan yang terjadi selama sesi).
     * **Tanggal Pembukaan** dan **Penutupan** (berisi waktu mulai dan selesai sesi).
-    * **Saldo Awal dan Saldo Akhir** (berisi data keuangan awal dan akhir sesi).
-    * **Saldo Penutupan** (perhitungan akhir setelah proses tutup sesi dilakukan).
+    * **Saldo Awal** dan **Saldo Akhir** (berisi data keuangan awal dan akhir sesi).
 
     <figure><img src="../../.gitbook/assets/images-689 (1).png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@ icon: door-open
 
 # Riwayat Pendaftaran
 
-Video \[]
+{% embed url="https://youtu.be/j2m-C478MWE" %}
 
 ## Riwayat Pendaftaran
 
