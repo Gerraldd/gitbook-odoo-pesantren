@@ -4,7 +4,7 @@ icon: clipboard-list-check
 
 # Perizinan Santri
 
-Video \[]
+{% embed url="https://youtu.be/9iW0aZlDTYs" %}
 
 ## Riwayat Perizinan Santri
 

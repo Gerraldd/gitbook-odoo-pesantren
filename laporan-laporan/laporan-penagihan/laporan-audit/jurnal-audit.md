@@ -15,7 +15,7 @@ Laporan **Jurnal Audit (Journals Audit)** pada Odoo Pesantren digunakan untuk me
 Berikut adalah langkah-langkah untuk mencetak laporan jurnal audit pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login se bagai admin, silakan lihat panduan [**Login Admin** di sini](../../../panduan-login/login-admin.md).
-2.  Buka modul **Penagihan**, lalu klik menu **Laporan**, kemudian pilih submenu **Jurnal Audit**.
+2.  Buka modul **Penagihan**, lalu klik menu **Laporan** kemudian pilih submenu **Jurnal Audit**.
 
     <figure><img src="../../../.gitbook/assets/images-817.png" alt=""><figcaption></figcaption></figure>
 
@@ -29,6 +29,6 @@ Berikut adalah langkah-langkah untuk mencetak laporan jurnal audit pada Odoo Pes
 5.  Sistem akan memproses dan menghasilkan laporan jurnal audit dalam format **PDF**.
 
     <figure><img src="../../../.gitbook/assets/images-819 (2).png" alt=""><figcaption></figcaption></figure>
-6.  Buka file **PDF laporan jurnal audit** untuk meninjau isi laporan.
+6.  Buka file PDF laporan jurnal audit untuk meninjau isi laporan.
 
     <figure><img src="../../../.gitbook/assets/images-820 (1).png" alt=""><figcaption></figcaption></figure>

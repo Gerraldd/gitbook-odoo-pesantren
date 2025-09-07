@@ -8,14 +8,14 @@ Video \[]
 
 ## Laporan Lokasi Gudang
 
-**Laporan Lokasi Gudang** digunakan untuk memantau posisi penyimpanan setiap produk di dalam sistem, termasuk informasi riwayat pergerakan stok serta aturan pengisian ulang (replenishment). Dengan laporan ini, pengguna dapat mengetahui secara detail lokasi penyimpanan barang, riwayat keluar-masuk barang, dan pengaturan stok minimum untuk memicu pemesanan ulang secara otomatis.
+Laporan pada **Lokasi Gudang** digunakan untuk memantau posisi penyimpanan setiap produk di dalam sistem, termasuk informasi riwayat pergerakan stok serta aturan pengisian ulang (replenishment). Dengan laporan ini, pengguna dapat mengetahui secara detail lokasi penyimpanan barang, riwayat keluar-masuk barang, dan pengaturan stok minimum untuk memicu pemesanan ulang secara otomatis.
 
 ### Melihat Laporan Lokasi Gudang
 
 Berikut adalah langkah-langkah untuk melihat laporan lokasi gudang pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Stok Persediaan**, lalu pada menu **Laporan**, kemudian pilih submenu **Lokasi**.
+2.  Buka modul **Stok Persediaan**, lalu klik menu **Laporan** kemudian pilih submenu **Lokasi**.
 
     <figure><img src="../../.gitbook/assets/images-720.png" alt=""><figcaption></figcaption></figure>
 

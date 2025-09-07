@@ -4,7 +4,7 @@ icon: users-medical
 
 # Kesehatan Santri
 
-Video \[]
+{% embed url="https://youtu.be/F9AqYS0BCSc" %}
 
 ## Riwayat Kesehatan Santri
 

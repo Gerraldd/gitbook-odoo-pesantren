@@ -8,14 +8,14 @@ Video \[]
 
 ## Analisisi Pergerakan Barang
 
-**Analisis Pergerakan Barang** pada Odoo Pesantren digunakan untuk memantau dan mengevaluasi pergerakan stok secara menyeluruh, baik dari sisi jumlah barang maupun nilai transaksinya. Laporan ini menampilkan ringkasan data berdasarkan periode tertentu dan jenis operasi, seperti penerimaan dari pemasok, pengiriman ke pelanggan, hingga perpindahan internal antar lokasi.
+Laporan pada **Analisis Pergerakan Barang** pada Odoo Pesantren digunakan untuk memantau dan mengevaluasi pergerakan stok secara menyeluruh, baik dari sisi jumlah barang maupun nilai transaksinya. Laporan ini menampilkan ringkasan data berdasarkan periode tertentu dan jenis operasi, seperti penerimaan dari pemasok, pengiriman ke pelanggan, hingga perpindahan internal antar lokasi.
 
 ### Melihat Analisis Pergerakan Barang
 
 Berikut adalah langkah-langkah untuk melihat analisis pergerakan barang pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Stok Persediaan**, lalu klik menu **Laporan**, kemudian pilih submenu **Analisis Pergerakan**.
+2.  Buka modul **Stok Persediaan**, lalu klik menu **Laporan** kemudian pilih submenu **Analisis Pergerakan**.
 
     <figure><img src="../../.gitbook/assets/images-734 (1).png" alt=""><figcaption></figcaption></figure>
 

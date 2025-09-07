@@ -8,7 +8,7 @@ Video \[]
 
 ## Buku Harian
 
-**Buku Harian** adalah laporan yang berfungsi untuk menampilkan seluruh transaksi akuntansi yang dicatat ke dalam jurnal harian. Laporan ini membantu memastikan semua transaksi keuangan tercatat secara rinci, baik transaksi kas, bank, maupun penyesuaian lainnya, sesuai periode yang dipilih.
+Laporan **Buku Harian** adalah laporan yang berfungsi untuk menampilkan seluruh transaksi akuntansi yang dicatat ke dalam jurnal harian. Laporan ini membantu memastikan semua transaksi keuangan tercatat secara rinci, baik transaksi kas, bank, maupun penyesuaian lainnya, sesuai periode yang dipilih.
 
 ### Mencetak Laporan Buku Harian
 
@@ -29,7 +29,7 @@ Berikut adalah langkah-langkah untuk mencetak laporan buku harian pada Odoo Pesa
     <figure><img src="../../../.gitbook/assets/images-772 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4. Setelah konfigurasi selesai, klik tombol **Print** untuk mulai mencetak laporan Buku Harian.
+4. Setelah konfigurasi selesai, klik tombol **"Print"** untuk mulai mencetak laporan Buku Harian.
 5.  Sistem akan menghasilkan laporan Buku Harian dalam format **PDF**.
 
     <figure><img src="../../../.gitbook/assets/images-773 (1).png" alt=""><figcaption></figcaption></figure>

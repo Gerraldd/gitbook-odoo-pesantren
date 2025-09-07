@@ -8,7 +8,7 @@ Video \[]
 
 ## Sejarah Pergerakan
 
-**Sejarah Pergerakan** pada Odoo Pesantren digunakan untuk memantau seluruh riwayat pergerakan stok barang, mulai dari penerimaan dari pemasok, pengiriman ke pelanggan, hingga perpindahan antar lokasi internal. Laporan ini membantu pengguna memahami arus keluar-masuk barang secara detail dan akurat.
+Laporan pada **Sejarah Pergerakan** pada Odoo Pesantren digunakan untuk memantau seluruh riwayat pergerakan stok barang, mulai dari penerimaan dari pemasok, pengiriman ke pelanggan, hingga perpindahan antar lokasi internal. Laporan ini membantu pengguna memahami arus keluar-masuk barang secara detail dan akurat.
 
 ### Melihat Sejarah Pergerakan
 
@@ -25,12 +25,12 @@ Berikut adalah langkah-langkah untuk melihat sejarah pergerakan stok barang pada
     <figure><img src="../../.gitbook/assets/images-730.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Gunakan **toggle pencarian** untuk memfilter data berdasarkan kategori seperti Barang Masuk, Barang Keluar, atau Operasi Internal, serta filter kelompok seperti tanggal transaksi, produk, status pergerakan, dan lainnya.
+4.  Gunakan **toggle pencarian** untuk memfilter data berdasarkan kategori seperti **Barang Masuk**, **Barang Keluar**, atau **Operasi Internal**, dan lainnya serta filter **Kelompok** seperti **Produk**, **Status Pergerakan**, **Tanggal Transaksi**, dan lainnya.
 
     <figure><img src="../../.gitbook/assets/images-731.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Untuk mengubah tampilan, klik ikon **Kanban** di sebelah ikon daftar agar data pergerakan stok ditampilkan dalam bentuk kartu visual.
+5.  Untuk mengubah tampilan, klik icon **Kanban** di sebelah icon daftar agar data pergerakan stok ditampilkan dalam bentuk kartu visual.
 
     <figure><img src="../../.gitbook/assets/images-732.png" alt=""><figcaption></figcaption></figure>
 

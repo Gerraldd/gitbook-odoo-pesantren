@@ -2,17 +2,17 @@
 icon: family
 ---
 
-# Cek Informasi Data Orang Tua
+# Cek Informasi Orang Tua
 
-Video \[]
+{% embed url="https://youtu.be/SCRn-JyyZbE" %}
 
-## Cek Informasi Data Orang Tua
+## Cek Informasi Orang Tua
 
 Fitur **Cek Informasi Orang Tua** digunakan oleh **Orang Tua** untuk melihat dan memastikan data pribadi mereka yang terdaftar di sistem Odoo Pesantren. Data ini biasanya berisi informasi identitas dasar, alamat, pekerjaan, serta keterhubungan dengan santri. Dengan fitur ini, orang tua dapat memantau apakah data mereka sudah benar sesuai pendaftaran.
 
-### Mengecek Informasi  Data Orang Tua oleh Orang Tua
+### Mengecek Informasi Orang Tua oleh Orang Tua
 
-Berikut adalah langkah-langkah untuk mengecek informasi data orang tua pada Odoo Pesantren sebagai **orang tua**.
+Berikut adalah langkah-langkah untuk mengecek informasi orang tua pada Odoo Pesantren sebagai **orang tua**.
 
 1. Login menggunakan akun orang tua. Jika Anda belum memahami cara login sebagai orang tua, silakan lihat panduan [**Login Orang Tua** di sini](../../../setup-and-konfigurasi/panduan-login/login-orang-tua.md).
 2.  Buka modul **Orang Tua**, lalu klik menu **Informasi** dan pilih submenu **Orang Tua**.

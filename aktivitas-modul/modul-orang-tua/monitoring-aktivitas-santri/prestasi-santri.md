@@ -4,7 +4,7 @@ icon: medal
 
 # Prestasi Santri
 
-Video \[]
+{% embed url="https://youtu.be/ViKG3MIEdUg" %}
 
 ## Monitoring Prestasi Santri
 

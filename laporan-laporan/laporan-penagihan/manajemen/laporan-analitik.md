@@ -25,13 +25,13 @@ Berikut adalah langkah-langkah untuk melihat laporan analitik pada Odoo Pesantre
     <figure><img src="../../../.gitbook/assets/images-792.png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Gunakan **toggle pencarian** untuk melakukan penyaringan (filter) data, misalnya: **Tanggal/Bulan**, atau **Kelompok** berdasarkan **Tanggal, Proyek, Akun Finansial, Kategori, Produk, dan lainnya**.
+4.  Gunakan **toggle pencarian** untuk melakukan penyaringan (filter) data, misalnya: **Tanggal Analitik**, serta filter **Kelompok** berdasarkan **Tanggal Analitik**, **Proyek**, **Akun Finansial**, **Kategori**, **Produk**, dan **Rekanan**.
 
     <figure><img src="../../../.gitbook/assets/images-793.png" alt=""><figcaption></figcaption></figure>
 
 
 5. Setelah filter diterapkan, daftar data akan diperbarui secara otomatis sesuai kriteria yang dipilih.
 6. Klik salah satu baris pada daftar laporan analitik untuk membuka halaman detail laporan tersebut.
-7.  Halaman laporan analitik akan menampilkan informasi lengkap, termasuk **Item Analitik, Jumlah, Rekanan, Kuantitas, Produk, dan Informasi Lainnya**.
+7.  Halaman laporan analitik akan menampilkan informasi lengkap, termasuk **Item Analitik**, **Jumlah**, **Rekanan**, **Kuantitas**, **Produk**, dan informasi lainnya.
 
     <figure><img src="../../../.gitbook/assets/images-794.png" alt=""><figcaption></figcaption></figure>

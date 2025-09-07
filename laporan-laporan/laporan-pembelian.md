@@ -8,7 +8,7 @@ Video \[]
 
 ## Laporan Pembelian
 
-**Laporan Pembelian** digunakan untuk memantau dan menganalisis data transaksi pembelian dari pemasok/vendor. Laporan ini menyajikan data dalam bentuk grafik dan tabel sehingga memudahkan pengguna dalam melakukan evaluasi pembelian barang.
+**Laporan Pembelian** digunakan untuk memantau dan menganalisis data transaksi pembelian dari pemasok. Laporan ini menyajikan data dalam bentuk grafik dan tabel sehingga memudahkan pengguna dalam melakukan evaluasi pembelian barang.
 
 ### Melihat Laporan Pembelian
 
@@ -30,19 +30,19 @@ Berikut adalah langkah-langkah untuk melihat laporan pembelian pada Odoo Pesantr
     <figure><img src="../.gitbook/assets/images-700.png" alt=""><figcaption></figcaption></figure>
 
 
-5. Untuk mengubah jenis grafik:
-   *   Klik ikon **grafik batang (bar chart)** jika ingin mengganti tampilan grafik garis menjadi grafik batang. Urutan data juga dapat diubah menjadi ascending atau descending.
+5. Mengubah jenis grafik seperti grafik batang ataupun grafik pie, yaitu:
+   *   Untuk mengubah tampilan dari grafik garis menjadi grafik batang dengan klik icon **grafik batang (bar chart)**. Urutan data juga dapat diubah menjadi Ascending atau Descending.
 
        <figure><img src="../.gitbook/assets/images-701.png" alt=""><figcaption></figcaption></figure>
 
 
-   *   Klik ikon **grafik pie (pie chart)** jika ingin mengganti tampilan grafik batang menjadi grafik pie.
+   *   Untuk mengubah tampilan dari grafik batang menjadi grafik pie dengan klik icon **grafik pie (pie chart)**.
 
        <figure><img src="../.gitbook/assets/images-702.png" alt=""><figcaption></figcaption></figure>
 
 
 6. Klik pada elemen grafik (batang, garis, atau pie) untuk melihat detail informasi pembelian yang diwakili oleh elemen tersebut.&#x20;
-7.  Halaman ini akan menampilkan daftar seluruh data pembelian dalam bentuk tabel. Setiap data memiliki kolom **Tanggal Order, Nomor Referensi Order, Pemasok, Produk, Kategori Produk, Pembeli, Total Harga**, dan **Status Pembelian**.
+7.  Halaman ini akan menampilkan daftar seluruh data pembelian dalam bentuk tabel. Setiap entri menampilkan informasi penting meliputi: **Tanggal Order, Nomor Referensi Order, Pemasok, Produk, Kategori Produk, Pembeli, Total Harga**, dan **Status Pembelian**.
 
     <figure><img src="../.gitbook/assets/images-703.png" alt=""><figcaption></figcaption></figure>
 

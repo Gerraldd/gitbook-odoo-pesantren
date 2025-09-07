@@ -4,7 +4,7 @@ icon: clipboard-list-check
 
 # Nilai Santri
 
-{% embed url="https://youtu.be/VbSbWx-xdjo" %}
+{% embed url="https://youtu.be/4kSAt15nn6Q" %}
 
 ## Monitoring Nilai Santri
 

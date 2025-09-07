@@ -30,7 +30,7 @@ Berikut adalah langkah-langkah untuk melihat detail penjualan dari setiap POS pa
     <figure><img src="../../.gitbook/assets/images-686.png" alt=""><figcaption></figcaption></figure>
 
 
-5.  Pastikan pilihan **POS/Toko** sudah mencakup seluruh POS yang ingin dimasukkan dalam laporan. Anda juga dapat memilih POS tertentu jika hanya ingin menampilkan data dari POS tersebut. Jika sudah, klik tombol **"Cetak"** untuk memproses dan menghasilkan laporan detail penjualan.
+5.  Pastikan pilihan **POS** sudah mencakup seluruh POS yang ingin dimasukkan dalam laporan. Anda juga dapat memilih POS tertentu jika hanya ingin menampilkan data dari POS tersebut. Jika sudah, klik tombol **"Cetak"** untuk memproses dan menghasilkan laporan detail penjualan.
 
     <figure><img src="../../.gitbook/assets/images-687.png" alt=""><figcaption></figcaption></figure>
 
@@ -40,6 +40,6 @@ Berikut adalah langkah-langkah untuk melihat detail penjualan dari setiap POS pa
     <figure><img src="../../.gitbook/assets/images-688.png" alt=""><figcaption></figcaption></figure>
 
 
-7.  Buka file PDF tersebut untuk melihat rincian laporan, yang mencakup informasi seperti **tanggal transaksi, nomor referensi, nama kasir, nama pelanggan, daftar produk, kuantitas, harga per unit, total penjualan**, dan detail pembayaran.
+7.  Buka file PDF tersebut untuk melihat rincian laporan, yang mencakup informasi seperti ringkasan transaksi POS, termasuk **daftar produk yang terjual**, **nilai penjualan**, **pajak**, **metode pembayaran**, **serta total transaksi pada setiap sesi POS**.
 
     <figure><img src="../../.gitbook/assets/images-689.png" alt=""><figcaption></figcaption></figure>

@@ -45,11 +45,11 @@ Berikut adalah langkah-langkah untuk melihat laporan sesi POS pada Odoo Pesantre
     <figure><img src="../../.gitbook/assets/images-695.png" alt=""><figcaption></figcaption></figure>
 
 
-8.  **Laporan Sesi POS** akan menampilkan informasi seperti **total penjualan, metode pembayaran, saldo awal, saldo akhir**.
+8.  **Laporan Sesi POS** akan menampilkan informasi seperti total penjualan, detail item yang dijual, metode pembayaran (seperti tunai atau dompet digital), serta rekapitulasi saldo awal dan saldo akhir kas untuk keperluan kontrol dan tutup kas.
 
     <figure><img src="../../.gitbook/assets/images-696.png" alt=""><figcaption></figcaption></figure>
 
 
-9.  **Laporan Per Karyawan** (jika tersedia) akan menampilkan informasi transaksi yang dilakukan oleh masing-masing karyawan, termasuk **jumlah transaksi, total penjualan, dan metode pembayaran yang digunakan**.
+9.  **Laporan Sesi POS per Karyawan** (jika tersedia) akan menampilkan informasi transaksi yang dilakukan oleh masing-masing karyawan, termasuk **jumlah transaksi, total penjualan, dan metode pembayaran yang digunakan**.
 
     <figure><img src="../../.gitbook/assets/images-697.png" alt=""><figcaption></figcaption></figure>

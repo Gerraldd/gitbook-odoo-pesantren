@@ -35,7 +35,7 @@ Berikut adalah langkah-langkah untuk mencetak laporan laba & rugi pada Odoo Pesa
     * **All Posted Entries** → menampilkan hanya transaksi entri jurnal yang sudah diposting.
     * **All Entries** → menampilkan seluruh transaksi entri jurnal, baik _draft_ maupun yang sudah diposting.
 
-    Jika diperlukan, centang opsi **Display Debit/Credit Columns** untuk menampilkan kolom debit dan kredit pada hasil cetakan. Setelah seluruh konfigurasi selesai, klik tombol **Print** untuk mulai mencetak Laporan Laba & Rugi.
+    Jika diperlukan, centang opsi **Display Debit/Credit Columns** untuk menampilkan kolom debit dan kredit pada hasil cetakan. Setelah seluruh konfigurasi selesai, klik tombol **"Print"** untuk mulai mencetak Laporan Laba & Rugi.
 
     <figure><img src="../../.gitbook/assets/images-747.png" alt=""><figcaption></figcaption></figure>
 

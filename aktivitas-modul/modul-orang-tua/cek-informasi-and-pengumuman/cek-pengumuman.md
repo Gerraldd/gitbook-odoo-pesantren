@@ -4,7 +4,7 @@ icon: bullhorn
 
 # Cek Pengumuman
 
-Video \[]
+{% embed url="https://youtu.be/g_teLN7kVMo" %}
 
 ## Cek Pengumuman
 

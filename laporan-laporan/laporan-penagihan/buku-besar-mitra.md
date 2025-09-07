@@ -8,7 +8,7 @@ Video
 
 ## Buku Besar Mitra (Partner Ledger)
 
-**Buku Besar Mitra (Partner Ledger)** adalah laporan yang menampilkan detail transaksi keuangan antara perusahaan dengan mitra (partner), baik itu pelanggan maupun pemasok. Laporan ini mencatat semua pergerakan akun piutang dan hutang, sehingga memudahkan dalam melakukan rekonsiliasi serta memantau saldo yang masih berjalan pada setiap mitra.
+Laporan **Buku Besar Mitra (Partner Ledger)** adalah laporan yang menampilkan detail transaksi keuangan antara perusahaan dengan mitra (partner), baik itu pelanggan maupun pemasok. Laporan ini mencatat semua pergerakan akun piutang dan hutang, sehingga memudahkan dalam melakukan rekonsiliasi serta memantau saldo yang masih berjalan pada setiap mitra.
 
 ### Mencetak Laporan Buku Besar Mitra
 
@@ -31,7 +31,7 @@ Berikut adalah langkah-langkah untuk mencetak laporan buku besar mitra pada Odoo
     <figure><img src="../../.gitbook/assets/images-780 (2).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  Tentukan **periode laporan** dengan memasukkan tanggal mulai dan tanggal akhir yang diinginkan. Setelah semua konfigurasi selesai, klik tombol **Print** untuk menghasilkan laporan Buku Besar Mitra.
+4.  Tentukan **periode laporan** dengan memasukkan tanggal mulai dan masukkan tanggal akhir yang diinginkan. Setelah semua konfigurasi selesai, klik tombol **"Print"** untuk menghasilkan laporan Buku Besar Mitra.
 
     <figure><img src="../../.gitbook/assets/images-781 (1).png" alt=""><figcaption></figcaption></figure>
 

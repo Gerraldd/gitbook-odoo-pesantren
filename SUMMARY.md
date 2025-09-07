@@ -180,8 +180,8 @@
   * [Monitoring Tagihan Santri](aktivitas-modul/modul-orang-tua/monitoring-tagihan.md)
   * [Pengumuman](aktivitas-modul/modul-orang-tua/tambah-pengumuman.md)
   * [Cek Informasi & Pengumuman](aktivitas-modul/modul-orang-tua/cek-informasi-and-pengumuman/README.md)
-    * [Cek Informasi Data Santri](aktivitas-modul/modul-orang-tua/cek-informasi-and-pengumuman/cek-informasi-data-santri.md)
-    * [Cek Informasi Data Orang Tua](aktivitas-modul/modul-orang-tua/cek-informasi-and-pengumuman/cek-informasi-data-orang-tua.md)
+    * [Cek Informasi Santri](aktivitas-modul/modul-orang-tua/cek-informasi-and-pengumuman/cek-informasi-santri.md)
+    * [Cek Informasi Orang Tua](aktivitas-modul/modul-orang-tua/cek-informasi-and-pengumuman/cek-informasi-orang-tua.md)
     * [Cek Pengumuman](aktivitas-modul/modul-orang-tua/cek-informasi-and-pengumuman/cek-pengumuman.md)
   * [Limit Saldo Santri](aktivitas-modul/modul-orang-tua/limit-saldo-santri.md)
 

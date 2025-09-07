@@ -8,7 +8,7 @@ Video \[]
 
 ## Umur Saldo Mitra (Aged Partner Balance)
 
-**Umur Saldo Mitra (Aged Partner Balance)** adalah laporan yang menampilkan rincian saldo piutang maupun hutang mitra (partner) berdasarkan umur atau lamanya waktu tunggakan. Laporan ini biasanya digunakan untuk memantau pembayaran pelanggan dan kewajiban kepada pemasok sesuai periode tertentu, sehingga membantu pengelolaan arus kas dan pengambilan keputusan keuangan.
+Laporan **Umur Saldo Mitra (Aged Partner Balance)** adalah laporan yang menampilkan rincian saldo piutang maupun hutang mitra (partner) berdasarkan umur atau lamanya waktu tunggakan. Laporan ini biasanya digunakan untuk memantau pembayaran pelanggan dan kewajiban kepada pemasok sesuai periode tertentu, sehingga membantu pengelolaan arus kas dan pengambilan keputusan keuangan.
 
 ### Mencetak Laporan Umur Saldo Mitra
 
@@ -33,7 +33,7 @@ Berikut adalah langkah-langkah untuk mencetak laporan umur saldo mitra pada Odoo
     <figure><img src="../../.gitbook/assets/images-776 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4. Setelah semua konfigurasi selesai, klik tombol **Print** untuk menghasilkan laporan Umur Saldo Mitra.
+4. Setelah semua konfigurasi selesai, klik tombol **"Print"** untuk menghasilkan laporan Umur Saldo Mitra.
 5.  Sistem akan menampilkan laporan dalam format **PDF**.
 
     <figure><img src="../../.gitbook/assets/images-777 (1).png" alt=""><figcaption></figcaption></figure>
@@ -44,4 +44,4 @@ Berikut adalah langkah-langkah untuk mencetak laporan umur saldo mitra pada Odoo
     <figure><img src="../../.gitbook/assets/images-778 (2).png" alt=""><figcaption></figcaption></figure>
 
 
-7. Jika diperlukan, laporan ini dapat disimpan sebagai arsip atau dibagikan kepada tim keuangan untuk tindak lanjut lebih lanjut seperti penagihan atau pembayaran.
+7. Jika diperlukan, laporan ini dapat **disimpan** sebagai arsip atau **dibagikan** kepada tim keuangan untuk tindak lanjut lebih lanjut seperti penagihan atau pembayaran.

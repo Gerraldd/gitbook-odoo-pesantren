@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk mencetak laporan pajak pada Odoo Pesantren.&#x20;
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login se bagai admin, silakan lihat panduan [**Login Admin** di sini](../../../panduan-login/login-admin.md).
-2.  Buka modul **Penagihan**, lalu klik menu **Laporan**, kemudian pilih submenu **Laporan Pajak**.
+2.  Buka modul **Penagihan**, lalu klik menu **Laporan** kemudian pilih submenu **Laporan Pajak**.
 
     <figure><img src="../../../.gitbook/assets/images-813.png" alt=""><figcaption></figcaption></figure>
 
@@ -31,6 +31,6 @@ Berikut adalah langkah-langkah untuk mencetak laporan pajak pada Odoo Pesantren.
     <figure><img src="../../../.gitbook/assets/images-815.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Buka file **PDF laporan pajak** untuk meninjau detail perhitungan pajak yang telah dihasilkan.
+6.  Buka file PDF laporan pajak untuk meninjau detail perhitungan pajak yang telah dihasilkan.
 
     <figure><img src="../../../.gitbook/assets/images-816.png" alt=""><figcaption></figcaption></figure>

@@ -2,15 +2,15 @@
 icon: screen-users
 ---
 
-# Cek Informasi Data Santri
+# Cek Informasi Santri
 
-Video \[]
+{% embed url="https://youtu.be/ZUieSwYMImA" %}
 
-## Cek Informasi Data Santri
+## Cek Informasi Santri
 
-**Cek Informasi Data Santri** digunakan oleh **Orang Tua** untuk melihat data lengkap anaknya yang sedang menempuh pendidikan di pesantren. Melalui fitur ini, orang tua dapat memastikan bahwa informasi santri sesuai dengan data yang sudah terdaftar di sistem, seperti data pribadi, kelas, orang tua, dan informasi lainnya.
+**Cek Informasi Santri** digunakan oleh **Orang Tua** untuk melihat data lengkap anaknya yang sedang menempuh pendidikan di pesantren. Melalui fitur ini, orang tua dapat memastikan bahwa informasi santri sesuai dengan data yang sudah terdaftar di sistem, seperti data pribadi, kelas, orang tua, dan informasi lainnya.
 
-### Mengecek Informasi Data Santri oleh Orang Tua
+### Mengecek Informasi Santri oleh Orang Tua
 
 Berikut adalah langkah-langkah untuk mengecek informasi santri pada Odoo Pesantren sebagai **orang tua**.
 

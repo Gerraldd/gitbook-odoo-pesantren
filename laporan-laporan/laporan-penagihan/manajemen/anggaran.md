@@ -8,7 +8,7 @@ Video \[]
 
 ## Anggaran
 
-**Anggaran** pada Odoo Pesantren digunakan untuk memantau dan mengontrol rencana keuangan yang telah ditetapkan. Dengan laporan ini, pengguna dapat membandingkan jumlah anggaran yang direncanakan dengan realisasi transaksi, sehingga memudahkan pengawasan serta evaluasi penggunaan dana.
+Laporan pada **Anggaran** di Odoo Pesantren digunakan untuk memantau dan mengontrol rencana keuangan yang telah ditetapkan. Dengan laporan ini, pengguna dapat membandingkan jumlah anggaran yang direncanakan dengan realisasi transaksi, sehingga memudahkan pengawasan serta evaluasi penggunaan dana.
 
 ### Melihat Anggaran
 
@@ -26,6 +26,6 @@ Berikut adalah langkah-langkah untuk melihat anggaran pada Odoo Pesantren.&#x20;
 
 
 4. Klik salah satu baris data laporan anggaran untuk membuka halaman detail laporan tersebut.
-5.  Halaman laporan anggaran akan menampilkan informasi lengkap, meliputi: **Budget, Akun Analitik, Tanggal Mulai** dan **Tanggal Berakhir, Jumlah yang Direncanakan (Planned Amount). Jumlah yang Terealisasi (Practical Amount), Selisih Anggaran (Theoretical vs Practical), dan Informasi tambahan lain terkait anggaran tersebut.**
+5.  Halaman form laporan anggaran akan menampilkan informasi lengkap, meliputi: **Budget**, **Akun Analitik**, **Tanggal Mulai** dan **Tanggal Berakhir**, **Jumlah yang Direncanakan (Planned Amount)**, **Jumlah yang Terealisasi (Practical Amount)**, **Selisih Anggaran (Theoretical vs Practical)**, dan Informasi tambahan lain terkait anggaran tersebut.
 
     <figure><img src="../../../.gitbook/assets/images-796.png" alt=""><figcaption></figcaption></figure>

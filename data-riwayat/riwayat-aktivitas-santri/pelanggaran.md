@@ -4,7 +4,7 @@ icon: triangle-exclamation
 
 # Pelanggaran
 
-Video \[]
+{% embed url="https://youtu.be/ujGxK2J2buc" %}
 
 ## Riwayat Pelanggaran
 
@@ -15,7 +15,7 @@ Video \[]
 Berikut adalah langkah-langkah untuk melihat riwayat pelanggaran santri pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Kesantrian**, lalu klik menu **Aktivitas** kemudian submenu **Pelanggaran**.
+2.  Buka modul **Kesantrian**, lalu klik menu **Aktivitas** kemudian pilih submenu **Pelanggaran**.
 
     <figure><img src="../../.gitbook/assets/images-630.png" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ Berikut adalah langkah-langkah untuk melihat riwayat pelanggaran santri pada Odo
 6. Untuk melihat detail dari suatu pelanggaran, klik salah satu entri dalam daftar pelanggaran.
 7.  Anda akan diarahkan ke tampilan form pelanggaran yang menampilkan informasi lengkap, seperti: **identitas santri**, **rincian pelanggaran yang dilakukan**, **tindakan/hukuman yang diberikan**, dan **catatan dari musyrif atau administrator yang menangani kasus tersebut**.
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 8. Data riwayat ini dapat digunakan untuk evaluasi, pembinaan lanjutan, atau pembuatan laporan pelanggaran santri secara menyeluruh.

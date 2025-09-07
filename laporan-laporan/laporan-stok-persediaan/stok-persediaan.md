@@ -8,7 +8,7 @@ Video \[]
 
 ## Stok Persediaan
 
-**Stok Persediaan** pada Odoo Pesantren berguna untuk menampilkan ringkasan jumlah stok produk yang tersedia di semua gudang dan lokasi penyimpanan. Informasi ini mencakup stok yang ada (_On Hand_), stok yang akan masuk (_Incoming_), stok yang keluar (_Outgoing_), serta jumlah stok prakiraan (_Forecasted_) yang dihitung berdasarkan transaksi yang direncanakan. Dari halaman ini, pengguna dapat memantau ketersediaan barang, memeriksa lokasi simpan, meninjau riwayat pergerakan, melihat aturan pengisian ulang, dan menganalisis proyeksi stok di masa mendatang.
+Laporan pada **Stok Persediaan** pada Odoo Pesantren berguna untuk menampilkan ringkasan jumlah stok produk yang tersedia di semua gudang dan lokasi penyimpanan. Informasi ini mencakup stok yang ada (_On Hand_), stok yang akan masuk (_Incoming_), stok yang keluar (_Outgoing_), serta jumlah stok prakiraan (_Forecasted_) yang dihitung berdasarkan transaksi yang direncanakan. Dari halaman ini, pengguna dapat memantau ketersediaan barang, memeriksa lokasi simpan, meninjau riwayat pergerakan, melihat aturan pengisian ulang, dan menganalisis proyeksi stok di masa mendatang.
 
 ### Melihat Stok Persediaan
 
@@ -45,7 +45,7 @@ Berikut adalah langkah-langkah untuk melihat Stok Persediaan pada Odoo Pesantren
     <figure><img src="../../.gitbook/assets/images-711.png" alt=""><figcaption></figcaption></figure>
 
 
-8.  Klik tautan **"Riwayat"** (ikon jam) pada salah satu produk untuk melihat catatan pergerakan stok masuk dan keluar secara detail.
+8.  Klik tautan **"Riwayat"** (icon jam) pada salah satu produk untuk melihat catatan pergerakan stok masuk dan keluar secara detail.
 
     <figure><img src="../../.gitbook/assets/images-712.png" alt=""><figcaption></figcaption></figure>
 
@@ -55,7 +55,7 @@ Berikut adalah langkah-langkah untuk melihat Stok Persediaan pada Odoo Pesantren
     <figure><img src="../../.gitbook/assets/images-713.png" alt=""><figcaption></figcaption></figure>
 
 
-10. Klik tautan **"Replenishment"** (ikon panah melingkar) untuk melihat atau mengelola data pengisian ulang serta aturan restock pada produk tertentu.
+10. Klik tautan **"Replenishment"** (icon panah melingkar) untuk melihat atau mengelola data pengisian ulang serta aturan restock pada produk tertentu.
 
     <figure><img src="../../.gitbook/assets/images-714.png" alt=""><figcaption></figcaption></figure>
 
@@ -65,12 +65,12 @@ Berikut adalah langkah-langkah untuk melihat Stok Persediaan pada Odoo Pesantren
     <figure><img src="../../.gitbook/assets/images-715.png" alt=""><figcaption></figcaption></figure>
 
 
-12. Klik tautan **"Lokasi"** (ikon kotak) untuk mengetahui lokasi penyimpanan barang, termasuk informasi gudang dan rak.
+12. Klik tautan **"Lokasi"** (icon kotak) untuk mengetahui lokasi penyimpanan barang, termasuk informasi gudang dan rak.
 
     <figure><img src="../../.gitbook/assets/images-716.png" alt=""><figcaption></figcaption></figure>
 
 
-13. Klik tautan **"Prakiraan"** (ikon grafik) untuk menampilkan proyeksi stok di masa mendatang.&#x20;
+13. Klik tautan **"Prakiraan"** (icon grafik) untuk menampilkan proyeksi stok di masa mendatang.&#x20;
 
     <figure><img src="../../.gitbook/assets/images-717.png" alt=""><figcaption></figcaption></figure>
 

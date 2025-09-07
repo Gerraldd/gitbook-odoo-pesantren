@@ -15,12 +15,12 @@ Laporan **Neraca Saldo (Trial Balance)** pada Odoo Pesantren berfungsi untuk men
 Berikut adalah langkah-langkah untuk mencetak laporan neraca saldo pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login se bagai admin, silakan lihat panduan [**Login Admin** di sini](../../../panduan-login/login-admin.md).
-2.  Buka modul **Penagihan**, lalu klik menu **Laporan**, kemudian pilih submenu **Neraca Saldo**.
+2.  Buka modul **Penagihan**, lalu klik menu **Laporan** kemudian pilih submenu **Neraca Saldo**.
 
     <figure><img src="../../../.gitbook/assets/images-809.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Akan muncul sebuah **form konfigurasi laporan neraca saldo**. Pada form ini Anda dapat melakukan pengaturan yang diperlukan, seperti **Target Moves,** pilih opsi radio _All Posted Entries_ untuk transaksi jurnal yang sudah diposting atau _All Entries_ untuk seluruh transaksi, serta menentukan **periode laporan** dengan mengisi tanggal mulai dan tanggal berakhir.&#x20;
+3.  Akan muncul sebuah form konfigurasi laporan neraca saldo. Pada form ini Anda dapat melakukan pengaturan yang diperlukan, seperti **Target Moves,** pilih opsi radio _All Posted Entries_ untuk transaksi jurnal yang sudah diposting atau _All Entries_ untuk seluruh transaksi, serta menentukan **periode laporan** dengan mengisi tanggal mulai dan tanggal berakhir.&#x20;
 
     <figure><img src="../../../.gitbook/assets/images-810.png" alt=""><figcaption></figcaption></figure>
 
@@ -31,6 +31,6 @@ Berikut adalah langkah-langkah untuk mencetak laporan neraca saldo pada Odoo Pes
     <figure><img src="../../../.gitbook/assets/images-811.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Buka file **PDF laporan neraca saldo** untuk melihat detail saldo awal, pergerakan debit dan kredit, serta saldo akhir dari setiap akun.
+6.  Buka file PDF laporan neraca saldo untuk melihat detail saldo awal, pergerakan debit dan kredit, serta saldo akhir dari setiap akun.
 
     <figure><img src="../../../.gitbook/assets/images-812.png" alt=""><figcaption></figcaption></figure>

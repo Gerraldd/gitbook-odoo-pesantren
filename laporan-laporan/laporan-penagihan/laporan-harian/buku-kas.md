@@ -8,11 +8,11 @@ Video \[]
 
 ## Buku Kas
 
-**Buku Kas** berfungsi untuk menampilkan seluruh transaksi penerimaan dan pengeluaran kas perusahaan dalam periode tertentu. Laporan ini membantu dalam memantau arus kas harian dan memastikan konsistensi antara saldo kas di sistem dengan kas fisik.
+Laporan **Buku Kas** berfungsi untuk menampilkan seluruh transaksi penerimaan dan pengeluaran kas perusahaan dalam periode tertentu. Laporan ini membantu dalam memantau arus kas harian dan memastikan konsistensi antara saldo kas di sistem dengan kas fisik.
 
 ### Mencetak Laporan Buku Kas
 
-Berikut adalah langkah-langkah untuk mencetak laporan buku kas pada Odoo Pesantren.1
+Berikut adalah langkah-langkah untuk mencetak laporan buku kas pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login se bagai admin, silakan lihat panduan [**Login Admin** di sini](../../../panduan-login/login-admin.md).
 2.  Buka modul **Penagihan**, lalu klik menu **Laporan** kemudian pilih submenu **Buku Kas**.
@@ -29,7 +29,7 @@ Berikut adalah langkah-langkah untuk mencetak laporan buku kas pada Odoo Pesantr
     <figure><img src="../../../.gitbook/assets/images-768 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4. Setelah konfigurasi selesai, klik tombol **Print** untuk mulai mencetak laporan Buku Kas.
+4. Setelah konfigurasi selesai, klik tombol **"Print"** untuk mulai mencetak laporan Buku Kas.
 5.  Sistem akan menghasilkan laporan Buku Kas dalam format **PDF**.
 
     <figure><img src="../../../.gitbook/assets/images-769 (1).png" alt=""><figcaption></figcaption></figure>

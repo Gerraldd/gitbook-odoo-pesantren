@@ -4,7 +4,7 @@ icon: memo-circle-check
 
 # Pengajuan Izin Santri
 
-{% embed url="https://youtu.be/UlA3xrNQceg" %}
+{% embed url="https://youtu.be/B6UjUowWZrE" %}
 
 ## Pengajuan Izin
 

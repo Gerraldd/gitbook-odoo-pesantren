@@ -8,19 +8,19 @@ Video \[]
 
 ## Penilaian Stok
 
-**Penilaian Stok** pada Odoo Pesantren digunakan untuk mengetahui nilai finansial persediaan barang pada periode tertentu. Laporan ini menampilkan informasi detail mengenai kuantitas, nilai per unit, serta nilai total produk yang ada di gudang, sehingga memudahkan dalam pelaporan keuangan dan audit persediaan.
+Laporan pada **Penilaian Stok** pada Odoo Pesantren digunakan untuk mengetahui nilai finansial persediaan barang pada periode tertentu. Laporan ini menampilkan informasi detail mengenai kuantitas, nilai per unit, serta nilai total produk yang ada di gudang, sehingga memudahkan dalam pelaporan keuangan dan audit persediaan.
 
 ### Melihat Penilaian Stok
 
 Berikut adalah langkah-langkah untuk melihat penilaian stok pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Stok Persediaan**, lalu klik menu **Laporan**, kemudian pilih submenu **Penilaian**.
+2.  Buka modul **Stok Persediaan**, lalu klik menu **Laporan** kemudian pilih submenu **Penilaian**.
 
     <figure><img src="../../.gitbook/assets/images-737.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Halaman awal akan menampilkan daftar penilaian stok yang mencakup informasi seperti **nama produk**, **kuantitas yang tersedia**, **nilai per unit**, **nilai total stok**, dan **tanggal penilaian**.
+3.  Halaman awal akan menampilkan daftar penilaian stok yang mencakup informasi seperti **Tanggal Valution**, **Nomor Referensi**, **Nama Produk**, **Kuantitas yang Tersedia**, **Nilai per Unit**, dan **Nilai Total Stok**.
 
     <figure><img src="../../.gitbook/assets/images-738.png" alt=""><figcaption></figcaption></figure>
 
@@ -40,7 +40,7 @@ Berikut adalah langkah-langkah untuk melihat penilaian stok pada Odoo Pesantren.
     <figure><img src="../../.gitbook/assets/images-741.png" alt=""><figcaption></figcaption></figure>
 
 
-7.  Gunakan **toggle pencarian** untuk memfilter data, misalnya berdasarkan jenis pergerakan stok (**Barang Masuk**, **Barang Keluar**, atau **Memiliki Kuantitas Tersisa**). Anda juga dapat memanfaatkan filter kelompok (**Group By**) seperti **Per Produk**, **Nomor Seri/Lot**, **Kategori Produk**, atau **Gudang** untuk analisis yang lebih terperinci.
+7.  Gunakan **toggle pencarian** untuk memfilter data, misalnya berdasarkan jenis pergerakan stok (**Barang Masuk**, **Barang Keluar**, atau **Memiliki Kuantitas Tersisa**). Anda juga dapat memanfaatkan filter **Kelompok** berdasarkan **Produk**, **Nomor Seri/Lot**, **Kategori Produk**, dan lainnya.
 
     <figure><img src="../../.gitbook/assets/images-742.png" alt=""><figcaption></figcaption></figure>
 

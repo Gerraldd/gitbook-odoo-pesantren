@@ -4,7 +4,7 @@ icon: calendar-lines-pen
 
 # Mutaba'ah Harian
 
-Video \[]
+{% embed url="https://youtu.be/RJDN3P7gr34" %}
 
 ## Monitoring Mutaba'ah Harian
 

@@ -4,18 +4,18 @@ icon: bullhorn
 
 # Pengumuman
 
-Video \[]
+{% embed url="https://youtu.be/04od5aO2nHA" %}
 
 ## Pengumuman
 
-**Pengumuman** digunakan oleh Administrator untuk menyampaikan informasi penting kepada orang tua atau wali santri melalui sistem. Pengumuman yang ditambahkan akan langsung ditampilkan pada modul **Orang Tua**, sehingga orang tua dapat membaca informasi terbaru saat login ke sistem. Contoh pengumuman misalnya jadwal ujian, libur pesantren, pembayaran SPP, atau agenda kegiatan pesantre
+**Pengumuman** digunakan oleh Administrator untuk menyampaikan informasi penting kepada orang tua atau wali santri melalui sistem. Pengumuman yang ditambahkan akan langsung ditampilkan pada modul **Orang Tua**, sehingga orang tua dapat membaca informasi terbaru saat login ke sistem. Contoh pengumuman misalnya jadwal ujian, libur pesantren, pembayaran SPP, atau agenda kegiatan pesantren.
 
 ### Menambahkan Pengumuman oleh Administrator
 
 Berikut adalah langkah-langkah untuk menambahkan pengumuman oleh Administrator pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
-2.  Buka modul **Orang Tua**, lalu klik menu **Informasi** dan pilih submenu **Pengumuman**.
+2.  Buka modul **Orang Tua**, lalu klik menu **Informasi** kemudian pilih submenu **Pengumuman**.
 
     <figure><img src="../../.gitbook/assets/images-556.png" alt=""><figcaption></figcaption></figure>
 

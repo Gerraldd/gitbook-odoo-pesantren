@@ -8,7 +8,7 @@ Video \[]
 
 ## Buku Bank
 
-**Buku Bank** digunakan untuk menampilkan catatan transaksi perbankan yang telah tercatat dalam sistem. Laporan ini berfungsi sebagai referensi keuangan terkait arus masuk dan keluar kas melalui rekening bank perusahaan.
+Laporan **Buku Bank** digunakan untuk menampilkan catatan transaksi perbankan yang telah tercatat dalam sistem. Laporan ini berfungsi sebagai referensi keuangan terkait arus masuk dan keluar kas melalui rekening bank perusahaan.
 
 ### Mencetak Laporan Buku Bank
 
@@ -29,7 +29,7 @@ Berikut adalah langkah-langkah untuk mencetak laporan buku bank pada Odoo Pesant
     <figure><img src="../../../.gitbook/assets/images-764 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-4. Setelah konfigurasi selesai, klik tombol **Print** untuk memproses pencetakan laporan Buku Bank.
+4. Setelah konfigurasi selesai, klik tombol **"Print"** untuk memproses pencetakan laporan Buku Bank.
 5.  Sistem akan menghasilkan laporan Buku Bank dalam format **PDF**.
 
     <figure><img src="../../../.gitbook/assets/images-765 (1).png" alt=""><figcaption></figcaption></figure>

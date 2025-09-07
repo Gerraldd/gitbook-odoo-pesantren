@@ -4,7 +4,7 @@ icon: calendar-lines-pen
 
 # Mutaba'ah Harian
 
-Video \[]
+{% embed url="https://youtu.be/Intzty09WB0" %}
 
 ## Riwayat Mutaba'ah Harian Santri
 
