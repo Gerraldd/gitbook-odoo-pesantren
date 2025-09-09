@@ -222,10 +222,6 @@
 
 ## Laporan-Laporan
 
-* [Laporan Point of Sale](laporan-laporan/laporan-point-of-sale/README.md)
-  * [Laporan Pesanan](laporan-laporan/laporan-point-of-sale/laporan-pesanan.md)
-  * [Detail Penjualan](laporan-laporan/laporan-point-of-sale/detail-penjualan.md)
-  * [Laporan Sesi](laporan-laporan/laporan-point-of-sale/laporan-sesi.md)
 * [Laporan Pembelian](laporan-laporan/laporan-pembelian.md)
 * [Laporan Stok Persediaan](laporan-laporan/laporan-stok-persediaan/README.md)
   * [Stok Persediaan](laporan-laporan/laporan-stok-persediaan/stok-persediaan.md)
@@ -233,6 +229,10 @@
   * [Sejarah Pergerakan](laporan-laporan/laporan-stok-persediaan/sejarah-pergerakan.md)
   * [Analisis Pergerakan](laporan-laporan/laporan-stok-persediaan/analisis-pergerakan.md)
   * [Penilaian Stok](laporan-laporan/laporan-stok-persediaan/penilaian-stok.md)
+* [Laporan Point of Sale](laporan-laporan/laporan-point-of-sale/README.md)
+  * [Laporan Pesanan](laporan-laporan/laporan-point-of-sale/laporan-pesanan.md)
+  * [Detail Penjualan](laporan-laporan/laporan-point-of-sale/detail-penjualan.md)
+  * [Laporan Sesi](laporan-laporan/laporan-point-of-sale/laporan-sesi.md)
 * [Laporan Penagihan](laporan-laporan/laporan-penagihan/README.md)
   * [Laba & Rugi](laporan-laporan/laporan-penagihan/laba-and-rugi.md)
   * [Neraca](laporan-laporan/laporan-penagihan/neraca.md)
