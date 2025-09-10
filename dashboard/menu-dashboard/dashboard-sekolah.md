@@ -10,23 +10,23 @@ Halaman **Dashboard Sekolah** merupakan tampilan utama yang pertama kali terliha
 
 Pada bagian atas dasbor, terdapat empat card informasi utama yang memberikan gambaran singkat tentang populasi dan struktur sekolah. Setiap card dapat diklik untuk menampilkan informasi lebih detail.
 
-| Card   | Fungsi                                                       | Informasi Detail                                                                    |
-| ------ | ------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| Santri | Menampilkan total jumlah santri yang terdaftar di pesantren. | Digunakan untuk memantau kapasitas dan kebutuhan sumber daya (asrama, kelas, dll.). |
-| Wali   | Menampilkan total jumlah wali santri yang terdaftar.         | Memudahkan komunikasi dengan wali dan verifikasi data keluarga santri.              |
-| Guru   | Menampilkan total jumlah guru yang aktif mengajar.           | Digunakan untuk memantau data guru yang ada di sekolah.                             |
-| Kelas  | Menampilkan total jumlah kelas yang tersedia di pesantren.   | Membantu dalam perencanaan jadwal dan alokasi ruangan.                              |
+| Card   | Fungsi                                                       |
+| ------ | ------------------------------------------------------------ |
+| Santri | Menampilkan total jumlah santri yang terdaftar di pesantren. |
+| Wali   | Menampilkan total jumlah wali santri yang terdaftar.         |
+| Guru   | Menampilkan total jumlah guru yang aktif mengajar.           |
+| Kelas  | Menampilkan total jumlah kelas yang tersedia di pesantren.   |
 
 Bagian tengah halaman menampilkan informasi terkait status pembayaran dan tagihan dalam bentuk daftar atau grafik interaktif.
 
-| Grafik            | Status                 | Informasi Detail                                                                |
-| ----------------- | ---------------------- | ------------------------------------------------------------------------------- |
-| Status Pembayaran | Belum Lunas, dan Lunas | Digunakan untuk memantau status pembayaran pada tagihan sudah lunas atau belum. |
-| Status Tagihan    | Draft, dan Terekam.    | Digunakan untuk memantau status tagihan yang draft dan terekam.                 |
+| Grafik                         | Fungsi                                                                          |
+| ------------------------------ | ------------------------------------------------------------------------------- |
+| Grafik Pie - Status Pembayaran | Digunakan untuk memantau status pembayaran pada tagihan sudah lunas atau belum. |
+| Grafik Pie - Status Tagihan    | Digunakan untuk memantau status tagihan yang draft dan terekam.                 |
 
 Pada bagian bawah halaman, terdapat tabel yang menampilkan status tagihan yang lunas atau belum lunas.
 
-| Tabel               | Fungsi                                            | Informasi Detail                                                                 |
-| ------------------- | ------------------------------------------------- | -------------------------------------------------------------------------------- |
-| Tagihan Yang Lunas  | Menampilkan daftar tagihan yang telah dibayar.    | Terdapat nomor tagihan, siswa, kelas, total tagihan, status tagihan lunas.       |
-| Tagihan Belum Lunas | Menampilkan daftar tagihan yang masih tertunggak. | Terdapat nomor tagihan, siswa, kelas, total tagihan, status tagihan belum lunas. |
+| Tabel               | Fungsi                                            |
+| ------------------- | ------------------------------------------------- |
+| Tagihan Yang Lunas  | Menampilkan daftar tagihan yang telah dibayar.    |
+| Tagihan Belum Lunas | Menampilkan daftar tagihan yang masih tertunggak. |

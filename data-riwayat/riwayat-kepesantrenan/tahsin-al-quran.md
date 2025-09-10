@@ -4,7 +4,7 @@ icon: book
 
 # Tahsin Al-Qur'an
 
-Video \[]
+{% embed url="https://youtu.be/qySB2jeOW1k" %}
 
 ## Riwayat Tahsin Al-Qur'an
 

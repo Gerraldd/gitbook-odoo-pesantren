@@ -4,7 +4,7 @@ icon: money-bills
 
 # Tagihan Pemasok
 
-Video \[]
+{% embed url="https://youtu.be/V5U4NxRPJ94" %}
 
 ## Riwayat Tagihan Pemasok
 

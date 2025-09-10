@@ -10,24 +10,24 @@ Halaman **Dashboard Stok Persediaan** merupakan tampilan utama yang pertama kali
 
 Pada bagian atas dasbor, terdapat beberapa card yang memberikan gambaran singkat tentang aktivitas stok persediaan. Setiap card dapat diklik untuk menampilkan informasi lebih detail.
 
-| Card              | Fungsi                                                                                                              | informasi Detail                                                          |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Transfer Internal | Menampilkan jumlah operasi transfer stok barang pada lokasi internal ke lokasi lainnya dalam satu gudang yang sama. | Membantu untuk memantau frekuensi barang apa saja yang telah dipindahkan. |
-| Penerimaan Barang | Menunjukkan jumlah operasi penerimaan barang yang telah terjadi.                                                    | Memastikan kelengkapan penerimaan barang sesuai pesanan.                  |
-| Delivery Order    | Menampilkan jumlah delivery order yang baru diproses.                                                               | Membantu memantau frekuensi pengiriman barang.                            |
-| Mutasi Barang     | Menampilkan jumlah mutasi barang yang tercatat.                                                                     | Melacak perpindahan barang antar gudang atau lokasi.                      |
+| Card              | Fungsi                                                                                                              |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Transfer Internal | Menampilkan jumlah operasi transfer stok barang pada lokasi internal ke lokasi lainnya dalam satu gudang yang sama. |
+| Penerimaan Barang | Menunjukkan jumlah operasi penerimaan barang yang telah terjadi.                                                    |
+| Delivery Order    | Menampilkan jumlah operasi pengiriman yang telah terjadi                                                            |
+| Mutasi Barang     | Menampilkan jumlah operasi mutasi barang yang tercatat.                                                             |
 
 Bagian tengah halaman menampilkan informasi terkait status transfer internal, penerimaan barang dan delivery order dalam bentuk daftar atau grafik interaktif.
 
-| Grafik                   | Status                                          | informasi Detail                                                    |
-| ------------------------ | ----------------------------------------------- | ------------------------------------------------------------------- |
-| Transfer Internal        | Draft, Menunggu, Siap, Selesai, dan Dibatalkan. | Menampilkan status dari operasi transfer internal.                  |
-| Status Penerimaan Barang | Draft, Menunggu, Siap, Selesai, dan Dibatalkan. | Menampilkan status dari operasi penerimaan barang.                  |
-| Delivery Order           | Draft, Menunggu, Siap, Selesai, dan Dibatalkan. | Menampilkan status dari operasi delivery order (pengiriman barang). |
+| Grafik                                | informasi Detail                                                         |
+| ------------------------------------- | ------------------------------------------------------------------------ |
+| Grafik Pie - Transfer Internal        | Menampilkan jumlah operasi transfer internal berdasarkan status operasi. |
+| Grafik Pie - Status Penerimaan Barang | Menampilkan jumlah operasi penerimaan barang berdasarkan status operasi. |
+| Grafik Pie - Delivery Order           | Menampilkan jumlah operasi pengiriman barang berdasarkan status operasi. |
 
 Pada bagian bawah halaman, terdapat  dua tabel yang menampilkan detail delivery order terbaru dan penerimaan barang terbaru.
 
-| Tabel                     | Fungsi                                                                     | informasi Detail                                                         |
-| ------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Delivery Order Terbaru    | Menampilkan transaksi pengiriman barang terbaru yang sedang/telah terjadi. | Terdapat informasi referensi transaksi, dari/kepada, kontak, dan status. |
-| Penerimaan Barang Terbaru | Menampilkan transaksi penerimaan barang terbaru yang sedang/telah terjadi. | Terdapat informasi referensi transaksi, dari/kepada, kontak, dan status. |
+| Tabel                     | Fungsi                                                                            |
+| ------------------------- | --------------------------------------------------------------------------------- |
+| Delivery Order Terbaru    | Menampilkan transaksi pengiriman barang terbaru, yang sedang, atau telah terjadi. |
+| Penerimaan Barang Terbaru | Menampilkan transaksi penerimaan barang terbaru, yang sedang, atau telah terjadi. |

@@ -4,7 +4,7 @@ icon: basket-shopping
 
 # Pesanan Pembelian
 
-Video \[]
+{% embed url="https://youtu.be/FCdVWxmzQVM" %}
 
 ## Riwayat Pesanan Pembelian
 

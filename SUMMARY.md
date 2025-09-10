@@ -37,6 +37,7 @@
   * [Guru](setup-and-konfigurasi/role-and-hak-akses-pengguna/guru.md)
   * [Orang Tua](setup-and-konfigurasi/role-and-hak-akses-pengguna/orang-tua.md)
 * [Panduan Login](setup-and-konfigurasi/panduan-login/README.md)
+  * [Login Admin](setup-and-konfigurasi/panduan-login/login-admin.md)
   * [Login Musyrif](setup-and-konfigurasi/panduan-login/login-musyrif.md)
   * [Login Petugas Keamanan](setup-and-konfigurasi/panduan-login/login-petugas-keamanan.md)
   * [Login Guru](setup-and-konfigurasi/panduan-login/login-guru.md)
@@ -224,7 +225,7 @@
 
 * [Laporan Pembelian](laporan-laporan/laporan-pembelian.md)
 * [Laporan Stok Persediaan](laporan-laporan/laporan-stok-persediaan/README.md)
-  * [Stok Persediaan](laporan-laporan/laporan-stok-persediaan/stok-persediaan.md)
+  * [Stok](laporan-laporan/laporan-stok-persediaan/stok.md)
   * [Lokasi](laporan-laporan/laporan-stok-persediaan/lokasi.md)
   * [Sejarah Pergerakan](laporan-laporan/laporan-stok-persediaan/sejarah-pergerakan.md)
   * [Analisis Pergerakan](laporan-laporan/laporan-stok-persediaan/analisis-pergerakan.md)
@@ -267,7 +268,7 @@
   * [Dashboard Guru](dashboard/menu-dashboard/dashboard-guru.md)
   * [Dashboard Stok Persediaan](dashboard/menu-dashboard/dashboard-stok-persediaan.md)
   * [Dashboard Pembelian](dashboard/menu-dashboard/dashboard-pembelian.md)
-  * [Dashboard POS](dashboard/menu-dashboard/dashboard-pos.md)
+  * [Dashboard Point of Sale](dashboard/menu-dashboard/dashboard-point-of-sale.md)
   * [Dashboard Penagihan](dashboard/menu-dashboard/dashboard-penagihan.md)
   * [Dashboard Orang Tua](dashboard/menu-dashboard/dashboard-orang-tua.md)
 

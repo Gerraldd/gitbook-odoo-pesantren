@@ -10,13 +10,13 @@ Halaman **Dashboard Keuangan** merupakan tampilan utama yang pertama kali terlih
 
 Pada bagian atas dasbor, terdapat grafik batang yang menampilkan beberapa komponen biaya sekolah misalnya SPP, Seragam, dan lainnya.
 
-| Grafik         | Status                                        | Informasi Detail                                                                                         |
-| -------------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Tagihan Santri | Lunas, Belum Lunas, Dibayar, dan Belum Bayar. | Terdapat total tagihan dari yang lunas, sampai belum dibayar serta nominal pada setiap tagihan yang ada. |
+| Grafik                      | Informasi Detail                                                                                                     |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Grafik Bar - Tagihan Santri | Terdapat total tagihan dari yang lunas, belum lunas sampai belum dibayar serta nominal pada setiap tagihan yang ada. |
 
 Pada bagian bawah halaman, terdapat grafik line yang menampilkan uang saku masuk/keluar.
 
-| Grafik           | Fungsi                                                                         | Informasi Detail                                                                                     |
-| ---------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| Uang Saku Masuk  | Menampilkan transaksi uang saku masuk di dompet santri pada tanggal tertentu.  | Terdapat nominal dari trasanksi uang saku masuk yang terjadi dengan tanggal transaksi yang terjadi.  |
-| Uang Saku Keluar | Menampilkan transaksi uang saku keluar di dompet santri pada tanggal tertentu. | Terdapat nominal dari trasanksi uang saku keluar yang terjadi dengan tanggal transaksi yang terjadi. |
+| Grafik Line      | Fungsi                                                                         |
+| ---------------- | ------------------------------------------------------------------------------ |
+| Uang Saku Masuk  | Menampilkan transaksi uang saku masuk di dompet santri pada tanggal tertentu.  |
+| Uang Saku Keluar | Menampilkan transaksi uang saku keluar di dompet santri pada tanggal tertentu. |

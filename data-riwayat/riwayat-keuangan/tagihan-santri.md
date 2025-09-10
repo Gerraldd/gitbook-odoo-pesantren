@@ -4,7 +4,7 @@ icon: file-invoice
 
 # Tagihan Santri
 
-Video \[]
+{% embed url="https://youtu.be/EN7Z42W_9V4" %}
 
 ## Riwayat Tagihan Santri
 

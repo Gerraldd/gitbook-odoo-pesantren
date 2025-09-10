@@ -4,7 +4,7 @@ icon: scale-balanced
 
 # Permintaan Penawaran
 
-Video \[]
+{% embed url="https://youtu.be/tWcexQbIkjw" %}
 
 ## Riwayat Permintaan Penawaran
 

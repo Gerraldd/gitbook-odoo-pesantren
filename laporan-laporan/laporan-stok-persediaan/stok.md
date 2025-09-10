@@ -2,17 +2,17 @@
 icon: box
 ---
 
-# Stok Persediaan
+# Stok
 
 Video \[]
 
-## Stok Persediaan
+## Stok
 
-Laporan pada **Stok Persediaan** pada Odoo Pesantren berguna untuk menampilkan ringkasan jumlah stok produk yang tersedia di semua gudang dan lokasi penyimpanan. Informasi ini mencakup stok yang ada (_On Hand_), stok yang akan masuk (_Incoming_), stok yang keluar (_Outgoing_), serta jumlah stok prakiraan (_Forecasted_) yang dihitung berdasarkan transaksi yang direncanakan. Dari halaman ini, pengguna dapat memantau ketersediaan barang, memeriksa lokasi simpan, meninjau riwayat pergerakan, melihat aturan pengisian ulang, dan menganalisis proyeksi stok di masa mendatang.
+Laporan pada **Stok** pada Odoo Pesantren berguna untuk menampilkan ringkasan jumlah stok produk yang tersedia di semua gudang dan lokasi penyimpanan. Informasi ini mencakup stok yang ada (_On Hand_), stok yang akan masuk (_Incoming_), stok yang keluar (_Outgoing_), serta jumlah stok prakiraan (_Forecasted_) yang dihitung berdasarkan transaksi yang direncanakan. Dari halaman ini, pengguna dapat memantau ketersediaan barang, memeriksa lokasi simpan, meninjau riwayat pergerakan, melihat aturan pengisian ulang, dan menganalisis proyeksi stok di masa mendatang.
 
 ### Melihat Stok Persediaan
 
-Berikut adalah langkah-langkah untuk melihat Stok Persediaan pada Odoo Pesantren.
+Berikut adalah langkah-langkah untuk melihat Stok pada Odoo Pesantren.
 
 1. Login menggunakan akun administrator. Jika Anda belum memahami cara login sebagai admin, silakan lihat panduan [**Login Admin** di sini](../../panduan-login/login-admin.md).
 2.  Buka modul **Stok Persediaan**, lalu klik menu **Laporan** kemudian pilih submenu **Stok**.
@@ -20,7 +20,7 @@ Berikut adalah langkah-langkah untuk melihat Stok Persediaan pada Odoo Pesantren
     <figure><img src="../../.gitbook/assets/images-706.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Halaman **Stok Persediaan** akan terbuka, menampilkan daftar seluruh produk beserta jumlah stoknya dalam bentuk tabel. Informasi yang disajikan meliputi jumlah stok tersedia, stok masuk, stok keluar, serta jumlah prakiraan stok.
+3.  Halaman **Stok** akan terbuka, menampilkan daftar seluruh produk beserta jumlah stoknya dalam bentuk tabel. Informasi yang disajikan meliputi jumlah stok tersedia, stok masuk, stok keluar, serta jumlah prakiraan stok.
 
     <figure><img src="../../.gitbook/assets/images-707.png" alt=""><figcaption></figcaption></figure>
 

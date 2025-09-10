@@ -4,7 +4,7 @@ icon: book-quran
 
 # Tahfidz Al-Qur'an
 
-Video \[]
+{% embed url="https://youtu.be/HHFJxQnX0YQ" %}
 
 ## Riwayat Tahfidz Al-Qur'an
 

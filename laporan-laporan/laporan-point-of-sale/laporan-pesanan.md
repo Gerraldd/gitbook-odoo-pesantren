@@ -47,7 +47,7 @@ Berikut adalah langkah-langkah untuk melihat laporan pesanan pada Odoo Pesantren
     <figure><img src="../../.gitbook/assets/images-681.png" alt=""><figcaption></figcaption></figure>
 
 
-8.  Gunakan **toggle pencarian** untuk melakukan penyaringan (filter) data, misalnya: **Telah Difakturkan, Belum Difakturkan, Tanggal Order**, atau filter **Kelompok** berdasarkan **Pelanggan, Karyawan, POS, Produk, Kategori Produk, Metode Pembayaran**, dan lainnya.
+8.  Gunakan **toggle pencarian** untuk melakukan penyaringan data, misalnya: **Telah Difakturkan, Belum Difakturkan, Tanggal Order**, serta filter **Kelompok** berdasarkan **Pelanggan, Karyawan, POS, Produk, Kategori Produk, Metode Pembayaran**, dan lainnya.
 
     <figure><img src="../../.gitbook/assets/images-682.png" alt=""><figcaption></figcaption></figure>
 
