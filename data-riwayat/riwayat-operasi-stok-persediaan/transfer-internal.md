@@ -4,7 +4,7 @@ icon: truck-ramp-box
 
 # Transfer Internal Barang
 
-Video \[]
+{% embed url="https://youtu.be/PkaDPdDNPvk" %}
 
 ## Riwayat Transfer Internal Barang
 
@@ -37,7 +37,7 @@ Berikut adalah langkah-langkah untuk melihat data riwayat transfer internal bara
 
 
 7. Untuk melihat detail suatu transfer internal, klik salah satu entri pada daftar.
-8.  Anda akan diarahkan ke halaman formulir yang menampilkan informasi lengkap terkait penerimaan barang tersebut. Pada **Tab Operasi** akan menampilkan daftar produk yang dipindahkan beserta jumlah dan lokasi asal/tujuan.
+8.  Anda akan diarahkan ke halaman formulir yang menampilkan informasi lengkap terkait transfer internal barang tersebut. Pada **Tab Operasi** akan menampilkan daftar produk yang dipindahkan beserta jumlah dan lokasi asal/tujuan.
 
     <figure><img src="../../.gitbook/assets/images-676 (1).png" alt=""><figcaption></figcaption></figure>
 

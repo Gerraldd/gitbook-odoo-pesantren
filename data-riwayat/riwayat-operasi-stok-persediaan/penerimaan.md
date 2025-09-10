@@ -4,7 +4,7 @@ icon: hand-holding-box
 
 # Penerimaan Barang
 
-Video \[]
+{% embed url="https://youtu.be/gGyAh8_qbpw" %}
 
 ## Riwayat Penerimaan Barang
 

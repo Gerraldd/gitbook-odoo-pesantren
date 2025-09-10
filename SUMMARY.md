@@ -225,7 +225,7 @@
 
 * [Laporan Pembelian](laporan-laporan/laporan-pembelian.md)
 * [Laporan Stok Persediaan](laporan-laporan/laporan-stok-persediaan/README.md)
-  * [Stok](laporan-laporan/laporan-stok-persediaan/stok.md)
+  * [Stok](laporan-laporan/laporan-stok-persediaan/stok-persediaan.md)
   * [Lokasi](laporan-laporan/laporan-stok-persediaan/lokasi.md)
   * [Sejarah Pergerakan](laporan-laporan/laporan-stok-persediaan/sejarah-pergerakan.md)
   * [Analisis Pergerakan](laporan-laporan/laporan-stok-persediaan/analisis-pergerakan.md)
@@ -268,7 +268,7 @@
   * [Dashboard Guru](dashboard/menu-dashboard/dashboard-guru.md)
   * [Dashboard Stok Persediaan](dashboard/menu-dashboard/dashboard-stok-persediaan.md)
   * [Dashboard Pembelian](dashboard/menu-dashboard/dashboard-pembelian.md)
-  * [Dashboard Point of Sale](dashboard/menu-dashboard/dashboard-point-of-sale.md)
+  * [Dashboard Point of Sale](dashboard/menu-dashboard/dashboard-pos.md)
   * [Dashboard Penagihan](dashboard/menu-dashboard/dashboard-penagihan.md)
   * [Dashboard Orang Tua](dashboard/menu-dashboard/dashboard-orang-tua.md)
 
