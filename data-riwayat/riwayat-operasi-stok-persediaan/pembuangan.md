@@ -4,7 +4,7 @@ icon: trash-can
 
 # Pembuangan Barang
 
-Video \[]
+{% embed url="https://youtu.be/dfGDYk7Qo58" %}
 
 ## Riwayat Pembuangan Barang
 

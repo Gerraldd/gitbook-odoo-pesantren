@@ -4,7 +4,7 @@ icon: cash-register
 
 # Sesi POS
 
-Video \[]
+{% embed url="https://youtu.be/bbfKWeJuuUQ" %}
 
 ## Riwayat Sesi POS
 

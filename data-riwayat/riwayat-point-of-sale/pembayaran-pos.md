@@ -2,9 +2,9 @@
 icon: money-check-dollar
 ---
 
-# Pembayaran
+# Pembayaran POS
 
-Video \[]
+{% embed url="https://youtu.be/3nUV-1OQq4o" %}
 
 ## Riwayat Pembayaran POS
 

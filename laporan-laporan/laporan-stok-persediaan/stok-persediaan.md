@@ -4,7 +4,7 @@ icon: box
 
 # Stok
 
-Video \[]
+{% embed url="https://youtu.be/B3uJSS7bpjk" %}
 
 ## Stok
 

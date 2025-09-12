@@ -4,7 +4,7 @@ icon: warehouse-full
 
 # Lokasi
 
-Video \[]
+{% embed url="https://youtu.be/CqkrymxG0eA" %}
 
 ## Laporan Lokasi Gudang
 

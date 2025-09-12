@@ -2,11 +2,11 @@
 icon: bags-shopping
 ---
 
-# Pesanan
+# Pesanan POS
 
-Video \[]
+{% embed url="https://youtu.be/HLRAp1HsbTs" %}
 
-## Riwayat Pesanan
+## Riwayat Pesanan POS
 
 Data **Riwayat Pesanan POS** digunakan untuk memantau seluruh transaksi penjualan yang dilakukan melalui sistem Point of Sale (POS) pada Odoo Pesantren. Menu ini menampilkan daftar pesanan, detail transaksi, status, serta informasi pembayaran yang berkaitan dengan penjualan di kasir.
 

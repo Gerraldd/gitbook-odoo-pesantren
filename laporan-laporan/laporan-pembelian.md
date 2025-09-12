@@ -4,7 +4,7 @@ icon: cart-shopping
 
 # Laporan Pembelian
 
-Video \[]
+{% embed url="https://youtu.be/vWUhJLPih5E" %}
 
 ## Laporan Pembelian
 

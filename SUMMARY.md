@@ -217,9 +217,9 @@
   * [Transfer Internal Barang](data-riwayat/riwayat-operasi-stok-persediaan/transfer-internal.md)
   * [Pembuangan Barang](data-riwayat/riwayat-operasi-stok-persediaan/pembuangan.md)
 * [Riwayat Point of Sale](data-riwayat/riwayat-point-of-sale/README.md)
-  * [Pesanan](data-riwayat/riwayat-point-of-sale/pesanan.md)
+  * [Pesanan POS](data-riwayat/riwayat-point-of-sale/pesanan-pos.md)
   * [Sesi POS](data-riwayat/riwayat-point-of-sale/sesi-pos.md)
-  * [Pembayaran](data-riwayat/riwayat-point-of-sale/pembayaran.md)
+  * [Pembayaran POS](data-riwayat/riwayat-point-of-sale/pembayaran-pos.md)
 
 ## Laporan-Laporan
 

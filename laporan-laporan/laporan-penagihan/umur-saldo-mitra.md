@@ -25,9 +25,9 @@ Berikut adalah langkah-langkah untuk mencetak laporan umur saldo mitra pada Odoo
     * **Tanggal Acuan**: masukkan tanggal yang dijadikan patokan untuk perhitungan umur saldo.
     * **Lama Periode**: tentukan interval periode (misalnya 30 hari) untuk pengelompokan umur saldo.
     * **Partner**: pilih jenis akun yang ingin ditampilkan, yaitu:
-      * _Receivable Accounts_ → menampilkan saldo piutang pelanggan.
-      * _Payable Accounts_ → menampilkan saldo hutang pemasok.
-      * _Receivable and Payable Accounts_ → menampilkan keduanya.
+      * _Receivable Accounts_ → akan menampilkan saldo piutang pelanggan.
+      * _Payable Accounts_ → akan menampilkan saldo hutang pemasok.
+      * _Receivable and Payable Accounts_ → akan menampilkan keduanya.
     * **Target Moves**: pilih _All Posted Entries_ untuk hanya menampilkan transaksi yang sudah diposting, atau _All Entries_ untuk menampilkan semua transaksi termasuk draft.
 
     <figure><img src="../../.gitbook/assets/images-776 (1).png" alt=""><figcaption></figcaption></figure>
