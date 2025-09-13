@@ -4,7 +4,7 @@ icon: boxes-stacked
 
 # Penilaian Stok
 
-Video \[]
+{% embed url="https://youtu.be/WphTucl_lco" %}
 
 ## Penilaian Stok
 
@@ -20,7 +20,7 @@ Berikut adalah langkah-langkah untuk melihat penilaian stok pada Odoo Pesantren.
     <figure><img src="../../.gitbook/assets/images-737.png" alt=""><figcaption></figcaption></figure>
 
 
-3.  Halaman awal akan menampilkan daftar penilaian stok yang mencakup informasi seperti **Tanggal Valution**, **Nomor Referensi**, **Nama Produk**, **Kuantitas yang Tersedia**, **Nilai per Unit**, dan **Nilai Total Stok**.
+3.  Halaman awal akan menampilkan daftar penilaian stok yang mencakup informasi seperti **Tanggal Valuation**, **Nomor Referensi**, **Nama Produk**, **Kuantitas**, dan **Nilai Total**.
 
     <figure><img src="../../.gitbook/assets/images-738.png" alt=""><figcaption></figcaption></figure>
 

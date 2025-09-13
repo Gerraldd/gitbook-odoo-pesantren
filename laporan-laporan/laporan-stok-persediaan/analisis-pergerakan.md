@@ -4,7 +4,7 @@ icon: pallet-boxes
 
 # Analisis Pergerakan
 
-Video \[]
+{% embed url="https://youtu.be/wPslgNDxt5s" %}
 
 ## Analisisi Pergerakan Barang
 
