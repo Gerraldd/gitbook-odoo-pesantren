@@ -4,7 +4,7 @@ icon: bags-shopping
 
 # Laporan Pesanan
 
-Video \[]
+{% embed url="https://youtu.be/Em9qf6JHAds" %}
 
 ## Laporan Pesanan POS
 
@@ -42,7 +42,7 @@ Berikut adalah langkah-langkah untuk melihat laporan pesanan pada Odoo Pesantren
 
 
 6. Klik pada salah satu elemen pada grafik (batang, garis, atau pie) untuk melihat detail pesanan yang direpresentasikan oleh elemen tersebut.
-7.  Halaman ini akan menampilan **daftar data pesanan**. Setiap entri menampilkan informasi penting meliputi: **Tanggal Order, Produk, Kategori Produk, Karyawan, Harga Total, dan Status Pesanan**.
+7.  Halaman ini akan menampilkan **daftar data pesanan**. Setiap entri menampilkan informasi penting meliputi: **Tanggal Order, Produk, Kategori Produk, Karyawan, Harga Total, dan Status Pesanan**.
 
     <figure><img src="../../.gitbook/assets/images-681.png" alt=""><figcaption></figcaption></figure>
 

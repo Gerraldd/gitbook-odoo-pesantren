@@ -4,7 +4,7 @@ icon: chart-mixed
 
 # Detail Penjualan
 
-Video \[]
+{% embed url="https://youtu.be/x_sNl9mGbqY" %}
 
 ## Detail Penjualan POS
 

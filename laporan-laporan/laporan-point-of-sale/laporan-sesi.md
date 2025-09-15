@@ -4,7 +4,7 @@ icon: cash-register
 
 # Laporan Sesi
 
-Video \[]
+{% embed url="https://youtu.be/2-jr7vrx3O4" %}
 
 ## Laporan Sesi POS
 
@@ -40,7 +40,7 @@ Berikut adalah langkah-langkah untuk melihat laporan sesi POS pada Odoo Pesantre
     <figure><img src="../../.gitbook/assets/images-694.png" alt=""><figcaption></figcaption></figure>
 
 
-7.  Sistem akan mengunduh laporan dalam format **PDF**.
+7.  Sistem akan mengunduh laporan dalam format **PDF**. Buka file PDF tersebut untuk melihat rincian laporan.
 
     <figure><img src="../../.gitbook/assets/images-695.png" alt=""><figcaption></figcaption></figure>
 
