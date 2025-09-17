@@ -4,7 +4,7 @@ icon: book-open
 
 # Buku Harian
 
-Video \[]
+{% embed url="https://youtu.be/Jo1kHpQ25gk" %}
 
 ## Buku Harian
 

@@ -4,7 +4,7 @@ icon: money-bill-trend-up
 
 # Arus Kas
 
-Video \[]
+{% embed url="https://youtu.be/evaxGspsu5U" %}
 
 ## Arus Kas (Cash Flow Statement)
 

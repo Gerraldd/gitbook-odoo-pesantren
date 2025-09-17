@@ -2,11 +2,11 @@
 icon: download
 ---
 
-# Import & Export Data
+# Export & Import Data
 
 Video \[]
 
-## Export dan Import Data
+## Export & Import Data
 
 Odoo menyediakan fitur **Export dan Import Data** yang sangat berguna untuk memindahkan, memperbarui, atau mengisi data dalam jumlah besar antar lingkungan Odoo atau dari/ke sistem eksternal. Fitur ini umumnya digunakan untuk migrasi data dari sistem lain ke Odoo, serta pengisian, backup, dan update data dalam jumlah yang besar. Fitur ini tersedia di semua modul yang ada pada Odoo.
 
@@ -69,12 +69,12 @@ Berikut adalah langkah-langkah melakukan impor data pada Odoo Pesantren.
     <figure><img src="../.gitbook/assets/images-7.jpg" alt=""><figcaption></figcaption></figure>
 
 
-3.  Klik tombol **"Upload Your File"** dan pilih file yang telah disiapkan.
+3.  Klik tombol **"Unggah File Data"** dan pilih file yang telah disiapkan.
 
     <figure><img src="../.gitbook/assets/images-8.jpg" alt=""><figcaption></figcaption></figure>
 
 
-4.  Odoo akan mencoba mencocokkan nama kolom dari file ke field model Odoo. Jika tidak cocok, kamu bisa memilih mapping secara manual dengan field yang ada.
+4.  Sistem odoo akan mencoba mencocokkan nama kolom dari file ke field model Odoo. Jika tidak cocok, kamu bisa memilih mapping secara manual dengan field yang ada.
 
     <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 

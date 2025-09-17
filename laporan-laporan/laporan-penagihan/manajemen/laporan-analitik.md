@@ -4,7 +4,7 @@ icon: chart-mixed
 
 # Laporan Analitik
 
-Video \[]
+{% embed url="https://youtu.be/jK4VXjUXmr0" %}
 
 ## Laporan Analitik
 

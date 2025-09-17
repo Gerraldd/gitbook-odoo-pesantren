@@ -4,7 +4,7 @@ icon: hand-holding-box
 
 # Aset
 
-Video \[]
+{% embed url="https://youtu.be/1gkOt34Ar7k" %}
 
 ## Aset
 
@@ -42,18 +42,12 @@ Berikut adalah langkah-langkah untuk melihat laporan aset pada Odoo Pesantren.
 
 
 6. Klik pada salah satu elemen pada grafik (batang, garis, atau pie) untuk melihat detail aset yang direpresentasikan oleh elemen tersebut.
-7.  Halaman ini akan menampilan daftar data laporan aset.
+7.  Halaman ini akan menampilkan daftar data laporan aset.
 
     <figure><img src="../../../.gitbook/assets/images-802 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-8.  Gunakan **toggle pencarian** untuk melakukan penyaringan (filter) data, misalnya: **Status Aset (Draft**, **Running)**, **Not Archived, Posted,** dan lainnya serta filter **Kelompok** berdasarkan **Aset**, **Kategori Aset**, **Purchase Month**, dan **Deprication Month**.
-
-    <figure><img src="../../../.gitbook/assets/images-803 (1).png" alt=""><figcaption></figcaption></figure>
-
-
-9. Setelah filter diterapkan, data yang ditampilkan akan menyesuaikan dengan kriteria filter tersebut.
-10. Klik pada salah satu baris data aset untuk membuka halaman detail aset.
-11. Halaman laporan aset akan menampilkan informasi lengkap, termasuk **Tanggal Penyusutan**, **Kategori Aset**, **Status Aset**, **Jumlah Aset**, **Aset**, dan informasi lainnya terkait aset.
+8. Klik pada salah satu baris data aset untuk membuka halaman detail aset.
+9.  Halaman laporan aset akan menampilkan informasi lengkap, termasuk **Tanggal Penyusutan**, **Kategori Aset**, **Status Aset**, **Jumlah Aset**, **Aset**, dan informasi lainnya terkait aset.
 
     <figure><img src="../../../.gitbook/assets/images-804 (1).png" alt=""><figcaption></figcaption></figure>

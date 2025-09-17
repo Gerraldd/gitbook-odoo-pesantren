@@ -6,9 +6,9 @@ icon: cash-register
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Halaman **Dashboard Point of Sale** merupakan tampilan utama yang pertama kali terlihat setelah administrator berhasil login ke sistem Odoo Pesantren. Di halaman ini, disajikan ringkasan informasi penting terkait penjualan dan aktivitas transaksi secara real-time. Berikut adalah rincian informasi yang ditampilkan pada dashboard:
+Halaman **Dashboard Point of Sale** merupakan tampilan utama yang pertama kali terlihat setelah administrator berhasil login ke sistem Odoo Pesantren. Di halaman ini, disajikan ringkasan informasi penting terkait penjualan dan aktivitas transaksi secara real-time.
 
-Bagian atas dashboard menampilkan card-card informasi utama yang memberikan gambaran singkat mengenai pendapatan dan kategori produk. Setiap card dapat diklik untuk menampilkan informasi lebih detail.
+Bagian atas dashboard menampilkan card-card informasi utama yang memberikan gambaran singkat mengenai pendapatan dan kategori produk. Setiap card dapat diklik untuk menampilkan informasi lebih detail. Berikut adalah jenis informasi yang ditampilkan pada masing-masing card di dasbor:
 
 | Card           | Fungsi                                                                          |
 | -------------- | ------------------------------------------------------------------------------- |
@@ -19,14 +19,14 @@ Bagian atas dashboard menampilkan card-card informasi utama yang memberikan gamb
 
 Pada bagian tengah halaman, terdapat beberapa grafik dan visualisasi data yang membantu dan memahami tren penjualan dan performa bisnis.
 
-| Grafik                             | Fungsi                                                                                            |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Grafik Pie - Top Kategori Produk   | Menampilkan produk yang laris dijual berdasarkan kategorinya.                                     |
-| Grafik Pie - Top Kategori POS      | Menampilkan daftar produk yang laris di Point of Sale berdasarkan kateogori produk Point of Sale. |
-| Grafik Line - Margin               | Menampilkan margin keuntungan.                                                                    |
-| Grafik Line - Order dan Pendapatan | Menampilkan order beserta pendapatan yang diperoleh dari order tersebut.                          |
+| Grafik                             | Fungsi                                                                                           |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Grafik Pie - Top Kategori Produk   | Menampilkan produk yang laris dijual berdasarkan kategorinya.                                    |
+| Grafik Pie - Top Kategori POS      | Menampilkan daftar produk yang laris di Point of Sale berdasarkan kategori produk Point of Sale. |
+| Grafik Line - Margin               | Menampilkan margin keuntungan.                                                                   |
+| Grafik Line - Order dan Pendapatan | Menampilkan order beserta pendapatan yang diperoleh dari order tersebut.                         |
 
-Pada bagian bawah halaman, terdapat dua tabel yang menampilkan informasi berbeda:
+Pada bagian bawah halaman, terdapat dua tabel yang terpisah yaitu tabel "Top Penjualan Produk" dan "Top Pelanggan".
 
 | Tabel                | Fungsi                                                                               |
 | -------------------- | ------------------------------------------------------------------------------------ |

@@ -274,8 +274,8 @@
 
 ## Utility & Penanganan Khusus
 
-* [Import & Export Data](utility-and-penanganan-khusus/import-and-export-data.md)
+* [Export & Import Data](utility-and-penanganan-khusus/export-and-import-data.md)
 * [SMTP Gmail](utility-and-penanganan-khusus/smtp-gmail.md)
 * [Reset Password](utility-and-penanganan-khusus/reset-password/README.md)
-  * [Kirim Email Reset Password](utility-and-penanganan-khusus/reset-password/kirim-email-reset-password.md)
-  * [Reset Password Manual](utility-and-penanganan-khusus/reset-password/reset-password-manual.md)
+  * [Reset Password via Gmail](utility-and-penanganan-khusus/reset-password/reset-password-via-gmail.md)
+  * [Reset Password oleh Administrator](utility-and-penanganan-khusus/reset-password/reset-password-oleh-administrator.md)

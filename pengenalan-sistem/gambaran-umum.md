@@ -4,11 +4,11 @@ icon: telescope
 
 # Gambaran Umum
 
-**Aplikasi Odoo Manajemen Pesantren** adalah solusi digital lengkap untuk pesantren yang memudahkan pengelolaan data santri, guru, dan kegiatan pendidikan yang. Dengan fitur modul utama seperti **Modul Penerimaan Santri Baru (PSB), Kesantrian**, **Musyrif**, **Keamanan**, **Guru**, **Orang Tua**, **Sekolah** dan **POS (Point of Sale)**, aplikasi ini mendukung operasional harian mulai dari pencatatan akademik, monitoring hafalan Al-Qur’an, hingga pendaftaran santri baru secara online. Dirancang untuk efisiensi, transparansi, dan kemudahan akses, aplikasi ini menjadi mitra terbaik dalam membangun generasi santri yang unggul dan terpantau dengan baik.
+**Aplikasi Odoo Manajemen Pesantren** adalah solusi digital lengkap untuk pesantren yang memudahkan pengelolaan data santri, guru, dan kegiatan pendidikan yang. Dengan fitur modul utama seperti **Modul Penerimaan Santri Baru (PSB)**, **Santri/Wallet**, **Musyrif**, **Keuangan**, **Keamanan**, **Guru**, **Kesantrian**, **Sekolah**, **Pembelian**, **Stok Persediaan**, **POS (Point of Sale)**, dan **Orang Tua**. Aplikasi ini mendukung operasional harian mulai dari pencatatan akademik, monitoring hafalan Al-Qur’an, hingga pendaftaran santri baru secara online. Dirancang untuk efisiensi, transparansi, dan kemudahan akses, aplikasi ini menjadi mitra terbaik dalam membangun generasi santri yang unggul dan terpantau dengan baik.
 
 ## Modul dan fitur-fitur Odoo Pesantren
 
-Modul-modul yang terdapat pada Odoo Pesantren adalah PSB, Kesantrian, Musyrif, Guru, Orang Tua, Sekolah, dan POS.
+Modul-modul yang terdapat pada Odoo Pesantren adalah Penerimaan Santri Baru (PSB), Santri/Wallet, Musyrif, Keuangan, Keamanan, Guru, Kesantrian, Sekolah, Pembelian, Stok Persediaan, POS (Point of Sale), dan Orang Tua.
 
 {% stepper %}
 {% step %}
@@ -18,33 +18,19 @@ Modul-modul yang terdapat pada Odoo Pesantren adalah PSB, Kesantrian, Musyrif, G
 
 1. **Website Pendaftaran Santri Baru** (Calon Santri/Orang Tua)
 2. **Dashboard, Management Pendaftaran Santri Baru, dan Pengaturan** (Administrator)
-
-
-{% endstep %}
-
-{% step %}
-### Modul Kesantrian
-
-**Modul Kesantrian** adalah modul yang digunakan untuk mengelola data santri, termasuk kamar dan asrama, pelanggaran dan reward, hafalan Al-Qur’an, aktivitas harian, serta data kesehatan dan perkembangan santri. Fitur yang tersedia pada modul ini adalah:
-
-1. **Menu Dashboard** untuk menampilkan ringkasan data dan statistik santri.
-2. **Menu Kepesantrenan** meliputi Absensi Santri dan pencatatan Hafalan.
-3. **Menu Kesantrian** meliputi pendataan Santri, Musyrif, Guru, Guru Al-Qur’an, dan Orang Tua.
-4. **Menu Aktivitas** meliputi pencatatan Pelanggaran, Perizinan, Kesehatan, Prestasi, dan Mutasi Saldo Santri.
-5. **Menu Pengaturan** meliputi konfigurasi data dasar seperti jenjang, kamar, tahun ajaran, dan kategori lainnya.
-
-
 {% endstep %}
 
 {% step %}
 ### Modul Santri
 
-Modul **Santri** adalah modul yang digunakan untuk mengelola data dan aktivitas keuangan santri secara terpusat dalam sistem Odoo Pesantren. Modul ini memudahkan pengelolaan identitas santri, pendaftaran kartu santri, serta pengaturan akun dan transaksi yang berkaitan dengan saldo santri. Fitur yang tersedia pada modul ini adalah:
+**Modul Santri** adalah modul yang digunakan untuk mengelola data dan aktivitas keuangan santri secara terpusat dalam sistem Odoo Pesantren. Modul ini memudahkan pengelolaan identitas santri, pendaftaran kartu santri, serta pengaturan akun dan transaksi yang berkaitan dengan saldo santri. Fitur yang tersedia pada modul ini adalah:
 
 1. **Menu Dashboard** untuk menampilkan ringkasan saldo dan transaksi yang dilakukan oleh santri.
 2. **Menu Santri** untuk mengelola data santri secara keseluruhan.
 3. **Menu Pendaftaran** berupa tampilan popup untuk proses pendaftaran kartu santri.
 4. **Menu Akun Santri** berisi fitur keuangan seperti pencairan saldo dan pengaturan akun seperti penonaktifan, pemblokiran, pengaktifan, dan pembukaan blokir akun santri.
+
+
 {% endstep %}
 
 {% step %}
@@ -59,6 +45,20 @@ Modul **Santri** adalah modul yang digunakan untuk mengelola data dan aktivitas 
 5. **Menu Transfer Saldo** untuk melakukan transfer saldo antar santri.
 6. **Menu Mutasi Saldo** untuk melihat riwayat keluar masuk saldo santri secara detail.
 7. **Menu Master Data** meliputi data keterangan izin
+
+
+{% endstep %}
+
+{% step %}
+### Modul Keuangan
+
+**Modul Keuangan** adalah modul yang digunakan untuk mengelola seluruh aktivitas finansial pesantren secara terpusat, mulai dari pencatatan tagihan, pembayaran, donasi, hingga pengaturan komponen biaya pendidikan santri. Modul ini membantu memastikan transparansi dan keteraturan dalam manajemen keuangan pesantren. Fitur yang tersedia pada modul ini adalah:
+
+1. **Menu Dashboard** untuk menampilkan ringkasan kondisi dan statistik keuangan pesantren.
+2. **Menu Donasi** yang mencakup pengaturan donasi dan detail data donatur.
+3. **Menu Aktivitas** meliputi pencatatan tagihan, pembayaran, serta uang saku dan dompet santri.
+4. **Menu Santri** untuk menampilkan daftar santri yang ada di pesantren.
+5. **Menu Pengaturan** untuk melakukan konfigurasi komponen biaya (seperti SPP), biaya tahun ajaran, serta pengaturan diskon atau keringanan biaya kepada santri.
 
 
 {% endstep %}
@@ -90,6 +90,20 @@ Modul **Santri** adalah modul yang digunakan untuk mengelola data dan aktivitas 
 {% endstep %}
 
 {% step %}
+### Modul Kesantrian
+
+**Modul Kesantrian** adalah modul yang digunakan untuk mengelola data santri, termasuk kamar dan asrama, pelanggaran dan reward, hafalan Al-Qur’an, aktivitas harian, serta data kesehatan dan perkembangan santri. Fitur yang tersedia pada modul ini adalah:
+
+1. **Menu Dashboard** untuk menampilkan ringkasan data dan statistik santri.
+2. **Menu Kepesantrenan** meliputi Absensi Santri dan pencatatan Hafalan.
+3. **Menu Kesantrian** meliputi pendataan Santri, Musyrif, Guru, Guru Al-Qur’an, dan Orang Tua.
+4. **Menu Aktivitas** meliputi pencatatan Pelanggaran, Perizinan, Kesehatan, Prestasi, dan Mutasi Saldo Santri.
+5. **Menu Pengaturan** meliputi konfigurasi data dasar seperti asrama, , jenis pelanggaran, tahun ajaran, dan kategori lainnya.
+
+
+{% endstep %}
+
+{% step %}
 ### Modul Sekolah
 
 **Modul Sekolah** adalah modul yang digunakan untuk manajemen kegiatan sekolah seperti data kelas, santri, guru, organisasi, ekstrakurikuler, absensi, dan mata pelajaran. Fitur yang tersedia pada modul ini adalah:&#x20;
@@ -100,6 +114,34 @@ Modul **Santri** adalah modul yang digunakan untuk mengelola data dan aktivitas 
 4. **Menu Absensi** untuk mengelola absensi santri dan ekstrakurikuler.
 5. **Menu Kenaikan Kelas** untuk melakukan proses kenaikan kelas pada santri.
 6. **Menu Pengaturan** untuk konfigurasi data kelas, pelajaran, tahun ajaran, dan lainnya.
+
+
+{% endstep %}
+
+{% step %}
+### Modul Pembelian
+
+**Modul Pembelian** adalah modul yang digunakan untuk mengelola seluruh aktivitas pengadaan barang atau jasa di pesantren. Melalui modul ini, proses mulai dari permintaan penawaran, pesanan pembelian, hingga pengaturan harga pemasok dapat dilakukan dengan lebih teratur dan efisien. Modul ini juga dilengkapi laporan analisis pembelian untuk mendukung pengambilan keputusan yang tepat. Fitur yang tersedia pada modul ini adalah:
+
+1. **Menu Dashboard** untuk menampilkan ringkasan aktivitas pembelian secara keseluruhan.
+2. **Menu Pesanan** berisi aktivitas untuk membuat permintaan penawaran dan pesanan pembelian dari pemasok.
+3. **Menu Produk** untuk mengelola data produk yang akan dibeli, termasuk detail spesifikasi dan kategorinya.
+4. **Menu Laporan** berguna untuk membantu analisis pembelian, misalnya riwayat pesanan dan performa pemasok.
+5. **Menu Konfigurasi** untuk melakukan pengaturan pembelian seperti daftar harga pemasok, kategori produk, dan parameter lain yang mendukung proses pengadaan.
+
+
+{% endstep %}
+
+{% step %}
+### Modul Stok Persediaan
+
+**Modul Stok Persediaan** adalah modul yang digunakan untuk mengelola ketersediaan barang di pesantren, mencakup proses penerimaan, pengiriman, perpindahan internal, hingga analisis pergerakan stok. Modul ini membantu pesantren dalam memastikan persediaan barang tetap terkendali dan terpantau secara real time. Fitur yang tersedia pada modul ini adalah:
+
+1. **Menu Dashboard** untuk menampilkan ringkasan kondisi stok secara umum.
+2. **Menu Operasi** berisi aktivitas pengelolaan pergerakan barang, seperti penerimaan dari pemasok, pengiriman ke pihak lain, serta perpindahan internal antar gudang atau lokasi.
+3. **Menu Produk** untuk mengelola data produk, termasuk detail produk dan kategorinya.
+4. **Menu Laporan** berguna untuk membantu analisis persediaan, seperti laporan stok, sejarah pergerakan barang, penilaian stok, hingga analisis pergerakan.
+5. **Menu Konfigurasi** untuk melakukan pengaturan stok persediaan, termasuk manajemen gudang, lokasi penyimpanan, serta kategori produk.
 
 
 {% endstep %}
@@ -145,10 +187,14 @@ Dalam sistem Odoo Pesantren, setiap modul dapat diakses oleh role tertentu sesua
 | Modul                        | Role Pengguna Utama    |
 | ---------------------------- | ---------------------- |
 | Penerimaan Santri Baru (PSB) | Administrator          |
-| Kesantrian & Santri          | Administrator          |
+| Santri/Wallet                | Administrator          |
 | Musyrif                      | Musyrif                |
+| Keuangan                     | Administrator          |
 | Keamanan                     | Petugas Keamanan       |
 | Guru                         | Guru Akademik & Qur'an |
+| Kesantrian                   | Administrator          |
 | Sekolah                      | Administrator          |
+| Pembelian                    | Administrator          |
+| Stok Persediaan              | Administrator          |
 | POS (Point of Sale)          | Administrator          |
 | Orang Tua                    | Orang Tua              |

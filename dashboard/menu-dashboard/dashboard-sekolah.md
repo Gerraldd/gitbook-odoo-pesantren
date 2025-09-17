@@ -6,9 +6,9 @@ icon: school
 
 <figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
-Halaman **Dashboard Sekolah** merupakan tampilan utama yang pertama kali terlihat setelah admin atau staf sekolah berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai aktivitas sekolah secara real-time, termasuk data santri, wali, guru, kelas, serta status pembayaran dan tagihan. Berikut adalah penjelasan detail mengenai komponen-komponen yang ada pada dasbor:
+Halaman **Dashboard Sekolah** merupakan tampilan utama yang pertama kali terlihat setelah admin atau staf sekolah berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai aktivitas sekolah secara real-time, termasuk data santri, wali, guru, kelas, serta status pembayaran dan tagihan.&#x20;
 
-Pada bagian atas dasbor, terdapat empat card informasi utama yang memberikan gambaran singkat tentang populasi dan struktur sekolah. Setiap card dapat diklik untuk menampilkan informasi lebih detail.
+Pada bagian atas dasbor, terdapat empat card informasi utama yang memberikan gambaran singkat tentang populasi dan struktur sekolah. Setiap card dapat diklik untuk menampilkan informasi lebih detail. Berikut adalah jenis informasi yang ditampilkan pada masing-masing card di dasbor:
 
 | Card   | Fungsi                                                       |
 | ------ | ------------------------------------------------------------ |
@@ -24,7 +24,7 @@ Bagian tengah halaman menampilkan informasi terkait status pembayaran dan tagiha
 | Grafik Pie - Status Pembayaran | Digunakan untuk memantau status pembayaran pada tagihan sudah lunas atau belum. |
 | Grafik Pie - Status Tagihan    | Digunakan untuk memantau status tagihan yang draft dan terekam.                 |
 
-Pada bagian bawah halaman, terdapat tabel yang menampilkan status tagihan yang lunas atau belum lunas.
+Pada bagian bawah halaman, terdapat dua tabel yaitu "Tagihan Yang Lunas" dan "Tagihan Belum Lunas".
 
 | Tabel               | Fungsi                                            |
 | ------------------- | ------------------------------------------------- |

@@ -4,7 +4,7 @@ icon: coins
 
 # Buku Kas
 
-Video \[]
+{% embed url="https://youtu.be/v1QmI1ljkRU" %}
 
 ## Buku Kas
 

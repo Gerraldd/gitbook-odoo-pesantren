@@ -2,13 +2,13 @@
 icon: rotate
 ---
 
-# Reset Password Manual
+# Reset Password oleh Administrator
 
-## Reset Password Manual oleh Administrator
+## Reset Password oleh Administrator
 
-**Reset Password Manual** adalah proses pengaturan ulang kata sandi pengguna yang dilakukan langsung oleh Administrator tanpa mengirimkan tautan melalui email. Metode ini digunakan ketika akses email pengguna tidak tersedia atau ketika perubahan kata sandi perlu dilakukan secara cepat dan langsung di dalam sistem.
+**Reset Password oleh Administrator** adalah proses pengaturan ulang kata sandi pengguna yang dilakukan langsung oleh Administrator tanpa mengirimkan tautan melalui email. Metode ini digunakan ketika akses email pengguna tidak tersedia atau ketika perubahan kata sandi perlu dilakukan secara cepat dan langsung di dalam sistem.
 
-### Melakukan Reset Password Manual oleh Administrator
+### Melakukan Reset Password oleh Administrator
 
 Berikut adalah langkah-langkah cara melakukan reset password oleh administrator pada Odoo Pesantren.
 
@@ -17,16 +17,14 @@ Berikut adalah langkah-langkah cara melakukan reset password oleh administrator 
     <figure><img src="../../.gitbook/assets/administrator.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Buka menu **Pengaturan** →  **User & Perusahaan** →  **Pengguna**.
+2.  Buka **Pengaturan**, lalu klik menu **User & Perusahaan** kemudian pilih submenu **Pengguna**.
 
     <figure><img src="../../.gitbook/assets/images-11 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 
 3.  Pilih pengguna yang ingin direset kata sandinya.
 
-    <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
-
+    <figure><img src="../../.gitbook/assets/Screenshot 2025-09-16 141141.png" alt=""><figcaption></figcaption></figure>
 4.  Klik icon berbentuk **Gear**, lalu pilih opsi **"Ubah Sandi"**.
 
     <figure><img src="../../.gitbook/assets/ubah password 2.png" alt=""><figcaption></figcaption></figure>

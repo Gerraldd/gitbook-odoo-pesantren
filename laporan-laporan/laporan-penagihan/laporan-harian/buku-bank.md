@@ -4,7 +4,7 @@ icon: credit-card
 
 # Buku Bank
 
-Video \[]
+{% embed url="https://youtu.be/FBujzHkvwwk" %}
 
 ## Buku Bank
 

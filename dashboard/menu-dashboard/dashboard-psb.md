@@ -6,7 +6,9 @@ icon: gauge-min
 
 <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
-Halaman **Dashboard PSB** menyajikan informasi terkait pendaftaran santri baru dalam bentuk **card**, **grafik**, dan **tabel**. Fitur-fitur ini dirancang untuk membantu admin atau panitia seleksi dalam memantau dan mengelola proses penerimaan santri dengan lebih efisien. Pada bagian atas dasbor, terdapat sejumlah card informasi utama yang memberikan gambaran singkat terkait status penerimaan santri baru. Setiap card dapat diklik untuk menampilkan informasi lebih detail. Berikut adalah jenis informasi yang ditampilkan pada masing-masing card di dasbor:
+Halaman **Dashboard PSB** menyajikan informasi terkait pendaftaran santri baru dalam bentuk **card**, **grafik**, dan **tabel**. Fitur-fitur ini dirancang untuk membantu admin atau panitia seleksi dalam memantau dan mengelola proses penerimaan santri dengan lebih efisien.&#x20;
+
+Pada bagian atas dasbor, terdapat sejumlah card informasi utama yang memberikan gambaran singkat terkait status penerimaan santri baru. Setiap card dapat diklik untuk menampilkan informasi lebih detail. Berikut adalah jenis informasi yang ditampilkan pada masing-masing card di dasbor:
 
 | Card                    | Fungsi                                                         |
 | ----------------------- | -------------------------------------------------------------- |

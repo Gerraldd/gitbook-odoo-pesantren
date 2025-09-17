@@ -4,7 +4,7 @@ icon: scale-balanced
 
 # Neraca
 
-Video \[]
+{% embed url="https://youtu.be/lI0toNwgD58" %}
 
 ## Neraca (Balance Sheet)
 

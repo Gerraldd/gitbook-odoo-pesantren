@@ -14,12 +14,12 @@ Video \[]
 
 Berikut adalah langkah-langkah untuk mengkonfigurasi SMTP Gmail pada Odoo Pesantren.
 
-1.  Buka **Pengaturan Odoo**, scroll ke bawah lalu aktifkan **Mode Pengembang**.
+1.  Buka **Pengaturan**, scroll ke bawah lalu aktifkan **Mode Pengembang**.
 
     <figure><img src="../.gitbook/assets/images-70.png" alt=""><figcaption></figcaption></figure>
 
 
-2.  Setelah mode pengembang aktif, pastikan menu **Teknis** muncul di **Pengaturan**, kemudian klik **Teknis → Server - Surat Keluar**.
+2.  Setelah mode pengembang aktif, pastikan menu **Teknis** muncul di **Pengaturan**, kemudian klik menu **Teknis** lalu pilih submenu **Server - Surat Keluar**.
 
     <figure><img src="../.gitbook/assets/images-72.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -46,7 +46,7 @@ Berikut adalah langkah-langkah untuk mengkonfigurasi SMTP Gmail pada Odoo Pesant
     <figure><img src="../.gitbook/assets/images-75.png" alt=""><figcaption></figcaption></figure>
 
 
-6.  Lalu buat sandi aplikasi baru (misalnya: _Odoo Pesantren – Outgoing Email_), setelah isian terisi klik tombol **"Buat"** untuk membuat **Sandi Aplikasi**.
+6.  Lalu buat sandi aplikasi baru (misalnya: _Odoo Pesantren – Outgoing Gmail_), setelah isian terisi klik tombol **"Buat"** untuk membuat **Sandi Aplikasi**.
 
     <figure><img src="../.gitbook/assets/images-76.png" alt=""><figcaption></figcaption></figure>
 

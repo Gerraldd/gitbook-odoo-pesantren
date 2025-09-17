@@ -4,7 +4,7 @@ icon: sack-dollar
 
 # Anggaran
 
-Video \[]
+{% embed url="https://youtu.be/9shLK7vicGU" %}
 
 ## Anggaran
 

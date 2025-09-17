@@ -4,7 +4,7 @@ icon: file-invoice-dollar
 
 # Analisis Faktur
 
-Video \[]
+{% embed url="https://youtu.be/pL7GApzb_d4" %}
 
 ## Analisis Faktur
 
@@ -42,7 +42,7 @@ Berikut adalah langkah-langkah untuk melihat analisis faktur pada Odoo Pesantren
 
 
 6. Klik pada salah satu elemen pada grafik (batang, garis, atau pie) untuk melihat detail faktur yang direpresentasikan oleh elemen tersebut.
-7.  Halaman ini akan menampilan daftar data faktur pelanggan. Setiap entri menampilkan informasi penting meliputi: **Nomor Referensi Faktur, Rekanan, Tanggal Faktur, Batas Waktu Tagihan, Produk, Jumlah Sebelum Pajak, dan Total dalam Mata Uang**.
+7.  Halaman ini akan menampilkan daftar data faktur pelanggan. Setiap entri menampilkan informasi penting meliputi: **Nomor Referensi Faktur, Rekanan, Tanggal Faktur, Batas Waktu Tagihan, Produk, Jumlah Sebelum Pajak, dan Total dalam Mata Uang**.
 
     <figure><img src="../../../.gitbook/assets/images-788.png" alt=""><figcaption></figcaption></figure>
 
