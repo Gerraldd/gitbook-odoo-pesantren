@@ -4,7 +4,9 @@ icon: user-tie
 
 # Dashboard Musyrif
 
-<figure><img src="../../.gitbook/assets/images-310 (1).png" alt=""><figcaption></figcaption></figure>
+Video \[]
+
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 **Halaman Dashboard Musyrif** merupakan tampilan utama yang pertama kali terlihat setelah musyrif berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai santri secara real-time.&#x20;
 

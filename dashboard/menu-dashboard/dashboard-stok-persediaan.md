@@ -4,6 +4,8 @@ icon: warehouse
 
 # Dashboard Stok Persediaan
 
+Video \[]
+
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard Stok Persediaan** merupakan tampilan utama yang pertama kali terlihat setelah staf gudang atau administrator berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai manajemen persediaan barang secara real-time, termasuk transfer internal, penerimaan barang, dan status delivery order.&#x20;

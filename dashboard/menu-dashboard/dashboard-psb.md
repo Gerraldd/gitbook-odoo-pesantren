@@ -4,6 +4,8 @@ icon: gauge-min
 
 # Dashboard PSB
 
+Video \[]
+
 <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard PSB** menyajikan informasi terkait pendaftaran santri baru dalam bentuk **card**, **grafik**, dan **tabel**. Fitur-fitur ini dirancang untuk membantu admin atau panitia seleksi dalam memantau dan mengelola proses penerimaan santri dengan lebih efisien.&#x20;

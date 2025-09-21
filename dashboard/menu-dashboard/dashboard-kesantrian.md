@@ -4,6 +4,8 @@ icon: screen-users
 
 # Dashboard Kesantrian
 
+Video \[]
+
 <figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard Kesantrian** merupakan tampilan utama yang muncul setelah pengguna (dalam hal ini admin atau divisi kesantrian) berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting terkait santri dan kegiatan kesantrian secara real-time.

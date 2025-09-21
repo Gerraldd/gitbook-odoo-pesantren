@@ -4,6 +4,8 @@ icon: file-invoice
 
 # Dashboard Penagihan
 
+Video \[]
+
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard Penagihan** merupakan tampilan utama yang pertama kali terlihat setelah administrator login ke sistem Odoo Pesantren. Dashboard ini menyajikan informasi komprehensif tentang status pembayaran santri secara real-time, membantu pengelola memantau kelancaran cash flow pesantren.

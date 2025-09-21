@@ -4,6 +4,8 @@ icon: shield
 
 # Dashboard Keamanan
 
+Video \[]
+
 <figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard Keamanan** merupakan tampilan utama yang pertama kali terlihat setelah petugas keamanan atau administrator berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai aktivitas keluar-masuk santri secara real-time, termasuk statistik izin, riwayat pergerakan, dan status terkini.&#x20;

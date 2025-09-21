@@ -4,6 +4,8 @@ icon: cart-shopping
 
 # Dashboard Pembelian
 
+Video \[]
+
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard Pembelian** merupakan tampilan utama yang pertama kali terlihat setelah staf procurement atau administrator berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai aktivitas pembelian pesantren secara real-time, termasuk status order, tagihan, dan permintaan penawaran.

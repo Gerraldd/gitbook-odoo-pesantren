@@ -4,6 +4,8 @@ icon: cash-register
 
 # Dashboard Point of Sale
 
+Video \[]
+
 <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard Point of Sale** merupakan tampilan utama yang pertama kali terlihat setelah administrator berhasil login ke sistem Odoo Pesantren. Di halaman ini, disajikan ringkasan informasi penting terkait penjualan dan aktivitas transaksi secara real-time.

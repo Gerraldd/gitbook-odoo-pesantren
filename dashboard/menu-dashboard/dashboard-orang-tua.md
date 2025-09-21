@@ -4,6 +4,8 @@ icon: family-pants
 
 # Dashboard Orang Tua
 
+Video \[]
+
 <figure><img src="../../.gitbook/assets/screencapture-localhost-8069-odoo-action-683-2025-07-14-08_23_14.png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard Orang Tua** merupakan tampilan utama yang pertama kali terlihat setelah orang tua berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai anak (santri) secara real-time.

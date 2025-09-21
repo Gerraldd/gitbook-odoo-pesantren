@@ -4,6 +4,8 @@ icon: money-bill-wave
 
 # Dashboard Keuangan
 
+Video \[]
+
 <figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard Keuangan** merupakan tampilan utama yang pertama kali terlihat setelah admin atau bendahara pesantren berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai kondisi keuangan pesantren secara real-time, termasuk data tagihan, status pembayaran, serta statistik keuangan lainnya. Berikut adalah penjelasan detail mengenai komponen-komponen yang ada pada dasbor:

@@ -4,6 +4,8 @@ icon: people-pants
 
 # Dashboard Santri
 
+Video \[]
+
 <figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard Santri** merupakan tampilan utama yang pertama kali terlihat setelah admin atau pihak terkait berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai saldo dan transaksi santri secara real-time.&#x20;

@@ -4,6 +4,8 @@ icon: school
 
 # Dashboard Sekolah
 
+Video \[]
+
 <figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard Sekolah** merupakan tampilan utama yang pertama kali terlihat setelah admin atau staf sekolah berhasil login ke sistem. Di halaman ini, disajikan ringkasan informasi penting mengenai aktivitas sekolah secara real-time, termasuk data santri, wali, guru, kelas, serta status pembayaran dan tagihan.&#x20;

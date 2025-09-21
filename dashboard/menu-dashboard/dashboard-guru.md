@@ -4,6 +4,8 @@ icon: person-chalkboard
 
 # Dashboard Guru
 
+Video \[]
+
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Halaman **Dashboard Guru** merupakan tampilan utama yang pertama kali terlihat setelah guru atau pengajar berhasil login ke sistem Odoo Pesantren. Dashboard ini menyajikan informasi penting terkait absensi santri, aktivitas pembelajaran, dan kegiatan ekstrakurikuler secara real-time.&#x20;
