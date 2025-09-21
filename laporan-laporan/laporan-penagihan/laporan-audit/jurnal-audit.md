@@ -4,7 +4,7 @@ icon: file-magnifying-glass
 
 # Jurnal Audit
 
-Video \[]
+{% embed url="https://youtu.be/eYFjxSOiI_E" %}
 
 ## Jurnal Audit (Journals Audit)
 

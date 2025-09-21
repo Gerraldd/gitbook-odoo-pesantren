@@ -4,7 +4,7 @@ icon: envelope
 
 # SMTP Gmail
 
-Video \[]
+{% embed url="https://youtu.be/mkjKEmhCBiI" %}
 
 ## SMTP Gmail
 

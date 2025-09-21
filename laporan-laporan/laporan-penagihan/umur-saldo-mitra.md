@@ -4,7 +4,7 @@ icon: notebook
 
 # Umur Saldo Mitra
 
-Video \[]
+{% embed url="https://youtu.be/WAUNdPXHrvQ" %}
 
 ## Umur Saldo Mitra (Aged Partner Balance)
 

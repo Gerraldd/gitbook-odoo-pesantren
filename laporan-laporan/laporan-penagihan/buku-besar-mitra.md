@@ -4,7 +4,7 @@ icon: notebook
 
 # Buku Besar Mitra
 
-Video
+{% embed url="https://youtu.be/UuUh-A1m2yI" %}
 
 ## Buku Besar Mitra (Partner Ledger)
 

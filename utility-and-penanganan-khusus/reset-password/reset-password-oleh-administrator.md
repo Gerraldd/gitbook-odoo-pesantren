@@ -4,6 +4,8 @@ icon: rotate
 
 # Reset Password oleh Administrator
 
+{% embed url="https://youtu.be/4eNID00F1yE" %}
+
 ## Reset Password oleh Administrator
 
 **Reset Password oleh Administrator** adalah proses pengaturan ulang kata sandi pengguna yang dilakukan langsung oleh Administrator tanpa mengirimkan tautan melalui email. Metode ini digunakan ketika akses email pengguna tidak tersedia atau ketika perubahan kata sandi perlu dilakukan secara cepat dan langsung di dalam sistem.

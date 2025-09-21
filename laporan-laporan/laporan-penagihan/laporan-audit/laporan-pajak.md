@@ -4,7 +4,7 @@ icon: receipt
 
 # Laporan Pajak
 
-Video \[]
+{% embed url="https://youtu.be/VjOh3OfxO_4" %}
 
 ## Laporan Pajak (Tax Reports)
 

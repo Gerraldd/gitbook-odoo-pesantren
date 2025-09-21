@@ -4,7 +4,7 @@ icon: scale-balanced
 
 # Neraca Saldo
 
-Video \[]
+{% embed url="https://youtu.be/K1pdvKYy4hs" %}
 
 ## Neraca Saldo (Trial Balance)
 

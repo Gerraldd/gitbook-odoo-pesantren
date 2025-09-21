@@ -4,7 +4,7 @@ icon: envelope
 
 # Reset Password via Gmail
 
-Video \[]
+{% embed url="https://youtu.be/-IuCHVpJXD4" %}
 
 ## Reset Password via Gmail
 

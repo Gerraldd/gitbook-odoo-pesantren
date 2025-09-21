@@ -4,7 +4,7 @@ icon: book
 
 # Jurnal Umum
 
-Video \[]
+{% embed url="https://youtu.be/jxoriEogyLY" %}
 
 ## Jurnal Umum (General Ledger)
 
