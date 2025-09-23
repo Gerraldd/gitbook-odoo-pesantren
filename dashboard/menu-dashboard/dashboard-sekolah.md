@@ -4,7 +4,7 @@ icon: school
 
 # Dashboard Sekolah
 
-Video \[]
+{% embed url="https://drive.google.com/file/d/1GIFrcOe9kih0DAEmhfY_-94UCs-v2X52/view?usp=sharing" %}
 
 <figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 

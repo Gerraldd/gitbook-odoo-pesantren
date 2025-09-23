@@ -4,7 +4,7 @@ icon: screen-users
 
 # Dashboard Kesantrian
 
-Video \[]
+{% embed url="https://drive.google.com/file/d/1d8DpnHwFaa0sliuMsuU3heyxHf-LQ9wy/view?usp=sharing" %}
 
 <figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 

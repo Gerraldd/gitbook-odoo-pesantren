@@ -4,7 +4,7 @@ icon: gauge-min
 
 # Dashboard PSB
 
-Video \[]
+{% embed url="https://youtu.be/iBUep7zJq7g" %}
 
 <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 

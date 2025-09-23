@@ -4,7 +4,7 @@ icon: people-pants
 
 # Dashboard Santri
 
-Video \[]
+{% embed url="https://youtu.be/BImkzKWgQC0" %}
 
 <figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
