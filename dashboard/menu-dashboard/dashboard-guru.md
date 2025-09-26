@@ -4,7 +4,7 @@ icon: person-chalkboard
 
 # Dashboard Guru
 
-Video \[]
+{% embed url="https://youtu.be/s7Q4TihFZG8" %}
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 

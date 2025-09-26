@@ -4,7 +4,7 @@ icon: file-invoice
 
 # Dashboard Penagihan
 
-Video \[]
+{% embed url="https://youtu.be/GRsKGx9Kk4o" %}
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 

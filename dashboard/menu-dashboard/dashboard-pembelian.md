@@ -4,7 +4,7 @@ icon: cart-shopping
 
 # Dashboard Pembelian
 
-Video \[]
+{% embed url="https://youtu.be/Ynm-5Pz_0a8" %}
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ icon: shield
 
 # Dashboard Keamanan
 
-Video \[]
+{% embed url="https://youtu.be/73XysmdTLDo" %}
 
 <figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 

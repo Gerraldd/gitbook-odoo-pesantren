@@ -4,7 +4,7 @@ icon: money-bill-wave
 
 # Dashboard Keuangan
 
-Video \[]
+{% embed url="https://youtu.be/1xeuJsN_sUA" %}
 
 <figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 

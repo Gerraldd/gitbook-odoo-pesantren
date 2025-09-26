@@ -4,7 +4,7 @@ icon: user-tie
 
 # Dashboard Musyrif
 
-Video \[]
+{% embed url="https://youtu.be/r2HaaAysve4" %}
 
 <figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 

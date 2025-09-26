@@ -4,7 +4,7 @@ icon: cash-register
 
 # Dashboard Point of Sale
 
-Video \[]
+{% embed url="https://youtu.be/Or2jlKHeyo0" %}
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ icon: warehouse
 
 # Dashboard Stok Persediaan
 
-Video \[]
+{% embed url="https://youtu.be/bHun0bjmqk8" %}
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
