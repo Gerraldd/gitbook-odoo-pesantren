@@ -4,7 +4,7 @@ icon: monitor-waveform
 
 # Monitoring Tagihan Santri
 
-Video \[]
+{% embed url="https://youtu.be/jbXidHEbB0U" %}
 
 ## Monitoring Tagihan Santri
 
